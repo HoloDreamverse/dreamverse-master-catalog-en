@@ -6,7 +6,6 @@
  "version": 200001,
  "revision": 69,
  "url_format": "https://asset.game-hololive-dreams.com/{o}",
- "server_time": 1788131694514,
  "rollback_revision_ids": [],
  "rollback_times": [],
  "asset_bundles": [
@@ -517784,17 +517783,5 @@
    "object_name": "P0hgQm",
    "addresses": []
   }
- ],
- "source_artifacts": {
-  "encrypted_response": {
-   "path": "catalog_en_rev69.encrypted.bin",
-   "size": 4823744,
-   "sha256": "1cb7c27022bcfb9a3bd393ac0c11e46f1736e4a1ac4cb896bd7cc2545434b07d"
-  },
-  "decrypted_protobuf": {
-   "path": "catalog_en_rev69.protobuf.bin",
-   "size": 4823725,
-   "sha256": "07276de5cad0b6b58e51b172536e0ac116a848bae84a3160eb83c490dd815740"
-  }
- }
+ ]
 }
