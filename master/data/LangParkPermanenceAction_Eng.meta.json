@@ -1,0 +1,12 @@
+{
+  "type": "LangParkPermanenceAction_Eng",
+  "fileName": "16fedf5170aee27b7c88ca9416839d74c7032865455d13f2a282448d91184167",
+  "rawPath": "16fedf5170aee27b7c88ca9416839d74c7032865455d13f2a282448d91184167",
+  "fileSize": 12288,
+  "rawSha256": "0234c138605b7a9d78613e8c720859fc987cd40258e9796fa9caa444e3bfb44d",
+  "rowCount": 3,
+  "schemaType": "Lang",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE Lang(`id` TEXT, `data` BLOB, PRIMARY KEY (`id`))",
+  "output": "data/LangParkPermanenceAction_Eng.jsonl"
+}

@@ -1,0 +1,12 @@
+{
+  "type": "LangFacilityAppearance_Eng",
+  "fileName": "f671301dd7d1ae904de46b8c58b35403109fb832ad1211c7f8b91e8fd9da2e9e",
+  "rawPath": "f671301dd7d1ae904de46b8c58b35403109fb832ad1211c7f8b91e8fd9da2e9e",
+  "fileSize": 12288,
+  "rawSha256": "f9f87e2b4ea38a0b6abfaf535bd79ccd1650c0438a2f216a324d666560d04514",
+  "rowCount": 28,
+  "schemaType": "Lang",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE Lang(`id` TEXT, `data` BLOB, PRIMARY KEY (`id`))",
+  "output": "data/LangFacilityAppearance_Eng.jsonl"
+}

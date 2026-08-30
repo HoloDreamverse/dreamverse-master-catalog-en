@@ -1,0 +1,12 @@
+{
+  "type": "JumpRopeGimmick",
+  "fileName": "a69043d2e94681065ed8055861b2994cc6a6b0be52aa3fcb92d4e25ab1578252",
+  "rawPath": "a69043d2e94681065ed8055861b2994cc6a6b0be52aa3fcb92d4e25ab1578252",
+  "fileSize": 8192,
+  "rawSha256": "419dba972583fd1232357b03951d248c67c4e24e85cb208f6ef0b04c56fc6155",
+  "rowCount": 4,
+  "schemaType": "JumpRopeGimmick",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE JumpRopeGimmick(`gimmick_type` INTEGER, `data` BLOB, PRIMARY KEY (`gimmick_type`))",
+  "output": "data/JumpRopeGimmick.jsonl"
+}

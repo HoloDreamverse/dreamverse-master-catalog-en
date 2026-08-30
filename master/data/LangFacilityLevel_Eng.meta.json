@@ -1,0 +1,12 @@
+{
+  "type": "LangFacilityLevel_Eng",
+  "fileName": "251d003237d2df63f2c29c7207ba1e9443915355124e7856a85fcf562b82299b",
+  "rawPath": "251d003237d2df63f2c29c7207ba1e9443915355124e7856a85fcf562b82299b",
+  "fileSize": 12288,
+  "rawSha256": "3667f8abb1087fc4c272f4e193ab29c8908d46256537cf74342d1742b2dd8857",
+  "rowCount": 21,
+  "schemaType": "Lang",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE Lang(`id` TEXT, `data` BLOB, PRIMARY KEY (`id`))",
+  "output": "data/LangFacilityLevel_Eng.jsonl"
+}

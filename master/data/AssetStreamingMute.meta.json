@@ -1,0 +1,12 @@
+{
+  "type": "AssetStreamingMute",
+  "fileName": "69670da5b47e648af64fe68cf8694373ff924e520ff70ae51497a9f7b221ded9",
+  "rawPath": "69670da5b47e648af64fe68cf8694373ff924e520ff70ae51497a9f7b221ded9",
+  "fileSize": 12288,
+  "rawSha256": "7ddd40cc74e85dca9aebeb68a3c3816544845f5e288685b17f4fdec050567745",
+  "rowCount": 72,
+  "schemaType": "AssetStreamingMute",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE AssetStreamingMute(`asset_id` TEXT, `data` BLOB, PRIMARY KEY (`asset_id`))",
+  "output": "data/AssetStreamingMute.jsonl"
+}

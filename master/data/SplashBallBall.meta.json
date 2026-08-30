@@ -1,0 +1,12 @@
+{
+  "type": "SplashBallBall",
+  "fileName": "9a1da33d127e94728038656f97de77520987439ef5ea43a01ccd29240931a99e",
+  "rawPath": "9a1da33d127e94728038656f97de77520987439ef5ea43a01ccd29240931a99e",
+  "fileSize": 12288,
+  "rawSha256": "813225401477c0f36e3080a88c4f870208c661db70cbbceed2ec7498ebabafbc",
+  "rowCount": 0,
+  "schemaType": "SplashBallBall",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE SplashBallBall(`group_id` TEXT, `number` INTEGER, `data` BLOB, PRIMARY KEY (`group_id`, `number`))",
+  "output": "data/SplashBallBall.jsonl"
+}

@@ -1,0 +1,12 @@
+{
+  "type": "LiveSpecialSkill",
+  "fileName": "21bc93bf920e2b03b60321f812996e28718cba1a37e83ed87d25586fe095c173",
+  "rawPath": "21bc93bf920e2b03b60321f812996e28718cba1a37e83ed87d25586fe095c173",
+  "fileSize": 45056,
+  "rawSha256": "99e7fce8dddb0003ed28d4398fdd299e9ebc7772e1f5616d80530173a86aeee4",
+  "rowCount": 178,
+  "schemaType": "LiveSpecialSkill",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE LiveSpecialSkill(`id` TEXT, `data` BLOB, PRIMARY KEY (`id`))",
+  "output": "data/LiveSpecialSkill.jsonl"
+}

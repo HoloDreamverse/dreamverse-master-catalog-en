@@ -1,0 +1,12 @@
+{
+  "type": "ParkTalkFreeGrouping",
+  "fileName": "911e72bdb9fb55fd3ac3fcbb619aaeffd5733bfcd55dad82f532c1b248d6901f",
+  "rawPath": "911e72bdb9fb55fd3ac3fcbb619aaeffd5733bfcd55dad82f532c1b248d6901f",
+  "fileSize": 53248,
+  "rawSha256": "5121280dade20e3ec3817f36975f1e162c7ccd4ddc2ccd6fd7044bca9a932308",
+  "rowCount": 148,
+  "schemaType": "ParkTalkFreeGrouping",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE ParkTalkFreeGrouping(`group_id` TEXT, `area_id` TEXT, `data` BLOB, PRIMARY KEY (`group_id`, `area_id`))",
+  "output": "data/ParkTalkFreeGrouping.jsonl"
+}

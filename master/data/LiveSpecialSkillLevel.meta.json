@@ -1,0 +1,12 @@
+{
+  "type": "LiveSpecialSkillLevel",
+  "fileName": "599b319a8b5decb03fd2bb3ba311fa5db4b3bcb841d51375cb4bc03e35d8a298",
+  "rawPath": "599b319a8b5decb03fd2bb3ba311fa5db4b3bcb841d51375cb4bc03e35d8a298",
+  "fileSize": 139264,
+  "rawSha256": "a69fbd46c88f108a652796e8466e8a59075403b10a4369417005077fc3826fdb",
+  "rowCount": 356,
+  "schemaType": "LiveSpecialSkillLevel",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE LiveSpecialSkillLevel(`live_special_skill_id` TEXT, `level` INTEGER, `data` BLOB, PRIMARY KEY (`live_special_skill_id`, `level`))",
+  "output": "data/LiveSpecialSkillLevel.jsonl"
+}

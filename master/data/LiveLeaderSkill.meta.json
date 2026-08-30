@@ -1,0 +1,12 @@
+{
+  "type": "LiveLeaderSkill",
+  "fileName": "67f29b34ed558d4ad8fb3b9e0e956bedea353f8d9efe398aebd61a44edffe2e7",
+  "rawPath": "67f29b34ed558d4ad8fb3b9e0e956bedea353f8d9efe398aebd61a44edffe2e7",
+  "fileSize": 81920,
+  "rawSha256": "1263cf234549be277a33ba9f7f1711efce269366f05187d76fc2f9b2fbfc3e52",
+  "rowCount": 178,
+  "schemaType": "LiveLeaderSkill",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE LiveLeaderSkill(`id` TEXT, `data` BLOB, PRIMARY KEY (`id`))",
+  "output": "data/LiveLeaderSkill.jsonl"
+}

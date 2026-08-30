@@ -1,0 +1,12 @@
+{
+  "type": "CookingPuzzle",
+  "fileName": "f164a5d451a04d954181617ca98cba225d0e7988e1d0dca5c77b9854c8ba0524",
+  "rawPath": "f164a5d451a04d954181617ca98cba225d0e7988e1d0dca5c77b9854c8ba0524",
+  "fileSize": 12288,
+  "rawSha256": "17a5273d608b11c98018b100b5169a1eea4335dbf30bc5891a5a91a5fdf491fd",
+  "rowCount": 7,
+  "schemaType": "CookingPuzzle",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE CookingPuzzle(`id` TEXT, `data` BLOB, PRIMARY KEY (`id`))",
+  "output": "data/CookingPuzzle.jsonl"
+}

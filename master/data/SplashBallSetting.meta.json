@@ -1,0 +1,12 @@
+{
+  "type": "SplashBallSetting",
+  "fileName": "06b36d4f1fdda1011856dcb323001dd2ee7b716a1cb13142eead8248f94d5561",
+  "rawPath": "06b36d4f1fdda1011856dcb323001dd2ee7b716a1cb13142eead8248f94d5561",
+  "fileSize": 12288,
+  "rawSha256": "be951d66d9582a0c4e85c718570ba2288e33a3097ff13cfea3d2b18505f3f721",
+  "rowCount": 1,
+  "schemaType": "SplashBallSetting",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE SplashBallSetting(`id` TEXT, `data` BLOB, PRIMARY KEY (`id`))",
+  "output": "data/SplashBallSetting.jsonl"
+}

@@ -1,0 +1,12 @@
+{
+  "type": "Circuit",
+  "fileName": "36b3d81a9f802fe493110e50db12dba38b22568e0a419bbb587747294ca3915e",
+  "rawPath": "36b3d81a9f802fe493110e50db12dba38b22568e0a419bbb587747294ca3915e",
+  "fileSize": 12288,
+  "rawSha256": "58fbeda6e7aa2ef8a3c08baa5c2e64ef8650a105e409954c32ecd6dd837fbdda",
+  "rowCount": 3,
+  "schemaType": "Circuit",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE Circuit(`id` TEXT, `data` BLOB, PRIMARY KEY (`id`))",
+  "output": "data/Circuit.jsonl"
+}

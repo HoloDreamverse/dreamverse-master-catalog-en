@@ -1,0 +1,12 @@
+{
+  "type": "LangSkillTreeConnectEffect_Eng",
+  "fileName": "1fd7128b3ed1be0bb9055d463688ec8ba191f334a8ef90b8e5977facbb135bf1",
+  "rawPath": "LangSkillTreeConnectEffect_Eng/1fd7128b3ed1be0bb9055d463688ec8ba191f334a8ef90b8e5977facbb135bf1",
+  "fileSize": 12288,
+  "rawSha256": "27871394d4fcb485becad4433fb9504da38a00e97e80eacbfcb8158ff203101f",
+  "rowCount": 0,
+  "schemaType": "Lang",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE Lang(`id` TEXT, `data` BLOB, PRIMARY KEY (`id`))",
+  "output": "data/LangSkillTreeConnectEffect_Eng.jsonl"
+}

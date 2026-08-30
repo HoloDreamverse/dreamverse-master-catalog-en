@@ -1,0 +1,12 @@
+{
+  "type": "ExchangeBoothFixedItem",
+  "fileName": "d1b9994fc52491c2799c915b366b185cba76c500a9762cbc8e518b869f672247",
+  "rawPath": "d1b9994fc52491c2799c915b366b185cba76c500a9762cbc8e518b869f672247",
+  "fileSize": 335872,
+  "rawSha256": "2c87059d10d4674e2fd757e81766415eb5c1a76e3adb849d7623dd43b621cc2d",
+  "rowCount": 952,
+  "schemaType": "ExchangeBoothFixedItem",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE ExchangeBoothFixedItem(`id` TEXT, `data` BLOB, PRIMARY KEY (`id`))",
+  "output": "data/ExchangeBoothFixedItem.jsonl"
+}

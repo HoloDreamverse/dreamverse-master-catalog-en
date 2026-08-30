@@ -1,0 +1,12 @@
+{
+  "type": "CookingPuzzleCompletionCountReward",
+  "fileName": "57d1c0f2a88d71c97a1d352cf2c21b673b898688c51f111f0971f9bbeac215e1",
+  "rawPath": "57d1c0f2a88d71c97a1d352cf2c21b673b898688c51f111f0971f9bbeac215e1",
+  "fileSize": 20480,
+  "rawSha256": "1fe023e2b8e14d23319ce3e2e860e744b4be1a12b274493233625576a1ead58b",
+  "rowCount": 25,
+  "schemaType": "CookingPuzzleCompletionCountReward",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE CookingPuzzleCompletionCountReward(`group_id` TEXT, `completion_count` INTEGER, `data` BLOB, PRIMARY KEY (`group_id`, `completion_count`))",
+  "output": "data/CookingPuzzleCompletionCountReward.jsonl"
+}

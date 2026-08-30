@@ -1,0 +1,12 @@
+{
+  "type": "GachaPoint",
+  "fileName": "861debbbef402be90c9b5fde235bccc9074eb3e6ee3d9983e5be508e839fa6d3",
+  "rawPath": "861debbbef402be90c9b5fde235bccc9074eb3e6ee3d9983e5be508e839fa6d3",
+  "fileSize": 12288,
+  "rawSha256": "41a5b14be6394a379d40c7bc069da352311b8915263f4c7138697e4b9b7dd0f4",
+  "rowCount": 6,
+  "schemaType": "GachaPoint",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE GachaPoint(`id` TEXT, `data` BLOB, PRIMARY KEY (`id`))",
+  "output": "data/GachaPoint.jsonl"
+}

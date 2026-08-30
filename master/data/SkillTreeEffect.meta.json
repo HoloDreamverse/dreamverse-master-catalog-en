@@ -1,0 +1,12 @@
+{
+  "type": "SkillTreeEffect",
+  "fileName": "d8473d6e852f04f151c8a81fb81a20ddb8ff58376cbe270ba66786f6a25205e1",
+  "rawPath": "d8473d6e852f04f151c8a81fb81a20ddb8ff58376cbe270ba66786f6a25205e1",
+  "fileSize": 94208,
+  "rawSha256": "ba4c6f9ceb12c449f0dd174c57784e43d0deafa7116ca1bb2863e5a30a68351c",
+  "rowCount": 121,
+  "schemaType": "SkillTreeEffect",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE SkillTreeEffect(`id` TEXT, `data` BLOB, PRIMARY KEY (`id`))",
+  "output": "data/SkillTreeEffect.jsonl"
+}

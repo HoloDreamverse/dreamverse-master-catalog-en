@@ -1,0 +1,12 @@
+{
+  "type": "LangParkFishingFishSpecies_Eng",
+  "fileName": "1fd7128b3ed1be0bb9055d463688ec8ba191f334a8ef90b8e5977facbb135bf1",
+  "rawPath": "LangParkFishingFishSpecies_Eng/1fd7128b3ed1be0bb9055d463688ec8ba191f334a8ef90b8e5977facbb135bf1",
+  "fileSize": 12288,
+  "rawSha256": "1bd324e2832bddbafb1719886832b4da1dd688d0e2eda73d5efa8d1c41afcbb3",
+  "rowCount": 0,
+  "schemaType": "Lang",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE Lang(`id` TEXT, `data` BLOB, PRIMARY KEY (`id`))",
+  "output": "data/LangParkFishingFishSpecies_Eng.jsonl"
+}

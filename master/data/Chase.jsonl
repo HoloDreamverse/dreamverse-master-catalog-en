@@ -1,0 +1,2 @@
+{"id":"chase_park_quest_play","data":{"id":"chase_park_quest_play","playType":"ParkQuest","areaLaserGimmickAppearLocationCount":20}}
+{"id":"normal","data":{"id":"normal","playType":"Normal","areaLaserGimmickAppearLocationCount":20,"winRewards":[{"resourceType":"Item","resourceId":"item-mini-game-chase-coin"}]}}

@@ -1,0 +1,12 @@
+{
+  "type": "AreaGrouping",
+  "fileName": "1facf42c53108485706c2e8bb3b7a917377bf040654274fa7d3c187d8fdc816b",
+  "rawPath": "1facf42c53108485706c2e8bb3b7a917377bf040654274fa7d3c187d8fdc816b",
+  "fileSize": 12288,
+  "rawSha256": "9cadd64bb33b2b307d1fa49c52f92fb68b9b90f35be926c14fb64981b12a0a04",
+  "rowCount": 2,
+  "schemaType": "AreaGrouping",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE AreaGrouping(`id` TEXT, `data` BLOB, PRIMARY KEY (`id`))",
+  "output": "data/AreaGrouping.jsonl"
+}

@@ -1,0 +1,12 @@
+{
+  "type": "ComboCardGameDeck",
+  "fileName": "8026bf04f650ac88db0825f96dbb93bcf6e81f76a76d530a336b24138e36eeff",
+  "rawPath": "8026bf04f650ac88db0825f96dbb93bcf6e81f76a76d530a336b24138e36eeff",
+  "fileSize": 147456,
+  "rawSha256": "5fc030b5dd518637eb1a321f7316520515e82a4da3e768b24578b2b732078d62",
+  "rowCount": 828,
+  "schemaType": "ComboCardGameDeck",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE ComboCardGameDeck(`id` TEXT, `data` BLOB, PRIMARY KEY (`id`))",
+  "output": "data/ComboCardGameDeck.jsonl"
+}

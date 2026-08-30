@@ -1,0 +1,12 @@
+{
+  "type": "MiniGameNpcLotteryPeriod",
+  "fileName": "77d0067db20254247664ca61d1ca00ef5b63cc7d6608ca5e53006c7b9c821efd",
+  "rawPath": "77d0067db20254247664ca61d1ca00ef5b63cc7d6608ca5e53006c7b9c821efd",
+  "fileSize": 28672,
+  "rawSha256": "7784dc7b28935cba800701e62b3447c9b5a5848944eb1c5cdbf26fe7bd7ea2c7",
+  "rowCount": 4,
+  "schemaType": "MiniGameNpcLotteryPeriod",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE MiniGameNpcLotteryPeriod(`mini_game_type` INTEGER, `start_time` INTEGER, `data` BLOB, PRIMARY KEY (`mini_game_type`, `start_time`))",
+  "output": "data/MiniGameNpcLotteryPeriod.jsonl"
+}

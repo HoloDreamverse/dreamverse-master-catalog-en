@@ -1,0 +1,12 @@
+{
+  "type": "Facility",
+  "fileName": "d786650520a19b56e3c1cd7447985d84a19983968c7b629b420dd4c79d3d9f39",
+  "rawPath": "d786650520a19b56e3c1cd7447985d84a19983968c7b629b420dd4c79d3d9f39",
+  "fileSize": 24576,
+  "rawSha256": "f56ecbba694b3d0b44b7e86dfc3dd78325898c7612c43d7b718209a5582a3e39",
+  "rowCount": 65,
+  "schemaType": "Facility",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE Facility(`id` TEXT, `data` BLOB, PRIMARY KEY (`id`))",
+  "output": "data/Facility.jsonl"
+}

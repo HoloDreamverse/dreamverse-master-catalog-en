@@ -1,0 +1,12 @@
+{
+  "type": "SystemVoice",
+  "fileName": "0e0527740669585383618aca92bf80504ac6da4ea1f3612f5fc79a402a434afe",
+  "rawPath": "0e0527740669585383618aca92bf80504ac6da4ea1f3612f5fc79a402a434afe",
+  "fileSize": 905216,
+  "rawSha256": "02ce687c510cf934da1b04fe1c624b0af23f7f4cb212e60e4b1173aa60f2292e",
+  "rowCount": 6156,
+  "schemaType": "SystemVoice",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE SystemVoice(`game_screen_type` INTEGER, `type` INTEGER, `character_voice_id` TEXT, `data` BLOB, PRIMARY KEY (`game_screen_type`, `type`, `character_voice_id`))",
+  "output": "data/SystemVoice.jsonl"
+}

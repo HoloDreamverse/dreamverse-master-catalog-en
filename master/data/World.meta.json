@@ -1,0 +1,12 @@
+{
+  "type": "World",
+  "fileName": "ae211ae52ebfc36dd612d4a2434d2c4eae077c7ad48da275c6e24b115de925e9",
+  "rawPath": "ae211ae52ebfc36dd612d4a2434d2c4eae077c7ad48da275c6e24b115de925e9",
+  "fileSize": 12288,
+  "rawSha256": "918d5f3f4217510ff240f8c9df476aaf387016a60597193bc5482985283c9305",
+  "rowCount": 1,
+  "schemaType": "World",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE World(`id` TEXT, `data` BLOB, PRIMARY KEY (`id`))",
+  "output": "data/World.jsonl"
+}

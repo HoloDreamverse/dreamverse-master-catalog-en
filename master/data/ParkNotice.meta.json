@@ -1,0 +1,12 @@
+{
+  "type": "ParkNotice",
+  "fileName": "d60763c2345387360fc28d93a68eaecd7a9253a160900cb795b41071d362487d",
+  "rawPath": "d60763c2345387360fc28d93a68eaecd7a9253a160900cb795b41071d362487d",
+  "fileSize": 12288,
+  "rawSha256": "1ddedbe008a8cfe0f37d54bd8fbcd993e56889d546a0b0b939a21377ef10ed61",
+  "rowCount": 17,
+  "schemaType": "ParkNotice",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE ParkNotice(`type` INTEGER, `target_id` TEXT, `data` BLOB, PRIMARY KEY (`type`, `target_id`))",
+  "output": "data/ParkNotice.jsonl"
+}

@@ -1,0 +1,12 @@
+{
+  "type": "ParkTargetMapping",
+  "fileName": "0c0933250eb55c0f552d3e1f63a465899a616584f6d93512809d1330e5df3d12",
+  "rawPath": "0c0933250eb55c0f552d3e1f63a465899a616584f6d93512809d1330e5df3d12",
+  "fileSize": 2277376,
+  "rawSha256": "9827659bb6f7917a405065ea78d34dc4c9500d4aa468286cda10ff92c5a5810f",
+  "rowCount": 8549,
+  "schemaType": "ParkTargetMapping",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE ParkTargetMapping(`id` TEXT, `data` BLOB, PRIMARY KEY (`id`))",
+  "output": "data/ParkTargetMapping.jsonl"
+}

@@ -1,0 +1,12 @@
+{
+  "type": "AreaStoryChapter",
+  "fileName": "c38a805dd143875d6cf64fc6807498e65def310f22dea7b1665d39936f7f12a1",
+  "rawPath": "c38a805dd143875d6cf64fc6807498e65def310f22dea7b1665d39936f7f12a1",
+  "fileSize": 12288,
+  "rawSha256": "d05661764ab66e5dd444008e7cd26bbb9e6f521447ae1e337e0c02614c3fcfaf",
+  "rowCount": 2,
+  "schemaType": "AreaStoryChapter",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE AreaStoryChapter(`id` TEXT, `data` BLOB, PRIMARY KEY (`id`))",
+  "output": "data/AreaStoryChapter.jsonl"
+}

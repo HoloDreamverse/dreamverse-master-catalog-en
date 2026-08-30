@@ -1,0 +1,12 @@
+{
+  "type": "MusicDifficulty",
+  "fileName": "3837a66591ab0391f9392b05fec8fe2c2884730a962ad4cd4333b22d7a8ffcd1",
+  "rawPath": "3837a66591ab0391f9392b05fec8fe2c2884730a962ad4cd4333b22d7a8ffcd1",
+  "fileSize": 61440,
+  "rawSha256": "4800ac58cca62cf23eedda6d680dfed50e52028661b6c49788813a5743bd916b",
+  "rowCount": 776,
+  "schemaType": "MusicDifficulty",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE MusicDifficulty(`music_id` TEXT, `difficulty_type` INTEGER, `data` BLOB, PRIMARY KEY (`music_id`, `difficulty_type`))",
+  "output": "data/MusicDifficulty.jsonl"
+}

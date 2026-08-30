@@ -1,0 +1,6 @@
+{"type":1,"data":{"type":"Character","nameLangId":"la-achievement_category-character","order":1}}
+{"type":2,"data":{"type":"Live","nameLangId":"la-achievement_category-live","order":2}}
+{"type":3,"data":{"type":"MiniGame","nameLangId":"la-achievement_category-mini_game","order":3}}
+{"type":4,"data":{"type":"Park","nameLangId":"la-achievement_category-park","order":4}}
+{"type":5,"data":{"type":"CardTraining","nameLangId":"la-achievement_category-card_training","order":5}}
+{"type":999,"data":{"type":"Other","nameLangId":"la-achievement_category-other","order":6}}

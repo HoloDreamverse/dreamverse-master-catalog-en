@@ -1,0 +1,12 @@
+{
+  "type": "LangMusicMv_Eng",
+  "fileName": "3e78eaa8d1f08585fc78fec1e309cd22b0eead3b50f5b7cadf5438d51ed749fb",
+  "rawPath": "3e78eaa8d1f08585fc78fec1e309cd22b0eead3b50f5b7cadf5438d51ed749fb",
+  "fileSize": 32768,
+  "rawSha256": "c7990c4880003ef598e9f737a0ff211a2a57250bbfaf8f77ccf75b85163dce08",
+  "rowCount": 145,
+  "schemaType": "Lang",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE Lang(`id` TEXT, `data` BLOB, PRIMARY KEY (`id`))",
+  "output": "data/LangMusicMv_Eng.jsonl"
+}

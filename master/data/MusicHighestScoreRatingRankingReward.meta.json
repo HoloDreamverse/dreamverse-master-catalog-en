@@ -1,0 +1,12 @@
+{
+  "type": "MusicHighestScoreRatingRankingReward",
+  "fileName": "4f53ae1035956e607d47f6f78d13bbbf0a08b5af84ad11309212192e6ab00fcd",
+  "rawPath": "4f53ae1035956e607d47f6f78d13bbbf0a08b5af84ad11309212192e6ab00fcd",
+  "fileSize": 32768,
+  "rawSha256": "b66435f20b3d95c2d2dd9b15af5b0c8cfcdc1e818dd95641505135794163ea1e",
+  "rowCount": 216,
+  "schemaType": "MusicHighestScoreRatingRankingReward",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE MusicHighestScoreRatingRankingReward(`character_id` TEXT, `end_ranking_rank` INTEGER, `data` BLOB, PRIMARY KEY (`character_id`, `end_ranking_rank`))",
+  "output": "data/MusicHighestScoreRatingRankingReward.jsonl"
+}

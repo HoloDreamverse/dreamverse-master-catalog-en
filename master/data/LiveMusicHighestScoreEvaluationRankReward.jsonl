@@ -1,0 +1,4 @@
+{"evaluation_rank_type":2,"data":{"evaluationRankType":"C","rewards":[{"resourceType":"StoneTotal","quantity":10}]}}
+{"evaluation_rank_type":3,"data":{"evaluationRankType":"B","rewards":[{"resourceType":"StoneTotal","quantity":20}]}}
+{"evaluation_rank_type":4,"data":{"evaluationRankType":"A","rewards":[{"resourceType":"StoneTotal","quantity":20}]}}
+{"evaluation_rank_type":5,"data":{"evaluationRankType":"S","rewards":[{"resourceType":"StoneTotal","quantity":50}]}}

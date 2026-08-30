@@ -1,0 +1,12 @@
+{
+  "type": "LiveMusicClearCountReward",
+  "fileName": "6834e20cbbdd49ea0d12089698b73b2289eeda89cfd2e9fe883718838c1adcbd",
+  "rawPath": "6834e20cbbdd49ea0d12089698b73b2289eeda89cfd2e9fe883718838c1adcbd",
+  "fileSize": 8192,
+  "rawSha256": "b5d57d9c0afd4bcfcb66db6d1d835033ee4b8c7a5d8fdd32539d7ea1bc6df0f2",
+  "rowCount": 4,
+  "schemaType": "LiveMusicClearCountReward",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE LiveMusicClearCountReward(`clear_count` INTEGER, `data` BLOB, PRIMARY KEY (`clear_count`))",
+  "output": "data/LiveMusicClearCountReward.jsonl"
+}

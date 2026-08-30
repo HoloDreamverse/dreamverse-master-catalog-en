@@ -1,0 +1,12 @@
+{
+  "type": "LangTutorial_Eng",
+  "fileName": "7204544226b019ec83063bb1f0c2e600521c1f9b0c296a456e6fbb13fb39d1c0",
+  "rawPath": "7204544226b019ec83063bb1f0c2e600521c1f9b0c296a456e6fbb13fb39d1c0",
+  "fileSize": 12288,
+  "rawSha256": "9140a3eb77c842754723e7c2bcd728e754dd4134b0d46f22c6bfac76827d80db",
+  "rowCount": 11,
+  "schemaType": "Lang",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE Lang(`id` TEXT, `data` BLOB, PRIMARY KEY (`id`))",
+  "output": "data/LangTutorial_Eng.jsonl"
+}

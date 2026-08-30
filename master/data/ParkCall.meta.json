@@ -1,0 +1,12 @@
+{
+  "type": "ParkCall",
+  "fileName": "3479af25d0f0919e9176b96e1885d6615631b81eb7bc4cf84fa0e57e0f1a0170",
+  "rawPath": "3479af25d0f0919e9176b96e1885d6615631b81eb7bc4cf84fa0e57e0f1a0170",
+  "fileSize": 24576,
+  "rawSha256": "1310b87f88e8177ff33783d46b8edcfc8136687e4b0495b2af411bdf677236bf",
+  "rowCount": 64,
+  "schemaType": "ParkCall",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE ParkCall(`id` TEXT, `data` BLOB, PRIMARY KEY (`id`))",
+  "output": "data/ParkCall.jsonl"
+}

@@ -1,0 +1,12 @@
+{
+  "type": "LiveDeckPowerRank",
+  "fileName": "994771d654e67ba5ea1a7494cd79f2f87ce946bf08e681cf307460b7a11c2136",
+  "rawPath": "994771d654e67ba5ea1a7494cd79f2f87ce946bf08e681cf307460b7a11c2136",
+  "fileSize": 12288,
+  "rawSha256": "e789460fe79491f9d10fe020161ec92803558805f41851159b577d634339f196",
+  "rowCount": 14,
+  "schemaType": "LiveDeckPowerRank",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE LiveDeckPowerRank(`type` INTEGER, `plus` INTEGER, `data` BLOB, PRIMARY KEY (`type`, `plus`))",
+  "output": "data/LiveDeckPowerRank.jsonl"
+}

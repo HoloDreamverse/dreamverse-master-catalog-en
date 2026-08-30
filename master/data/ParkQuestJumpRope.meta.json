@@ -1,0 +1,12 @@
+{
+  "type": "ParkQuestJumpRope",
+  "fileName": "2495a9c4cd49f1f8af57f310fd62562b6d51e4a310d800d6d35ba1386c455127",
+  "rawPath": "2495a9c4cd49f1f8af57f310fd62562b6d51e4a310d800d6d35ba1386c455127",
+  "fileSize": 20480,
+  "rawSha256": "10eef2ea16feca010925bb3f6458a6c9be2dfe35f4ee35dc028f940a8eabee4e",
+  "rowCount": 20,
+  "schemaType": "ParkQuestJumpRope",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE ParkQuestJumpRope(`id` TEXT, `data` BLOB, PRIMARY KEY (`id`))",
+  "output": "data/ParkQuestJumpRope.jsonl"
+}

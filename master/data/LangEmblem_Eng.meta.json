@@ -1,0 +1,12 @@
+{
+  "type": "LangEmblem_Eng",
+  "fileName": "5bdf61217f95dba008a45391b1e0f7d98c7e30238a93daaf6f88eb4311781451",
+  "rawPath": "5bdf61217f95dba008a45391b1e0f7d98c7e30238a93daaf6f88eb4311781451",
+  "fileSize": 196608,
+  "rawSha256": "aa62268281211a357beb0fe1aec29986f6700f1dc6ade226cbe1f9aad2192893",
+  "rowCount": 875,
+  "schemaType": "Lang",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE Lang(`id` TEXT, `data` BLOB, PRIMARY KEY (`id`))",
+  "output": "data/LangEmblem_Eng.jsonl"
+}

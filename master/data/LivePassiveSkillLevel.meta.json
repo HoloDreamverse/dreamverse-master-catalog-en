@@ -1,0 +1,12 @@
+{
+  "type": "LivePassiveSkillLevel",
+  "fileName": "41f5ae7920774839539fa61a9e1e74897c3b9e92d72dde4de5ce175f02e1d263",
+  "rawPath": "41f5ae7920774839539fa61a9e1e74897c3b9e92d72dde4de5ce175f02e1d263",
+  "fileSize": 155648,
+  "rawSha256": "9418ab97877bd9246f60931da74a3d7428953d006e790075cb008cf5dad208fc",
+  "rowCount": 356,
+  "schemaType": "LivePassiveSkillLevel",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE LivePassiveSkillLevel(`live_passive_skill_id` TEXT, `level` INTEGER, `data` BLOB, PRIMARY KEY (`live_passive_skill_id`, `level`))",
+  "output": "data/LivePassiveSkillLevel.jsonl"
+}

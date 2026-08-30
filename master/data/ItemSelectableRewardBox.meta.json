@@ -1,0 +1,12 @@
+{
+  "type": "ItemSelectableRewardBox",
+  "fileName": "365c71d32f750aa08cdd5fdc72d5ac027d01b5cc0f780e6385d8c8cfecaef52d",
+  "rawPath": "365c71d32f750aa08cdd5fdc72d5ac027d01b5cc0f780e6385d8c8cfecaef52d",
+  "fileSize": 32768,
+  "rawSha256": "c8eeafe193c39e288232d8aaa5122edec6a9e68895c44cd56d86f60abd61a0d8",
+  "rowCount": 71,
+  "schemaType": "ItemSelectableRewardBox",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE ItemSelectableRewardBox(`item_id` TEXT, `number` INTEGER, `data` BLOB, PRIMARY KEY (`item_id`, `number`))",
+  "output": "data/ItemSelectableRewardBox.jsonl"
+}

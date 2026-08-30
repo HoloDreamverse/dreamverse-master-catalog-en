@@ -1,0 +1,12 @@
+{
+  "type": "ParkNpcQuality",
+  "fileName": "bf1a1eb6047219d1fa04f2e4d6104437ddf2db0f7c351d2455b6d934ce2eb16b",
+  "rawPath": "bf1a1eb6047219d1fa04f2e4d6104437ddf2db0f7c351d2455b6d934ce2eb16b",
+  "fileSize": 12288,
+  "rawSha256": "b34929f01e9869e525f29a949cd3db7747eab76673549f006ad4d302b3d231ca",
+  "rowCount": 15,
+  "schemaType": "ParkNpcQuality",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE ParkNpcQuality(`os_type` INTEGER, `graphics_quality_type` INTEGER, `data` BLOB, PRIMARY KEY (`os_type`, `graphics_quality_type`))",
+  "output": "data/ParkNpcQuality.jsonl"
+}

@@ -1,0 +1,12 @@
+{
+  "type": "SkillTreePoint",
+  "fileName": "a882b37282db5fa7ef149c756e057baafcb780b6a9795081d7b84b812b1d8cad",
+  "rawPath": "a882b37282db5fa7ef149c756e057baafcb780b6a9795081d7b84b812b1d8cad",
+  "fileSize": 20480,
+  "rawSha256": "87b2efaf157a0535fbbd6dd80917be7609d35f5d85dd530ee9f4e985196f698a",
+  "rowCount": 54,
+  "schemaType": "SkillTreePoint",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE SkillTreePoint(`id` TEXT, `data` BLOB, PRIMARY KEY (`id`))",
+  "output": "data/SkillTreePoint.jsonl"
+}

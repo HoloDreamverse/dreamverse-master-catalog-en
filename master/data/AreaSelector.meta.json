@@ -1,0 +1,12 @@
+{
+  "type": "AreaSelector",
+  "fileName": "454ca48d284d3818b88ef35c011c8662a08d08125bf893bb3d678aade0e2fff8",
+  "rawPath": "454ca48d284d3818b88ef35c011c8662a08d08125bf893bb3d678aade0e2fff8",
+  "fileSize": 12288,
+  "rawSha256": "5bef3c609e14c12c59bbeeea701dfa94845fe0d1415c98b0bda7234f4ae79dbb",
+  "rowCount": 7,
+  "schemaType": "AreaSelector",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE AreaSelector(`id` TEXT, `data` BLOB, PRIMARY KEY (`id`))",
+  "output": "data/AreaSelector.jsonl"
+}

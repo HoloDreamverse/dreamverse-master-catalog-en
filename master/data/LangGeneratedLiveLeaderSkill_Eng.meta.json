@@ -1,0 +1,12 @@
+{
+  "type": "LangGeneratedLiveLeaderSkill_Eng",
+  "fileName": "b42e42a80702fd1fb8a7f1def74b0e6689f8735c9f691550e9ddf92668e5c6ea",
+  "rawPath": "b42e42a80702fd1fb8a7f1def74b0e6689f8735c9f691550e9ddf92668e5c6ea",
+  "fileSize": 69632,
+  "rawSha256": "802bb9663fe936ece8a960340e08cc38fb6593a2da0d009bcfd1a92906fda000",
+  "rowCount": 178,
+  "schemaType": "Lang",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE Lang(`id` TEXT, `data` BLOB, PRIMARY KEY (`id`))",
+  "output": "data/LangGeneratedLiveLeaderSkill_Eng.jsonl"
+}

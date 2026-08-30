@@ -1,0 +1,12 @@
+{
+  "type": "CardPotentialUpgradeItem",
+  "fileName": "77e6ce472f15b17d18dbd51a3dd4820ef922c8bbe2d0f3e5ddf20ffed489305a",
+  "rawPath": "77e6ce472f15b17d18dbd51a3dd4820ef922c8bbe2d0f3e5ddf20ffed489305a",
+  "fileSize": 8192,
+  "rawSha256": "c0489c63e572526bf50fadbc029d3083fb78e9d54988b0c8b8de8aa558633390",
+  "rowCount": 1,
+  "schemaType": "CardPotentialUpgradeItem",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE CardPotentialUpgradeItem(`rarity` INTEGER, `data` BLOB, PRIMARY KEY (`rarity`))",
+  "output": "data/CardPotentialUpgradeItem.jsonl"
+}

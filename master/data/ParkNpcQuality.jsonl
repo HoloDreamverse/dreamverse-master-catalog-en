@@ -1,0 +1,15 @@
+{"os_type":2,"graphics_quality_type":2,"data":{"osType":"Android","graphicsQualityType":"High","maxNpcCount":32,"lazyLoadMaxNpcCount":15}}
+{"os_type":2,"graphics_quality_type":4,"data":{"osType":"Android","graphicsQualityType":"Low","maxNpcCount":16,"lazyLoadMaxNpcCount":12}}
+{"os_type":2,"graphics_quality_type":1,"data":{"osType":"Android","graphicsQualityType":"Max","lazyLoadMaxNpcCount":15}}
+{"os_type":2,"graphics_quality_type":3,"data":{"osType":"Android","graphicsQualityType":"Medium","maxNpcCount":24,"lazyLoadMaxNpcCount":15}}
+{"os_type":2,"graphics_quality_type":5,"data":{"osType":"Android","graphicsQualityType":"VeryLow","maxNpcCount":12,"lazyLoadMaxNpcCount":8}}
+{"os_type":1,"graphics_quality_type":2,"data":{"osType":"Ios","graphicsQualityType":"High","maxNpcCount":32,"lazyLoadMaxNpcCount":15}}
+{"os_type":1,"graphics_quality_type":4,"data":{"osType":"Ios","graphicsQualityType":"Low","maxNpcCount":16,"lazyLoadMaxNpcCount":12}}
+{"os_type":1,"graphics_quality_type":1,"data":{"osType":"Ios","graphicsQualityType":"Max","lazyLoadMaxNpcCount":15}}
+{"os_type":1,"graphics_quality_type":3,"data":{"osType":"Ios","graphicsQualityType":"Medium","maxNpcCount":24,"lazyLoadMaxNpcCount":15}}
+{"os_type":1,"graphics_quality_type":5,"data":{"osType":"Ios","graphicsQualityType":"VeryLow","maxNpcCount":12,"lazyLoadMaxNpcCount":8}}
+{"os_type":3,"graphics_quality_type":2,"data":{"osType":"Windows","graphicsQualityType":"High"}}
+{"os_type":3,"graphics_quality_type":4,"data":{"osType":"Windows","graphicsQualityType":"Low","maxNpcCount":24,"lazyLoadMaxNpcCount":15}}
+{"os_type":3,"graphics_quality_type":1,"data":{"osType":"Windows","graphicsQualityType":"Max"}}
+{"os_type":3,"graphics_quality_type":3,"data":{"osType":"Windows","graphicsQualityType":"Medium","maxNpcCount":32,"lazyLoadMaxNpcCount":23}}
+{"os_type":3,"graphics_quality_type":5,"data":{"osType":"Windows","graphicsQualityType":"VeryLow","maxNpcCount":24,"lazyLoadMaxNpcCount":15}}

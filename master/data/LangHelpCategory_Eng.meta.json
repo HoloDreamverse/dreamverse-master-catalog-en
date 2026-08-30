@@ -1,0 +1,12 @@
+{
+  "type": "LangHelpCategory_Eng",
+  "fileName": "f08e40c128fe197cef5081569d23afcae90e85078ac51fae875fb48c37f7782c",
+  "rawPath": "f08e40c128fe197cef5081569d23afcae90e85078ac51fae875fb48c37f7782c",
+  "fileSize": 12288,
+  "rawSha256": "99dc6251a9f72c0f4d265d640345e54e647c3466df8a6b93399974e41df59228",
+  "rowCount": 24,
+  "schemaType": "Lang",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE Lang(`id` TEXT, `data` BLOB, PRIMARY KEY (`id`))",
+  "output": "data/LangHelpCategory_Eng.jsonl"
+}

@@ -1,0 +1,12 @@
+{
+  "type": "FeatureLock",
+  "fileName": "6099b0a89140438bc1aaf37ca029ade1efde9540cecf76b6f9f01ecdae2d4664",
+  "rawPath": "6099b0a89140438bc1aaf37ca029ade1efde9540cecf76b6f9f01ecdae2d4664",
+  "fileSize": 16384,
+  "rawSha256": "2d195af5f5ca6a7603a166c41467d1779808156e108fe80e0e6b27e75e4d9c39",
+  "rowCount": 47,
+  "schemaType": "FeatureLock",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE FeatureLock(`tutorial_type` INTEGER, `data` BLOB, PRIMARY KEY (`tutorial_type`))",
+  "output": "data/FeatureLock.jsonl"
+}

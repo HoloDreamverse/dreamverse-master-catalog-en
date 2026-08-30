@@ -1,0 +1,12 @@
+{
+  "type": "ParkRandomSymbol",
+  "fileName": "1b8afa77f81cd91086e8cc15b398e2b0429039a404d249617b82bee4af5f7804",
+  "rawPath": "1b8afa77f81cd91086e8cc15b398e2b0429039a404d249617b82bee4af5f7804",
+  "fileSize": 57344,
+  "rawSha256": "bc94181e3b7078b3d07327724b75612ab24541ce8cce2a7469d9cd89ece50af5",
+  "rowCount": 198,
+  "schemaType": "ParkRandomSymbol",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE ParkRandomSymbol(`area_id` TEXT, `park_target_mapping_id` TEXT, `data` BLOB, PRIMARY KEY (`area_id`, `park_target_mapping_id`))",
+  "output": "data/ParkRandomSymbol.jsonl"
+}

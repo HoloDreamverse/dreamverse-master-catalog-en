@@ -1,0 +1,12 @@
+{
+  "type": "LangGeneratedSkillTreeEffectTarget_Eng",
+  "fileName": "82ee5a41ffdf6e245297650b31ce62da4b87e88ce823b294fb117c73fda5f83c",
+  "rawPath": "82ee5a41ffdf6e245297650b31ce62da4b87e88ce823b294fb117c73fda5f83c",
+  "fileSize": 36864,
+  "rawSha256": "8dce34e71a9bd4b9488de0da722a73b37d750334bf6606284dcbe8e22b69dd10",
+  "rowCount": 79,
+  "schemaType": "Lang",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE Lang(`id` TEXT, `data` BLOB, PRIMARY KEY (`id`))",
+  "output": "data/LangGeneratedSkillTreeEffectTarget_Eng.jsonl"
+}

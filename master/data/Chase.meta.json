@@ -1,0 +1,12 @@
+{
+  "type": "Chase",
+  "fileName": "3d8c8ef2a3655ade887b262644bca09bba3e7f43ae1e39506a234bd73d761922",
+  "rawPath": "3d8c8ef2a3655ade887b262644bca09bba3e7f43ae1e39506a234bd73d761922",
+  "fileSize": 12288,
+  "rawSha256": "6ce01ed418ea2b3ad1abe437d212e1ba968dd33abff24dcc670b004f09fbd26d",
+  "rowCount": 2,
+  "schemaType": "Chase",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE Chase(`id` TEXT, `data` BLOB, PRIMARY KEY (`id`))",
+  "output": "data/Chase.jsonl"
+}

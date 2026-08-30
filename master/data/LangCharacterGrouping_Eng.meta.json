@@ -1,0 +1,12 @@
+{
+  "type": "LangCharacterGrouping_Eng",
+  "fileName": "1cf86a6c7018ef1192fedc7258a5b65ee0686be40514890bf814af26de96a833",
+  "rawPath": "1cf86a6c7018ef1192fedc7258a5b65ee0686be40514890bf814af26de96a833",
+  "fileSize": 12288,
+  "rawSha256": "a3c3ea5daa15f49d17c686a41ecc9c03fb5e73a64851422ce042fb53c711746c",
+  "rowCount": 32,
+  "schemaType": "Lang",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE Lang(`id` TEXT, `data` BLOB, PRIMARY KEY (`id`))",
+  "output": "data/LangCharacterGrouping_Eng.jsonl"
+}

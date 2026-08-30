@@ -1,0 +1,12 @@
+{
+  "type": "SystemSound",
+  "fileName": "ce4bdceffec0a197e5789b887f2d2bbbfe968835d7f66484dc5f42cae1093d44",
+  "rawPath": "ce4bdceffec0a197e5789b887f2d2bbbfe968835d7f66484dc5f42cae1093d44",
+  "fileSize": 24576,
+  "rawSha256": "e1cac4f236d24cc5f575ca3fc6f63d3eaf39378b0f07d933e297499ada51b96d",
+  "rowCount": 301,
+  "schemaType": "SystemSound",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE SystemSound(`type` INTEGER, `data` BLOB, PRIMARY KEY (`type`))",
+  "output": "data/SystemSound.jsonl"
+}

@@ -1,0 +1,12 @@
+{
+  "type": "LangLiveSkillEffectFilterCategory_Eng",
+  "fileName": "9552a669c6245b1199254400829467d8b557655cd448dc54b538b52045d650da",
+  "rawPath": "9552a669c6245b1199254400829467d8b557655cd448dc54b538b52045d650da",
+  "fileSize": 12288,
+  "rawSha256": "286db43c1a1f5318db721ba72660107357650f07ff6c9c0c4fa38bebb4db1a65",
+  "rowCount": 10,
+  "schemaType": "Lang",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE Lang(`id` TEXT, `data` BLOB, PRIMARY KEY (`id`))",
+  "output": "data/LangLiveSkillEffectFilterCategory_Eng.jsonl"
+}

@@ -1,0 +1,12 @@
+{
+  "type": "ParkNpcGroup",
+  "fileName": "da9c3fe2c81e6b734721f9186fd52584932d14bd2ef018eea73a84fb9d020f48",
+  "rawPath": "da9c3fe2c81e6b734721f9186fd52584932d14bd2ef018eea73a84fb9d020f48",
+  "fileSize": 3715072,
+  "rawSha256": "2b841bbecf1738dec0d435fb3ed2f99e624b4126b6ca27f2d366c44c5642bdc3",
+  "rowCount": 12728,
+  "schemaType": "ParkNpcGroup",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE ParkNpcGroup(`id` TEXT, `number` INTEGER, `park_npc_id` TEXT, `data` BLOB, PRIMARY KEY (`id`, `number`, `park_npc_id`))",
+  "output": "data/ParkNpcGroup.jsonl"
+}

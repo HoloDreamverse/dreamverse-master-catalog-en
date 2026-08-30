@@ -1,0 +1,12 @@
+{
+  "type": "LangLiveSkin_Eng",
+  "fileName": "e4fe27fbba525a424b9fdf17a63e10751e1a2d83ce9a543c75ef4dff1a73acfe",
+  "rawPath": "e4fe27fbba525a424b9fdf17a63e10751e1a2d83ce9a543c75ef4dff1a73acfe",
+  "fileSize": 20480,
+  "rawSha256": "29bc5f2003f983d7d6498d61677adda6a3870e76d0e9e1c944e997922db8d592",
+  "rowCount": 87,
+  "schemaType": "Lang",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE Lang(`id` TEXT, `data` BLOB, PRIMARY KEY (`id`))",
+  "output": "data/LangLiveSkin_Eng.jsonl"
+}

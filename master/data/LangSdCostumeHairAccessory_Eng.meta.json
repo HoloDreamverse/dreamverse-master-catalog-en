@@ -1,0 +1,12 @@
+{
+  "type": "LangSdCostumeHairAccessory_Eng",
+  "fileName": "ae53b96c035a999aa5ca1d25a2de7f61d9c83e2cee9f742f571fef90fd155cd4",
+  "rawPath": "ae53b96c035a999aa5ca1d25a2de7f61d9c83e2cee9f742f571fef90fd155cd4",
+  "fileSize": 65536,
+  "rawSha256": "776e2dfce6b31eb98256a9673e399d00c747e8860527b593ccb19f80ad8a3382",
+  "rowCount": 270,
+  "schemaType": "Lang",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE Lang(`id` TEXT, `data` BLOB, PRIMARY KEY (`id`))",
+  "output": "data/LangSdCostumeHairAccessory_Eng.jsonl"
+}

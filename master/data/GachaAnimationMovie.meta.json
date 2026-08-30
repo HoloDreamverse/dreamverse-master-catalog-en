@@ -1,0 +1,12 @@
+{
+  "type": "GachaAnimationMovie",
+  "fileName": "7d5298cf2b279caa77a693af47160a369b9ce42f463724b4e935fc39d67c4961",
+  "rawPath": "7d5298cf2b279caa77a693af47160a369b9ce42f463724b4e935fc39d67c4961",
+  "fileSize": 12288,
+  "rawSha256": "45671224cbf35db377ca883bfab779aff944f5575c227136cf5abe4894bc3c40",
+  "rowCount": 28,
+  "schemaType": "GachaAnimationMovie",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE GachaAnimationMovie(`group_id` TEXT, `animation_rarity` INTEGER, `animation_type` INTEGER, `animation_number` INTEGER, `asset_id` TEXT, `data` BLOB, PRIMARY KEY (`group_id`, `animation_rarity`, `animation_type`, `animation_number`, `asset_id`))",
+  "output": "data/GachaAnimationMovie.jsonl"
+}

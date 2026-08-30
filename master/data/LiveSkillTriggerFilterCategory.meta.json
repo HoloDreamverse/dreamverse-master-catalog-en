@@ -1,0 +1,12 @@
+{
+  "type": "LiveSkillTriggerFilterCategory",
+  "fileName": "6d1c527bed37d02885968dfdf3bf3c41d350066f08d4e1e58b5f1ff0f975462a",
+  "rawPath": "6d1c527bed37d02885968dfdf3bf3c41d350066f08d4e1e58b5f1ff0f975462a",
+  "fileSize": 12288,
+  "rawSha256": "4ca7f87a67afb42ebbbf97f8f50f837e4249e37ffee4a05026240f9ac221a7e1",
+  "rowCount": 0,
+  "schemaType": "LiveSkillTriggerFilterCategory",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE LiveSkillTriggerFilterCategory(`id` TEXT, `data` BLOB, PRIMARY KEY (`id`))",
+  "output": "data/LiveSkillTriggerFilterCategory.jsonl"
+}

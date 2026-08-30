@@ -1,0 +1,12 @@
+{
+  "type": "ParkTalk",
+  "fileName": "86e157f83d084b96d08cc3ddf11f436594881466f2fa993fcdd14359083b7dbd",
+  "rawPath": "86e157f83d084b96d08cc3ddf11f436594881466f2fa993fcdd14359083b7dbd",
+  "fileSize": 1421312,
+  "rawSha256": "b8ecf2cfbce3188c0c401dbea33485f73c4eba20ea0affcf8f964b03ab5d805a",
+  "rowCount": 4841,
+  "schemaType": "ParkTalk",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE ParkTalk(`group_id` TEXT, `simple_adv_character_id` TEXT, `number` INTEGER, `data` BLOB, PRIMARY KEY (`group_id`, `simple_adv_character_id`, `number`))",
+  "output": "data/ParkTalk.jsonl"
+}

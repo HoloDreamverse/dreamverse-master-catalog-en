@@ -1,0 +1,12 @@
+{
+  "type": "CustomPalettePresetLayoutGroup",
+  "fileName": "630b04243f9843e8b6090d893d60c159338e58605b59536919868fdc899a9662",
+  "rawPath": "630b04243f9843e8b6090d893d60c159338e58605b59536919868fdc899a9662",
+  "fileSize": 12288,
+  "rawSha256": "a170d779592a16c13bd7acb9dcf1515de52d24c86705318440ab54e3ff4a9f4c",
+  "rowCount": 6,
+  "schemaType": "CustomPalettePresetLayoutGroup",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE CustomPalettePresetLayoutGroup(`id` TEXT, `data` BLOB, PRIMARY KEY (`id`))",
+  "output": "data/CustomPalettePresetLayoutGroup.jsonl"
+}

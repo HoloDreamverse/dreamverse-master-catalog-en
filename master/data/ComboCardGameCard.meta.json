@@ -1,0 +1,12 @@
+{
+  "type": "ComboCardGameCard",
+  "fileName": "3f29a35a01f88a86df5fc7833fb67a53b80b3e9faf4d23459e3dab541e2ec6e8",
+  "rawPath": "3f29a35a01f88a86df5fc7833fb67a53b80b3e9faf4d23459e3dab541e2ec6e8",
+  "fileSize": 77824,
+  "rawSha256": "ca374ee12d1328a7dc333ddf2604828ba9a87d3f44d193cbb37e5a6a67947bba",
+  "rowCount": 315,
+  "schemaType": "ComboCardGameCard",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE ComboCardGameCard(`group_id` TEXT, `character_id` TEXT, `category_type` INTEGER, `character_grouping_id` TEXT, `data` BLOB, PRIMARY KEY (`group_id`, `character_id`, `category_type`, `character_grouping_id`))",
+  "output": "data/ComboCardGameCard.jsonl"
+}

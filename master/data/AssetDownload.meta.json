@@ -1,0 +1,12 @@
+{
+  "type": "AssetDownload",
+  "fileName": "041c6b7c685b108aedb15fd0591079ae0722c7ce3d9e0dba87bafa3cea79e092",
+  "rawPath": "041c6b7c685b108aedb15fd0591079ae0722c7ce3d9e0dba87bafa3cea79e092",
+  "fileSize": 577536,
+  "rawSha256": "2c1fb55f69f3fe78efe0da3319023e82ad6000955cd3d8182d4eea3f7903d8a4",
+  "rowCount": 4395,
+  "schemaType": "AssetDownload",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE AssetDownload(`asset_id` TEXT, `data` BLOB, PRIMARY KEY (`asset_id`))",
+  "output": "data/AssetDownload.jsonl"
+}

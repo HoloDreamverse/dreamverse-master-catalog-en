@@ -1,0 +1,12 @@
+{
+  "type": "ParkFishingBait",
+  "fileName": "5fbad9bf98d192ce4e726270caa202599ea8ecae4f1a1fed8892a712e1c899a5",
+  "rawPath": "5fbad9bf98d192ce4e726270caa202599ea8ecae4f1a1fed8892a712e1c899a5",
+  "fileSize": 12288,
+  "rawSha256": "7ac5fd5ba573c3935410671b104d84d5119bac983fbcd88a7ebddf9087b2d193",
+  "rowCount": 0,
+  "schemaType": "ParkFishingBait",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE ParkFishingBait(`id` TEXT, `data` BLOB, PRIMARY KEY (`id`))",
+  "output": "data/ParkFishingBait.jsonl"
+}

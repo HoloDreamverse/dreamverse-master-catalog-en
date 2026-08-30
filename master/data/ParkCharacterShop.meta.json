@@ -1,0 +1,12 @@
+{
+  "type": "ParkCharacterShop",
+  "fileName": "f2c4488e244bc1f00638dd97eb62085787feb0abbbdc00f62e4ed933e0581a4d",
+  "rawPath": "f2c4488e244bc1f00638dd97eb62085787feb0abbbdc00f62e4ed933e0581a4d",
+  "fileSize": 12288,
+  "rawSha256": "b372dc8cfbec82088de69e87ad0b8431412e5d186393341057a47128c74cad02",
+  "rowCount": 4,
+  "schemaType": "ParkCharacterShop",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE ParkCharacterShop(`id` TEXT, `data` BLOB, PRIMARY KEY (`id`))",
+  "output": "data/ParkCharacterShop.jsonl"
+}

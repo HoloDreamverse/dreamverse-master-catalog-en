@@ -1,0 +1,12 @@
+{
+  "type": "LangLiveActiveSkillEffect_Eng",
+  "fileName": "1fd7128b3ed1be0bb9055d463688ec8ba191f334a8ef90b8e5977facbb135bf1",
+  "rawPath": "LangLiveActiveSkillEffect_Eng/1fd7128b3ed1be0bb9055d463688ec8ba191f334a8ef90b8e5977facbb135bf1",
+  "fileSize": 12288,
+  "rawSha256": "29f43d830fd8d42a20f9d89e34f1f811f7b50de142fbc41b1db71d1591b9cf0c",
+  "rowCount": 0,
+  "schemaType": "Lang",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE Lang(`id` TEXT, `data` BLOB, PRIMARY KEY (`id`))",
+  "output": "data/LangLiveActiveSkillEffect_Eng.jsonl"
+}

@@ -1,0 +1,12 @@
+{
+  "type": "LangParkTalk_Eng",
+  "fileName": "9bcecce3d4e6990b62e84f6b3734c47741990c22cc50129d25a83617c7c027bc",
+  "rawPath": "9bcecce3d4e6990b62e84f6b3734c47741990c22cc50129d25a83617c7c027bc",
+  "fileSize": 905216,
+  "rawSha256": "81bf1e7efc9148a3217227059f9bcd5cb3406f295cdb7edb2eb16f1b3fad8182",
+  "rowCount": 4432,
+  "schemaType": "Lang",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE Lang(`id` TEXT, `data` BLOB, PRIMARY KEY (`id`))",
+  "output": "data/LangParkTalk_Eng.jsonl"
+}

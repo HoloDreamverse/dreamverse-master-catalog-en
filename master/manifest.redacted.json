@@ -1,0 +1,2993 @@
+{
+  "region": "en",
+  "appVersion": "1.1.0",
+  "version": "fbca8c670e074558b24708bf163fff446a614f709afa9d1784395a15444121b0",
+  "fetchedAt": "2026-08-30T23:13:58+00:00",
+  "packCount": 373,
+  "packs": [
+    {
+      "type": "AchievementCategory",
+      "fileName": "be9628beb4f9261850b8a621a474adcf7a21988a00ab1ce8860140826fefb3aa",
+      "fileSize": 8192,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/AchievementCategory/be9628beb4f9261850b8a621a474adcf7a21988a00ab1ce8860140826fefb3aa",
+      "cryptoKeySha256": "96969483fe603c5afef1a57cbe00cbb66a1e779d929f7ad4ba4374bcb9d8ed1c",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "AchievementGroup",
+      "fileName": "e436c57b61e0c319545d2942c7fdd999839e8e2e3e7cdc98d08c872a9b9adc44",
+      "fileSize": 24576,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/AchievementGroup/e436c57b61e0c319545d2942c7fdd999839e8e2e3e7cdc98d08c872a9b9adc44",
+      "cryptoKeySha256": "8c7271e050dbeeb5f3d6962b88418b9fc9248898f50b62ecd554bf5296649672",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "AppealText",
+      "fileName": "d2cc601e2014c689ebdb6858f933b9ba938342c368fe5304cc8f8724bd429666",
+      "fileSize": 20480,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/AppealText/d2cc601e2014c689ebdb6858f933b9ba938342c368fe5304cc8f8724bd429666",
+      "cryptoKeySha256": "92cd5db9e8e0ed877c8f72e5f24a01d7efc8dd409b964ae6f53e4909383d3bc8",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "Area",
+      "fileName": "cf4132fcf2ff3ffd5d70c25bb3cf3025079b51fe4d982a35776836cf6aefd317",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/Area/cf4132fcf2ff3ffd5d70c25bb3cf3025079b51fe4d982a35776836cf6aefd317",
+      "cryptoKeySha256": "5c76440f464a543694a9a1d71860e6035b354da38efb2a387db859628d6940ab",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "AreaAppearance",
+      "fileName": "beba21579a553c6a5cbb649becb7a1e1c5fc5007e9200b14a4f2fd46613e84a0",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/AreaAppearance/beba21579a553c6a5cbb649becb7a1e1c5fc5007e9200b14a4f2fd46613e84a0",
+      "cryptoKeySha256": "ad4e74687de139cb724658c61d136bb0639494dd0a9ffeb00de50d5f17653bd1",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "AreaGrouping",
+      "fileName": "1facf42c53108485706c2e8bb3b7a917377bf040654274fa7d3c187d8fdc816b",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/AreaGrouping/1facf42c53108485706c2e8bb3b7a917377bf040654274fa7d3c187d8fdc816b",
+      "cryptoKeySha256": "d0b26b441ec918cce1fe504882e484fb18fcd57fc08a9d83786336e59c560286",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "AreaMap",
+      "fileName": "3a2c663943f5e9133920ecb15545fb0ea45d2f6b7cf6ff8e1b7e10bfac14edc3",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/AreaMap/3a2c663943f5e9133920ecb15545fb0ea45d2f6b7cf6ff8e1b7e10bfac14edc3",
+      "cryptoKeySha256": "86f37622063f6103c8fd66732cbd04f2e35aa688e6eb577351b8f776e0d428ad",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "AreaSelector",
+      "fileName": "454ca48d284d3818b88ef35c011c8662a08d08125bf893bb3d678aade0e2fff8",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/AreaSelector/454ca48d284d3818b88ef35c011c8662a08d08125bf893bb3d678aade0e2fff8",
+      "cryptoKeySha256": "88e570f1ff5f72d35f2e288d2ff0ca7e733323313feea54605d6c2f651970a7f",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "AreaStory",
+      "fileName": "4cf9ba474365d7653afa53eba6ea2f55d4f460000344b352df2d60313e7384b8",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/AreaStory/4cf9ba474365d7653afa53eba6ea2f55d4f460000344b352df2d60313e7384b8",
+      "cryptoKeySha256": "8f82980e6c606c39e0d521375e54296d412f4488187f2117d8be4af07edd23f0",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "AreaStoryChapter",
+      "fileName": "c38a805dd143875d6cf64fc6807498e65def310f22dea7b1665d39936f7f12a1",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/AreaStoryChapter/c38a805dd143875d6cf64fc6807498e65def310f22dea7b1665d39936f7f12a1",
+      "cryptoKeySha256": "272f48287fc021ee8981cc60e8de4200a18ed2abb616bf502c43fc5bfe60d858",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "AssetDownload",
+      "fileName": "041c6b7c685b108aedb15fd0591079ae0722c7ce3d9e0dba87bafa3cea79e092",
+      "fileSize": 577536,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/AssetDownload/041c6b7c685b108aedb15fd0591079ae0722c7ce3d9e0dba87bafa3cea79e092",
+      "cryptoKeySha256": "0f89cefefa5fbad8be780fd1f95e5ddf7d1a3451d85dab609474b818bf244992",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "AssetEmbeddingText",
+      "fileName": "df2695950a0cd7b31b36d40fbfed17373561139d9caae02e8073cf7d85f359f5",
+      "fileSize": 24576,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/AssetEmbeddingText/df2695950a0cd7b31b36d40fbfed17373561139d9caae02e8073cf7d85f359f5",
+      "cryptoKeySha256": "c05caf9efce805a152bac3867454f01045b7ea1afd6e2ca7675afe293188450a",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "AssetEntry",
+      "fileName": "d48a0e45fdafeb49a079f1571d66df0716bb3a62273a2343926401f840dcede0",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/AssetEntry/d48a0e45fdafeb49a079f1571d66df0716bb3a62273a2343926401f840dcede0",
+      "cryptoKeySha256": "aa7e9a4478e2ce6d9cf5f60625a8041058c9e639373d70bb1556471e61a3176d",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "AssetStreamingMute",
+      "fileName": "69670da5b47e648af64fe68cf8694373ff924e520ff70ae51497a9f7b221ded9",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/AssetStreamingMute/69670da5b47e648af64fe68cf8694373ff924e520ff70ae51497a9f7b221ded9",
+      "cryptoKeySha256": "b5944cc6eaeb0ecc4936364d79a28e0b93e1e24485f0fc1be634a8ce0461ee0d",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "BenefitLicense",
+      "fileName": "c23630ac4105149aad9b744444bf1a5f73e616e6c0a530fe8f959c1b15f181dd",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/BenefitLicense/c23630ac4105149aad9b744444bf1a5f73e616e6c0a530fe8f959c1b15f181dd",
+      "cryptoKeySha256": "d5b5f899465da45f265b6f84d5fc9369bd8bb72582430f1d77a29593fb1b3599",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "Card",
+      "fileName": "07885c63163b2c4b912dac86f7d7e850c91016367f694be7a10b6f9d5cee5525",
+      "fileSize": 172032,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/Card/07885c63163b2c4b912dac86f7d7e850c91016367f694be7a10b6f9d5cee5525",
+      "cryptoKeySha256": "047a214d462c5f3937f2aabc634128569d35d0ef64a7d57e06ed3ba066bdf0e6",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "CardLevel",
+      "fileName": "934cf7e2ed87055e8477e2551009372695f76f749db17bd35fad39a9a62e4df5",
+      "fileSize": 229376,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/CardLevel/934cf7e2ed87055e8477e2551009372695f76f749db17bd35fad39a9a62e4df5",
+      "cryptoKeySha256": "9410456a5af50e8b4e5a9a864fbc06992b98356bf0ad7dafd95174ef9eeab53b",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "CardLevelLimit",
+      "fileName": "51840556af9d13ef02cc3fcda67f7b5f82773e36c1cd171dd0c7e832789cf39b",
+      "fileSize": 20480,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/CardLevelLimit/51840556af9d13ef02cc3fcda67f7b5f82773e36c1cd171dd0c7e832789cf39b",
+      "cryptoKeySha256": "ff13c7fe5ce2120323c0921096fb6d5562b76df2f26af5b6988e36b1a4801215",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "CardPotential",
+      "fileName": "9b8618fa9b8afd1fa56821b9348e07747e59deb60a132da1f60cbe86df2e2784",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/CardPotential/9b8618fa9b8afd1fa56821b9348e07747e59deb60a132da1f60cbe86df2e2784",
+      "cryptoKeySha256": "1ed63674828aa670134427be451523e959daf2afd7e82bcebd8e00b5876787b4",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "CardPotentialUpgradeItem",
+      "fileName": "77e6ce472f15b17d18dbd51a3dd4820ef922c8bbe2d0f3e5ddf20ffed489305a",
+      "fileSize": 8192,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/CardPotentialUpgradeItem/77e6ce472f15b17d18dbd51a3dd4820ef922c8bbe2d0f3e5ddf20ffed489305a",
+      "cryptoKeySha256": "50f5293536d7efa1ef84ad5803d16c9378d0c1e8d2780bbf404815c938b36026",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "Character",
+      "fileName": "69494210e8b80d131f14d1a5225bb61e93efb6f8558ab28ec6999b7acece5fa9",
+      "fileSize": 53248,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/Character/69494210e8b80d131f14d1a5225bb61e93efb6f8558ab28ec6999b7acece5fa9",
+      "cryptoKeySha256": "e451f571461e8acdce9ae3d010148a0e7c00a48937b8adcd19e0c82197a04c52",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "CharacterGrouping",
+      "fileName": "8ca505fe6f91de8f76ff1ddce9fafd40dbfa3ad01af80547f36d9d12410f6421",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/CharacterGrouping/8ca505fe6f91de8f76ff1ddce9fafd40dbfa3ad01af80547f36d9d12410f6421",
+      "cryptoKeySha256": "b80e4d54d003ecdb2a4e3fdebfc1d382f75e8b7d54151440ffbab6cf7cda7548",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "CharacterHistory",
+      "fileName": "2d8580ab5aabeb9a5e14533871049fab01c512cc4320a0ee8b56e960c3f14fc1",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/CharacterHistory/2d8580ab5aabeb9a5e14533871049fab01c512cc4320a0ee8b56e960c3f14fc1",
+      "cryptoKeySha256": "03e5f416a1ecfbd899595cd9761c6e4350e574ce5b1ec67ffb71b6f06d5c9035",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "CharacterHistoryDisplay",
+      "fileName": "6ea6055c3fd0717cac8e211042528e4de6bfc706d83f6445c446b3de1e95927c",
+      "fileSize": 8192,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/CharacterHistoryDisplay/6ea6055c3fd0717cac8e211042528e4de6bfc706d83f6445c446b3de1e95927c",
+      "cryptoKeySha256": "ecee506b43e2fa6dabe97db40d14c186b6aaecbfcdbc4bd66750ae99010166c8",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "CharacterLevel",
+      "fileName": "5ad4e3a3d3552c5f464035818f2e91d578742093c6aba1f4ca03d5b0c2de274c",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/CharacterLevel/5ad4e3a3d3552c5f464035818f2e91d578742093c6aba1f4ca03d5b0c2de274c",
+      "cryptoKeySha256": "fc24efa2af4e0122a6166d016ddbd26e564f84fb8a02e238953f92cfa6da0286",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "CharacterLiveDialogueVoice",
+      "fileName": "ca3cdbb8c9f550bf8fbee3595dab60a195fca63ed8727bdfa85911951b89752d",
+      "fileSize": 1339392,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/CharacterLiveDialogueVoice/ca3cdbb8c9f550bf8fbee3595dab60a195fca63ed8727bdfa85911951b89752d",
+      "cryptoKeySha256": "8dae9e5148e27140376600507a36892ceffd95f2237de434cbe9464bcfc6dac9",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "CharacterMotion",
+      "fileName": "b4be16e32049d6c8198a29638e7ac300a607de8df540215b8b88cc7a85588ab5",
+      "fileSize": 176128,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/CharacterMotion/b4be16e32049d6c8198a29638e7ac300a607de8df540215b8b88cc7a85588ab5",
+      "cryptoKeySha256": "996c3781e24f219354ca1c14d15cf0ae091e6a55d483e6878137f8d278c2bb39",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "CharacterProduction",
+      "fileName": "13951aa6c85b71ed8f17d476293a69dd398c2e1e606b87562b53bfcfc564ff2d",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/CharacterProduction/13951aa6c85b71ed8f17d476293a69dd398c2e1e606b87562b53bfcfc564ff2d",
+      "cryptoKeySha256": "99aded2812933f725cb9b059266bd27fdb7b3bde49fe6a280cfe9e883449e589",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "CharacterStory",
+      "fileName": "a2421cef5dd74dc01e0f69df98902f6f4db53dbebd28dfc185d7edf81fb5a636",
+      "fileSize": 24576,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/CharacterStory/a2421cef5dd74dc01e0f69df98902f6f4db53dbebd28dfc185d7edf81fb5a636",
+      "cryptoKeySha256": "20c76d818f776a7063ca00264f04949d1d37187387bd88ec03b5a4d9a98fcea9",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "CharacterVoice",
+      "fileName": "e985dd7fed65754ce818d5dbffb0ecdb7fe6270aefe3b6893b88c8c87f6ae272",
+      "fileSize": 5279744,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/CharacterVoice/e985dd7fed65754ce818d5dbffb0ecdb7fe6270aefe3b6893b88c8c87f6ae272",
+      "cryptoKeySha256": "a23bb8e4288b7918f4d2e535b1ea9bb639d4f6107fdf3b521799295a9592ccb7",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "CharacterVoiceCategory",
+      "fileName": "2697e97c4818214dfbae9d6c091b94c0c71cbcbe52d1ec8ed229ac57b10bc3b7",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/CharacterVoiceCategory/2697e97c4818214dfbae9d6c091b94c0c71cbcbe52d1ec8ed229ac57b10bc3b7",
+      "cryptoKeySha256": "8480bb17bec5ef1985affd17e3cd65fa527107c06bea39fb2be45f537a55b120",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "Chase",
+      "fileName": "3d8c8ef2a3655ade887b262644bca09bba3e7f43ae1e39506a234bd73d761922",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/Chase/3d8c8ef2a3655ade887b262644bca09bba3e7f43ae1e39506a234bd73d761922",
+      "cryptoKeySha256": "5dda41f888041d0fc54960cc25c88ed06161028407e121131aac52901ee1a68a",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "ChasePatrolSkill",
+      "fileName": "a34a136cc712a38880830a55cd05d5c82d81016d36caf49dcd15827922540728",
+      "fileSize": 8192,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/ChasePatrolSkill/a34a136cc712a38880830a55cd05d5c82d81016d36caf49dcd15827922540728",
+      "cryptoKeySha256": "74145bc847fc52b4cc3c4f110b786bbc2b9ba85c2ee0cd327911d5a13f7a7a75",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "ChaseScoreReward",
+      "fileName": "af4bff1646dace5bde92d015acb663544d321edd3158093db20d08c4ffb95ba9",
+      "fileSize": 8192,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/ChaseScoreReward/af4bff1646dace5bde92d015acb663544d321edd3158093db20d08c4ffb95ba9",
+      "cryptoKeySha256": "7d4aee97e2515eb64539c764da24c820cefcc5f37567efe24faa43a666a56e7b",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "ChaseSetting",
+      "fileName": "e12d571b87dbade542134988c476dcd7efad8c27e7074d9c7b83580a02654d2f",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/ChaseSetting/e12d571b87dbade542134988c476dcd7efad8c27e7074d9c7b83580a02654d2f",
+      "cryptoKeySha256": "311a560b0b7f6d836502d9013f91486d34b95081db9bcac061b29b6ff27aa9e6",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "Cheat",
+      "fileName": "6c96120fd28a0beddd15def5c04ae4327c2c7a10546df89268abd3743ed74698",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/Cheat/6c96120fd28a0beddd15def5c04ae4327c2c7a10546df89268abd3743ed74698",
+      "cryptoKeySha256": "efe56c11fa29d91bb4cd61d0ef6a7f913bd5db657a6a665bdc8ec28b751fb668",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "Circuit",
+      "fileName": "36b3d81a9f802fe493110e50db12dba38b22568e0a419bbb587747294ca3915e",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/Circuit/36b3d81a9f802fe493110e50db12dba38b22568e0a419bbb587747294ca3915e",
+      "cryptoKeySha256": "a35027fba4af80731f9df16aa6ad5a9df1978380d530cd4e7421e053c4543e1e",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "CircuitArea",
+      "fileName": "97d2352fc26f56fdae14e8f753972f1f7b7162ea5ba1b0d76fc534ee26be5f6d",
+      "fileSize": 8192,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/CircuitArea/97d2352fc26f56fdae14e8f753972f1f7b7162ea5ba1b0d76fc534ee26be5f6d",
+      "cryptoKeySha256": "8646e669cd6314a84b825164cb8d686b159a00f9c43822a12184eb53f1bfca23",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "CircuitDashCoolTime",
+      "fileName": "93c41d82885c9c27c8c5a988a9c4a9c453fed552c0bdf7d3971473f0290c3820",
+      "fileSize": 8192,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/CircuitDashCoolTime/93c41d82885c9c27c8c5a988a9c4a9c453fed552c0bdf7d3971473f0290c3820",
+      "cryptoKeySha256": "aaa1f8da72baaed9b7c5d756ededc256fff70609e82a6465ef11988508bcb7c1",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "CircuitRankBetCoinRate",
+      "fileName": "08d56d682c8f8fd0834661904ddf9fd97744bac69b024b8e8d422513c5393685",
+      "fileSize": 8192,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/CircuitRankBetCoinRate/08d56d682c8f8fd0834661904ddf9fd97744bac69b024b8e8d422513c5393685",
+      "cryptoKeySha256": "37a7af2399ccbc65f3310b538d74ff572d3d2caf7667993d8fa43cc69b665928",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "CircuitSetting",
+      "fileName": "287b4e25ed726f4badfdd638987a72bb1896a4cc16232475fe33237fffd3e2ab",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/CircuitSetting/287b4e25ed726f4badfdd638987a72bb1896a4cc16232475fe33237fffd3e2ab",
+      "cryptoKeySha256": "4cfa5553a7dc9f52e1342c5642606b4477b549d3dd43fc89f345fc6637fe77d7",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "ComboCardGame",
+      "fileName": "28a9dd8821190f5a17838e903f99ca635506352f0d3b03519b35838e5e62597c",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/ComboCardGame/28a9dd8821190f5a17838e903f99ca635506352f0d3b03519b35838e5e62597c",
+      "cryptoKeySha256": "59a35f2b477d3b89f107551916490b237af8caa98557b92272e2af867f8a522d",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "ComboCardGameCard",
+      "fileName": "3f29a35a01f88a86df5fc7833fb67a53b80b3e9faf4d23459e3dab541e2ec6e8",
+      "fileSize": 77824,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/ComboCardGameCard/3f29a35a01f88a86df5fc7833fb67a53b80b3e9faf4d23459e3dab541e2ec6e8",
+      "cryptoKeySha256": "fbbcc9c5208c921d14d7c56c84ed207af6795fa80ae3c9b4ee48b58037334477",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "ComboCardGameDeck",
+      "fileName": "8026bf04f650ac88db0825f96dbb93bcf6e81f76a76d530a336b24138e36eeff",
+      "fileSize": 147456,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/ComboCardGameDeck/8026bf04f650ac88db0825f96dbb93bcf6e81f76a76d530a336b24138e36eeff",
+      "cryptoKeySha256": "37ba42048a55d866781c24857dabf483955e4d89fe6227cdf51c563f104b5b4e",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "ComboCardGameDeckCharacterGrouping",
+      "fileName": "53bff58741684d39e02aec15e6fd8d0f397aa952c2e572c87b9e66e1e13edb11",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/ComboCardGameDeckCharacterGrouping/53bff58741684d39e02aec15e6fd8d0f397aa952c2e572c87b9e66e1e13edb11",
+      "cryptoKeySha256": "035907275dbaa1f1f3b4666d4819d525179691343f53290b5f205a22f0e5b696",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "ComboCardGameRankBetCoinRate",
+      "fileName": "98f06b9ab1216c308771865be8eac24a5d426aa69eb5aea333b912f2d38f9d42",
+      "fileSize": 8192,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/ComboCardGameRankBetCoinRate/98f06b9ab1216c308771865be8eac24a5d426aa69eb5aea333b912f2d38f9d42",
+      "cryptoKeySha256": "137b7c85e5aa9cf372c84500d8d57bc6decc7a699a3db479ec1706d65d2fa07d",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "ComboCardGameRoleScore",
+      "fileName": "e67c2a0b815d678e533793e72063ffe971b041a953b2ac1fd6ec0bb296eef259",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/ComboCardGameRoleScore/e67c2a0b815d678e533793e72063ffe971b041a953b2ac1fd6ec0bb296eef259",
+      "cryptoKeySha256": "0bc7fde9ca704a7ead824c6935bd856222281063adb4273eeb6015ce67bfa41b",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "ComboCardGameSetting",
+      "fileName": "5b700a53545837b960cadb6cfda5cb441658a7edb9f29857242fed3c57bb321f",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/ComboCardGameSetting/5b700a53545837b960cadb6cfda5cb441658a7edb9f29857242fed3c57bb321f",
+      "cryptoKeySha256": "ed896c148c791048f636c6153609b96dac46e54c9823372d0ad61e063512ceb8",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "CommonBgm",
+      "fileName": "9cfeb9b269b9b2fae9987fd3460488d767362b061ff570d5e3420503ce8a6b8e",
+      "fileSize": 8192,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/CommonBgm/9cfeb9b269b9b2fae9987fd3460488d767362b061ff570d5e3420503ce8a6b8e",
+      "cryptoKeySha256": "9f7df0165977d9284f41102328fe09cc34558737c783f9f615645ee807bb5023",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "Condition",
+      "fileName": "bac75b1539b5e8d6b638fbe52088e4c6fe446290d06e6fec2d4c2eef2fa96ff3",
+      "fileSize": 491520,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/Condition/bac75b1539b5e8d6b638fbe52088e4c6fe446290d06e6fec2d4c2eef2fa96ff3",
+      "cryptoKeySha256": "f6654cb9cd4a0d0ae8b93006b860bfebbb291384526e534f4edf7164f7dd64b4",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "CookingPuzzle",
+      "fileName": "f164a5d451a04d954181617ca98cba225d0e7988e1d0dca5c77b9854c8ba0524",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/CookingPuzzle/f164a5d451a04d954181617ca98cba225d0e7988e1d0dca5c77b9854c8ba0524",
+      "cryptoKeySha256": "d0277a2ac1a9d15b4a3f8284c51dcf1eff07f820122d3c9dfece91debb813036",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "CookingPuzzleCombo",
+      "fileName": "accba622396f49811c32b0b3173329b6d6a07ccad84131bf84680672b8c51957",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/CookingPuzzleCombo/accba622396f49811c32b0b3173329b6d6a07ccad84131bf84680672b8c51957",
+      "cryptoKeySha256": "19c8c6a59757415a72a4e126506035f33e930916430f7fa6dc41ea5216285cd3",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "CookingPuzzleCompletionCountReward",
+      "fileName": "57d1c0f2a88d71c97a1d352cf2c21b673b898688c51f111f0971f9bbeac215e1",
+      "fileSize": 20480,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/CookingPuzzleCompletionCountReward/57d1c0f2a88d71c97a1d352cf2c21b673b898688c51f111f0971f9bbeac215e1",
+      "cryptoKeySha256": "9f3a42386edbbf1f20abc18bcbb1ed9ee6b7144dce97d8a07f0710c45972ba0e",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "CookingPuzzleFoodstuff",
+      "fileName": "fd4888c03a3df1c3593aa50f00f8b667c465fa80dae990267f47385021a439a9",
+      "fileSize": 20480,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/CookingPuzzleFoodstuff/fd4888c03a3df1c3593aa50f00f8b667c465fa80dae990267f47385021a439a9",
+      "cryptoKeySha256": "97cbf075d3a08999a94ad13c852ed7b127a51a4b4837090105b1b8d7efae87a1",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "CookingPuzzleRecipe",
+      "fileName": "156fa4c8ef32fa635853884908757b548f71cc02fe2450a59cd9932e613a53a2",
+      "fileSize": 24576,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/CookingPuzzleRecipe/156fa4c8ef32fa635853884908757b548f71cc02fe2450a59cd9932e613a53a2",
+      "cryptoKeySha256": "e8fd7c645c2616bdd789a4aa5b2b31d876f44834ccb6d8116e7e7456d2e60501",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "CookingPuzzleSetting",
+      "fileName": "69f5846952090ab08329450290763774f573c2e420e12452b3c1f42f253c90a9",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/CookingPuzzleSetting/69f5846952090ab08329450290763774f573c2e420e12452b3c1f42f253c90a9",
+      "cryptoKeySha256": "a00adda209738e964f726af92b0c5c8474493c45d1242dabf7ed338ec42b405a",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "CookingPuzzleStage",
+      "fileName": "19693250c52fb3d17369aba9474f56ba99669b3e6e2a477e1d0e73c5e97a3f24",
+      "fileSize": 20480,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/CookingPuzzleStage/19693250c52fb3d17369aba9474f56ba99669b3e6e2a477e1d0e73c5e97a3f24",
+      "cryptoKeySha256": "a07e56df190d70a0a3d1670b5b9913b0ef37117c4e2db3193057a160c18810c1",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "CookingPuzzleStagePattern",
+      "fileName": "d0e50e6a55edca62b39a37e77f55db213c0f110e73077f27855366b47c0a1e6d",
+      "fileSize": 114688,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/CookingPuzzleStagePattern/d0e50e6a55edca62b39a37e77f55db213c0f110e73077f27855366b47c0a1e6d",
+      "cryptoKeySha256": "12d3128145143665409c039c3a679bcfde054b5da0d0dbea4c54a01bda87b3a7",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "Costume",
+      "fileName": "22b31f9fa361f64dcac4c2ed845c1e52c1cf4c54bf71b970a32f5547e6ec655e",
+      "fileSize": 61440,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/Costume/22b31f9fa361f64dcac4c2ed845c1e52c1cf4c54bf71b970a32f5547e6ec655e",
+      "cryptoKeySha256": "c2429fd004bc069b817224f1375f3f5312b0fd32a7427b8edca6e58dfc0bc130",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "Country",
+      "fileName": "ca68badb05e4747f5746741114a90a8e66049b02e09f94943c5c692c8eb95d47",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/Country/ca68badb05e4747f5746741114a90a8e66049b02e09f94943c5c692c8eb95d47",
+      "cryptoKeySha256": "8ded12ab8ce36c095726482c9514ab30f8cc39da2e0b9eb0a1467929e505b84c",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "CustomPaletteDecoration",
+      "fileName": "c50daf8d6495e2555eef78918d7e1ff8b3b4b5c8ced3726415f12a8c6d777c1f",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/CustomPaletteDecoration/c50daf8d6495e2555eef78918d7e1ff8b3b4b5c8ced3726415f12a8c6d777c1f",
+      "cryptoKeySha256": "18e522381391c9944e7aa35706916ab036c2c6b248d8925d1227f21d162b3df9",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "CustomPalettePresetLayoutGroup",
+      "fileName": "630b04243f9843e8b6090d893d60c159338e58605b59536919868fdc899a9662",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/CustomPalettePresetLayoutGroup/630b04243f9843e8b6090d893d60c159338e58605b59536919868fdc899a9662",
+      "cryptoKeySha256": "9e1ccbfd2fc243a1f689022af8c2f9cdae6393ad65fb450cab49cd44d2d7b8c7",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "Emblem",
+      "fileName": "50bf1279aeaa04897511b8606a0eaf3d57f66183bbe94630578ad53b601a5b3c",
+      "fileSize": 245760,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/Emblem/50bf1279aeaa04897511b8606a0eaf3d57f66183bbe94630578ad53b601a5b3c",
+      "cryptoKeySha256": "1eb9f142a4ed18363fb8619e7389954303be3a0ac66273ae7f76b3b1df12ea7f",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "EventStory",
+      "fileName": "e1ea1f28a04dccefbd139965cf72677f5a261bc7253cc0d5fd62fca1e12d74cd",
+      "fileSize": 20480,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/EventStory/e1ea1f28a04dccefbd139965cf72677f5a261bc7253cc0d5fd62fca1e12d74cd",
+      "cryptoKeySha256": "a4fb4bb96e5a31c488fa7e83700c927bd14f8b81e29e614630daa7ab6383cb8c",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "EventStoryChapter",
+      "fileName": "0e9d3a27ef6ea7c408344c8ea4644ff5d913ee998d0096a76d006d91debe68b2",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/EventStoryChapter/0e9d3a27ef6ea7c408344c8ea4644ff5d913ee998d0096a76d006d91debe68b2",
+      "cryptoKeySha256": "5b7f4cfdd05fc321a0c460820dad08718005baa535d76a24640c3ffc3b13a040",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "ExchangeBooth",
+      "fileName": "0c911c7b594e5a50ec33e7ad1778dc33bbf1ea8e35e1f870f933243e53ebf862",
+      "fileSize": 57344,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/ExchangeBooth/0c911c7b594e5a50ec33e7ad1778dc33bbf1ea8e35e1f870f933243e53ebf862",
+      "cryptoKeySha256": "b9224e7af97814650d6445342672667209dd9d2b7b494358c38251a81fe7bd49",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "ExchangeBoothFixedItem",
+      "fileName": "d1b9994fc52491c2799c915b366b185cba76c500a9762cbc8e518b869f672247",
+      "fileSize": 335872,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/ExchangeBoothFixedItem/d1b9994fc52491c2799c915b366b185cba76c500a9762cbc8e518b869f672247",
+      "cryptoKeySha256": "b98380a7ed999c6c87670a5f8e07fc1c4ff7fe87ee087e6b38bfd354f7b971c3",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "ExchangeBoothGroup",
+      "fileName": "01dbf76e9e4eca7c187c6124f7c7fcfcda301cb07fe8d8f8d12940676467ca04",
+      "fileSize": 20480,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/ExchangeBoothGroup/01dbf76e9e4eca7c187c6124f7c7fcfcda301cb07fe8d8f8d12940676467ca04",
+      "cryptoKeySha256": "343771e4647360f3104affcfe18ea4d972feb22628a59836e8329f8550edba96",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "Facility",
+      "fileName": "d786650520a19b56e3c1cd7447985d84a19983968c7b629b420dd4c79d3d9f39",
+      "fileSize": 24576,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/Facility/d786650520a19b56e3c1cd7447985d84a19983968c7b629b420dd4c79d3d9f39",
+      "cryptoKeySha256": "2af43c6ea52f5b7656a8c6ef87509c90d7b0fa97c79bdd3828ae1e45645ce6fe",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "FacilityAppearance",
+      "fileName": "af2c35322a1430659c89a499ef48447472fafbb5f10c8cf764a812c535532f86",
+      "fileSize": 57344,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/FacilityAppearance/af2c35322a1430659c89a499ef48447472fafbb5f10c8cf764a812c535532f86",
+      "cryptoKeySha256": "f37459f98c8fafc8dc552a250b23b200a4e4b99aa398876c759719e28c78f1c7",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "FacilityLevel",
+      "fileName": "9cc09e87c0ed28f45d6bf3f31696cc6a82e1639733a9ba0b5a499de278b3ee2d",
+      "fileSize": 20480,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/FacilityLevel/9cc09e87c0ed28f45d6bf3f31696cc6a82e1639733a9ba0b5a499de278b3ee2d",
+      "cryptoKeySha256": "7b51306ade86dd3355e4389ec7dfb5dcf800e8577ec9cfadcbbb757079c3a837",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "FanMark",
+      "fileName": "8001db218aac9ce27f6dd4c1cb072b8d408e6f0e5ef5441938eb5aabeac15936",
+      "fileSize": 20480,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/FanMark/8001db218aac9ce27f6dd4c1cb072b8d408e6f0e5ef5441938eb5aabeac15936",
+      "cryptoKeySha256": "c901f9d60385bd43a147047620114e3e0714a3bfd1f076e030de44fbcfbc2e75",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "FeatureLock",
+      "fileName": "6099b0a89140438bc1aaf37ca029ade1efde9540cecf76b6f9f01ecdae2d4664",
+      "fileSize": 16384,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/FeatureLock/6099b0a89140438bc1aaf37ca029ade1efde9540cecf76b6f9f01ecdae2d4664",
+      "cryptoKeySha256": "ebcda36587915cb4b7d65a53553b9c3052bfe43186a82cc0eb4c87619cd7872c",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "FeatureMaintenance",
+      "fileName": "5332fc1b00b5217820db561516ec249fe7391a1bd27f0d919028bc20045f2a4f",
+      "fileSize": 8192,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/FeatureMaintenance/5332fc1b00b5217820db561516ec249fe7391a1bd27f0d919028bc20045f2a4f",
+      "cryptoKeySha256": "abddb9e2f2b73e513371d244e786e61e63c6c29f0c41081817b56c2cb0ab1e81",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "Gacha",
+      "fileName": "1dbff3e51a54e5181b5636c4c6e551b4e81effcabcacbaec32503c8b065dd959",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/Gacha/1dbff3e51a54e5181b5636c4c6e551b4e81effcabcacbaec32503c8b065dd959",
+      "cryptoKeySha256": "e7407221229ecd85f2998088b666576514e897773c53a7b280108d7ee31fe419",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "GachaAnimationFake",
+      "fileName": "b0867a275aa7aaf0d8d2b27a0421b7f72e8b43126a9e465bbd9c39dad743a18a",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/GachaAnimationFake/b0867a275aa7aaf0d8d2b27a0421b7f72e8b43126a9e465bbd9c39dad743a18a",
+      "cryptoKeySha256": "bf208641a02cd32124b5d63aa1708e45e3e6058385731e73babfb6df0e110d0d",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "GachaAnimationGrouping",
+      "fileName": "9cc06af8ff21b606afc438bf1b1cc94ca3094ddc13715d8d781ca6c2891f2def",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/GachaAnimationGrouping/9cc06af8ff21b606afc438bf1b1cc94ca3094ddc13715d8d781ca6c2891f2def",
+      "cryptoKeySha256": "4011abc8bd91a62587c661bfe9b1d82216cb00ec02487cb0c138b1118e577d8f",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "GachaAnimationMovie",
+      "fileName": "7d5298cf2b279caa77a693af47160a369b9ce42f463724b4e935fc39d67c4961",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/GachaAnimationMovie/7d5298cf2b279caa77a693af47160a369b9ce42f463724b4e935fc39d67c4961",
+      "cryptoKeySha256": "fb5294272e1fbd8dcaebacf3672110c23fbfb61a55901b3a8ca5da611de4fc53",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "GachaAnimationTransition",
+      "fileName": "31ac1fffecea0f01c16f1483d72cbfa91565b9d000f72476d886a08a6b7b5d04",
+      "fileSize": 106496,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/GachaAnimationTransition/31ac1fffecea0f01c16f1483d72cbfa91565b9d000f72476d886a08a6b7b5d04",
+      "cryptoKeySha256": "91427b2534f092875866f4a733698b634201b85fd46be14b374d7de4be2e7739",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "GachaButton",
+      "fileName": "400368d36ec2c4b595d1f4510a15d4ff22c8b5bb9878561c34a1124b7924f352",
+      "fileSize": 20480,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/GachaButton/400368d36ec2c4b595d1f4510a15d4ff22c8b5bb9878561c34a1124b7924f352",
+      "cryptoKeySha256": "7bc81dd14be9d3f3619a7a43b37580c96b155d1b3e597599f060108e62c945a6",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "GachaPoint",
+      "fileName": "861debbbef402be90c9b5fde235bccc9074eb3e6ee3d9983e5be508e839fa6d3",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/GachaPoint/861debbbef402be90c9b5fde235bccc9074eb3e6ee3d9983e5be508e839fa6d3",
+      "cryptoKeySha256": "ffa042b8e9e228a9410a2a62a44228ecfc436c9e7fe5b582e4d02e3afbcaf1ec",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "GameTitle",
+      "fileName": "0e2193a0c7f2690bb4f633dd7182943f86940e204076f245bc109adf391a42f0",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/GameTitle/0e2193a0c7f2690bb4f633dd7182943f86940e204076f245bc109adf391a42f0",
+      "cryptoKeySha256": "de1fbdc3b87341e185a1400f7862bd1075cbe7f05741a8b7bddd69fac9349817",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "HelpCategory",
+      "fileName": "fa01fff8241a9c89a468c86da7ee5c90c3804c6e1f7f5d013b1fbdfa073b8866",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/HelpCategory/fa01fff8241a9c89a468c86da7ee5c90c3804c6e1f7f5d013b1fbdfa073b8866",
+      "cryptoKeySha256": "4d19ca606ae4bc8c94be834603cc5e8d57defb241e5ad50f0f7a2f64cbbca4ad",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "HelpContent",
+      "fileName": "ff5af1345a52883d87ff0b4a6194ed059c4f70a1625532f1d5ba4f383eab692d",
+      "fileSize": 40960,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/HelpContent/ff5af1345a52883d87ff0b4a6194ed059c4f70a1625532f1d5ba4f383eab692d",
+      "cryptoKeySha256": "a917b286346d87e8ad98dbfd34a5c0d97e70be964a0a2a84aa77a756c5b689bd",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "HolograStory",
+      "fileName": "00f8893c593b470ffd372963eef68bb679e0bf00f61045518597106686506090",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/HolograStory/00f8893c593b470ffd372963eef68bb679e0bf00f61045518597106686506090",
+      "cryptoKeySha256": "fff5ff48a50678e1395201853d769d100a2d51449d4d8c1a6db6d08291d9e591",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "InstantTips",
+      "fileName": "135867ed4fcffdae8a9daff9114c1dd68cb41ccc4ad149f82b303451d056e4b7",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/InstantTips/135867ed4fcffdae8a9daff9114c1dd68cb41ccc4ad149f82b303451d056e4b7",
+      "cryptoKeySha256": "791c19d2e26ab0128206a8f8b2ada8bc93a908dce8bb3f916854eab9568157bb",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "Item",
+      "fileName": "6bff702b6466b623b39001749c16befd5c348086c7346bcefab2060953699b4b",
+      "fileSize": 53248,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/Item/6bff702b6466b623b39001749c16befd5c348086c7346bcefab2060953699b4b",
+      "cryptoKeySha256": "7e5da9f923ee0d73c993457db95e832b94a415973df5e7ef6e101450ba883396",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "ItemLimit",
+      "fileName": "10c4c6c2487d7d03d9820cbe384455a5db67add9c5f293040c64ea776f600322",
+      "fileSize": 8192,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/ItemLimit/10c4c6c2487d7d03d9820cbe384455a5db67add9c5f293040c64ea776f600322",
+      "cryptoKeySha256": "25e01da6d47311a1b41096ad94a6bc53c4a5098b688fcc2053f834e207dba432",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "ItemSelectableRewardBox",
+      "fileName": "365c71d32f750aa08cdd5fdc72d5ac027d01b5cc0f780e6385d8c8cfecaef52d",
+      "fileSize": 32768,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/ItemSelectableRewardBox/365c71d32f750aa08cdd5fdc72d5ac027d01b5cc0f780e6385d8c8cfecaef52d",
+      "cryptoKeySha256": "788bae62be33901fa5f316f4c9469a9cc32ae56824067db9214872d6a1245326",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "ItemTypeDetail",
+      "fileName": "9d414cbf1e06aa0055a505de2d80a3652503a7b7394d1bac834483b1127dc038",
+      "fileSize": 8192,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/ItemTypeDetail/9d414cbf1e06aa0055a505de2d80a3652503a7b7394d1bac834483b1127dc038",
+      "cryptoKeySha256": "79e56356027284d9c744768779c04d4f1c7d577e6635d6c241a37358da6a981a",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "JumpRope",
+      "fileName": "d8f8b0850feace095dc6db1e4031654066cdca590250e938277ffea20b01809f",
+      "fileSize": 20480,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/JumpRope/d8f8b0850feace095dc6db1e4031654066cdca590250e938277ffea20b01809f",
+      "cryptoKeySha256": "c0e584ab79c8791cbd0ed5c78f2142c0f672a0e3d0579e6bd0553619de889879",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "JumpRopeGimmick",
+      "fileName": "a69043d2e94681065ed8055861b2994cc6a6b0be52aa3fcb92d4e25ab1578252",
+      "fileSize": 8192,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/JumpRopeGimmick/a69043d2e94681065ed8055861b2994cc6a6b0be52aa3fcb92d4e25ab1578252",
+      "cryptoKeySha256": "a0d1f2bf3eea1e0e3f06227b72eb6c17e55b9fd3487802a10fcb983aa24fc30c",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "JumpRopeJumpCountReward",
+      "fileName": "0ed2ac17795428f4078d5d5b900c91e6c4b74eefe6a1f5529bb9e4345a51bd98",
+      "fileSize": 24576,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/JumpRopeJumpCountReward/0ed2ac17795428f4078d5d5b900c91e6c4b74eefe6a1f5529bb9e4345a51bd98",
+      "cryptoKeySha256": "9f2df2e5d6ca89de15852ef4791641945cd77946ef776100f3816dce0b464dec",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "JumpRopePhase",
+      "fileName": "39df9e3c09f2a1e12410724f68b7e4031add9b9e5f2b085e0ebee4a00b7e4226",
+      "fileSize": 8192,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/JumpRopePhase/39df9e3c09f2a1e12410724f68b7e4031add9b9e5f2b085e0ebee4a00b7e4226",
+      "cryptoKeySha256": "0e918f0f20e5cf31b2e0257a38437e728eb2cd60c6927dbdaece9c6929e9b043",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "JumpRopePhaseGimmick",
+      "fileName": "f482fa034b244ecbb93d48363bdc8715b4c11bb8dd18366010199154947f591d",
+      "fileSize": 32768,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/JumpRopePhaseGimmick/f482fa034b244ecbb93d48363bdc8715b4c11bb8dd18366010199154947f591d",
+      "cryptoKeySha256": "bbf5ff54023d42c989eb99e7513c3d32e72f1c321f9be09e42eb8623d69c2e17",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "JumpRopeSetting",
+      "fileName": "55c9188766d284d16b0f8df2cbde30293f61775b55f35a33f0a7d110f788d0aa",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/JumpRopeSetting/55c9188766d284d16b0f8df2cbde30293f61775b55f35a33f0a7d110f788d0aa",
+      "cryptoKeySha256": "aa52a878a1d5c9b7dc1cada39e44b95590c7a459d7517636064dde06cc183232",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LangAchievementCategory_Eng",
+      "fileName": "883d1df65087d543e1f2559a920f967ee45c141c048b9c554691c0e8f0d24f3f",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LangAchievementCategory_Eng/883d1df65087d543e1f2559a920f967ee45c141c048b9c554691c0e8f0d24f3f",
+      "cryptoKeySha256": "4891976a8588a4543a3dcf94c7c62b945d5fc89b2279f81fdea46a870e2bdbd7",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LangAchievementGroup_Eng",
+      "fileName": "91fc1a862852f09ec420c62f0ab04e68a47a82c54ecff9120d65996a063b2878",
+      "fileSize": 20480,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LangAchievementGroup_Eng/91fc1a862852f09ec420c62f0ab04e68a47a82c54ecff9120d65996a063b2878",
+      "cryptoKeySha256": "ec690ceaaa856c35138b9e65c6851c45541222765dad80b9f5e0fe41886dcc89",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LangAppealText_Eng",
+      "fileName": "690e03e502acf27beb8e1040a4daa948e9b43634f2e10c81ceb72be04bcac4f7",
+      "fileSize": 20480,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LangAppealText_Eng/690e03e502acf27beb8e1040a4daa948e9b43634f2e10c81ceb72be04bcac4f7",
+      "cryptoKeySha256": "2283885bc999b42484be93432ea90cb5409860b9ebac4e63a2ec4217ffc34b6c",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LangAreaGrouping_Eng",
+      "fileName": "78e532516d9f6d3da41e4a7923299008e0a43c4916937a9654bb6b64c7e88e6c",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LangAreaGrouping_Eng/78e532516d9f6d3da41e4a7923299008e0a43c4916937a9654bb6b64c7e88e6c",
+      "cryptoKeySha256": "236ecbab5e5512be0505649ce3c6afeccd8d81ba2d1cca2a54f06f336cf4f00a",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LangAreaStoryChapter_Eng",
+      "fileName": "f80caaeca2f7156cebdb2b4515f70244bd66140f7b37c52322b6b59a507fcc7f",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LangAreaStoryChapter_Eng/f80caaeca2f7156cebdb2b4515f70244bd66140f7b37c52322b6b59a507fcc7f",
+      "cryptoKeySha256": "ff109a27071e21d56ea6b3f25cb464ac9e896d5b2c57e7488324579ded18a0c6",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LangAreaStory_Eng",
+      "fileName": "190b503fc5345d39fc889f145e7d0f295833195db2e86a12c50d509479dc9671",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LangAreaStory_Eng/190b503fc5345d39fc889f145e7d0f295833195db2e86a12c50d509479dc9671",
+      "cryptoKeySha256": "1b88070bdde06fff1e33751b509e7348e701849abb88d127375c7a80e7fb8f7e",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LangArea_Eng",
+      "fileName": "f08e8d0f17b7160a0cf2f25975eabe2b58eb3981ff3fb4de31985fe60c0596f2",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LangArea_Eng/f08e8d0f17b7160a0cf2f25975eabe2b58eb3981ff3fb4de31985fe60c0596f2",
+      "cryptoKeySha256": "b50ec8104a84f96bede3546d8e532508712bb743fa573ee08e9f43320d2abd8a",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LangAssetEmbeddingText_Eng",
+      "fileName": "c3d18011410738e51be00e11a064c822875ffde6f77a7ab69233c0fda57c3e7d",
+      "fileSize": 24576,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LangAssetEmbeddingText_Eng/c3d18011410738e51be00e11a064c822875ffde6f77a7ab69233c0fda57c3e7d",
+      "cryptoKeySha256": "39f25d37bd25d4553824d2479c8d506364942fb2b4185d1c9c8f887f1675f0ef",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LangCard_Eng",
+      "fileName": "4defdf0bead2f8fe3b5ba896af38cc847822ce524417879029ebf9f6f987b41e",
+      "fileSize": 40960,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LangCard_Eng/4defdf0bead2f8fe3b5ba896af38cc847822ce524417879029ebf9f6f987b41e",
+      "cryptoKeySha256": "5342d9c18127fd8c8e12391cf3c43446cda8137b56ff8c6724dd0f76ae248b88",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LangCharacterGrouping_Eng",
+      "fileName": "1cf86a6c7018ef1192fedc7258a5b65ee0686be40514890bf814af26de96a833",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LangCharacterGrouping_Eng/1cf86a6c7018ef1192fedc7258a5b65ee0686be40514890bf814af26de96a833",
+      "cryptoKeySha256": "e9c34717a7deaa573ce044cf468c9f157913c210ce9a02dddda139b083c3f8b7",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LangCharacterHistory_Eng",
+      "fileName": "51ba55bcba759293d7fbdab917514b8f712c8c7a0a1d0d81bd913bf1a50149f7",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LangCharacterHistory_Eng/51ba55bcba759293d7fbdab917514b8f712c8c7a0a1d0d81bd913bf1a50149f7",
+      "cryptoKeySha256": "09b1e1ec24acd85d38beb61f5130cdd9843ce3e763eaf2163d2301ed5618c6bd",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LangCharacterProduction_Eng",
+      "fileName": "bde7635de5035af57721228d36142b041a543fa645d03c99f49f2ea4fe63a322",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LangCharacterProduction_Eng/bde7635de5035af57721228d36142b041a543fa645d03c99f49f2ea4fe63a322",
+      "cryptoKeySha256": "bb8562a3c1868aea6c574c66665e6096418d51bd6727c45659772ad11109dcd8",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LangCharacterStory_Eng",
+      "fileName": "216bc5edf6fd9af24ecc8dee861a641ab9d8dc4c532a2b016778ef5210af7f1d",
+      "fileSize": 20480,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LangCharacterStory_Eng/216bc5edf6fd9af24ecc8dee861a641ab9d8dc4c532a2b016778ef5210af7f1d",
+      "cryptoKeySha256": "4bcf4bafa0ee36a3c644eb0dbe6f026f67eacfdfefa4faa3c5cb349793ab019a",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LangCharacterVoiceCategory_Eng",
+      "fileName": "b076d8e77ab23a6b573ac4f5b11bac592d26668f7546ca6bb227aad8717c2c77",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LangCharacterVoiceCategory_Eng/b076d8e77ab23a6b573ac4f5b11bac592d26668f7546ca6bb227aad8717c2c77",
+      "cryptoKeySha256": "c9ae43d1db6b4e2fadd8de1dbaabb917bd17ff442a0e2b07045c2bc45668411f",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LangCharacterVoice_Eng",
+      "fileName": "1f6e4b3584676d57d89dd2031ba1348521941e700776ffea460aa36b93920dce",
+      "fileSize": 5033984,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LangCharacterVoice_Eng/1f6e4b3584676d57d89dd2031ba1348521941e700776ffea460aa36b93920dce",
+      "cryptoKeySha256": "b1aec046289453acd386f5dbf4b49c4c550b384d302696a5aff9cf05d4e622c4",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LangCharacter_Eng",
+      "fileName": "b448413339d03498baeb1cf0eaa8b8488d11e493c261fb0c4e3e48173b5a1d13",
+      "fileSize": 77824,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LangCharacter_Eng/b448413339d03498baeb1cf0eaa8b8488d11e493c261fb0c4e3e48173b5a1d13",
+      "cryptoKeySha256": "78b95e34f349eea49afdba24392d184ee31b7699ce1f854c96035bba759536c7",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LangChasePatrolSkill_Eng",
+      "fileName": "23128548d1245534a56a10dc1f6a3e8f3e2a53262b5a5da3679bd63e825cb751",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LangChasePatrolSkill_Eng/23128548d1245534a56a10dc1f6a3e8f3e2a53262b5a5da3679bd63e825cb751",
+      "cryptoKeySha256": "5b365bd43604a3608cb189cdf834474017e842a4afffe7bd5969f68edc8b5e64",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LangCircuitArea_Eng",
+      "fileName": "1fd7128b3ed1be0bb9055d463688ec8ba191f334a8ef90b8e5977facbb135bf1",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LangCircuitArea_Eng/1fd7128b3ed1be0bb9055d463688ec8ba191f334a8ef90b8e5977facbb135bf1",
+      "cryptoKeySha256": "90a022abaeb7d630d88fb09f8f49bd4bef9ec423618a4da78c9391035fb038b8",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LangCircuit_Eng",
+      "fileName": "10fb075298250369874ced8683e052fbf536ff5fedf5f44586344ad72f19b695",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LangCircuit_Eng/10fb075298250369874ced8683e052fbf536ff5fedf5f44586344ad72f19b695",
+      "cryptoKeySha256": "bc4a7fa423128f566debca41fc65f38eff07e89ec44e89949e2445fcc39dbc9a",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LangClientCommon_Eng",
+      "fileName": "061b9e62b127682606e9ba43b50bad3857fba64936749c5974e20fc0e7b4798c",
+      "fileSize": 151552,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LangClientCommon_Eng/061b9e62b127682606e9ba43b50bad3857fba64936749c5974e20fc0e7b4798c",
+      "cryptoKeySha256": "a9e8ac5521ddc0569129edb1d9373a91bbbdc4fdf86aa9968adab88caa4a11f0",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LangComboCardGameRoleScore_Eng",
+      "fileName": "3abca83db2e609066f21cc39aa9917a5d18977147b27b8505db7df1a256b4e82",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LangComboCardGameRoleScore_Eng/3abca83db2e609066f21cc39aa9917a5d18977147b27b8505db7df1a256b4e82",
+      "cryptoKeySha256": "0d6adb793a6bb70e74d2d774ae58c5a8994b2964153d3bbab3ecac5ee4ab6eab",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LangComboCardGame_Eng",
+      "fileName": "b2d5bfd0189b24b2728bb98771b489c3b4b1bd726a9922201d0f4c72b6a638a3",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LangComboCardGame_Eng/b2d5bfd0189b24b2728bb98771b489c3b4b1bd726a9922201d0f4c72b6a638a3",
+      "cryptoKeySha256": "e4b9ae296eb7a5e37b6149d0fe66a720fec0d648dad60403b53d547190032f6d",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LangCondition_Eng",
+      "fileName": "00bf77494a348b6a9ac49ed343356b7467d70bacd5e25ea884730c6d29a81692",
+      "fileSize": 24576,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LangCondition_Eng/00bf77494a348b6a9ac49ed343356b7467d70bacd5e25ea884730c6d29a81692",
+      "cryptoKeySha256": "8362a2f863fcbe8eb8dd9be8af84182b11f8db861273c81732d60a5c80f5c98e",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LangCookingPuzzleFoodstuff_Eng",
+      "fileName": "b9284374199d1326e7fae7b4838c13554d593603ad9d51e7dca9c86b2186dee0",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LangCookingPuzzleFoodstuff_Eng/b9284374199d1326e7fae7b4838c13554d593603ad9d51e7dca9c86b2186dee0",
+      "cryptoKeySha256": "d70ca56a0667ae8e7e8b757cf23e0b71ebcb29d8a5878ce8c49d2bb3d7f44888",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LangCookingPuzzleRecipe_Eng",
+      "fileName": "09852752637d44f666ab2e1f6c32b3b58fed4c995621d19db35db0faf0ec5a91",
+      "fileSize": 28672,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LangCookingPuzzleRecipe_Eng/09852752637d44f666ab2e1f6c32b3b58fed4c995621d19db35db0faf0ec5a91",
+      "cryptoKeySha256": "e6b504003d56f1f884601dc23d46c963e54c9311996d5460f85b7f1fd03f8a19",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LangCookingPuzzle_Eng",
+      "fileName": "2100af2d36d882f0305adb8ac03641315169be8026c9da543c064a89ba04cdd8",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LangCookingPuzzle_Eng/2100af2d36d882f0305adb8ac03641315169be8026c9da543c064a89ba04cdd8",
+      "cryptoKeySha256": "9aeccaee48acec1c2729c0739dee47ee02a8400b127132a977e7536dd4a4614c",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LangCostume_Eng",
+      "fileName": "3dfa425dbb639ae8143850af4d265da6a0164f0bca48a6514cccb14acf058c88",
+      "fileSize": 36864,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LangCostume_Eng/3dfa425dbb639ae8143850af4d265da6a0164f0bca48a6514cccb14acf058c88",
+      "cryptoKeySha256": "ab488c303b37f940dab29e52f43e16af49c150d600d344ac35414d9f2c74d9a0",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LangCountry_Eng",
+      "fileName": "ce8dac28448471e91868cc6df8e0812aa2880e2576d71d712dffb62d3b2d9f00",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LangCountry_Eng/ce8dac28448471e91868cc6df8e0812aa2880e2576d71d712dffb62d3b2d9f00",
+      "cryptoKeySha256": "983c8c466009b8906686f3ce4931050872cb4dbcde7d4c5e719b01fa2759d5c3",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LangCustomPaletteDecoration_Eng",
+      "fileName": "faacf7c407d533fe242891b80570306a42f07aa8d65fe09bc83f89755b265395",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LangCustomPaletteDecoration_Eng/faacf7c407d533fe242891b80570306a42f07aa8d65fe09bc83f89755b265395",
+      "cryptoKeySha256": "9597e615e25c96f2b310bb0780f90a7c7cf099de575e44bc6c7ba11d68ce0ee4",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LangCustomPalettePresetLayoutGroup_Eng",
+      "fileName": "cbd686271e2cc126c8e10b23e93a2d8c885f0f696e47dcbbf26c38f7fbde643d",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LangCustomPalettePresetLayoutGroup_Eng/cbd686271e2cc126c8e10b23e93a2d8c885f0f696e47dcbbf26c38f7fbde643d",
+      "cryptoKeySha256": "93f6f439cb0c1d42157e5e4d9b284ca7260d1550aec315d624453405ba904f6f",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LangEmblem_Eng",
+      "fileName": "5bdf61217f95dba008a45391b1e0f7d98c7e30238a93daaf6f88eb4311781451",
+      "fileSize": 196608,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LangEmblem_Eng/5bdf61217f95dba008a45391b1e0f7d98c7e30238a93daaf6f88eb4311781451",
+      "cryptoKeySha256": "7fda764fd75a9a50305e77b89b8bc942d5e77072200190c0d3914e8617bfe8fe",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LangEventStoryChapter_Eng",
+      "fileName": "505e7f343037ffdf983392ed033a00407156e211dfece86a5f7e2170f57891b9",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LangEventStoryChapter_Eng/505e7f343037ffdf983392ed033a00407156e211dfece86a5f7e2170f57891b9",
+      "cryptoKeySha256": "92fa8e972cc261d7ab33aaca3d5e7bfe9d215631a29e8b1119bafa06193afce1",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LangEventStory_Eng",
+      "fileName": "4b3174471ac02fc2f0b9813448b8a1c7e848479b98a543f498743c1b7ee342d9",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LangEventStory_Eng/4b3174471ac02fc2f0b9813448b8a1c7e848479b98a543f498743c1b7ee342d9",
+      "cryptoKeySha256": "80372dec649083b03c86c261eb137716c65ffc57b0479a15d35e0a5a4f10e109",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LangFacilityAppearance_Eng",
+      "fileName": "f671301dd7d1ae904de46b8c58b35403109fb832ad1211c7f8b91e8fd9da2e9e",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LangFacilityAppearance_Eng/f671301dd7d1ae904de46b8c58b35403109fb832ad1211c7f8b91e8fd9da2e9e",
+      "cryptoKeySha256": "dfc8da9f79b846c8b029dfc72aed6e63f6b42759c3e3de89c209cdbe562cf543",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LangFacilityLevel_Eng",
+      "fileName": "251d003237d2df63f2c29c7207ba1e9443915355124e7856a85fcf562b82299b",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LangFacilityLevel_Eng/251d003237d2df63f2c29c7207ba1e9443915355124e7856a85fcf562b82299b",
+      "cryptoKeySha256": "9d44be00081cc35db8ae9ef4f3c64a8151e9203261d9b1593476b5fd1624e980",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LangFacility_Eng",
+      "fileName": "2cb7efa550da06562f9bff6b719c641a560318e0d849320e90f2001587b090da",
+      "fileSize": 32768,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LangFacility_Eng/2cb7efa550da06562f9bff6b719c641a560318e0d849320e90f2001587b090da",
+      "cryptoKeySha256": "f03d2b62a981ce5e24e874402f746bb8c36715d8d916d92b1cbaa3d692c1283e",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LangFanMark_Eng",
+      "fileName": "1c0749567d02698270c352565a429c0c5ddae7a5f87f6fddbce7cd1a6190f3a2",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LangFanMark_Eng/1c0749567d02698270c352565a429c0c5ddae7a5f87f6fddbce7cd1a6190f3a2",
+      "cryptoKeySha256": "958b1fb4e3958499fa6cc11dee1432951141bc71ae1c0f76849c86bd13f6b799",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LangFeatureLock_Eng",
+      "fileName": "6b5537423c3d01d52a1e4617f6dabddc342558e3070ef9fe1effe1a81d9634c3",
+      "fileSize": 20480,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LangFeatureLock_Eng/6b5537423c3d01d52a1e4617f6dabddc342558e3070ef9fe1effe1a81d9634c3",
+      "cryptoKeySha256": "3d2b03925373585d23ecbe23e1ecefa781710cbeecf4f9bbf6177021a366748a",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LangGachaPoint_Eng",
+      "fileName": "bd4921f88774408b54d5c07b558dbbbb941dd92941f5134cb20f349d61e77edc",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LangGachaPoint_Eng/bd4921f88774408b54d5c07b558dbbbb941dd92941f5134cb20f349d61e77edc",
+      "cryptoKeySha256": "ad42427323aa39ca84ad0ee537d5ebb9bf4b7917f39a20fb7bbdf69a3c70c49c",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LangGeneratedLiveActiveSkillEffect_Eng",
+      "fileName": "fc60f695809b8f2cec74868f9a4c9559b36b1ffbbd6a3ce1a19025ef083cf5d6",
+      "fileSize": 32768,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LangGeneratedLiveActiveSkillEffect_Eng/fc60f695809b8f2cec74868f9a4c9559b36b1ffbbd6a3ce1a19025ef083cf5d6",
+      "cryptoKeySha256": "f5f3d04bd2190ff201b86df2b0fb14d9040cf157e373521a8491a8caebfb89b7",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LangGeneratedLiveActiveSkillLevel_Eng",
+      "fileName": "329fef3764ee6ff11ce8a4facd2ce254221a2bb714409c08311637d42ce3f585",
+      "fileSize": 143360,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LangGeneratedLiveActiveSkillLevel_Eng/329fef3764ee6ff11ce8a4facd2ce254221a2bb714409c08311637d42ce3f585",
+      "cryptoKeySha256": "497fe41069b6e82ad420a456b9042aab5fae798a93d74a6031d838fbdc0b9738",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LangGeneratedLiveLeaderSkill_Eng",
+      "fileName": "b42e42a80702fd1fb8a7f1def74b0e6689f8735c9f691550e9ddf92668e5c6ea",
+      "fileSize": 69632,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LangGeneratedLiveLeaderSkill_Eng/b42e42a80702fd1fb8a7f1def74b0e6689f8735c9f691550e9ddf92668e5c6ea",
+      "cryptoKeySha256": "0152ccdedf63a7200cb86386b178a60b4ea8d387876411559ce2f72627120da4",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LangGeneratedLivePassiveSkillEffect_Eng",
+      "fileName": "5c2b2e867661280352aaebb5fc37c8984a7bc0fcd9420e5e40fa610fb2850c29",
+      "fileSize": 106496,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LangGeneratedLivePassiveSkillEffect_Eng/5c2b2e867661280352aaebb5fc37c8984a7bc0fcd9420e5e40fa610fb2850c29",
+      "cryptoKeySha256": "fbe13235b66ac3e82487fce0273aaeff1311c340b7572d82174d6923c5e1512d",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LangGeneratedLivePassiveSkillLevel_Eng",
+      "fileName": "4e7c95ebb4fcb87e1f3bdfc8a3d300ee534ccebcfc6a17c020eb6700e4d3db6e",
+      "fileSize": 143360,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LangGeneratedLivePassiveSkillLevel_Eng/4e7c95ebb4fcb87e1f3bdfc8a3d300ee534ccebcfc6a17c020eb6700e4d3db6e",
+      "cryptoKeySha256": "14ec3d461afca6935d997616a9c1e41990ef0a4c1f0a7aab3676b7d107c159c2",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LangGeneratedLiveSkillEffectTarget_Eng",
+      "fileName": "72d03826f5a6a565ad12b298bc1ee039a1f9c20f7426a3cd1c1be382fd5aa33f",
+      "fileSize": 40960,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LangGeneratedLiveSkillEffectTarget_Eng/72d03826f5a6a565ad12b298bc1ee039a1f9c20f7426a3cd1c1be382fd5aa33f",
+      "cryptoKeySha256": "e289026356fd013f1083140fe24fb88b548eb3ac7aedde24755b1c53721483d2",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LangGeneratedLiveSkillTrigger_Eng",
+      "fileName": "0b7d16428b6733d4d314c665cc22d45efd228805b0b0f8e1de470c1f605232b1",
+      "fileSize": 81920,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LangGeneratedLiveSkillTrigger_Eng/0b7d16428b6733d4d314c665cc22d45efd228805b0b0f8e1de470c1f605232b1",
+      "cryptoKeySha256": "974f0f8bb6043c3f79769cf9a31e7377c38899699e8c3f063158ab981068be88",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LangGeneratedLiveSpecialSkillLevel_Eng",
+      "fileName": "0ebf47194add99348bdc7b88431e4824f076ed769ff8a2039cab0276beffda6e",
+      "fileSize": 131072,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LangGeneratedLiveSpecialSkillLevel_Eng/0ebf47194add99348bdc7b88431e4824f076ed769ff8a2039cab0276beffda6e",
+      "cryptoKeySha256": "207ec852349dc60390bffcaf3fdc349b25014eb8a766f0b273f678ff87d1c411",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LangGeneratedSkillTreeConnectEffect_Eng",
+      "fileName": "7e2043691065d40466a502951097ca753ddfa407bf13491de27e59d1d0b8012d",
+      "fileSize": 36864,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LangGeneratedSkillTreeConnectEffect_Eng/7e2043691065d40466a502951097ca753ddfa407bf13491de27e59d1d0b8012d",
+      "cryptoKeySha256": "1adbb070024824dcc9b148be5ea7e3d3bff1abb600833514ed86038104011451",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LangGeneratedSkillTreeEffectPassiveTrigger_Eng",
+      "fileName": "8ca887cee9c4f1d1b47cc4e01a30c6312823ba92d627a564998ea02da91eb032",
+      "fileSize": 40960,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LangGeneratedSkillTreeEffectPassiveTrigger_Eng/8ca887cee9c4f1d1b47cc4e01a30c6312823ba92d627a564998ea02da91eb032",
+      "cryptoKeySha256": "fe11bb37e492914f2236f4d47b87dde4abbc33a0fd43bbd4dab643b326b38cd7",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LangGeneratedSkillTreeEffectTarget_Eng",
+      "fileName": "82ee5a41ffdf6e245297650b31ce62da4b87e88ce823b294fb117c73fda5f83c",
+      "fileSize": 36864,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LangGeneratedSkillTreeEffectTarget_Eng/82ee5a41ffdf6e245297650b31ce62da4b87e88ce823b294fb117c73fda5f83c",
+      "cryptoKeySha256": "876b569626c0dcc6e83db7d11c7c8bce8a4bc2ff06c32a2eb259a0df58517141",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LangGeneratedSkillTreeEffect_Eng",
+      "fileName": "c2bd2979fd982a289a47735b7aa8626dafcb75d50491096447d873ee97ee83a3",
+      "fileSize": 77824,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LangGeneratedSkillTreeEffect_Eng/c2bd2979fd982a289a47735b7aa8626dafcb75d50491096447d873ee97ee83a3",
+      "cryptoKeySha256": "a90b5fd4076180474906ce67e276aad451625310ac33cd3c12758ed0e3e9cdf7",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LangHelpCategory_Eng",
+      "fileName": "f08e40c128fe197cef5081569d23afcae90e85078ac51fae875fb48c37f7782c",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LangHelpCategory_Eng/f08e40c128fe197cef5081569d23afcae90e85078ac51fae875fb48c37f7782c",
+      "cryptoKeySha256": "a4deeeedc6aad8bb398c0b38dd156561cba8688dfbe1d70e795c3536fa986d73",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LangHelpContent_Eng",
+      "fileName": "aed33ffe80db8b1fb60fe92aa3619956158ba82ddd49531b420b1ab1fc0d860f",
+      "fileSize": 118784,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LangHelpContent_Eng/aed33ffe80db8b1fb60fe92aa3619956158ba82ddd49531b420b1ab1fc0d860f",
+      "cryptoKeySha256": "79045a280b10b68e6e0919d03ab4addcd8fb1ad9e32e76861e23c17358c298a1",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LangHolograStory_Eng",
+      "fileName": "4ef4111089315d3c2b225a78ecf0a99a9abc077ee209a1be6f35d190a404d34f",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LangHolograStory_Eng/4ef4111089315d3c2b225a78ecf0a99a9abc077ee209a1be6f35d190a404d34f",
+      "cryptoKeySha256": "2a69dcbe9d28a71985c4068e16713bf833c26b32dccf4d700758f9e3671a481b",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LangInstantTips_Eng",
+      "fileName": "9275d30320ae9c31c812a58e20ca2cf07370fc38396a0c06235255054f91635e",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LangInstantTips_Eng/9275d30320ae9c31c812a58e20ca2cf07370fc38396a0c06235255054f91635e",
+      "cryptoKeySha256": "caf59116812987054455e0f4494a2eeec3309ab4fc1715827e8742e6fc4aa147",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LangItemTypeDetail_Eng",
+      "fileName": "bf07488ce9ca78cbf39f53db611ea463956ed37cbef412fa7e36e3f25c33c50b",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LangItemTypeDetail_Eng/bf07488ce9ca78cbf39f53db611ea463956ed37cbef412fa7e36e3f25c33c50b",
+      "cryptoKeySha256": "7e34aeeef7bb9534b9ba6f00d7f7266d462928cb9bc2a25d587153c31e2d8ea5",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LangItem_Eng",
+      "fileName": "b4a62c1f14046e0ed10b0895a5d490f339565b23e8fbf19b13942286eb677ba3",
+      "fileSize": 65536,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LangItem_Eng/b4a62c1f14046e0ed10b0895a5d490f339565b23e8fbf19b13942286eb677ba3",
+      "cryptoKeySha256": "ab2cac854219672396f2f1a62948f3fc69dabada3ce04d3cfff6b4b6ab770e9f",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LangJumpRopePhase_Eng",
+      "fileName": "d0424b2d1f13450d573c6d6cce51cc8ca0580556446e3e49438a4427e19af8a8",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LangJumpRopePhase_Eng/d0424b2d1f13450d573c6d6cce51cc8ca0580556446e3e49438a4427e19af8a8",
+      "cryptoKeySha256": "0cf77f9bbf207a680be570c81536216fc722213d1963bedbe7a50fc72dc82bcd",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LangJumpRope_Eng",
+      "fileName": "f6ba17265c4cc7c2c545d498dc59d5de3bec8375f7e1bc5846914f007156c94c",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LangJumpRope_Eng/f6ba17265c4cc7c2c545d498dc59d5de3bec8375f7e1bc5846914f007156c94c",
+      "cryptoKeySha256": "f84bdc89baffe87e789b2219277eca0d8642beb44826b8df35fd893e1b2c8a8b",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LangLiveActiveSkillEffect_Eng",
+      "fileName": "1fd7128b3ed1be0bb9055d463688ec8ba191f334a8ef90b8e5977facbb135bf1",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LangLiveActiveSkillEffect_Eng/1fd7128b3ed1be0bb9055d463688ec8ba191f334a8ef90b8e5977facbb135bf1",
+      "cryptoKeySha256": "3a5c7b1c7f9caa29ee785b9693012397e9093cd777a4bba2e0b2d5581081b25c",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LangLiveActiveSkillLevel_Eng",
+      "fileName": "1fd7128b3ed1be0bb9055d463688ec8ba191f334a8ef90b8e5977facbb135bf1",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LangLiveActiveSkillLevel_Eng/1fd7128b3ed1be0bb9055d463688ec8ba191f334a8ef90b8e5977facbb135bf1",
+      "cryptoKeySha256": "4b1bc854a528a4e6afece21bd86eb5faa5cd8ecbf3b75a1507028b6a9669b127",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LangLiveDialogueVoice_Eng",
+      "fileName": "09d6ac44de701cc6c129aa9bb360f2a28bd3359c7bb5515da630814df573e11a",
+      "fileSize": 716800,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LangLiveDialogueVoice_Eng/09d6ac44de701cc6c129aa9bb360f2a28bd3359c7bb5515da630814df573e11a",
+      "cryptoKeySha256": "05c470cef0130cffa3648208329d76ac57a664e5ef30c1487bfe38add8652ac9",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LangLiveLeaderSkill_Eng",
+      "fileName": "1fd7128b3ed1be0bb9055d463688ec8ba191f334a8ef90b8e5977facbb135bf1",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LangLiveLeaderSkill_Eng/1fd7128b3ed1be0bb9055d463688ec8ba191f334a8ef90b8e5977facbb135bf1",
+      "cryptoKeySha256": "1e47da3e1729159715da0d541ad03e9a10b8b0c99c067c1f4313d822107f6c19",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LangLivePassiveSkillEffect_Eng",
+      "fileName": "1fd7128b3ed1be0bb9055d463688ec8ba191f334a8ef90b8e5977facbb135bf1",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LangLivePassiveSkillEffect_Eng/1fd7128b3ed1be0bb9055d463688ec8ba191f334a8ef90b8e5977facbb135bf1",
+      "cryptoKeySha256": "790f9dee7899e76d4cdb5c43c40d99ea27053fcca9658a76ba60024abe431650",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LangLivePassiveSkillLevel_Eng",
+      "fileName": "1fd7128b3ed1be0bb9055d463688ec8ba191f334a8ef90b8e5977facbb135bf1",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LangLivePassiveSkillLevel_Eng/1fd7128b3ed1be0bb9055d463688ec8ba191f334a8ef90b8e5977facbb135bf1",
+      "cryptoKeySha256": "30fe144d12dd341419d141ab1e6fc9c0a6b5a10af130dd78aceb8e7bdcb156e1",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LangLiveSkillEffectFilterCategory_Eng",
+      "fileName": "9552a669c6245b1199254400829467d8b557655cd448dc54b538b52045d650da",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LangLiveSkillEffectFilterCategory_Eng/9552a669c6245b1199254400829467d8b557655cd448dc54b538b52045d650da",
+      "cryptoKeySha256": "d49e2a49794a6db684b44381890fc4e64893ab392103596f6a222b36f041bc2c",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LangLiveSkillEffectTarget_Eng",
+      "fileName": "1fd7128b3ed1be0bb9055d463688ec8ba191f334a8ef90b8e5977facbb135bf1",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LangLiveSkillEffectTarget_Eng/1fd7128b3ed1be0bb9055d463688ec8ba191f334a8ef90b8e5977facbb135bf1",
+      "cryptoKeySha256": "25ff2b00db4218cef75dfa9d5d4c8abb418da72061cab4c8c7d44da78d9669c6",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LangLiveSkillTriggerFilterCategory_Eng",
+      "fileName": "1fd7128b3ed1be0bb9055d463688ec8ba191f334a8ef90b8e5977facbb135bf1",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LangLiveSkillTriggerFilterCategory_Eng/1fd7128b3ed1be0bb9055d463688ec8ba191f334a8ef90b8e5977facbb135bf1",
+      "cryptoKeySha256": "63c94b0b87531900707acda6e08304dcd7e7d4240b13c94f86fcf340873a3984",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LangLiveSkillTrigger_Eng",
+      "fileName": "1fd7128b3ed1be0bb9055d463688ec8ba191f334a8ef90b8e5977facbb135bf1",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LangLiveSkillTrigger_Eng/1fd7128b3ed1be0bb9055d463688ec8ba191f334a8ef90b8e5977facbb135bf1",
+      "cryptoKeySha256": "2f65a106be6b59340affb2ba83e6ab7deaccd22418e3c48989e10fd4fdfc0d81",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LangLiveSkinGroup_Eng",
+      "fileName": "844823e793ec76735c7fc91cd018fbb021adfab3f12c2983729ebb5839551baa",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LangLiveSkinGroup_Eng/844823e793ec76735c7fc91cd018fbb021adfab3f12c2983729ebb5839551baa",
+      "cryptoKeySha256": "e7c46cf6f87340538bed825e027dea3c425fe2012ffa1d24e87181a67c0f90ad",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LangLiveSkin_Eng",
+      "fileName": "e4fe27fbba525a424b9fdf17a63e10751e1a2d83ce9a543c75ef4dff1a73acfe",
+      "fileSize": 20480,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LangLiveSkin_Eng/e4fe27fbba525a424b9fdf17a63e10751e1a2d83ce9a543c75ef4dff1a73acfe",
+      "cryptoKeySha256": "1d54e2d783e84fb9e4ffd84014314becd8ad0e7cc2338e531ad27f3a955d0f96",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LangLiveSoundEffect_Eng",
+      "fileName": "8babee1aaefe36af597ab38ff3acc7dc768d1bc8d4504d6217f8ee47f40f073b",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LangLiveSoundEffect_Eng/8babee1aaefe36af597ab38ff3acc7dc768d1bc8d4504d6217f8ee47f40f073b",
+      "cryptoKeySha256": "a99d800514b1e1492dec3a2f4518ad8cf1c106fe0cce04edc7f8d6c41f35b749",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LangLiveSpecialSkillLevel_Eng",
+      "fileName": "1fd7128b3ed1be0bb9055d463688ec8ba191f334a8ef90b8e5977facbb135bf1",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LangLiveSpecialSkillLevel_Eng/1fd7128b3ed1be0bb9055d463688ec8ba191f334a8ef90b8e5977facbb135bf1",
+      "cryptoKeySha256": "c6a7ad4f0fe148a970431aff96404c4127479a249e85cc76fc4b73cb7aedb418",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LangLoadingDisplay_Eng",
+      "fileName": "a3ac65cf45a36f7ec9ac5ef92d66944212d5046d133a7abbba6029498805984e",
+      "fileSize": 36864,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LangLoadingDisplay_Eng/a3ac65cf45a36f7ec9ac5ef92d66944212d5046d133a7abbba6029498805984e",
+      "cryptoKeySha256": "0107ac18e090d864b30d280bf7ee34417372f088c74021f6f7a1cfbd5e54ee3e",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LangMainStoryChapter_Eng",
+      "fileName": "de7666cbf7a2b60ce3afdd177ddbac2df2c33c8aa4ed6b43a0e292ee67304566",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LangMainStoryChapter_Eng/de7666cbf7a2b60ce3afdd177ddbac2df2c33c8aa4ed6b43a0e292ee67304566",
+      "cryptoKeySha256": "5861f3320ae3b2d13582de9ae942035980c944fc35efcb891628af7dbe70d4f2",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LangMainStory_Eng",
+      "fileName": "1ce71341c76f5f9c7a885efd5a6c2c99a2c4ac952539872dddf02ccd86ff5e9c",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LangMainStory_Eng/1ce71341c76f5f9c7a885efd5a6c2c99a2c4ac952539872dddf02ccd86ff5e9c",
+      "cryptoKeySha256": "2131ccd597d9707feb04f32ab91742a2f50abcd242174e37e1efb9c6ebf5736e",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LangMarathonRankingGrade_Eng",
+      "fileName": "9727afbb72f8d3a07dc40960bbc497d0a2523aca107934e4e9444795c21e3a18",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LangMarathonRankingGrade_Eng/9727afbb72f8d3a07dc40960bbc497d0a2523aca107934e4e9444795c21e3a18",
+      "cryptoKeySha256": "86aa444fb3db7dede6e26c09cdf97b9266e2f3c484eb8110326f1cb3d0fd90ea",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LangMembership_Eng",
+      "fileName": "482784d280e5947ed614660560e8a41acb34de308a3de7954ffe178b4fb70374",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LangMembership_Eng/482784d280e5947ed614660560e8a41acb34de308a3de7954ffe178b4fb70374",
+      "cryptoKeySha256": "b0e108e78528fbde681fbd3c82ef8adde61283e80d12635f8af51282c93da6a4",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LangMiniGame_Eng",
+      "fileName": "19005a56fb959121e91e18ab6c88ff1ddf46e0f19d9e68a532b2f19cc1c555bc",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LangMiniGame_Eng/19005a56fb959121e91e18ab6c88ff1ddf46e0f19d9e68a532b2f19cc1c555bc",
+      "cryptoKeySha256": "e6dc90ef298af1b8ede4020647c34ef7b648f11002851a582722cc836197543b",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LangMissionGroup_Eng",
+      "fileName": "888fe077f1c14069fa30edeb420a30515f1cfca3ad837743e56a4076b12aa114",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LangMissionGroup_Eng/888fe077f1c14069fa30edeb420a30515f1cfca3ad837743e56a4076b12aa114",
+      "cryptoKeySha256": "5df0871ed67830e0889a7e4b445881be89ab0aab5147228a20a658eb4c3cb984",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LangMission_Eng",
+      "fileName": "0ba4b38e7a73ef37a6235d0a629466f59816dbeb0c00fe4d2ac33782a708faa5",
+      "fileSize": 512000,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LangMission_Eng/0ba4b38e7a73ef37a6235d0a629466f59816dbeb0c00fe4d2ac33782a708faa5",
+      "cryptoKeySha256": "1e28dcacd458b9159bcfaf8da928b731d6f12b137c6d266ca4ac821b6508810b",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LangMusicCreativeChartTag_Eng",
+      "fileName": "aec7ad2f5d148ae2cb49874e14c7b1a475b0569220dca05e9585b66b0fd7db44",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LangMusicCreativeChartTag_Eng/aec7ad2f5d148ae2cb49874e14c7b1a475b0569220dca05e9585b66b0fd7db44",
+      "cryptoKeySha256": "705df9f3e20569d3c2edd4ca2a92661746ae340d07a09e77cb2c0002fb42f84b",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LangMusicMvCategory_Eng",
+      "fileName": "69c5b84bc7f4be833583c0b30444a6e5ee419368a4c2590d856fb1857781b2aa",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LangMusicMvCategory_Eng/69c5b84bc7f4be833583c0b30444a6e5ee419368a4c2590d856fb1857781b2aa",
+      "cryptoKeySha256": "a9854f58268e4541f528deb52981c19e8b81df05872027749eef59c35d0f121a",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LangMusicMv_Eng",
+      "fileName": "3e78eaa8d1f08585fc78fec1e309cd22b0eead3b50f5b7cadf5438d51ed749fb",
+      "fileSize": 32768,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LangMusicMv_Eng/3e78eaa8d1f08585fc78fec1e309cd22b0eead3b50f5b7cadf5438d51ed749fb",
+      "cryptoKeySha256": "81beb4351dc0a04b4ff5c97843c5fc19262aba21b8f7b12f7df5d06edf1c37fb",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LangMusic_Eng",
+      "fileName": "fbcfd3c7735c4af2116b22d110faf41a655084b264555f8317ef77b1f3f4c5d8",
+      "fileSize": 237568,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LangMusic_Eng/fbcfd3c7735c4af2116b22d110faf41a655084b264555f8317ef77b1f3f4c5d8",
+      "cryptoKeySha256": "5f1a3989cf850a3d0d08b321c5c98351ef58c0282ba6e08462fa5ec243411b83",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LangParkAccessory_Eng",
+      "fileName": "355bab9c481d3b58535d4a1af936066012958ceb2380d4c0b32ebd0a46d5cd4f",
+      "fileSize": 36864,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LangParkAccessory_Eng/355bab9c481d3b58535d4a1af936066012958ceb2380d4c0b32ebd0a46d5cd4f",
+      "cryptoKeySha256": "b98a8d737cd3b0b7d446de959b2a82254d413fcc29d999876aa9bca0b90b1950",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LangParkEmotion_Eng",
+      "fileName": "cc8f353c002dc3ba5778da05152749f84561d09c9a6296429a33efd2ceb45914",
+      "fileSize": 131072,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LangParkEmotion_Eng/cc8f353c002dc3ba5778da05152749f84561d09c9a6296429a33efd2ceb45914",
+      "cryptoKeySha256": "7fa76e8a5efcf9eafc9ab1c775ef383222a267417584ad510c257971e3e61be1",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LangParkFishingBait_Eng",
+      "fileName": "1fd7128b3ed1be0bb9055d463688ec8ba191f334a8ef90b8e5977facbb135bf1",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LangParkFishingBait_Eng/1fd7128b3ed1be0bb9055d463688ec8ba191f334a8ef90b8e5977facbb135bf1",
+      "cryptoKeySha256": "025da0a65aa59fe9a7d30b0700b95343f6c546556cf6b90142625632a9bd0cd6",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LangParkFishingFishSpecies_Eng",
+      "fileName": "1fd7128b3ed1be0bb9055d463688ec8ba191f334a8ef90b8e5977facbb135bf1",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LangParkFishingFishSpecies_Eng/1fd7128b3ed1be0bb9055d463688ec8ba191f334a8ef90b8e5977facbb135bf1",
+      "cryptoKeySha256": "5ec4d9c6ba2db2dff350f86ce676b77209e0baa88148afb7345f4b7ccb928dc4",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LangParkFishingFish_Eng",
+      "fileName": "1fd7128b3ed1be0bb9055d463688ec8ba191f334a8ef90b8e5977facbb135bf1",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LangParkFishingFish_Eng/1fd7128b3ed1be0bb9055d463688ec8ba191f334a8ef90b8e5977facbb135bf1",
+      "cryptoKeySha256": "8b37a40ebac724153670d629e00e7561bb2218a1b6acba5b5979002a4ca72576",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LangParkFishingRod_Eng",
+      "fileName": "1fd7128b3ed1be0bb9055d463688ec8ba191f334a8ef90b8e5977facbb135bf1",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LangParkFishingRod_Eng/1fd7128b3ed1be0bb9055d463688ec8ba191f334a8ef90b8e5977facbb135bf1",
+      "cryptoKeySha256": "793a1f96aa6cdde9a9540229efef9ebb15361965cd7407655e90a2a4e6b3d20b",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LangParkHighLowHand_Eng",
+      "fileName": "36414873de7452327a29e5053279e670692b9eeaf344396e0f4cc66ff1f25f79",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LangParkHighLowHand_Eng/36414873de7452327a29e5053279e670692b9eeaf344396e0f4cc66ff1f25f79",
+      "cryptoKeySha256": "275e3afceb984dad7e5e387356539ea272a725f66ef54770188d3fac7f2e6794",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LangParkHighLow_Eng",
+      "fileName": "0164797aecc90ad2d61f49ace71c4b9db05e88ecad0cffb8fa46d26138d1f277",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LangParkHighLow_Eng/0164797aecc90ad2d61f49ace71c4b9db05e88ecad0cffb8fa46d26138d1f277",
+      "cryptoKeySha256": "efbd27c4bd5ce67efb80e03c507ff6ee38847cc2f8eafad77b73f6f913c1724a",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LangParkPermanenceAction_Eng",
+      "fileName": "16fedf5170aee27b7c88ca9416839d74c7032865455d13f2a282448d91184167",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LangParkPermanenceAction_Eng/16fedf5170aee27b7c88ca9416839d74c7032865455d13f2a282448d91184167",
+      "cryptoKeySha256": "ac952fa89518a529947ea7a689f407fe91c8e21ab1f74795162abc7a89dc7184",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LangParkPermanence_Eng",
+      "fileName": "1fd7128b3ed1be0bb9055d463688ec8ba191f334a8ef90b8e5977facbb135bf1",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LangParkPermanence_Eng/1fd7128b3ed1be0bb9055d463688ec8ba191f334a8ef90b8e5977facbb135bf1",
+      "cryptoKeySha256": "373c63ace1b1f343db638731e953ed2347d50d1d811f58817e019587285d92eb",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LangParkQuestChapter_Eng",
+      "fileName": "ecf26122be72a76e6dba32740c4f6cf75701a925c574952250134b5da1ee701b",
+      "fileSize": 20480,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LangParkQuestChapter_Eng/ecf26122be72a76e6dba32740c4f6cf75701a925c574952250134b5da1ee701b",
+      "cryptoKeySha256": "ea519859e9433e772bc55e19ab0b27d170953835e08e913ba32a595bd600c3ba",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LangParkQuestStepAction_Eng",
+      "fileName": "1fd7128b3ed1be0bb9055d463688ec8ba191f334a8ef90b8e5977facbb135bf1",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LangParkQuestStepAction_Eng/1fd7128b3ed1be0bb9055d463688ec8ba191f334a8ef90b8e5977facbb135bf1",
+      "cryptoKeySha256": "9491e9becf77958e15182d3351076c61dddca968302d4e8ba0ae9245a26be6ba",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LangParkQuestStepGroup_Eng",
+      "fileName": "1fd7128b3ed1be0bb9055d463688ec8ba191f334a8ef90b8e5977facbb135bf1",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LangParkQuestStepGroup_Eng/1fd7128b3ed1be0bb9055d463688ec8ba191f334a8ef90b8e5977facbb135bf1",
+      "cryptoKeySha256": "78648b6e285727419d33ca7d26330173dc321d61c55baf3101d777e04e77825b",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LangParkQuestStep_Eng",
+      "fileName": "ed7339376a0a9bb64c751b35313f42c68942dff4a6a349daaf36544b58aa7323",
+      "fileSize": 143360,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LangParkQuestStep_Eng/ed7339376a0a9bb64c751b35313f42c68942dff4a6a349daaf36544b58aa7323",
+      "cryptoKeySha256": "865c1777cfa9d7cc8f98bdc2e54735962a44f65874e1cbb3ff2facc7be9beed6",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LangParkQuest_Eng",
+      "fileName": "5011cf7a260f6e2cc4eca1a52310ef217b33d8e9b9879d6d470330857035d2de",
+      "fileSize": 49152,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LangParkQuest_Eng/5011cf7a260f6e2cc4eca1a52310ef217b33d8e9b9879d6d470330857035d2de",
+      "cryptoKeySha256": "21784d0d762d755b253af7ed4158b64c112a504b31f173fd1e5735cc3c0b2c4d",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LangParkTalk_Eng",
+      "fileName": "9bcecce3d4e6990b62e84f6b3734c47741990c22cc50129d25a83617c7c027bc",
+      "fileSize": 905216,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LangParkTalk_Eng/9bcecce3d4e6990b62e84f6b3734c47741990c22cc50129d25a83617c7c027bc",
+      "cryptoKeySha256": "1542ed0d6505133a7ba6bb93ec8d1b54f893f871246584b91eb8cbdea4e59ee8",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LangParkTargetMapping_Eng",
+      "fileName": "28db8487b35dfffb5e071bdf3790945d1393fc7f1189a6fc5baa30cdac8ad664",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LangParkTargetMapping_Eng/28db8487b35dfffb5e071bdf3790945d1393fc7f1189a6fc5baa30cdac8ad664",
+      "cryptoKeySha256": "be8c101045937debe3bb1ce77029246b08ad13014a3e91148998325939e06441",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LangPoster_Eng",
+      "fileName": "31cdbbb1c5f4672222175835dd82bff87e26850c0baaeece683684ee5d49d11c",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LangPoster_Eng/31cdbbb1c5f4672222175835dd82bff87e26850c0baaeece683684ee5d49d11c",
+      "cryptoKeySha256": "17f618279f420dab421756eccdb9560a450afab17fbc2b42d693d8f3a99d97d8",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LangPreferenceCapacityLimit_Eng",
+      "fileName": "ad5445f151b60320ebde1a14591983b2314e778c02374d9f5af7a31027708fdf",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LangPreferenceCapacityLimit_Eng/ad5445f151b60320ebde1a14591983b2314e778c02374d9f5af7a31027708fdf",
+      "cryptoKeySha256": "a706405b8604ae2fbbf2773cada7004b6305d41f9f686a40fe2af9364c548827",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LangResourceObtainmentRoute_Eng",
+      "fileName": "5b168deb8e16277c35ebcf28221743fceeb86346ac99ab313a50dabfaa68a82c",
+      "fileSize": 20480,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LangResourceObtainmentRoute_Eng/5b168deb8e16277c35ebcf28221743fceeb86346ac99ab313a50dabfaa68a82c",
+      "cryptoKeySha256": "87e4104beb5db3a65b517c7b116809aca8fc4ec95b47cb635338fec4c5a352e0",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LangResourceTypeDetail_Eng",
+      "fileName": "89b64a9957a330c4fa0f7e6ed13885e0463b4c6c9c637aa8b811c8d000157407",
+      "fileSize": 20480,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LangResourceTypeDetail_Eng/89b64a9957a330c4fa0f7e6ed13885e0463b4c6c9c637aa8b811c8d000157407",
+      "cryptoKeySha256": "4ed8e4c7c425f01bfda5ceb64b05a538a382fa552694323652f7ecaab9f20cc8",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LangRule_Eng",
+      "fileName": "4ae3fbbcc019b2a324df546e97ccd5c807ad93917cb512ba702efc95e60a4308",
+      "fileSize": 540672,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LangRule_Eng/4ae3fbbcc019b2a324df546e97ccd5c807ad93917cb512ba702efc95e60a4308",
+      "cryptoKeySha256": "89370f6671cf9353a22750565cd62e1901b096db0866da26c7589e1f366aabd7",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LangSdCostumeHairAccessory_Eng",
+      "fileName": "ae53b96c035a999aa5ca1d25a2de7f61d9c83e2cee9f742f571fef90fd155cd4",
+      "fileSize": 65536,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LangSdCostumeHairAccessory_Eng/ae53b96c035a999aa5ca1d25a2de7f61d9c83e2cee9f742f571fef90fd155cd4",
+      "cryptoKeySha256": "b353932a4a4810e3ed064f6968289c1cf69f7ff803ce294b6a1e6cb94f91427b",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LangSdCostume_Eng",
+      "fileName": "14ce726f7722b1d06bd631ca088ebf5fb01b971c137837fdddc68b70cd9bcc5e",
+      "fileSize": 49152,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LangSdCostume_Eng/14ce726f7722b1d06bd631ca088ebf5fb01b971c137837fdddc68b70cd9bcc5e",
+      "cryptoKeySha256": "b3a11dc09b8bd10f5a3ee9a1cf227eaccb06fa01e96aec115b52c9013e6e4ba9",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LangSemiResourceTypeDetail_Eng",
+      "fileName": "3b274f5a5ea1f0211cddcf3111d688db8d3d9e715e503c7818fff70f2cb32c2f",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LangSemiResourceTypeDetail_Eng/3b274f5a5ea1f0211cddcf3111d688db8d3d9e715e503c7818fff70f2cb32c2f",
+      "cryptoKeySha256": "48be6de463d612cde5145a762e8cacd396b471daf0dd8092ac370d7f56242362",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LangSkillTreeConnectEffect_Eng",
+      "fileName": "1fd7128b3ed1be0bb9055d463688ec8ba191f334a8ef90b8e5977facbb135bf1",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LangSkillTreeConnectEffect_Eng/1fd7128b3ed1be0bb9055d463688ec8ba191f334a8ef90b8e5977facbb135bf1",
+      "cryptoKeySha256": "b48983ef8971c6391d0900f1aa1465d44bc4780105ad3b05a5c40f548bc150b0",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LangSkillTreeEffectPassiveTrigger_Eng",
+      "fileName": "1fd7128b3ed1be0bb9055d463688ec8ba191f334a8ef90b8e5977facbb135bf1",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LangSkillTreeEffectPassiveTrigger_Eng/1fd7128b3ed1be0bb9055d463688ec8ba191f334a8ef90b8e5977facbb135bf1",
+      "cryptoKeySha256": "abbe10f263715fd67ce9ad937fc290907589f6df8ad3e1955f4032f261ceb13d",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LangSkillTreeEffectTarget_Eng",
+      "fileName": "1fd7128b3ed1be0bb9055d463688ec8ba191f334a8ef90b8e5977facbb135bf1",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LangSkillTreeEffectTarget_Eng/1fd7128b3ed1be0bb9055d463688ec8ba191f334a8ef90b8e5977facbb135bf1",
+      "cryptoKeySha256": "f010dde07133971167d9d075dcc3c22b26dab78181e7fb3cdf47916b9a559a60",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LangSkillTreeEffect_Eng",
+      "fileName": "5e1218efa3c2e25be8dda4514be877502475f76c152f3b85ee5ee345d0762939",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LangSkillTreeEffect_Eng/5e1218efa3c2e25be8dda4514be877502475f76c152f3b85ee5ee345d0762939",
+      "cryptoKeySha256": "d177ca6e50328bedee5907db35eb4b34d1e8124d9451b54b7e94d0dfc9679fcb",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LangSkillTreePoint_Eng",
+      "fileName": "41c7fc539a4e9e4d9e63efe9305915e21ea0cf7482e40e39b36a018d7be31096",
+      "fileSize": 20480,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LangSkillTreePoint_Eng/41c7fc539a4e9e4d9e63efe9305915e21ea0cf7482e40e39b36a018d7be31096",
+      "cryptoKeySha256": "7f3cad46641a322bd126f001b292fcbae1bf6271a637365903b57d85bb89ac6b",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LangSpecialStory_Eng",
+      "fileName": "f40660e7d9b29672d2d65f68e54c631fadf63a0ee198d9178a5f0d36d11fc19f",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LangSpecialStory_Eng/f40660e7d9b29672d2d65f68e54c631fadf63a0ee198d9178a5f0d36d11fc19f",
+      "cryptoKeySha256": "5d001797bf3a57ed6bf9e4a79b7facbd1644f4b50ea053d323264c217a873659",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LangSplashBall_Eng",
+      "fileName": "1fd7128b3ed1be0bb9055d463688ec8ba191f334a8ef90b8e5977facbb135bf1",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LangSplashBall_Eng/1fd7128b3ed1be0bb9055d463688ec8ba191f334a8ef90b8e5977facbb135bf1",
+      "cryptoKeySha256": "f44d3bf78adb0e90fc589a29b048660c7592b6be19bd0b9c8e23042a2c6b8fa8",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LangStamp_Eng",
+      "fileName": "ccfbbf6a9d5bed30b3751a829ca45d0dc521539e93050c001ac440c490d12970",
+      "fileSize": 69632,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LangStamp_Eng/ccfbbf6a9d5bed30b3751a829ca45d0dc521539e93050c001ac440c490d12970",
+      "cryptoKeySha256": "d3778b1e4fe678a9e073e7e5467488d3a796f55abe51cdc668a7ca569ac66eeb",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LangTipsDetail_Eng",
+      "fileName": "c0f3f0eabc4bc2149d57d7cbd3c89bdb045c03bbb0663e5749955cdefc19178a",
+      "fileSize": 126976,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LangTipsDetail_Eng/c0f3f0eabc4bc2149d57d7cbd3c89bdb045c03bbb0663e5749955cdefc19178a",
+      "cryptoKeySha256": "5b9a5f68311e708cb8e16d69306f7ff139f70c925767aed1e354a6390883e4bf",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LangTips_Eng",
+      "fileName": "c7f6eecc0ffaf24549a616fec52a68186d168a6979d6bb490fa84d49088dcb6e",
+      "fileSize": 36864,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LangTips_Eng/c7f6eecc0ffaf24549a616fec52a68186d168a6979d6bb490fa84d49088dcb6e",
+      "cryptoKeySha256": "6d52069755f385d030739373e15857d5d0b6c5f476f6e8d0966d4befdedf9402",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LangTutorial_Eng",
+      "fileName": "7204544226b019ec83063bb1f0c2e600521c1f9b0c296a456e6fbb13fb39d1c0",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LangTutorial_Eng/7204544226b019ec83063bb1f0c2e600521c1f9b0c296a456e6fbb13fb39d1c0",
+      "cryptoKeySha256": "066307e8a643500244131de9d10709df4cfe9b1d6c95c5f4f475ac23c2f340ba",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LangWallpaper_Eng",
+      "fileName": "3a882125f372cb8018b7059013bde0be77851db883ba728276ade41dd8e61888",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LangWallpaper_Eng/3a882125f372cb8018b7059013bde0be77851db883ba728276ade41dd8e61888",
+      "cryptoKeySha256": "f1947dd21533a3d12648a358cb68a66ebf7052fa812c8e83f94f8c2fd18e0a6a",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LangWork_Eng",
+      "fileName": "bae20f85fc08aa60cf6c95bdd04a7c4b4cdd31549ee1d044627cf616bfbc8b5e",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LangWork_Eng/bae20f85fc08aa60cf6c95bdd04a7c4b4cdd31549ee1d044627cf616bfbc8b5e",
+      "cryptoKeySha256": "a941054db6558d92405033e252972422c5873164bfe1bab8f2539c569420c1f4",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LangWorld_Eng",
+      "fileName": "75bc363d81cfb6c028ddb9c70a98e3558a48168b216fdae821aa9141a8759ffb",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LangWorld_Eng/75bc363d81cfb6c028ddb9c70a98e3558a48168b216fdae821aa9141a8759ffb",
+      "cryptoKeySha256": "ae1261780fbf6b67511a83b1202599d7b6b1e67ad0112582a2c9a5691275b808",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LiveActiveSkill",
+      "fileName": "e2a36338ef3fde2b0621b184643bfbefc270dda4eead83bc5792bb5e0e02199c",
+      "fileSize": 45056,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LiveActiveSkill/e2a36338ef3fde2b0621b184643bfbefc270dda4eead83bc5792bb5e0e02199c",
+      "cryptoKeySha256": "7e368b5a2614a7bb3bbf91181b15715dd823bdbb74c25894715e4499a99133aa",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LiveActiveSkillEffect",
+      "fileName": "797d5b4e69401be9fecf108a30373bf7dc04b6571c4f46d549a75277fbd701a0",
+      "fileSize": 24576,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LiveActiveSkillEffect/797d5b4e69401be9fecf108a30373bf7dc04b6571c4f46d549a75277fbd701a0",
+      "cryptoKeySha256": "9da908d4b89c43f0950f630515794f155dbb326d19f0f6503bea6368dcb931ae",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LiveActiveSkillLevel",
+      "fileName": "a41984ba246fba9fd3537fdf5350f850c76f9adb28228ec1a580e173d67d39ba",
+      "fileSize": 135168,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LiveActiveSkillLevel/a41984ba246fba9fd3537fdf5350f850c76f9adb28228ec1a580e173d67d39ba",
+      "cryptoKeySha256": "ce929aaf0fa1c09ba81d9264e7a5fbab0c30d7e55b05c09e62e410d0803f2e2c",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LiveCombo",
+      "fileName": "38c6fcf7370c9278a20f84682556896505727266bdc3a3f014db7266466d1394",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LiveCombo/38c6fcf7370c9278a20f84682556896505727266bdc3a3f014db7266466d1394",
+      "cryptoKeySha256": "10f959618a98a0ab2a4342b0974a14fc448fd425ce6347b1037e05d2e5c72c6b",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LiveDeckEvaluationBonusRank",
+      "fileName": "133043cee54bc798e7d3de2abe2c254e982d21480495a6f34bb8a981b365e16a",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LiveDeckEvaluationBonusRank/133043cee54bc798e7d3de2abe2c254e982d21480495a6f34bb8a981b365e16a",
+      "cryptoKeySha256": "de7fe95b11dc2003eb8f92dccb05a58965329cf8c80e6bd93b5ad4b6a7ce5b6e",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LiveDeckEvaluationRank",
+      "fileName": "af4e57e98bb069fa6cc138e8b82009cb59602e95d5a574ebde3c5abb9859c5b4",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LiveDeckEvaluationRank/af4e57e98bb069fa6cc138e8b82009cb59602e95d5a574ebde3c5abb9859c5b4",
+      "cryptoKeySha256": "5112b73e3b241fb5f0d9f46866bdebccf568014e395f396af030c1c4ae1df641",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LiveDeckPowerRank",
+      "fileName": "994771d654e67ba5ea1a7494cd79f2f87ce946bf08e681cf307460b7a11c2136",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LiveDeckPowerRank/994771d654e67ba5ea1a7494cd79f2f87ce946bf08e681cf307460b7a11c2136",
+      "cryptoKeySha256": "f457b7e40cc18a262c2a700e5dc5fad69ca2f0c0c500632b4e20ba4328529ebc",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LiveDialogue",
+      "fileName": "290ec04f780e07c0e5a3ba7f6de0d34e3ff5e0d86d421d1bb54f319b48938583",
+      "fileSize": 716800,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LiveDialogue/290ec04f780e07c0e5a3ba7f6de0d34e3ff5e0d86d421d1bb54f319b48938583",
+      "cryptoKeySha256": "49f57b850ac137cc0737067f2f774ba1ecaecdef266b39cb72962cdf313e7f7d",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LiveDialogueVoice",
+      "fileName": "bc72aee7f25b20687ad575008c569c753bec1867ec1535b36ce684d62a603277",
+      "fileSize": 1064960,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LiveDialogueVoice/bc72aee7f25b20687ad575008c569c753bec1867ec1535b36ce684d62a603277",
+      "cryptoKeySha256": "549329464a7df6ec9bfd46f11513bda5f539bbb02fdfbdab0569f050fbe76181",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LiveDialogueVoiceCharacter",
+      "fileName": "7f5b57482220e9ed59dff3122bc657331705a923ac5c0376a909ed25853e1bc7",
+      "fileSize": 1363968,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LiveDialogueVoiceCharacter/7f5b57482220e9ed59dff3122bc657331705a923ac5c0376a909ed25853e1bc7",
+      "cryptoKeySha256": "86c0116a40dd34b80fcf9892e87568bfd80e9f855a7fdf864275a7329bc7dcba",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LiveLeaderSkill",
+      "fileName": "67f29b34ed558d4ad8fb3b9e0e956bedea353f8d9efe398aebd61a44edffe2e7",
+      "fileSize": 81920,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LiveLeaderSkill/67f29b34ed558d4ad8fb3b9e0e956bedea353f8d9efe398aebd61a44edffe2e7",
+      "cryptoKeySha256": "56385b2e505fddf2e9a19fb9714ba01197c6278e9002a8b13546f4756f1b0ac3",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LiveMultiFever",
+      "fileName": "ab95567f8676b4b8faaff95f030d87d0bf24d377cac69e61830242db444a9f71",
+      "fileSize": 8192,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LiveMultiFever/ab95567f8676b4b8faaff95f030d87d0bf24d377cac69e61830242db444a9f71",
+      "cryptoKeySha256": "69117ec58de10d7c6d283eab32c79c69e81ba762f68b5221026d720fb6124f99",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LiveMusicClearCountReward",
+      "fileName": "6834e20cbbdd49ea0d12089698b73b2289eeda89cfd2e9fe883718838c1adcbd",
+      "fileSize": 8192,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LiveMusicClearCountReward/6834e20cbbdd49ea0d12089698b73b2289eeda89cfd2e9fe883718838c1adcbd",
+      "cryptoKeySha256": "f9d9caf4a054f01c8d59ae86c4521ac9b76940119b511fb2e82367c26f99fa6e",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LiveMusicDifficultyMaxComboCountReward",
+      "fileName": "a89d8adc0ff8111878aa571d411279af6c205750349897545eea2988f229769b",
+      "fileSize": 8192,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LiveMusicDifficultyMaxComboCountReward/a89d8adc0ff8111878aa571d411279af6c205750349897545eea2988f229769b",
+      "cryptoKeySha256": "6e13839b1d8c9174fa2b449fbec37a009063ab7213d110b39b13f0f7ae3b694e",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LiveMusicFullComboReward",
+      "fileName": "83f4f766c2711e3f0b44b0da80c9112838b1c5f260bf7de6aa029947b0be8c08",
+      "fileSize": 8192,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LiveMusicFullComboReward/83f4f766c2711e3f0b44b0da80c9112838b1c5f260bf7de6aa029947b0be8c08",
+      "cryptoKeySha256": "fb225bd1cbdc8dec5e46f46c90d2cd26f2244eb10cc162d4f7ba2bf9bf9c3fb2",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LiveMusicHighestScoreEvaluationRankReward",
+      "fileName": "a63f45ab1ce5447bcf37944b411fe75d98f80403a163df6e6e3db2ac9bacee8f",
+      "fileSize": 8192,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LiveMusicHighestScoreEvaluationRankReward/a63f45ab1ce5447bcf37944b411fe75d98f80403a163df6e6e3db2ac9bacee8f",
+      "cryptoKeySha256": "bcd3b3d4468e1959e502f6986072d4fb1b405a1d6b5aa7a7c97c1fb905b8cb23",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LiveNote",
+      "fileName": "ed1bfff9defada4eb0b965b991da9afb0e67cdd225d04c748c54123cf862e1dd",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LiveNote/ed1bfff9defada4eb0b965b991da9afb0e67cdd225d04c748c54123cf862e1dd",
+      "cryptoKeySha256": "82ba29cf2a275788a5709b179b1625df6aaebfaf478e1467e12ce67ad7ca1497",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LiveNoteJudgementTechnicalScore",
+      "fileName": "4cc87874008b971f6e7f99b768bc807917643a75940e5f291f76a74cb1a0518d",
+      "fileSize": 8192,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LiveNoteJudgementTechnicalScore/4cc87874008b971f6e7f99b768bc807917643a75940e5f291f76a74cb1a0518d",
+      "cryptoKeySha256": "28e5aed96f39a6bb22e5b8afad5b857876441f260ca498cc2157247f1c2282e2",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LivePassiveSkill",
+      "fileName": "b736456c4f828eea3ff4ccaac73709ea6025f0f8006e32d2b86fea43c3ad9a37",
+      "fileSize": 45056,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LivePassiveSkill/b736456c4f828eea3ff4ccaac73709ea6025f0f8006e32d2b86fea43c3ad9a37",
+      "cryptoKeySha256": "c8546893cde714d32b3e1b80143bc488871ad9bd329316f667f0a9902394729e",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LivePassiveSkillEffect",
+      "fileName": "ebdd2eeb05fa4e25cde8847abfb482e7b209317f310e411a386b4ed2ddbb2611",
+      "fileSize": 118784,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LivePassiveSkillEffect/ebdd2eeb05fa4e25cde8847abfb482e7b209317f310e411a386b4ed2ddbb2611",
+      "cryptoKeySha256": "5819ef63d70741ff8908bc519443d43636db0dd846690dfcf855f6a4958da795",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LivePassiveSkillLevel",
+      "fileName": "41f5ae7920774839539fa61a9e1e74897c3b9e92d72dde4de5ce175f02e1d263",
+      "fileSize": 155648,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LivePassiveSkillLevel/41f5ae7920774839539fa61a9e1e74897c3b9e92d72dde4de5ce175f02e1d263",
+      "cryptoKeySha256": "dc5e18c705bd1c27e998f7b068d97d348c895c13ae3fc51e34175d031623184c",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LiveRewardUpStaminaEffect",
+      "fileName": "ae4b756b8b7cd4b8e5d8e752a60710b0f5bdb6a34817e20b1bc36cf8f799a743",
+      "fileSize": 8192,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LiveRewardUpStaminaEffect/ae4b756b8b7cd4b8e5d8e752a60710b0f5bdb6a34817e20b1bc36cf8f799a743",
+      "cryptoKeySha256": "4354d82c70cbb3fe7d2d9b0dfec899c717d3c57bd27cc63addb13eb5c2276365",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LiveScoreEvaluationRank",
+      "fileName": "b9d4323e05c373be2aead80e5b07e5e148c5725ca95db7e0da5d1c29c0fc5f8f",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LiveScoreEvaluationRank/b9d4323e05c373be2aead80e5b07e5e148c5725ca95db7e0da5d1c29c0fc5f8f",
+      "cryptoKeySha256": "7d543ff4e97426da68f774b9a5378274eb2398628fc5676e775beefc6ab0113b",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LiveSkillEffectFilterCategory",
+      "fileName": "eff7035197c5c5ad96376666ec13d06ec1c52b921cede3075d391dfcba66a44a",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LiveSkillEffectFilterCategory/eff7035197c5c5ad96376666ec13d06ec1c52b921cede3075d391dfcba66a44a",
+      "cryptoKeySha256": "710417128a19232eacf841a02fc446c04087bd2ce8f78799663ce5d77ad2ee92",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LiveSkillEffectTarget",
+      "fileName": "a46ad94b94994e895f2399bacf9f66bdcbe86c83e8ab2e658956ab15b99bef1c",
+      "fileSize": 40960,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LiveSkillEffectTarget/a46ad94b94994e895f2399bacf9f66bdcbe86c83e8ab2e658956ab15b99bef1c",
+      "cryptoKeySha256": "da39759a3952a21c13f635de26fa9f01bd4dc3a1407a744c49bb08837b3a0aca",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LiveSkillTrigger",
+      "fileName": "6b885dfccb586334eda46a4e13d99b5785184d7ac899814146a27c358cedfc92",
+      "fileSize": 77824,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LiveSkillTrigger/6b885dfccb586334eda46a4e13d99b5785184d7ac899814146a27c358cedfc92",
+      "cryptoKeySha256": "e1a4ac2980593b17fd5b061afc6606daf074f775b50753e515e528c7758f3f64",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LiveSkillTriggerFilterCategory",
+      "fileName": "6d1c527bed37d02885968dfdf3bf3c41d350066f08d4e1e58b5f1ff0f975462a",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LiveSkillTriggerFilterCategory/6d1c527bed37d02885968dfdf3bf3c41d350066f08d4e1e58b5f1ff0f975462a",
+      "cryptoKeySha256": "bfeab7864693c35af3295a3a9d6a8f976f4b87e62f9f2f6a156eecc17bdab26f",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LiveSkin",
+      "fileName": "1e1e74f9275cc8476ab476d2593311f649c6387a41c78d55450b0ba295143dc9",
+      "fileSize": 90112,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LiveSkin/1e1e74f9275cc8476ab476d2593311f649c6387a41c78d55450b0ba295143dc9",
+      "cryptoKeySha256": "a92822af7a438a2bcbafc781a0fef3297d2fd9c7fff90e12c89f805a132c3b52",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LiveSkinGroup",
+      "fileName": "6d176992ac14d7f46c694ede2a76ee1eed7694d22d2b918fdb033b5e48266d83",
+      "fileSize": 32768,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LiveSkinGroup/6d176992ac14d7f46c694ede2a76ee1eed7694d22d2b918fdb033b5e48266d83",
+      "cryptoKeySha256": "8fff2f48d24122be01b0ebf435467beb7521ad687be0a40c0493234797b6fc98",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LiveSoundEffect",
+      "fileName": "236ac0d9d326817c5cc69319b3f659f7e53c6d13d504b6bde639c3f957e31d87",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LiveSoundEffect/236ac0d9d326817c5cc69319b3f659f7e53c6d13d504b6bde639c3f957e31d87",
+      "cryptoKeySha256": "ecf2092566b59f31404f12973db8a7cd6b60ef0d7bac95bad7b57b3e2bccd995",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LiveSpecialCardDialogue",
+      "fileName": "ac86460b05b8276900cd6ae3d78a299f0046840e8fd9ee648b53ccf03bc7e962",
+      "fileSize": 65536,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LiveSpecialCardDialogue/ac86460b05b8276900cd6ae3d78a299f0046840e8fd9ee648b53ccf03bc7e962",
+      "cryptoKeySha256": "7e448cfa20b3e0573055cfa1f1b10bad8898e5dbf2b9f09f99772bb45abd4417",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LiveSpecialCostumeDialogue",
+      "fileName": "9c13a9018a5a9888d73716ee190d05b1e70fadc08f3e6ae4d4c03a6dc70060fe",
+      "fileSize": 65536,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LiveSpecialCostumeDialogue/9c13a9018a5a9888d73716ee190d05b1e70fadc08f3e6ae4d4c03a6dc70060fe",
+      "cryptoKeySha256": "f567b1ae8a4277f08ce6a7d8286e869cda7cace7f4f7f1e57d0f34a83b12b699",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LiveSpecialSkill",
+      "fileName": "21bc93bf920e2b03b60321f812996e28718cba1a37e83ed87d25586fe095c173",
+      "fileSize": 45056,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LiveSpecialSkill/21bc93bf920e2b03b60321f812996e28718cba1a37e83ed87d25586fe095c173",
+      "cryptoKeySha256": "b0d9d427e54ef7db2b9c05ae118f84bbefce8e6e4065dc736841b129489e2fc8",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LiveSpecialSkillLevel",
+      "fileName": "599b319a8b5decb03fd2bb3ba311fa5db4b3bcb841d51375cb4bc03e35d8a298",
+      "fileSize": 139264,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LiveSpecialSkillLevel/599b319a8b5decb03fd2bb3ba311fa5db4b3bcb841d51375cb4bc03e35d8a298",
+      "cryptoKeySha256": "3bac9a458e52686ecd9895f9f857ed17abdba612d4e1c77c7fd63b8c4a09826b",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "LoadingDisplay",
+      "fileName": "a78c53011a3ccc65768f17aac6e212773c6afc9bb236cb41dead5daf0fa17005",
+      "fileSize": 28672,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/LoadingDisplay/a78c53011a3ccc65768f17aac6e212773c6afc9bb236cb41dead5daf0fa17005",
+      "cryptoKeySha256": "88e851e4e8d357a64a351e4ae863c2b4a3e6c0afca4bca6e6a5f14f808ef9d3f",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "MainStory",
+      "fileName": "2d6a2bc214948df94695f9aaa8b3d1c69f0bc1b6e03aa58fa434b0d75d9e5b9e",
+      "fileSize": 20480,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/MainStory/2d6a2bc214948df94695f9aaa8b3d1c69f0bc1b6e03aa58fa434b0d75d9e5b9e",
+      "cryptoKeySha256": "d81b77783fab3248e648241c393f1b1b2d21c00616fa7dde71d2ca532bcd3a1d",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "MainStoryChapter",
+      "fileName": "7d4c7f2286e89a12105300dc03f052a0a94075221171e8373590d6d3cb64d58d",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/MainStoryChapter/7d4c7f2286e89a12105300dc03f052a0a94075221171e8373590d6d3cb64d58d",
+      "cryptoKeySha256": "554796e9f6b8772c3e1120203d326b12122fe90d765da927e433b1675be7c7d1",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "MarathonLiveRewardUpStaminaEffect",
+      "fileName": "2b6d15e51c925ba7d0020a19ae781bb57eb398c3b5a8206812425a0b67cc1204",
+      "fileSize": 8192,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/MarathonLiveRewardUpStaminaEffect/2b6d15e51c925ba7d0020a19ae781bb57eb398c3b5a8206812425a0b67cc1204",
+      "cryptoKeySha256": "283b4bf2cd443b146acb885a0de5745dad61632a297abb5c2cf420beaddbb2ea",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "MarathonMiniGameRewardUpStaminaEffect",
+      "fileName": "49a708eb07045c65fbdcde0c342ae0d60fb7b9028d3502f262ff24d4e11bc1eb",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/MarathonMiniGameRewardUpStaminaEffect/49a708eb07045c65fbdcde0c342ae0d60fb7b9028d3502f262ff24d4e11bc1eb",
+      "cryptoKeySha256": "4edcbbf18d614daf85859a7de5dd3da69c036aac14c169e728628af3ad13ac32",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "MarathonRankingGrade",
+      "fileName": "574b549f28c47598a991c434ebe93441e577dd722304a26db15e07d4937923be",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/MarathonRankingGrade/574b549f28c47598a991c434ebe93441e577dd722304a26db15e07d4937923be",
+      "cryptoKeySha256": "8187ccc5b9e745b2a3ee3afed197bf513c344ba75c01291e835d16bcd11c5eba",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "Membership",
+      "fileName": "fb2bf5140df462bece5db8427a2caff2ec587bef90270aa7bddcf114fd61e694",
+      "fileSize": 36864,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/Membership/fb2bf5140df462bece5db8427a2caff2ec587bef90270aa7bddcf114fd61e694",
+      "cryptoKeySha256": "8bf811f01eaeebc5f5c4750e86cfdcf187a54231635426da744d4b063b994794",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "MiniGame",
+      "fileName": "516ad35f5d0df9c95474f9dd942bc8d1f831eff707d3005e687297749556ca77",
+      "fileSize": 8192,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/MiniGame/516ad35f5d0df9c95474f9dd942bc8d1f831eff707d3005e687297749556ca77",
+      "cryptoKeySha256": "27cf39c9e84dc0218ee1df49ca0a794b9f6b8a40f3a4c132efa6a0950286e5c7",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "MiniGameBetCoinConsumption",
+      "fileName": "6736691272854de4bd3f8594861af91c0a42ad64801f60389f026f42d2db5ccb",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/MiniGameBetCoinConsumption/6736691272854de4bd3f8594861af91c0a42ad64801f60389f026f42d2db5ccb",
+      "cryptoKeySha256": "17fde7b26e39de5c66825b422a5bc63d48de3b44dfee0b2a9337e89161b6818b",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "MiniGameMultiGame",
+      "fileName": "4c2d1775544b7dfecddcda5e624845b5c4902f1f7728b6404ba148862c1d6d82",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/MiniGameMultiGame/4c2d1775544b7dfecddcda5e624845b5c4902f1f7728b6404ba148862c1d6d82",
+      "cryptoKeySha256": "8d9d5d7a79bd531aed88714cc188fafe32aa10036d2be7217f5d750d6f240c4c",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "MiniGameNpc",
+      "fileName": "e3a2df0ca958b9ec4937c70564e9381ab9f68a2600c6c7f5eac007c0c179562e",
+      "fileSize": 20480,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/MiniGameNpc/e3a2df0ca958b9ec4937c70564e9381ab9f68a2600c6c7f5eac007c0c179562e",
+      "cryptoKeySha256": "7c484d489d88845f3a9415e0cc9cc0ca071c47e0ad0a136169fb757f1141741a",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "MiniGameNpcLotteryPeriod",
+      "fileName": "77d0067db20254247664ca61d1ca00ef5b63cc7d6608ca5e53006c7b9c821efd",
+      "fileSize": 28672,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/MiniGameNpcLotteryPeriod/77d0067db20254247664ca61d1ca00ef5b63cc7d6608ca5e53006c7b9c821efd",
+      "cryptoKeySha256": "a3d7c13c2a7dc4def4143f430003d3af05d8e498353e66d50d8d42a3fe3c8e20",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "MiniGameRewardUpStaminaConversion",
+      "fileName": "b97b716b4e7bc4ef051d232a2fd238aaf73eed035f616e46a6f284a498f9c655",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/MiniGameRewardUpStaminaConversion/b97b716b4e7bc4ef051d232a2fd238aaf73eed035f616e46a6f284a498f9c655",
+      "cryptoKeySha256": "abf6afa1e07849e86c2d602e94637afbeecbdda8b286febdfff34b1dd1075a48",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "MiniGameRewardUpStaminaEffect",
+      "fileName": "622f20852f103b797d497a492370bf9df4f7a752e5edfe8f1843e0b5ed6a1d81",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/MiniGameRewardUpStaminaEffect/622f20852f103b797d497a492370bf9df4f7a752e5edfe8f1843e0b5ed6a1d81",
+      "cryptoKeySha256": "b759ebc040478c10269c11da07f2545e287e56e3e6aee9d2ff45ea982e6a414c",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "Mission",
+      "fileName": "c6975ff86b88b1ac74c4c9425e70f0ac3b6a170ab14c9d3fe9eb3823cc2f39f7",
+      "fileSize": 614400,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/Mission/c6975ff86b88b1ac74c4c9425e70f0ac3b6a170ab14c9d3fe9eb3823cc2f39f7",
+      "cryptoKeySha256": "0908d2afa46bc7a71ddf3f82d64d6c575fd269236ac31cb9eabcf79131b914db",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "MissionGroup",
+      "fileName": "64b30281f4f1db368db9e2bbcede15f869d46feb1e68b7b89dc142b14ebaaff1",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/MissionGroup/64b30281f4f1db368db9e2bbcede15f869d46feb1e68b7b89dc142b14ebaaff1",
+      "cryptoKeySha256": "c4275f81e8b3fac1eba63996a786e051387784667400248697669ec474aedb95",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "MissionPass",
+      "fileName": "f6a6037e4adc15125a505f5b89a15f1ab38218e3a26af11aa249c89a6fb3cfcb",
+      "fileSize": 28672,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/MissionPass/f6a6037e4adc15125a505f5b89a15f1ab38218e3a26af11aa249c89a6fb3cfcb",
+      "cryptoKeySha256": "e0629b2d56eca9bff602423529fa77b39b5a1bc78bf28c6642d0faf73ac13aee",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "MissionPassLevel",
+      "fileName": "e990112b8619144a1321ca4107eee70e709a867905e52659c5e0aa0a2e1002a2",
+      "fileSize": 45056,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/MissionPassLevel/e990112b8619144a1321ca4107eee70e709a867905e52659c5e0aa0a2e1002a2",
+      "cryptoKeySha256": "98f66b1cf537fddd5cd422fc7152399bd3bba4975c2d54867020c6c44d39e489",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "MissionPassPoint",
+      "fileName": "e1292d4d59e391a40c7dea60c2900a258f0384aeeac320913a0543dbc39fe06e",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/MissionPassPoint/e1292d4d59e391a40c7dea60c2900a258f0384aeeac320913a0543dbc39fe06e",
+      "cryptoKeySha256": "741f3399f0fc6a5ac8aada4ad4f934467f98c228dda30da522e3553fb190e092",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "MissionProgress",
+      "fileName": "f616f5b368b11816241f4e298d4964522882ebd260621fb6002d017279bb7eda",
+      "fileSize": 3010560,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/MissionProgress/f616f5b368b11816241f4e298d4964522882ebd260621fb6002d017279bb7eda",
+      "cryptoKeySha256": "0cd73695138bb8305d70a477a49b10bdb229ceba38ff241b2672c6a0eaa9887a",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "MissionTypeDefaultNavigation",
+      "fileName": "0a7c88bbbefa821bf9063ebfefa46c811f2ab8026f7bb64209496a9fa47b1e42",
+      "fileSize": 8192,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/MissionTypeDefaultNavigation/0a7c88bbbefa821bf9063ebfefa46c811f2ab8026f7bb64209496a9fa47b1e42",
+      "cryptoKeySha256": "ff623742fdd6d1a2b47724c4ad6e0b4cb34fa86d1a587776393b04b17b66fa01",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "Music",
+      "fileName": "15b856e033fe14ee756463fc978cc100af48a8f483ac9ba4d879b4b8b547e360",
+      "fileSize": 118784,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/Music/15b856e033fe14ee756463fc978cc100af48a8f483ac9ba4d879b4b8b547e360",
+      "cryptoKeySha256": "bb0ba37d698fbeca3afcfd59e8f9d2c9fa7fb72009e7d10bda2fb966a483caee",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "MusicCreativeChartTag",
+      "fileName": "7ecb214e12b1a6fdd9b1d6b2225ae9f109425b217110a917a1e83199b96e474c",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/MusicCreativeChartTag/7ecb214e12b1a6fdd9b1d6b2225ae9f109425b217110a917a1e83199b96e474c",
+      "cryptoKeySha256": "6d2f5f481c72d786bc9a6cfd32e4953815d3ccfeec23873dd14752cbd302a209",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "MusicDifficulty",
+      "fileName": "3837a66591ab0391f9392b05fec8fe2c2884730a962ad4cd4333b22d7a8ffcd1",
+      "fileSize": 61440,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/MusicDifficulty/3837a66591ab0391f9392b05fec8fe2c2884730a962ad4cd4333b22d7a8ffcd1",
+      "cryptoKeySha256": "e07679568386477726292007861500b7338e1c57ea19ec307c368f8700ed0593",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "MusicDifficultyChart",
+      "fileName": "4243a2d55e387ca08b67824e232b0db2bd14b8435a1f2eee5c1d13c0e33bbc4c",
+      "fileSize": 77824,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/MusicDifficultyChart/4243a2d55e387ca08b67824e232b0db2bd14b8435a1f2eee5c1d13c0e33bbc4c",
+      "cryptoKeySha256": "ef20b24bdf616b47bd604dfaa0431582522fe5aa2edb3505ab72b8dedf0b7966",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "MusicDifficultyConfiguration",
+      "fileName": "b56cc2af30d1db2f2600c1a4e31b40c48156b376246809c5381a6553b02f93fa",
+      "fileSize": 8192,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/MusicDifficultyConfiguration/b56cc2af30d1db2f2600c1a4e31b40c48156b376246809c5381a6553b02f93fa",
+      "cryptoKeySha256": "a9027cc8750a34825636d26ea4ee9b7d14626c85e5c49d164bdd330375c6ae05",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "MusicHighestScoreRatingRankingReward",
+      "fileName": "4f53ae1035956e607d47f6f78d13bbbf0a08b5af84ad11309212192e6ab00fcd",
+      "fileSize": 32768,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/MusicHighestScoreRatingRankingReward/4f53ae1035956e607d47f6f78d13bbbf0a08b5af84ad11309212192e6ab00fcd",
+      "cryptoKeySha256": "db2aa41e84b0ac0bfd449bc03cd19c79a839312acedf599f678a081d8d4cc608",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "MusicMv",
+      "fileName": "3acc3f40fafdd8eb017ecf46d79980330dff1d8c2e971078a21ece700b0fea45",
+      "fileSize": 53248,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/MusicMv/3acc3f40fafdd8eb017ecf46d79980330dff1d8c2e971078a21ece700b0fea45",
+      "cryptoKeySha256": "c48b1aeec4ce1674611b52b793e472d21d33d3638379c19f56bfbbc19a3afdf8",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "MusicMvCategory",
+      "fileName": "33326ee445c16b88fd1950adab8dd769dc3d21e4a89853b94c9d7822c69a0a89",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/MusicMvCategory/33326ee445c16b88fd1950adab8dd769dc3d21e4a89853b94c9d7822c69a0a89",
+      "cryptoKeySha256": "0acbd4f73820e95ac4ef3b43e9ab6a4e7618b7e5cb6d9f4c69cde0e2b1ce76f4",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "OctoSetting",
+      "fileName": "ce5ecd8c86312d9c013c6848c9c7784041b2ddb7feb55fa696e88572867c7040",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/OctoSetting_US/ce5ecd8c86312d9c013c6848c9c7784041b2ddb7feb55fa696e88572867c7040",
+      "cryptoKeySha256": "1faf59743340c195dbd01c745c485e531d5f9dbba065c01a2dc94d64ba4bcd9d",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "ParkAccessory",
+      "fileName": "b61444521428b2f68619252b7c166485991b60b6c07bbbe6938a182dff64af28",
+      "fileSize": 57344,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/ParkAccessory/b61444521428b2f68619252b7c166485991b60b6c07bbbe6938a182dff64af28",
+      "cryptoKeySha256": "476dee8781209243357749c029c2bfcb1d134bf5830f7478e1ebd001d783320f",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "ParkCall",
+      "fileName": "3479af25d0f0919e9176b96e1885d6615631b81eb7bc4cf84fa0e57e0f1a0170",
+      "fileSize": 24576,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/ParkCall/3479af25d0f0919e9176b96e1885d6615631b81eb7bc4cf84fa0e57e0f1a0170",
+      "cryptoKeySha256": "a8e2fa5dde23c090996f495576e0dfefeeb20a0dc489f4407753d8e1992f690e",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "ParkCharacterShop",
+      "fileName": "f2c4488e244bc1f00638dd97eb62085787feb0abbbdc00f62e4ed933e0581a4d",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/ParkCharacterShop/f2c4488e244bc1f00638dd97eb62085787feb0abbbdc00f62e4ed933e0581a4d",
+      "cryptoKeySha256": "99713ccd1b92eef381c0fb5f0ca55345a6914bd624e3bfeab2bc3f6a70a16d12",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "ParkEmotion",
+      "fileName": "0fcfe9efcc05ce72e028548beb7eba0062341086d446b0eb80393283228201d7",
+      "fileSize": 229376,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/ParkEmotion/0fcfe9efcc05ce72e028548beb7eba0062341086d446b0eb80393283228201d7",
+      "cryptoKeySha256": "d058c407bea0149735e2bd29ed3213b948bf77bbe4a3e84bebebb94cde789e0f",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "ParkFishingBait",
+      "fileName": "5fbad9bf98d192ce4e726270caa202599ea8ecae4f1a1fed8892a712e1c899a5",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/ParkFishingBait/5fbad9bf98d192ce4e726270caa202599ea8ecae4f1a1fed8892a712e1c899a5",
+      "cryptoKeySha256": "fff8e8384f97f8fb97f2e47405d4c6b9dd30fd98de4e234aa446d1ea5a9cdc84",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "ParkFishingFish",
+      "fileName": "b4d8e3410155b953c3710c4922cf8d1d1a12fd14845147b760605d27fcd5dc9a",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/ParkFishingFish/b4d8e3410155b953c3710c4922cf8d1d1a12fd14845147b760605d27fcd5dc9a",
+      "cryptoKeySha256": "4df1e669d06992333cb49cb50ad216f9d427fe42b806da62a9a5c161f50cbe03",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "ParkFishingFishIcon",
+      "fileName": "2071c5e82a506192dd42b1be5a6a0c456b73d4d08d64fcd208de05fbaac45e6c",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/ParkFishingFishIcon/2071c5e82a506192dd42b1be5a6a0c456b73d4d08d64fcd208de05fbaac45e6c",
+      "cryptoKeySha256": "992fb8af6afaef8034a2fc784c65418d8087b2dca0991c06cc880cca8bef7f3f",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "ParkFishingFishSpecies",
+      "fileName": "1e04de442e9c0bedf5700a48c5ab1daeec40c2881fcd5df56854c52eacb55de8",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/ParkFishingFishSpecies/1e04de442e9c0bedf5700a48c5ab1daeec40c2881fcd5df56854c52eacb55de8",
+      "cryptoKeySha256": "cce7308faf1e1d731a712e30c017f09adb3400d846cc26320d4f09a060bed7e7",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "ParkFishingRod",
+      "fileName": "c00e72d5507bd78687c342981d098503d4bacc92e06bf844bacb50b8184d9b18",
+      "fileSize": 8192,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/ParkFishingRod/c00e72d5507bd78687c342981d098503d4bacc92e06bf844bacb50b8184d9b18",
+      "cryptoKeySha256": "2fe0569eda2f8fcbecf800ca415e0237391bb0789f39c50568af47344db98851",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "ParkFishingSetting",
+      "fileName": "1f58593b7027325eb3b6ae2a5f5e3fb7cc918e200546a187ac4f48dd2634bf74",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/ParkFishingSetting/1f58593b7027325eb3b6ae2a5f5e3fb7cc918e200546a187ac4f48dd2634bf74",
+      "cryptoKeySha256": "e5d8de6c27d5dd14307897d68747b84df27636c0713f30285b130c4eedc7be7e",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "ParkFishingSpot",
+      "fileName": "23cc0c8ad2667f228948d76be6f72fe46c1e53782dfd75d5fd610bdaab306a47",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/ParkFishingSpot/23cc0c8ad2667f228948d76be6f72fe46c1e53782dfd75d5fd610bdaab306a47",
+      "cryptoKeySha256": "5b8a047d655fceef162ac337213ad5abf12a01d5748c6e6c0227e944cc780fb7",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "ParkFishingTotalCaughtReward",
+      "fileName": "54600fe2c2587e7d1572d030566f181c2e54e087239a4cfff2df63288d27a5d6",
+      "fileSize": 8192,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/ParkFishingTotalCaughtReward/54600fe2c2587e7d1572d030566f181c2e54e087239a4cfff2df63288d27a5d6",
+      "cryptoKeySha256": "2905a4a70b478f3c91b4711dd0d7fcad7f0deb8f88d2a21c800d7fa572a35757",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "ParkFixedSymbol",
+      "fileName": "3e43475af83c20db9c7250b83bf8389a653bc695b1c1fb79ea78e374bba2ffee",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/ParkFixedSymbol/3e43475af83c20db9c7250b83bf8389a653bc695b1c1fb79ea78e374bba2ffee",
+      "cryptoKeySha256": "ae752edf34f98e7c41726280d5e5e249171dae05f2c4ee8502ff52baadfcea8a",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "ParkGraph",
+      "fileName": "48a845717c0e6bfbc7bc4f41edc5d325d4f1a19d4fc76d37f90abeef78438883",
+      "fileSize": 86016,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/ParkGraph/48a845717c0e6bfbc7bc4f41edc5d325d4f1a19d4fc76d37f90abeef78438883",
+      "cryptoKeySha256": "c76fac1e3d4ff8d416854fe24feea5803eac1f3302ec050252f9f7ed07f148e3",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "ParkHighLow",
+      "fileName": "112fd9210a0d9b565c6418a8dbb495dc4fb4c99d7af79d0a317d4d3682c7e64a",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/ParkHighLow/112fd9210a0d9b565c6418a8dbb495dc4fb4c99d7af79d0a317d4d3682c7e64a",
+      "cryptoKeySha256": "7c445ad012ad6159a19e26825cba887b97c306b6852a4da0d188a4d7ee9de0e1",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "ParkHighLowHand",
+      "fileName": "5f17dbde52a152fe87ef6f3a1cf3ddb95949fd0a5f2e95b08c9d893a3958843c",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/ParkHighLowHand/5f17dbde52a152fe87ef6f3a1cf3ddb95949fd0a5f2e95b08c9d893a3958843c",
+      "cryptoKeySha256": "fa4c59a087362a2f232725e6c62ec90f682de2d537d26679b19ea13d713e0dad",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "ParkLottery",
+      "fileName": "85063ba07f929cf57741711f57add545ca98dbf951b4c5503cda09bd9ec711e7",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/ParkLottery/85063ba07f929cf57741711f57add545ca98dbf951b4c5503cda09bd9ec711e7",
+      "cryptoKeySha256": "c80ce8650735e2767e258c72abc41f562ed4509b164206cad9dd3e51537bf56c",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "ParkNotice",
+      "fileName": "d60763c2345387360fc28d93a68eaecd7a9253a160900cb795b41071d362487d",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/ParkNotice/d60763c2345387360fc28d93a68eaecd7a9253a160900cb795b41071d362487d",
+      "cryptoKeySha256": "80d941a1cc25f7299166bcbcbd1612c3d531a00eec1deb9888e0ae0b348551be",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "ParkNpc",
+      "fileName": "992a567fe1b4192c0e84678b1ce2ec60c334b702391398cbb9df47417424168f",
+      "fileSize": 2424832,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/ParkNpc/992a567fe1b4192c0e84678b1ce2ec60c334b702391398cbb9df47417424168f",
+      "cryptoKeySha256": "b5a790f303dc7957dcbc9c02f7f68759e611126c414a7a614c7f310f81ca2bf1",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "ParkNpcGroup",
+      "fileName": "da9c3fe2c81e6b734721f9186fd52584932d14bd2ef018eea73a84fb9d020f48",
+      "fileSize": 3715072,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/ParkNpcGroup/da9c3fe2c81e6b734721f9186fd52584932d14bd2ef018eea73a84fb9d020f48",
+      "cryptoKeySha256": "8fae010a134f0879639df9165fec6f4b8c4a4aedf522a27a38631125751bc1fb",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "ParkNpcQuality",
+      "fileName": "bf1a1eb6047219d1fa04f2e4d6104437ddf2db0f7c351d2455b6d934ce2eb16b",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/ParkNpcQuality/bf1a1eb6047219d1fa04f2e4d6104437ddf2db0f7c351d2455b6d934ce2eb16b",
+      "cryptoKeySha256": "53254b81f057955536c2f45c4e32a0c97c3755f60dea997fa708d3781514e3e7",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "ParkPermanence",
+      "fileName": "84334bbac78e26f82c62ba3763d80fc7646653e866a88205276517e1b804c226",
+      "fileSize": 24576,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/ParkPermanence/84334bbac78e26f82c62ba3763d80fc7646653e866a88205276517e1b804c226",
+      "cryptoKeySha256": "113e4bc3471ad0b6aa84e085d3109ebbc471a9d2c2b93b2003793d5d6ec0b9e2",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "ParkPermanenceAction",
+      "fileName": "cc92ffd0db5c27718ff28aa47ae227cab0239fe8934354455ffdd6edfcf8a9b2",
+      "fileSize": 28672,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/ParkPermanenceAction/cc92ffd0db5c27718ff28aa47ae227cab0239fe8934354455ffdd6edfcf8a9b2",
+      "cryptoKeySha256": "0d39474ef3b805d9cc6a016a4a71341b08e6519e712b17e6f176db8f0cf5efaf",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "ParkPosition",
+      "fileName": "302bd136dd96acefc97ca040dc98ccd6d7217997dc7485a133ec87d19daf1583",
+      "fileSize": 147456,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/ParkPosition/302bd136dd96acefc97ca040dc98ccd6d7217997dc7485a133ec87d19daf1583",
+      "cryptoKeySha256": "c72c53ded464b5d17ff1c4c3a88f354cc26195a64b89bc42abb4e4c724dee2f8",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "ParkPositionGrouping",
+      "fileName": "658d0e949815500c6c51d6195974f5c800c06d25a60e696916b77d98c601de98",
+      "fileSize": 57344,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/ParkPositionGrouping/658d0e949815500c6c51d6195974f5c800c06d25a60e696916b77d98c601de98",
+      "cryptoKeySha256": "4818fc9d87fe243844d0eca2bc115a177678cb70d81b1535d51e4d66dedbba4b",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "ParkPrintBooth",
+      "fileName": "ef47722f5516fc45c6d006defde497df2f8090a1b1c8095c30343873ed607d02",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/ParkPrintBooth/ef47722f5516fc45c6d006defde497df2f8090a1b1c8095c30343873ed607d02",
+      "cryptoKeySha256": "8b9975a9414095fa2f6bb8344728d8bf9033e1be5a807e989af114b2de04d3e9",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "ParkPrintBoothComposition",
+      "fileName": "8351aa77ff71a178ef9a254140b0fbc5c4b535da47dbdfd80911e45d58716ddf",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/ParkPrintBoothComposition/8351aa77ff71a178ef9a254140b0fbc5c4b535da47dbdfd80911e45d58716ddf",
+      "cryptoKeySha256": "134b8f6f3f69ad1ed232eb0c40af5ea343566db677129e40f49c7508b391064e",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "ParkPrintBoothMotion",
+      "fileName": "0b0194080e1001c7553e47018cb3d7e182184d403b8697edecee676585784b7f",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/ParkPrintBoothMotion/0b0194080e1001c7553e47018cb3d7e182184d403b8697edecee676585784b7f",
+      "cryptoKeySha256": "3e58fc34f0c9428ee6890155518ce536c2054e1f06e8e5f5e0f4512bcfd9b3eb",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "ParkQuest",
+      "fileName": "eea4c1c7f0d3cb9a0f6f645682adbe7393d02d8fea7a9f68a416ec00c84088cf",
+      "fileSize": 69632,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/ParkQuest/eea4c1c7f0d3cb9a0f6f645682adbe7393d02d8fea7a9f68a416ec00c84088cf",
+      "cryptoKeySha256": "6286a6764ff04a86de58166110e3ab9589b2218de95908f3a45eccf9666bf9ab",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "ParkQuestChapter",
+      "fileName": "71385bb13015f1f15372d7dacd23cbac92b5ce2cba1ac052dba965c3e0b14815",
+      "fileSize": 24576,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/ParkQuestChapter/71385bb13015f1f15372d7dacd23cbac92b5ce2cba1ac052dba965c3e0b14815",
+      "cryptoKeySha256": "e0def34a1bde20720139cce3028e26b75877a01ebe80c4a7233b016da02143f8",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "ParkQuestChase",
+      "fileName": "cf2314066d2e931043831dd8211e5bd666bdc8cdd808d760d6a45433f8a5d0c1",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/ParkQuestChase/cf2314066d2e931043831dd8211e5bd666bdc8cdd808d760d6a45433f8a5d0c1",
+      "cryptoKeySha256": "c202b496470203f13f9d94044b84935e88184228e0e2dc81c7758cce56d710cf",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "ParkQuestCircuit",
+      "fileName": "6c26ebbd3e471797c423d120f0c6a5cb47bb8b0da65bdb980a1ef6f708c78299",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/ParkQuestCircuit/6c26ebbd3e471797c423d120f0c6a5cb47bb8b0da65bdb980a1ef6f708c78299",
+      "cryptoKeySha256": "80b088be069d0304d0c5146a3c0a5c2b0eec016c57434b475f90c3023c4331e3",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "ParkQuestComboCardGame",
+      "fileName": "11100c74818d1a32a11f87f571855f25861f5e69e04a559f8f188e7588c68c16",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/ParkQuestComboCardGame/11100c74818d1a32a11f87f571855f25861f5e69e04a559f8f188e7588c68c16",
+      "cryptoKeySha256": "a0bd5d3e3f1dce776ccf539e519b5346d607e11d06bbef393d1f3cbeeb746f03",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "ParkQuestCookingPuzzle",
+      "fileName": "e9dbaee6edf6cca588a703ccba0c36dee15944de3b1918763be9eb7f0a65d2a1",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/ParkQuestCookingPuzzle/e9dbaee6edf6cca588a703ccba0c36dee15944de3b1918763be9eb7f0a65d2a1",
+      "cryptoKeySha256": "7ee07a84f92cbf547d1bcd39025612359071d568ba61c60226b92a5c300730a2",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "ParkQuestJumpRope",
+      "fileName": "2495a9c4cd49f1f8af57f310fd62562b6d51e4a310d800d6d35ba1386c455127",
+      "fileSize": 20480,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/ParkQuestJumpRope/2495a9c4cd49f1f8af57f310fd62562b6d51e4a310d800d6d35ba1386c455127",
+      "cryptoKeySha256": "0e90ae17e5d65f12ed35211df5d35b2e74c7e25891f058df9dda8dbe52ad1c39",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "ParkQuestLive",
+      "fileName": "79c5aefa3d2f50b5358b2696d4215fe1b53736e2aba43f8d40332ab128dcf18b",
+      "fileSize": 40960,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/ParkQuestLive/79c5aefa3d2f50b5358b2696d4215fe1b53736e2aba43f8d40332ab128dcf18b",
+      "cryptoKeySha256": "d983b49cc3d78d7cbdc9d0e73907b5bfb04d223e3212af0cf3e7a966ef8f04ce",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "ParkQuestLiveDeckPosition",
+      "fileName": "4d2a4c91d3714219997870c286ec0c6cff9b90c3086af3c6dd51176fa5790078",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/ParkQuestLiveDeckPosition/4d2a4c91d3714219997870c286ec0c6cff9b90c3086af3c6dd51176fa5790078",
+      "cryptoKeySha256": "dfdecda9283eb0daffb01b33114177643654cc33c7f7efbf50c3661722479cd3",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "ParkQuestLiveMusicDifficulty",
+      "fileName": "75fdfce5560725935795dfa6bca74fc74c44e2cf2a7c218ac51b16baf7e26c07",
+      "fileSize": 77824,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/ParkQuestLiveMusicDifficulty/75fdfce5560725935795dfa6bca74fc74c44e2cf2a7c218ac51b16baf7e26c07",
+      "cryptoKeySha256": "d9b4fa09d52c37e0ff54d3641e9fc2d2fd14f0cf60a79ed3e80677141f7345b4",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "ParkQuestSplashBall",
+      "fileName": "58c5070716eb8d492e32eda71a78da80710ca80b0153e2de79e8b9e446ca85c6",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/ParkQuestSplashBall/58c5070716eb8d492e32eda71a78da80710ca80b0153e2de79e8b9e446ca85c6",
+      "cryptoKeySha256": "3c545d278453e6c2d7b5e9524b39c622a7865addc4a9e19d69a0fb46ad9fa050",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "ParkQuestStep",
+      "fileName": "6ebdddb6af3df4365aff4a6135d216ac5dba74403e94940f1937ad8c89c85054",
+      "fileSize": 143360,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/ParkQuestStep/6ebdddb6af3df4365aff4a6135d216ac5dba74403e94940f1937ad8c89c85054",
+      "cryptoKeySha256": "206947b2d1bdc0321d908e22549e831eff4b50b456ecb98f9c01f94863de95f8",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "ParkQuestStepAction",
+      "fileName": "1e2b8ecb63ecfc3941f3af492aa3d5c1ecee2e6e1b76d5dfbfb751b2a7305510",
+      "fileSize": 196608,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/ParkQuestStepAction/1e2b8ecb63ecfc3941f3af492aa3d5c1ecee2e6e1b76d5dfbfb751b2a7305510",
+      "cryptoKeySha256": "efc154bf6db44f8e73e607a62f29eb1ee5cd54284bd048cd37c1699323f9450e",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "ParkQuestStepGroup",
+      "fileName": "532be8b30a447eea184cbb3ae5132c76573ad8bb9af8f1bfe5956cf9556fd440",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/ParkQuestStepGroup/532be8b30a447eea184cbb3ae5132c76573ad8bb9af8f1bfe5956cf9556fd440",
+      "cryptoKeySha256": "540b4c63bc411441d2779a2fa6894da91b7a669de0830aa5befcff946091a2e6",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "ParkRandomSymbol",
+      "fileName": "1b8afa77f81cd91086e8cc15b398e2b0429039a404d249617b82bee4af5f7804",
+      "fileSize": 57344,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/ParkRandomSymbol/1b8afa77f81cd91086e8cc15b398e2b0429039a404d249617b82bee4af5f7804",
+      "cryptoKeySha256": "5dd5c1c37d1cfb96c563f6cdddf4f759e1b3086b99c4f35c8331406c8f39a078",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "ParkTalk",
+      "fileName": "86e157f83d084b96d08cc3ddf11f436594881466f2fa993fcdd14359083b7dbd",
+      "fileSize": 1421312,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/ParkTalk/86e157f83d084b96d08cc3ddf11f436594881466f2fa993fcdd14359083b7dbd",
+      "cryptoKeySha256": "cf9d3562947d6fb349b03616b32c6a42aeb3c72d451de247c2a34f0d767da268",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "ParkTalkFree",
+      "fileName": "98615f7f87ca0576ddd9dda98033ec1ad2fa7bc6288997d331454c61ba4e5075",
+      "fileSize": 2330624,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/ParkTalkFree/98615f7f87ca0576ddd9dda98033ec1ad2fa7bc6288997d331454c61ba4e5075",
+      "cryptoKeySha256": "202df24d8d3418e889740e27524e127154a3c9df07f3caa8c3f6de9714389d1a",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "ParkTalkFreeGrouping",
+      "fileName": "911e72bdb9fb55fd3ac3fcbb619aaeffd5733bfcd55dad82f532c1b248d6901f",
+      "fileSize": 53248,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/ParkTalkFreeGrouping/911e72bdb9fb55fd3ac3fcbb619aaeffd5733bfcd55dad82f532c1b248d6901f",
+      "cryptoKeySha256": "0406b6edfe00949238b04bcd7cd7e6cfe4f22541ce6227879a35a3a5f751e4ab",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "ParkTargetMapping",
+      "fileName": "0c0933250eb55c0f552d3e1f63a465899a616584f6d93512809d1330e5df3d12",
+      "fileSize": 2277376,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/ParkTargetMapping/0c0933250eb55c0f552d3e1f63a465899a616584f6d93512809d1330e5df3d12",
+      "cryptoKeySha256": "e98ac53b20888e9a76209c03d2bfd6787d3f7171fce30fe26e904e89ae2f2e30",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "ParkTimePeriod",
+      "fileName": "ff1230f535997bf4f91fda48e8458f77309a7582e1a1e24b79a87bf0506a36d3",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/ParkTimePeriod/ff1230f535997bf4f91fda48e8458f77309a7582e1a1e24b79a87bf0506a36d3",
+      "cryptoKeySha256": "e977bb7952bf2b98d7e8c9e55858af1ab1ee2371ea6dbb7ad7a4c2766dd6ea62",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "ParkTreasure",
+      "fileName": "31ea2710b06004a2559b2519cd6743ae2a348c4fcb1b417dbd703ee6b376d920",
+      "fileSize": 24576,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/ParkTreasure/31ea2710b06004a2559b2519cd6743ae2a348c4fcb1b417dbd703ee6b376d920",
+      "cryptoKeySha256": "a24370de351c6320169459582d536f60bdd9cd5eb9d5fed3073f6b9db909780b",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "PlayerLevel",
+      "fileName": "c0dfb2132052aba1b0ddf1611e1db31db2eb1888e9348b69d7d490566f37fbc5",
+      "fileSize": 16384,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/PlayerLevel/c0dfb2132052aba1b0ddf1611e1db31db2eb1888e9348b69d7d490566f37fbc5",
+      "cryptoKeySha256": "d7f2cc43318e06f861484f244bd18a55207dc81a0c94ff20d1e1aff70c49eb98",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "Poster",
+      "fileName": "d267993a8cbe9f325de482b35752c7a84b0257b70dd83aae6e97128dbf4753c8",
+      "fileSize": 20480,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/Poster/d267993a8cbe9f325de482b35752c7a84b0257b70dd83aae6e97128dbf4753c8",
+      "cryptoKeySha256": "58af3d4c49972eff13f76900b9dc0d98e674749d16a7223a25f9830cd74f7d54",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "PosterCollectEffect",
+      "fileName": "6d0ecbca9ab1acb377b4c2f0a489f91463de5b3d78a169448b4409f2f19b93b3",
+      "fileSize": 8192,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/PosterCollectEffect/6d0ecbca9ab1acb377b4c2f0a489f91463de5b3d78a169448b4409f2f19b93b3",
+      "cryptoKeySha256": "039ea8ec5e1c3dc4db646bb8f2d94f92dce8bc0e6834ba29a96b4cde2621dd70",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "PreferenceCapacityLimit",
+      "fileName": "ca2d103b2402785a3727f7283acad54a91b8e7f3640414711af0c6998f665eb7",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/PreferenceCapacityLimit/ca2d103b2402785a3727f7283acad54a91b8e7f3640414711af0c6998f665eb7",
+      "cryptoKeySha256": "c1537ea8b4ecade653da5cf9e2815bd12ba91a6e6bf3be05a1ccee68b3b46d0f",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "ResourceObtainmentRoute",
+      "fileName": "7929732f22d1f953b45a70ed02096e35166b889f86d6cbefcb075b443dbefde2",
+      "fileSize": 49152,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/ResourceObtainmentRoute/7929732f22d1f953b45a70ed02096e35166b889f86d6cbefcb075b443dbefde2",
+      "cryptoKeySha256": "421bac4d10103198639d222322cb909f05e05dfccd819828e282aaf4dd0ba600",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "ResourceTypeDetail",
+      "fileName": "5310d3f84dead7e1f2e02edc58fa0ac5116fdcfdc406710534025d58a62e7964",
+      "fileSize": 16384,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/ResourceTypeDetail/5310d3f84dead7e1f2e02edc58fa0ac5116fdcfdc406710534025d58a62e7964",
+      "cryptoKeySha256": "9d598316231536a299b73e8203702df47325ae85cfe2a4bbddff4caa8a2ee4e3",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "Rule",
+      "fileName": "22d02c9b540c1b89f23d67a83773e8a75dad975589343e87d872158210a8e327",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/Rule/22d02c9b540c1b89f23d67a83773e8a75dad975589343e87d872158210a8e327",
+      "cryptoKeySha256": "6a6131349f078af1ba26a888e6fd8d2c1dfe8143fb14639d686e734f75f68bf1",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "SdCostume",
+      "fileName": "606414c4a7b9abb312f8b59336023c34310bf8b618a34b7741098561966b0728",
+      "fileSize": 77824,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/SdCostume/606414c4a7b9abb312f8b59336023c34310bf8b618a34b7741098561966b0728",
+      "cryptoKeySha256": "c414a8da58e513847d81c09d61dad9c78ce17e6bd2e1205b9b17a0fa13c2acdb",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "SdCostumeHairAccessory",
+      "fileName": "a1fda0f9f9a4330a41654fb66fe8f19ded74af25f82ea95fe06c0fd1dae5cb95",
+      "fileSize": 94208,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/SdCostumeHairAccessory/a1fda0f9f9a4330a41654fb66fe8f19ded74af25f82ea95fe06c0fd1dae5cb95",
+      "cryptoKeySha256": "afb386f9745ca0582004a71a45704898ad4784e3b0271bf35b0b5a7d54529165",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "SemiResourceTypeDetail",
+      "fileName": "f2c12763b29cc86e4fe188ff36127ee1bf8bca3093d3b4d619d4220c2e5a7a26",
+      "fileSize": 8192,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/SemiResourceTypeDetail/f2c12763b29cc86e4fe188ff36127ee1bf8bca3093d3b4d619d4220c2e5a7a26",
+      "cryptoKeySha256": "6c4cbd31ae13ad3b1122452bb5927fd82b4bf0df0f1eb7ce10e25bcc776b12ad",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "Setting",
+      "fileName": "d3c77b64eafe1527f180f18d16456c7bee676b04adb03b0fbd85494d828e13c6",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/Setting/d3c77b64eafe1527f180f18d16456c7bee676b04adb03b0fbd85494d828e13c6",
+      "cryptoKeySha256": "f3311183d466ae17a98d28ec0b6c670b69ca9749310dcafaf39109c730bb9eb5",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "ShopChargeItemProduct",
+      "fileName": "0366b35769728e1b225a9cb97e7bafa65134822dde7860e8ae2cc0d2118ba4c4",
+      "fileSize": 57344,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/ShopChargeItemProduct_US/0366b35769728e1b225a9cb97e7bafa65134822dde7860e8ae2cc0d2118ba4c4",
+      "cryptoKeySha256": "6c3256bb80a9c505955e2d5ba95c19e20e63dd5f3cafa8f79bfb2fdef2c0e2f7",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "SkillTreeConnectEffect",
+      "fileName": "5f31beaf087f2cc9ab07f36de1a0b1503e04386f395e417e32dcf6fc39c07602",
+      "fileSize": 40960,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/SkillTreeConnectEffect/5f31beaf087f2cc9ab07f36de1a0b1503e04386f395e417e32dcf6fc39c07602",
+      "cryptoKeySha256": "955a1466d03a1cd98601538446bd7b406c62f18a24ee0ba9f76a8d4a2799d4a3",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "SkillTreeConnectEffectExtent",
+      "fileName": "72d92e286bc59ef64dc1422a21f74e9ea67ef5e583bf1efff35c00b3d1a69bee",
+      "fileSize": 32768,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/SkillTreeConnectEffectExtent/72d92e286bc59ef64dc1422a21f74e9ea67ef5e583bf1efff35c00b3d1a69bee",
+      "cryptoKeySha256": "a1d1ad92cafefa0779c9c10c0109594d58da2e23fc77c342fe1024bc0e3f07d5",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "SkillTreeEffect",
+      "fileName": "d8473d6e852f04f151c8a81fb81a20ddb8ff58376cbe270ba66786f6a25205e1",
+      "fileSize": 94208,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/SkillTreeEffect/d8473d6e852f04f151c8a81fb81a20ddb8ff58376cbe270ba66786f6a25205e1",
+      "cryptoKeySha256": "1bd1a4d1a9abc0fd603460d5d98adbae361a10c5615fc700d11d84d1b4a67f83",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "SkillTreeEffectPassiveTrigger",
+      "fileName": "0a5dfbd08a791d82e369faa7ca9a5076aaf913bf3679f54baf62859190ed0f1d",
+      "fileSize": 40960,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/SkillTreeEffectPassiveTrigger/0a5dfbd08a791d82e369faa7ca9a5076aaf913bf3679f54baf62859190ed0f1d",
+      "cryptoKeySha256": "5a7fe67e7726c8121913aae152e1cc15b9f964ab4b7bb3dee87e21bf1a3b3f95",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "SkillTreeEffectTarget",
+      "fileName": "cc76e928112af466ac55a0adc2383d0d3b42521e32435dadd481341c9a372c07",
+      "fileSize": 36864,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/SkillTreeEffectTarget/cc76e928112af466ac55a0adc2383d0d3b42521e32435dadd481341c9a372c07",
+      "cryptoKeySha256": "82651a0a3b1cb6144c55473e88ea85ac0540b0797f025073cf9dd01e686a324c",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "SkillTreeEffectValueLimit",
+      "fileName": "e67d4caf0dd585b299a21c45c4e1188e758945baaa172b672426dbe5b3c1b506",
+      "fileSize": 8192,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/SkillTreeEffectValueLimit/e67d4caf0dd585b299a21c45c4e1188e758945baaa172b672426dbe5b3c1b506",
+      "cryptoKeySha256": "bef7456b2557d0c7bd77519991449bc989a478189fa527322e7a124bf111a31c",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "SkillTreeNode",
+      "fileName": "f6666453d41d16bda6b7ac653846c9a5311eb0a1f582afa5c08912a176a61c99",
+      "fileSize": 98304,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/SkillTreeNode/f6666453d41d16bda6b7ac653846c9a5311eb0a1f582afa5c08912a176a61c99",
+      "cryptoKeySha256": "b511a1dbc4b7f98b0dd207d48f5c6f1d24581f92ea29fe8b60fb1fc781e80fda",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "SkillTreeNodeAutoSelection",
+      "fileName": "cd388f95b73a476b9bde8d57b11229684f411b8db39b968f9453bba5d5b37e1b",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/SkillTreeNodeAutoSelection/cd388f95b73a476b9bde8d57b11229684f411b8db39b968f9453bba5d5b37e1b",
+      "cryptoKeySha256": "5ad31bee9a0c397c070e8d29fee9b227f563b35d099919465a2417a2b6e2f6fb",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "SkillTreeNodePosition",
+      "fileName": "ca5bf04bd84a2402e12419cc7fe0582d6c65697d26df7f1edb0ba1acba28ea93",
+      "fileSize": 73728,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/SkillTreeNodePosition/ca5bf04bd84a2402e12419cc7fe0582d6c65697d26df7f1edb0ba1acba28ea93",
+      "cryptoKeySha256": "30aa1dfb130e16e6a7606be517506d5dd7d62525d6d2a2ea03c7a1a666830be6",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "SkillTreePoint",
+      "fileName": "a882b37282db5fa7ef149c756e057baafcb780b6a9795081d7b84b812b1d8cad",
+      "fileSize": 20480,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/SkillTreePoint/a882b37282db5fa7ef149c756e057baafcb780b6a9795081d7b84b812b1d8cad",
+      "cryptoKeySha256": "b19d0f6264674b2111b38ff74d8a3a3e791826981d44952499ea33250b0b289b",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "SpecialStory",
+      "fileName": "0631c7f293890bd20b749f127180bc35ffbc28827cff6d458abb51faae8c7f17",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/SpecialStory/0631c7f293890bd20b749f127180bc35ffbc28827cff6d458abb51faae8c7f17",
+      "cryptoKeySha256": "9879ade5763fed19a29ab912c105408485d1d20ac767d7b629002e6c9095b314",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "SplashBall",
+      "fileName": "3415695c246f12a84bf49943831b4414fd3ae9a82b55491fb8bb29914f36a0ae",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/SplashBall/3415695c246f12a84bf49943831b4414fd3ae9a82b55491fb8bb29914f36a0ae",
+      "cryptoKeySha256": "862c3c42101743a487240860a1493bae5af732cdf89490806807d17706217b42",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "SplashBallBall",
+      "fileName": "9a1da33d127e94728038656f97de77520987439ef5ea43a01ccd29240931a99e",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/SplashBallBall/9a1da33d127e94728038656f97de77520987439ef5ea43a01ccd29240931a99e",
+      "cryptoKeySha256": "98dd5143cfba4ef07fd4113b67cee01b8026d6206cd25203e15c2cb904c66d49",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "SplashBallPlayerPosition",
+      "fileName": "031cdf5cdfcee27e961291ddc55d143b0f776bccc9a4b4725363c82a34e4c68e",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/SplashBallPlayerPosition/031cdf5cdfcee27e961291ddc55d143b0f776bccc9a4b4725363c82a34e4c68e",
+      "cryptoKeySha256": "fc3b4f9b1942e11939aab41707c3d194c198d02aa93edb9bbbb915718b96e638",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "SplashBallSetting",
+      "fileName": "06b36d4f1fdda1011856dcb323001dd2ee7b716a1cb13142eead8248f94d5561",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/SplashBallSetting/06b36d4f1fdda1011856dcb323001dd2ee7b716a1cb13142eead8248f94d5561",
+      "cryptoKeySha256": "768590ed6a4ab0414b5108c3d79de4bcee1464bc94d593925dee27a035d23ade",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "Stamp",
+      "fileName": "20e89981c5415a1c856d8cade0865b2f0786bbc344517d0d920200358623f147",
+      "fileSize": 81920,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/Stamp/20e89981c5415a1c856d8cade0865b2f0786bbc344517d0d920200358623f147",
+      "cryptoKeySha256": "cb700cf4a29872ab48b2050e56e744e987f80a4c00305b324fddd5a95540c91f",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "Story",
+      "fileName": "db22cfea1fc344111956944d8367ea98c745c702152da98b8ceeef80dadf75db",
+      "fileSize": 45056,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/Story/db22cfea1fc344111956944d8367ea98c745c702152da98b8ceeef80dadf75db",
+      "cryptoKeySha256": "72d2baacb2081fa059d035c3985e1fee7b521411744283a2e62975eaafa1f166",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "SystemSound",
+      "fileName": "ce4bdceffec0a197e5789b887f2d2bbbfe968835d7f66484dc5f42cae1093d44",
+      "fileSize": 24576,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/SystemSound/ce4bdceffec0a197e5789b887f2d2bbbfe968835d7f66484dc5f42cae1093d44",
+      "cryptoKeySha256": "e3e60a84318159a1923a07e7b04c06b6c9c6caf70c6a9887ddc9d5987d524c6d",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "SystemVoice",
+      "fileName": "0e0527740669585383618aca92bf80504ac6da4ea1f3612f5fc79a402a434afe",
+      "fileSize": 905216,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/SystemVoice/0e0527740669585383618aca92bf80504ac6da4ea1f3612f5fc79a402a434afe",
+      "cryptoKeySha256": "698668bbd783a5fc149beaefbe8a1ad90f036e18df6a851d4e489ba15804c4a8",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "Tips",
+      "fileName": "0003de9ac265bd064d70ba4ef78c98b569c115fd876852258d5bb7ec34b56f1e",
+      "fileSize": 40960,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/Tips/0003de9ac265bd064d70ba4ef78c98b569c115fd876852258d5bb7ec34b56f1e",
+      "cryptoKeySha256": "dbc085dfdf187f97e3b6d0175c1175b036c98afac8f009466962033af5eae561",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "TipsDetail",
+      "fileName": "1faa4c26cb0377fbd57abe019adde2350ba6e3683029a11bd82fefb83b6092c2",
+      "fileSize": 73728,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/TipsDetail/1faa4c26cb0377fbd57abe019adde2350ba6e3683029a11bd82fefb83b6092c2",
+      "cryptoKeySha256": "d152766a31532c7094b0450b34723a8cce00b2b9fe75295debe8f285a28fb562",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "Tutorial",
+      "fileName": "63c3f4a9240985c033606f6922d564777e7b5c044f908ed03c91840b85a5bf0a",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/Tutorial/63c3f4a9240985c033606f6922d564777e7b5c044f908ed03c91840b85a5bf0a",
+      "cryptoKeySha256": "fc1784f3b10d6bb4e3bba89afbb35ae6ae234120112183bdb0ead8e5f0910435",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "Wallpaper",
+      "fileName": "6f5f2bc5da3da12c26800103dc7d1c79db26309312298a1347a225cf87211d0d",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/Wallpaper/6f5f2bc5da3da12c26800103dc7d1c79db26309312298a1347a225cf87211d0d",
+      "cryptoKeySha256": "69c918f1634f32c8705d7e66a825166ce2e13e0f6c37d6cbd97a6b7f27b49c7f",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "Work",
+      "fileName": "573308023b6bf6944620b667221ef1983ff5d33930e648ce915fe5b1c2dfcdd4",
+      "fileSize": 1081344,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/Work/573308023b6bf6944620b667221ef1983ff5d33930e648ce915fe5b1c2dfcdd4",
+      "cryptoKeySha256": "66866896d91886aac0afd189203e2a5b2d1bb2db34389086c6f58db51ba47b13",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "WorkDisplay",
+      "fileName": "eef4922e672fc05799405990d3554ac88e4a2d628fc3f6504d021209340d937c",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/WorkDisplay/eef4922e672fc05799405990d3554ac88e4a2d628fc3f6504d021209340d937c",
+      "cryptoKeySha256": "e195d2ca1cb5768515e741eb2ce13cf4ff91548bcea681e8185c743c6afac55a",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "WorkEvaluationRank",
+      "fileName": "f5c502c8d96258a121fdb0cb97cf34ceeaff78b383155a6572b190ee2bb45ac6",
+      "fileSize": 49152,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/WorkEvaluationRank/f5c502c8d96258a121fdb0cb97cf34ceeaff78b383155a6572b190ee2bb45ac6",
+      "cryptoKeySha256": "a2ad53165a478765608dc40829c7b5a57ef9cfe2ec364adcf9601d0a4340dd85",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "WorkSlot",
+      "fileName": "542f5d07137325c676bae4dabc51a4cf70112546bb2e02c0a678841273eac02d",
+      "fileSize": 8192,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/WorkSlot/542f5d07137325c676bae4dabc51a4cf70112546bb2e02c0a678841273eac02d",
+      "cryptoKeySha256": "8618368635046b202829935a95f189dce0f2c6a93903e7da90b1d7afef4d4dd6",
+      "cryptoKeyLength": 64
+    },
+    {
+      "type": "World",
+      "fileName": "ae211ae52ebfc36dd612d4a2434d2c4eae077c7ad48da275c6e24b115de925e9",
+      "fileSize": 12288,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/World/ae211ae52ebfc36dd612d4a2434d2c4eae077c7ad48da275c6e24b115de925e9",
+      "cryptoKeySha256": "d3e57aae5154328584634373a5f41fda999a5aea126e68b5cea5cabf3e345285",
+      "cryptoKeyLength": 64
+    }
+  ]
+}

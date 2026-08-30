@@ -1,0 +1,12 @@
+{
+  "type": "SkillTreeConnectEffect",
+  "fileName": "5f31beaf087f2cc9ab07f36de1a0b1503e04386f395e417e32dcf6fc39c07602",
+  "rawPath": "5f31beaf087f2cc9ab07f36de1a0b1503e04386f395e417e32dcf6fc39c07602",
+  "fileSize": 40960,
+  "rawSha256": "d427bc30ef7732a5cac022c4783a598d5ec62795441529e60996cf3b33e73591",
+  "rowCount": 40,
+  "schemaType": "SkillTreeConnectEffect",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE SkillTreeConnectEffect(`id` TEXT, `level` INTEGER, `data` BLOB, PRIMARY KEY (`id`, `level`))",
+  "output": "data/SkillTreeConnectEffect.jsonl"
+}

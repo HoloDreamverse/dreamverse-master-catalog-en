@@ -1,0 +1,12 @@
+{
+  "type": "MissionTypeDefaultNavigation",
+  "fileName": "0a7c88bbbefa821bf9063ebfefa46c811f2ab8026f7bb64209496a9fa47b1e42",
+  "rawPath": "0a7c88bbbefa821bf9063ebfefa46c811f2ab8026f7bb64209496a9fa47b1e42",
+  "fileSize": 8192,
+  "rawSha256": "46eabefc8d1d25deb3053e505778504d72476a1ea9d1ccd34d2a364faeb19b96",
+  "rowCount": 107,
+  "schemaType": "MissionTypeDefaultNavigation",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE MissionTypeDefaultNavigation(`mission_type` INTEGER, `data` BLOB, PRIMARY KEY (`mission_type`))",
+  "output": "data/MissionTypeDefaultNavigation.jsonl"
+}

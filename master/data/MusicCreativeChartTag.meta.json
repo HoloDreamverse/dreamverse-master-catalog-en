@@ -1,0 +1,12 @@
+{
+  "type": "MusicCreativeChartTag",
+  "fileName": "7ecb214e12b1a6fdd9b1d6b2225ae9f109425b217110a917a1e83199b96e474c",
+  "rawPath": "7ecb214e12b1a6fdd9b1d6b2225ae9f109425b217110a917a1e83199b96e474c",
+  "fileSize": 12288,
+  "rawSha256": "d642cb3dd940576f5ea627d19bb164742040d646f9e1429acb229bfa03684156",
+  "rowCount": 7,
+  "schemaType": "MusicCreativeChartTag",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE MusicCreativeChartTag(`id` TEXT, `data` BLOB, PRIMARY KEY (`id`))",
+  "output": "data/MusicCreativeChartTag.jsonl"
+}

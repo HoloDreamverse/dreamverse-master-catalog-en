@@ -1,0 +1,12 @@
+{
+  "type": "LangGeneratedLivePassiveSkillLevel_Eng",
+  "fileName": "4e7c95ebb4fcb87e1f3bdfc8a3d300ee534ccebcfc6a17c020eb6700e4d3db6e",
+  "rawPath": "4e7c95ebb4fcb87e1f3bdfc8a3d300ee534ccebcfc6a17c020eb6700e4d3db6e",
+  "fileSize": 143360,
+  "rawSha256": "5336638278132a0701a038da3f53271310f692ac582491ecaa4866cd31dfce14",
+  "rowCount": 356,
+  "schemaType": "Lang",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE Lang(`id` TEXT, `data` BLOB, PRIMARY KEY (`id`))",
+  "output": "data/LangGeneratedLivePassiveSkillLevel_Eng.jsonl"
+}

@@ -1,0 +1,12 @@
+{
+  "type": "ParkFishingFishIcon",
+  "fileName": "2071c5e82a506192dd42b1be5a6a0c456b73d4d08d64fcd208de05fbaac45e6c",
+  "rawPath": "2071c5e82a506192dd42b1be5a6a0c456b73d4d08d64fcd208de05fbaac45e6c",
+  "fileSize": 12288,
+  "rawSha256": "cfee4a5f80e22aac3c99fd4c506e1586442957a8fa9f4ed8b1cd411935b47648",
+  "rowCount": 0,
+  "schemaType": "ParkFishingFishIcon",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE ParkFishingFishIcon(`group_id` TEXT, `icon_type` INTEGER, `data` BLOB, PRIMARY KEY (`group_id`, `icon_type`))",
+  "output": "data/ParkFishingFishIcon.jsonl"
+}

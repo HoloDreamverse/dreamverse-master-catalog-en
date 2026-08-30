@@ -1,0 +1,12 @@
+{
+  "type": "OctoSetting",
+  "fileName": "ce5ecd8c86312d9c013c6848c9c7784041b2ddb7feb55fa696e88572867c7040",
+  "rawPath": "ce5ecd8c86312d9c013c6848c9c7784041b2ddb7feb55fa696e88572867c7040",
+  "fileSize": 12288,
+  "rawSha256": "213a61c764ca634a95e700d4dc2f6d7816b0f711a723174bc5c83c9484861314",
+  "rowCount": 1,
+  "schemaType": "OctoSetting",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE OctoSetting(`id` TEXT, `data` BLOB, PRIMARY KEY (`id`))",
+  "output": "data/OctoSetting.jsonl"
+}

@@ -1,0 +1,14 @@
+{"type":4,"plus":0,"data":{"type":"A","threshold":150000}}
+{"type":4,"plus":1,"data":{"type":"A","plus":1,"threshold":170000}}
+{"type":3,"plus":0,"data":{"type":"B","threshold":100000}}
+{"type":3,"plus":1,"data":{"type":"B","plus":1,"threshold":120000}}
+{"type":2,"plus":0,"data":{"type":"C","threshold":50000}}
+{"type":2,"plus":1,"data":{"type":"C","plus":1,"threshold":70000}}
+{"type":1,"plus":0,"data":{"type":"D"}}
+{"type":1,"plus":1,"data":{"type":"D","plus":1,"threshold":30000}}
+{"type":5,"plus":0,"data":{"type":"S","threshold":200000}}
+{"type":5,"plus":1,"data":{"type":"S","plus":1,"threshold":220000}}
+{"type":5,"plus":2,"data":{"type":"S","plus":2,"threshold":270000}}
+{"type":5,"plus":3,"data":{"type":"S","plus":3,"threshold":300000}}
+{"type":5,"plus":4,"data":{"type":"S","plus":4,"threshold":350000}}
+{"type":5,"plus":5,"data":{"type":"S","plus":5,"threshold":400000}}

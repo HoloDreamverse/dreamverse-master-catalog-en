@@ -1,0 +1,12 @@
+{
+  "type": "ComboCardGameRoleScore",
+  "fileName": "e67c2a0b815d678e533793e72063ffe971b041a953b2ac1fd6ec0bb296eef259",
+  "rawPath": "e67c2a0b815d678e533793e72063ffe971b041a953b2ac1fd6ec0bb296eef259",
+  "fileSize": 12288,
+  "rawSha256": "a18c2f13cf32bf35b572cddabfef33a73e19690ee9a4ea2aed0f324b70882a41",
+  "rowCount": 16,
+  "schemaType": "ComboCardGameRoleScore",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE ComboCardGameRoleScore(`id` TEXT, `data` BLOB, PRIMARY KEY (`id`))",
+  "output": "data/ComboCardGameRoleScore.jsonl"
+}

@@ -1,0 +1,12 @@
+{
+  "type": "LangWallpaper_Eng",
+  "fileName": "3a882125f372cb8018b7059013bde0be77851db883ba728276ade41dd8e61888",
+  "rawPath": "3a882125f372cb8018b7059013bde0be77851db883ba728276ade41dd8e61888",
+  "fileSize": 12288,
+  "rawSha256": "6b86991b1092cb9c27e3e15c5cbd01c9c3b28191aac4377f417ac7a75289b998",
+  "rowCount": 13,
+  "schemaType": "Lang",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE Lang(`id` TEXT, `data` BLOB, PRIMARY KEY (`id`))",
+  "output": "data/LangWallpaper_Eng.jsonl"
+}

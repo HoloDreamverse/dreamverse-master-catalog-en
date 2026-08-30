@@ -1,0 +1,12 @@
+{
+  "type": "GachaButton",
+  "fileName": "400368d36ec2c4b595d1f4510a15d4ff22c8b5bb9878561c34a1124b7924f352",
+  "rawPath": "400368d36ec2c4b595d1f4510a15d4ff22c8b5bb9878561c34a1124b7924f352",
+  "fileSize": 20480,
+  "rawSha256": "68e40db708a3b69ddb2d02e0c00c4d6803a136dc432db6f178b362397a15b257",
+  "rowCount": 28,
+  "schemaType": "GachaButton",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE GachaButton(`id` TEXT, `data` BLOB, PRIMARY KEY (`id`))",
+  "output": "data/GachaButton.jsonl"
+}

@@ -1,0 +1,12 @@
+{
+  "type": "ParkPositionGrouping",
+  "fileName": "658d0e949815500c6c51d6195974f5c800c06d25a60e696916b77d98c601de98",
+  "rawPath": "658d0e949815500c6c51d6195974f5c800c06d25a60e696916b77d98c601de98",
+  "fileSize": 57344,
+  "rawSha256": "8381bd19af1e92c9e438d5524d484184a064d58e202b98dd3dc43c262c46cf50",
+  "rowCount": 197,
+  "schemaType": "ParkPositionGrouping",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE ParkPositionGrouping(`group_id` TEXT, `park_position_id` TEXT, `data` BLOB, PRIMARY KEY (`group_id`, `park_position_id`))",
+  "output": "data/ParkPositionGrouping.jsonl"
+}

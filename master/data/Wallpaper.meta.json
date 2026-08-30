@@ -1,0 +1,12 @@
+{
+  "type": "Wallpaper",
+  "fileName": "6f5f2bc5da3da12c26800103dc7d1c79db26309312298a1347a225cf87211d0d",
+  "rawPath": "6f5f2bc5da3da12c26800103dc7d1c79db26309312298a1347a225cf87211d0d",
+  "fileSize": 12288,
+  "rawSha256": "949ffa8b71109b7a8d6599f4b968172134b099b36c336643450d18c6187ff6a1",
+  "rowCount": 13,
+  "schemaType": "Wallpaper",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE Wallpaper(`id` TEXT, `data` BLOB, PRIMARY KEY (`id`))",
+  "output": "data/Wallpaper.jsonl"
+}

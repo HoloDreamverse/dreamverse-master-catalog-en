@@ -1,0 +1,12 @@
+{
+  "type": "MusicDifficultyConfiguration",
+  "fileName": "b56cc2af30d1db2f2600c1a4e31b40c48156b376246809c5381a6553b02f93fa",
+  "rawPath": "b56cc2af30d1db2f2600c1a4e31b40c48156b376246809c5381a6553b02f93fa",
+  "fileSize": 8192,
+  "rawSha256": "b641bad2e70bb342619f8b738c52f99ee6233cdf6e33e2c5e3ca8d46c7c789bc",
+  "rowCount": 4,
+  "schemaType": "MusicDifficultyConfiguration",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE MusicDifficultyConfiguration(`type` INTEGER, `data` BLOB, PRIMARY KEY (`type`))",
+  "output": "data/MusicDifficultyConfiguration.jsonl"
+}

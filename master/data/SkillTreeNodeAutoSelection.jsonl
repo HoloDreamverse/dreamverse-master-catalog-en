@@ -1,0 +1,15 @@
+{"auto_selection_type":1,"node_type":4,"data":{"autoSelectionType":"Leader","nodeType":"AllMember"}}
+{"auto_selection_type":1,"node_type":3,"data":{"autoSelectionType":"Leader","nodeType":"Card"}}
+{"auto_selection_type":1,"node_type":1,"data":{"autoSelectionType":"Leader","nodeType":"Connection","priorityRatioPermil":1100}}
+{"auto_selection_type":1,"node_type":5,"data":{"autoSelectionType":"Leader","nodeType":"Content"}}
+{"auto_selection_type":1,"node_type":2,"data":{"autoSelectionType":"Leader","nodeType":"Leader","priorityRatioPermil":1000}}
+{"auto_selection_type":2,"node_type":4,"data":{"autoSelectionType":"Member","nodeType":"AllMember"}}
+{"auto_selection_type":2,"node_type":3,"data":{"autoSelectionType":"Member","nodeType":"Card","priorityRatioPermil":1000}}
+{"auto_selection_type":2,"node_type":1,"data":{"autoSelectionType":"Member","nodeType":"Connection","priorityRatioPermil":1100}}
+{"auto_selection_type":2,"node_type":5,"data":{"autoSelectionType":"Member","nodeType":"Content"}}
+{"auto_selection_type":2,"node_type":2,"data":{"autoSelectionType":"Member","nodeType":"Leader"}}
+{"auto_selection_type":3,"node_type":4,"data":{"autoSelectionType":"Support","nodeType":"AllMember","priorityRatioPermil":1500}}
+{"auto_selection_type":3,"node_type":3,"data":{"autoSelectionType":"Support","nodeType":"Card"}}
+{"auto_selection_type":3,"node_type":1,"data":{"autoSelectionType":"Support","nodeType":"Connection","priorityRatioPermil":1100}}
+{"auto_selection_type":3,"node_type":5,"data":{"autoSelectionType":"Support","nodeType":"Content","priorityRatioPermil":1000}}
+{"auto_selection_type":3,"node_type":2,"data":{"autoSelectionType":"Support","nodeType":"Leader"}}

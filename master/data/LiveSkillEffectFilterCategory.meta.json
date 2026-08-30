@@ -1,0 +1,12 @@
+{
+  "type": "LiveSkillEffectFilterCategory",
+  "fileName": "eff7035197c5c5ad96376666ec13d06ec1c52b921cede3075d391dfcba66a44a",
+  "rawPath": "eff7035197c5c5ad96376666ec13d06ec1c52b921cede3075d391dfcba66a44a",
+  "fileSize": 12288,
+  "rawSha256": "14370007aa73ca4d834932f09b9deb08f7bd669ea0bdff8580762cec74ab645c",
+  "rowCount": 10,
+  "schemaType": "LiveSkillEffectFilterCategory",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE LiveSkillEffectFilterCategory(`id` TEXT, `data` BLOB, PRIMARY KEY (`id`))",
+  "output": "data/LiveSkillEffectFilterCategory.jsonl"
+}

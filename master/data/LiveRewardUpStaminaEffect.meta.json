@@ -1,0 +1,12 @@
+{
+  "type": "LiveRewardUpStaminaEffect",
+  "fileName": "ae4b756b8b7cd4b8e5d8e752a60710b0f5bdb6a34817e20b1bc36cf8f799a743",
+  "rawPath": "ae4b756b8b7cd4b8e5d8e752a60710b0f5bdb6a34817e20b1bc36cf8f799a743",
+  "fileSize": 8192,
+  "rawSha256": "23ff2d0481893e31647bd51a457a0c8a8828f3401fabe1bbce43c02a20e5a4fe",
+  "rowCount": 10,
+  "schemaType": "LiveRewardUpStaminaEffect",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE LiveRewardUpStaminaEffect(`quantity` INTEGER, `data` BLOB, PRIMARY KEY (`quantity`))",
+  "output": "data/LiveRewardUpStaminaEffect.jsonl"
+}

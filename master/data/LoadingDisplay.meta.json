@@ -1,0 +1,12 @@
+{
+  "type": "LoadingDisplay",
+  "fileName": "a78c53011a3ccc65768f17aac6e212773c6afc9bb236cb41dead5daf0fa17005",
+  "rawPath": "a78c53011a3ccc65768f17aac6e212773c6afc9bb236cb41dead5daf0fa17005",
+  "fileSize": 28672,
+  "rawSha256": "7de19cf8cd25b4b358d9b8bafe8e9bc1b093ea00311ede497ee54c98fd9d8992",
+  "rowCount": 107,
+  "schemaType": "LoadingDisplay",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE LoadingDisplay(`id` TEXT, `data` BLOB, PRIMARY KEY (`id`))",
+  "output": "data/LoadingDisplay.jsonl"
+}

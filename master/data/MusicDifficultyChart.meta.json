@@ -1,0 +1,12 @@
+{
+  "type": "MusicDifficultyChart",
+  "fileName": "4243a2d55e387ca08b67824e232b0db2bd14b8435a1f2eee5c1d13c0e33bbc4c",
+  "rawPath": "4243a2d55e387ca08b67824e232b0db2bd14b8435a1f2eee5c1d13c0e33bbc4c",
+  "fileSize": 77824,
+  "rawSha256": "16965606397fbda55422c8d60a34d61e39af10e3824e4c3f0f5d93f33c92ae2a",
+  "rowCount": 776,
+  "schemaType": "MusicDifficultyChart",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE MusicDifficultyChart(`music_id` TEXT, `difficulty_type` INTEGER, `data` BLOB, PRIMARY KEY (`music_id`, `difficulty_type`))",
+  "output": "data/MusicDifficultyChart.jsonl"
+}

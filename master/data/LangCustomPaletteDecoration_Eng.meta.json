@@ -1,0 +1,12 @@
+{
+  "type": "LangCustomPaletteDecoration_Eng",
+  "fileName": "faacf7c407d533fe242891b80570306a42f07aa8d65fe09bc83f89755b265395",
+  "rawPath": "faacf7c407d533fe242891b80570306a42f07aa8d65fe09bc83f89755b265395",
+  "fileSize": 12288,
+  "rawSha256": "af8adf2f9d92640cd445eb8f83cf4c3fe9f0f87c00709aa26974c0fa6fc2cb5c",
+  "rowCount": 2,
+  "schemaType": "Lang",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE Lang(`id` TEXT, `data` BLOB, PRIMARY KEY (`id`))",
+  "output": "data/LangCustomPaletteDecoration_Eng.jsonl"
+}

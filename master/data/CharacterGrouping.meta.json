@@ -1,0 +1,12 @@
+{
+  "type": "CharacterGrouping",
+  "fileName": "8ca505fe6f91de8f76ff1ddce9fafd40dbfa3ad01af80547f36d9d12410f6421",
+  "rawPath": "8ca505fe6f91de8f76ff1ddce9fafd40dbfa3ad01af80547f36d9d12410f6421",
+  "fileSize": 12288,
+  "rawSha256": "a855eacc6d9c7f5dcf7922dbc626b1607c64e1afec07a1de5ed1e7c130673008",
+  "rowCount": 16,
+  "schemaType": "CharacterGrouping",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE CharacterGrouping(`id` TEXT, `data` BLOB, PRIMARY KEY (`id`))",
+  "output": "data/CharacterGrouping.jsonl"
+}

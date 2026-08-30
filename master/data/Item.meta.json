@@ -1,0 +1,12 @@
+{
+  "type": "Item",
+  "fileName": "6bff702b6466b623b39001749c16befd5c348086c7346bcefab2060953699b4b",
+  "rawPath": "6bff702b6466b623b39001749c16befd5c348086c7346bcefab2060953699b4b",
+  "fileSize": 53248,
+  "rawSha256": "4262b1418c87f6094dd3ee913977e43dbdd42d63028000754e41995048be057e",
+  "rowCount": 120,
+  "schemaType": "Item",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE Item(`id` TEXT, `data` BLOB, PRIMARY KEY (`id`))",
+  "output": "data/Item.jsonl"
+}

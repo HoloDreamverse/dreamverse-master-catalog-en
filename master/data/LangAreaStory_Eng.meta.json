@@ -1,0 +1,12 @@
+{
+  "type": "LangAreaStory_Eng",
+  "fileName": "190b503fc5345d39fc889f145e7d0f295833195db2e86a12c50d509479dc9671",
+  "rawPath": "190b503fc5345d39fc889f145e7d0f295833195db2e86a12c50d509479dc9671",
+  "fileSize": 12288,
+  "rawSha256": "28c7311d2dff4f4af74330157037d74b887b7258673c8efeb54c27559b955e73",
+  "rowCount": 17,
+  "schemaType": "Lang",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE Lang(`id` TEXT, `data` BLOB, PRIMARY KEY (`id`))",
+  "output": "data/LangAreaStory_Eng.jsonl"
+}

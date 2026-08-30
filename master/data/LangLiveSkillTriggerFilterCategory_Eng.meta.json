@@ -1,0 +1,12 @@
+{
+  "type": "LangLiveSkillTriggerFilterCategory_Eng",
+  "fileName": "1fd7128b3ed1be0bb9055d463688ec8ba191f334a8ef90b8e5977facbb135bf1",
+  "rawPath": "LangLiveSkillTriggerFilterCategory_Eng/1fd7128b3ed1be0bb9055d463688ec8ba191f334a8ef90b8e5977facbb135bf1",
+  "fileSize": 12288,
+  "rawSha256": "22ad84f2491202b5637285c983fbf5e72a21f809b56e4dc8dd83ef58f788a93e",
+  "rowCount": 0,
+  "schemaType": "Lang",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE Lang(`id` TEXT, `data` BLOB, PRIMARY KEY (`id`))",
+  "output": "data/LangLiveSkillTriggerFilterCategory_Eng.jsonl"
+}

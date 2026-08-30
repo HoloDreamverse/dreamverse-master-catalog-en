@@ -1,0 +1,12 @@
+{
+  "type": "MiniGameMultiGame",
+  "fileName": "4c2d1775544b7dfecddcda5e624845b5c4902f1f7728b6404ba148862c1d6d82",
+  "rawPath": "4c2d1775544b7dfecddcda5e624845b5c4902f1f7728b6404ba148862c1d6d82",
+  "fileSize": 12288,
+  "rawSha256": "0fe2e052df28a650a8bf3ebe8de2c173f017757c30d5603ecb2ca4eb0b85b483",
+  "rowCount": 8,
+  "schemaType": "MiniGameMultiGame",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE MiniGameMultiGame(`mini_game_type` INTEGER, `multi_game_match_type` INTEGER, `data` BLOB, PRIMARY KEY (`mini_game_type`, `multi_game_match_type`))",
+  "output": "data/MiniGameMultiGame.jsonl"
+}

@@ -1,0 +1,14 @@
+{"type":4,"plus":0,"data":{"type":"A","thresholdPermilUp":1000}}
+{"type":4,"plus":1,"data":{"type":"A","plus":1,"thresholdPermilUp":1100}}
+{"type":3,"plus":0,"data":{"type":"B","thresholdPermilUp":700}}
+{"type":3,"plus":1,"data":{"type":"B","plus":1,"thresholdPermilUp":800}}
+{"type":2,"plus":0,"data":{"type":"C","thresholdPermilUp":500}}
+{"type":2,"plus":1,"data":{"type":"C","plus":1,"thresholdPermilUp":600}}
+{"type":1,"plus":0,"data":{"type":"D"}}
+{"type":1,"plus":1,"data":{"type":"D","plus":1,"thresholdPermilUp":400}}
+{"type":5,"plus":0,"data":{"type":"S","thresholdPermilUp":1300}}
+{"type":5,"plus":1,"data":{"type":"S","plus":1,"thresholdPermilUp":1400}}
+{"type":5,"plus":2,"data":{"type":"S","plus":2,"thresholdPermilUp":1500}}
+{"type":5,"plus":3,"data":{"type":"S","plus":3,"thresholdPermilUp":1650}}
+{"type":5,"plus":4,"data":{"type":"S","plus":4,"thresholdPermilUp":1800}}
+{"type":5,"plus":5,"data":{"type":"S","plus":5,"thresholdPermilUp":2000}}

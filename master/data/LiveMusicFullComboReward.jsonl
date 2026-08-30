@@ -1,0 +1,4 @@
+{"music_difficulty_type":1,"data":{"musicDifficultyType":"Easy","rewards":[{"resourceType":"Item","resourceId":"item-gold","quantity":2000}]}}
+{"music_difficulty_type":2,"data":{"musicDifficultyType":"Normal","rewards":[{"resourceType":"Item","resourceId":"item-gold","quantity":5000}]}}
+{"music_difficulty_type":3,"data":{"musicDifficultyType":"Hard","rewards":[{"resourceType":"Item","resourceId":"item-gold","quantity":10000}]}}
+{"music_difficulty_type":4,"data":{"musicDifficultyType":"Expert","rewards":[{"resourceType":"Item","resourceId":"item-gold","quantity":20000}]}}

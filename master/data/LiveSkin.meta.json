@@ -1,0 +1,12 @@
+{
+  "type": "LiveSkin",
+  "fileName": "1e1e74f9275cc8476ab476d2593311f649c6387a41c78d55450b0ba295143dc9",
+  "rawPath": "1e1e74f9275cc8476ab476d2593311f649c6387a41c78d55450b0ba295143dc9",
+  "fileSize": 90112,
+  "rawSha256": "0e0bec3a2af9cf31805f909d61dca3d100b4d2fd1422af9aab9c9ce4300354ec",
+  "rowCount": 282,
+  "schemaType": "LiveSkin",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE LiveSkin(`id` TEXT, `data` BLOB, PRIMARY KEY (`id`))",
+  "output": "data/LiveSkin.jsonl"
+}

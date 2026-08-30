@@ -1,0 +1,12 @@
+{
+  "type": "CharacterVoice",
+  "fileName": "e985dd7fed65754ce818d5dbffb0ecdb7fe6270aefe3b6893b88c8c87f6ae272",
+  "rawPath": "e985dd7fed65754ce818d5dbffb0ecdb7fe6270aefe3b6893b88c8c87f6ae272",
+  "fileSize": 5279744,
+  "rawSha256": "86ce9c28ad70e7402c8b7fa169b17cb7f6ffc57aa248db71887a6a204eee9778",
+  "rowCount": 16424,
+  "schemaType": "CharacterVoice",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE CharacterVoice(`id` TEXT, `data` BLOB, PRIMARY KEY (`id`))",
+  "output": "data/CharacterVoice.jsonl"
+}

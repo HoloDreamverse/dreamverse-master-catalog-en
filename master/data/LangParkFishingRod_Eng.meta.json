@@ -1,0 +1,12 @@
+{
+  "type": "LangParkFishingRod_Eng",
+  "fileName": "1fd7128b3ed1be0bb9055d463688ec8ba191f334a8ef90b8e5977facbb135bf1",
+  "rawPath": "LangParkFishingRod_Eng/1fd7128b3ed1be0bb9055d463688ec8ba191f334a8ef90b8e5977facbb135bf1",
+  "fileSize": 12288,
+  "rawSha256": "b41d7de4337bb8a3e2f3f4259dec1796d493ad7dbc03fb44bb0fc0c64bf331ba",
+  "rowCount": 0,
+  "schemaType": "Lang",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE Lang(`id` TEXT, `data` BLOB, PRIMARY KEY (`id`))",
+  "output": "data/LangParkFishingRod_Eng.jsonl"
+}

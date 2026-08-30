@@ -1,0 +1,12 @@
+{
+  "type": "CookingPuzzleStagePattern",
+  "fileName": "d0e50e6a55edca62b39a37e77f55db213c0f110e73077f27855366b47c0a1e6d",
+  "rawPath": "d0e50e6a55edca62b39a37e77f55db213c0f110e73077f27855366b47c0a1e6d",
+  "fileSize": 114688,
+  "rawSha256": "3543ee9d91ba62e0b60fba9268a9f4abb936d9e756ea4164c9d3d05e3044abe6",
+  "rowCount": 319,
+  "schemaType": "CookingPuzzleStagePattern",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE CookingPuzzleStagePattern(`group_id` TEXT, `number` INTEGER, `data` BLOB, PRIMARY KEY (`group_id`, `number`))",
+  "output": "data/CookingPuzzleStagePattern.jsonl"
+}

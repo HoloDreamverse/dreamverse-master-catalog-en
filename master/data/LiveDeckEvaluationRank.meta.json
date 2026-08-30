@@ -1,0 +1,12 @@
+{
+  "type": "LiveDeckEvaluationRank",
+  "fileName": "af4e57e98bb069fa6cc138e8b82009cb59602e95d5a574ebde3c5abb9859c5b4",
+  "rawPath": "af4e57e98bb069fa6cc138e8b82009cb59602e95d5a574ebde3c5abb9859c5b4",
+  "fileSize": 12288,
+  "rawSha256": "1cf4b64f2d578e332317ba6694bca7df7570ed9c9fc1f50fc2db21b1ca5bc75a",
+  "rowCount": 14,
+  "schemaType": "LiveDeckEvaluationRank",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE LiveDeckEvaluationRank(`type` INTEGER, `plus` INTEGER, `data` BLOB, PRIMARY KEY (`type`, `plus`))",
+  "output": "data/LiveDeckEvaluationRank.jsonl"
+}

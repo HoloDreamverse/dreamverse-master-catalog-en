@@ -1,0 +1,12 @@
+{
+  "type": "CircuitDashCoolTime",
+  "fileName": "93c41d82885c9c27c8c5a988a9c4a9c453fed552c0bdf7d3971473f0290c3820",
+  "rawPath": "93c41d82885c9c27c8c5a988a9c4a9c453fed552c0bdf7d3971473f0290c3820",
+  "fileSize": 8192,
+  "rawSha256": "8652e85094bd205b68eb642a510a31168de248d8416388e0012c21b6fa40ec8b",
+  "rowCount": 16,
+  "schemaType": "CircuitDashCoolTime",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE CircuitDashCoolTime(`end_rank` INTEGER, `data` BLOB, PRIMARY KEY (`end_rank`))",
+  "output": "data/CircuitDashCoolTime.jsonl"
+}

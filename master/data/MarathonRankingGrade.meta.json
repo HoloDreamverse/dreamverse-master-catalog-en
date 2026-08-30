@@ -1,0 +1,12 @@
+{
+  "type": "MarathonRankingGrade",
+  "fileName": "574b549f28c47598a991c434ebe93441e577dd722304a26db15e07d4937923be",
+  "rawPath": "574b549f28c47598a991c434ebe93441e577dd722304a26db15e07d4937923be",
+  "fileSize": 12288,
+  "rawSha256": "1e81bf46ed44e50aa1c5c8ef62f29659a48431272906552c00cb71e7b90589de",
+  "rowCount": 6,
+  "schemaType": "MarathonRankingGrade",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE MarathonRankingGrade(`id` TEXT, `data` BLOB, PRIMARY KEY (`id`))",
+  "output": "data/MarathonRankingGrade.jsonl"
+}

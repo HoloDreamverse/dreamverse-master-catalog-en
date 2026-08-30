@@ -1,0 +1,12 @@
+{
+  "type": "ParkGraph",
+  "fileName": "48a845717c0e6bfbc7bc4f41edc5d325d4f1a19d4fc76d37f90abeef78438883",
+  "rawPath": "48a845717c0e6bfbc7bc4f41edc5d325d4f1a19d4fc76d37f90abeef78438883",
+  "fileSize": 86016,
+  "rawSha256": "8f9025ae06cd9f195f1b216a70ca44f19a08663e34e805df33f0b724224fafc4",
+  "rowCount": 315,
+  "schemaType": "ParkGraph",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE ParkGraph(`id` TEXT, `data` BLOB, PRIMARY KEY (`id`))",
+  "output": "data/ParkGraph.jsonl"
+}

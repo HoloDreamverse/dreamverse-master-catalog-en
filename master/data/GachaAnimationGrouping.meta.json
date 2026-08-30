@@ -1,0 +1,12 @@
+{
+  "type": "GachaAnimationGrouping",
+  "fileName": "9cc06af8ff21b606afc438bf1b1cc94ca3094ddc13715d8d781ca6c2891f2def",
+  "rawPath": "9cc06af8ff21b606afc438bf1b1cc94ca3094ddc13715d8d781ca6c2891f2def",
+  "fileSize": 12288,
+  "rawSha256": "088052b25faed0aa4b5a937e0ac54502914e01bdc6c81544cea3bd48fc2983c7",
+  "rowCount": 4,
+  "schemaType": "GachaAnimationGrouping",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE GachaAnimationGrouping(`id` TEXT, `data` BLOB, PRIMARY KEY (`id`))",
+  "output": "data/GachaAnimationGrouping.jsonl"
+}

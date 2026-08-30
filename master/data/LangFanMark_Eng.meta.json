@@ -1,0 +1,12 @@
+{
+  "type": "LangFanMark_Eng",
+  "fileName": "1c0749567d02698270c352565a429c0c5ddae7a5f87f6fddbce7cd1a6190f3a2",
+  "rawPath": "1c0749567d02698270c352565a429c0c5ddae7a5f87f6fddbce7cd1a6190f3a2",
+  "fileSize": 12288,
+  "rawSha256": "ef9fcd94609bd01c9440a98c3766df194cb0eb22ebc8dd8bc018fb7cecd7b07a",
+  "rowCount": 54,
+  "schemaType": "Lang",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE Lang(`id` TEXT, `data` BLOB, PRIMARY KEY (`id`))",
+  "output": "data/LangFanMark_Eng.jsonl"
+}

@@ -1,0 +1,12 @@
+{
+  "type": "ParkQuestStep",
+  "fileName": "6ebdddb6af3df4365aff4a6135d216ac5dba74403e94940f1937ad8c89c85054",
+  "rawPath": "6ebdddb6af3df4365aff4a6135d216ac5dba74403e94940f1937ad8c89c85054",
+  "fileSize": 143360,
+  "rawSha256": "2c70efded5ba4beed6b61df383b19b3703fdaba75d5a10a6ddcf1ebcbdd94f08",
+  "rowCount": 766,
+  "schemaType": "ParkQuestStep",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE ParkQuestStep(`park_quest_id` TEXT, `step_group_number` INTEGER, `step` INTEGER, `data` BLOB, PRIMARY KEY (`park_quest_id`, `step_group_number`, `step`))",
+  "output": "data/ParkQuestStep.jsonl"
+}

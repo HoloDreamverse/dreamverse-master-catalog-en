@@ -1,0 +1,12 @@
+{
+  "type": "SplashBallPlayerPosition",
+  "fileName": "031cdf5cdfcee27e961291ddc55d143b0f776bccc9a4b4725363c82a34e4c68e",
+  "rawPath": "031cdf5cdfcee27e961291ddc55d143b0f776bccc9a4b4725363c82a34e4c68e",
+  "fileSize": 12288,
+  "rawSha256": "d7d5d1167634ed4c3296ec76735a38069529f78bfdbe89edb7f9df0e5fae3517",
+  "rowCount": 0,
+  "schemaType": "SplashBallPlayerPosition",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE SplashBallPlayerPosition(`group_id` TEXT, `team_color` INTEGER, `number` INTEGER, `data` BLOB, PRIMARY KEY (`group_id`, `team_color`, `number`))",
+  "output": "data/SplashBallPlayerPosition.jsonl"
+}

@@ -1,0 +1,12 @@
+{
+  "type": "ParkEmotion",
+  "fileName": "0fcfe9efcc05ce72e028548beb7eba0062341086d446b0eb80393283228201d7",
+  "rawPath": "0fcfe9efcc05ce72e028548beb7eba0062341086d446b0eb80393283228201d7",
+  "fileSize": 229376,
+  "rawSha256": "21c0414f55890ad8a2de5231e738762d3b4427a5ce0b80da5464fe781bc82024",
+  "rowCount": 918,
+  "schemaType": "ParkEmotion",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE ParkEmotion(`id` TEXT, `data` BLOB, PRIMARY KEY (`id`))",
+  "output": "data/ParkEmotion.jsonl"
+}

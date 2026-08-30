@@ -1,0 +1,12 @@
+{
+  "type": "ComboCardGameSetting",
+  "fileName": "5b700a53545837b960cadb6cfda5cb441658a7edb9f29857242fed3c57bb321f",
+  "rawPath": "5b700a53545837b960cadb6cfda5cb441658a7edb9f29857242fed3c57bb321f",
+  "fileSize": 12288,
+  "rawSha256": "3edbd6eac37fe96c8348736391d215b08413677125a9563990d82aca5dfca274",
+  "rowCount": 1,
+  "schemaType": "ComboCardGameSetting",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE ComboCardGameSetting(`id` TEXT, `data` BLOB, PRIMARY KEY (`id`))",
+  "output": "data/ComboCardGameSetting.jsonl"
+}

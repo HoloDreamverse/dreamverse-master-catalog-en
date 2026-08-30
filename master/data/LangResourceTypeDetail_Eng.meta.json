@@ -1,0 +1,12 @@
+{
+  "type": "LangResourceTypeDetail_Eng",
+  "fileName": "89b64a9957a330c4fa0f7e6ed13885e0463b4c6c9c637aa8b811c8d000157407",
+  "rawPath": "89b64a9957a330c4fa0f7e6ed13885e0463b4c6c9c637aa8b811c8d000157407",
+  "fileSize": 20480,
+  "rawSha256": "ef5c771f95a4fb5a17566c1e9163f19d643fc3a0cd622710f416b74a3db27624",
+  "rowCount": 49,
+  "schemaType": "Lang",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE Lang(`id` TEXT, `data` BLOB, PRIMARY KEY (`id`))",
+  "output": "data/LangResourceTypeDetail_Eng.jsonl"
+}

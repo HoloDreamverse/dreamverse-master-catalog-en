@@ -1,0 +1,12 @@
+{
+  "type": "Condition",
+  "fileName": "bac75b1539b5e8d6b638fbe52088e4c6fe446290d06e6fec2d4c2eef2fa96ff3",
+  "rawPath": "bac75b1539b5e8d6b638fbe52088e4c6fe446290d06e6fec2d4c2eef2fa96ff3",
+  "fileSize": 491520,
+  "rawSha256": "e78ebdaee1bc656c22dabe058cf6d31d6c9d0f7c53a009844e3299bc5094e002",
+  "rowCount": 2182,
+  "schemaType": "Condition",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE Condition(`group_id` TEXT, `number` INTEGER, `data` BLOB, PRIMARY KEY (`group_id`, `number`))",
+  "output": "data/Condition.jsonl"
+}

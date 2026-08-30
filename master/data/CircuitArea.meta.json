@@ -1,0 +1,12 @@
+{
+  "type": "CircuitArea",
+  "fileName": "97d2352fc26f56fdae14e8f753972f1f7b7162ea5ba1b0d76fc534ee26be5f6d",
+  "rawPath": "97d2352fc26f56fdae14e8f753972f1f7b7162ea5ba1b0d76fc534ee26be5f6d",
+  "fileSize": 8192,
+  "rawSha256": "a45b8cd9d94a9212d17a758d8fc73efd986c68584656b2b7df4185fae6e0b0f2",
+  "rowCount": 10,
+  "schemaType": "CircuitArea",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE CircuitArea(`type` INTEGER, `data` BLOB, PRIMARY KEY (`type`))",
+  "output": "data/CircuitArea.jsonl"
+}

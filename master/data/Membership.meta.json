@@ -1,0 +1,12 @@
+{
+  "type": "Membership",
+  "fileName": "fb2bf5140df462bece5db8427a2caff2ec587bef90270aa7bddcf114fd61e694",
+  "rawPath": "fb2bf5140df462bece5db8427a2caff2ec587bef90270aa7bddcf114fd61e694",
+  "fileSize": 36864,
+  "rawSha256": "24af1b8a84a73090baec16cd1bb24d4081e950403103e5ee39c53526d42295e9",
+  "rowCount": 53,
+  "schemaType": "Membership",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE Membership(`shop_charge_item_subscription_shop_charge_item_id` TEXT, `data` BLOB, PRIMARY KEY (`shop_charge_item_subscription_shop_charge_item_id`))",
+  "output": "data/Membership.jsonl"
+}

@@ -1,0 +1,12 @@
+{
+  "type": "LangComboCardGame_Eng",
+  "fileName": "b2d5bfd0189b24b2728bb98771b489c3b4b1bd726a9922201d0f4c72b6a638a3",
+  "rawPath": "b2d5bfd0189b24b2728bb98771b489c3b4b1bd726a9922201d0f4c72b6a638a3",
+  "fileSize": 12288,
+  "rawSha256": "087ca093b5796243bc26ca972fc88c1fd57d10ae8bb7f37187b4ba547d34a4ca",
+  "rowCount": 6,
+  "schemaType": "Lang",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE Lang(`id` TEXT, `data` BLOB, PRIMARY KEY (`id`))",
+  "output": "data/LangComboCardGame_Eng.jsonl"
+}

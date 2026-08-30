@@ -1,0 +1,12 @@
+{
+  "type": "LiveActiveSkillEffect",
+  "fileName": "797d5b4e69401be9fecf108a30373bf7dc04b6571c4f46d549a75277fbd701a0",
+  "rawPath": "797d5b4e69401be9fecf108a30373bf7dc04b6571c4f46d549a75277fbd701a0",
+  "fileSize": 24576,
+  "rawSha256": "32e87c39f236f5158118f4391390553b73cb0cbefef8e831027ed929a32a2f23",
+  "rowCount": 52,
+  "schemaType": "LiveActiveSkillEffect",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE LiveActiveSkillEffect(`group_id` TEXT, `number` INTEGER, `data` BLOB, PRIMARY KEY (`group_id`, `number`))",
+  "output": "data/LiveActiveSkillEffect.jsonl"
+}

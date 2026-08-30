@@ -1,0 +1,12 @@
+{
+  "type": "Setting",
+  "fileName": "d3c77b64eafe1527f180f18d16456c7bee676b04adb03b0fbd85494d828e13c6",
+  "rawPath": "d3c77b64eafe1527f180f18d16456c7bee676b04adb03b0fbd85494d828e13c6",
+  "fileSize": 12288,
+  "rawSha256": "758708e298300fe516dd9c6a189e63e19086221659f8d0af8fe3857b103657b4",
+  "rowCount": 1,
+  "schemaType": "Setting",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE Setting(`id` TEXT, `data` BLOB, PRIMARY KEY (`id`))",
+  "output": "data/Setting.jsonl"
+}

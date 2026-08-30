@@ -1,0 +1,12 @@
+{
+  "type": "ResourceTypeDetail",
+  "fileName": "5310d3f84dead7e1f2e02edc58fa0ac5116fdcfdc406710534025d58a62e7964",
+  "rawPath": "5310d3f84dead7e1f2e02edc58fa0ac5116fdcfdc406710534025d58a62e7964",
+  "fileSize": 16384,
+  "rawSha256": "5e05ea950a380a7834a7caec9216eb4bfde1dd44f0e21c7499f26f49c456fbe1",
+  "rowCount": 25,
+  "schemaType": "ResourceTypeDetail",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE ResourceTypeDetail(`type` INTEGER, `data` BLOB, PRIMARY KEY (`type`))",
+  "output": "data/ResourceTypeDetail.jsonl"
+}

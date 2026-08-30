@@ -1,0 +1,12 @@
+{
+  "type": "BenefitLicense",
+  "fileName": "c23630ac4105149aad9b744444bf1a5f73e616e6c0a530fe8f959c1b15f181dd",
+  "rawPath": "c23630ac4105149aad9b744444bf1a5f73e616e6c0a530fe8f959c1b15f181dd",
+  "fileSize": 12288,
+  "rawSha256": "858da7dba6c44ea214e5223050d59ad490b5af07a4ee1bd4baccaddd8631a680",
+  "rowCount": 1,
+  "schemaType": "BenefitLicense",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE BenefitLicense(`shop_charge_item_subscription_shop_charge_item_id` TEXT, `data` BLOB, PRIMARY KEY (`shop_charge_item_subscription_shop_charge_item_id`))",
+  "output": "data/BenefitLicense.jsonl"
+}

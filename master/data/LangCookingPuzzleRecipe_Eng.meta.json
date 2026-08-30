@@ -1,0 +1,12 @@
+{
+  "type": "LangCookingPuzzleRecipe_Eng",
+  "fileName": "09852752637d44f666ab2e1f6c32b3b58fed4c995621d19db35db0faf0ec5a91",
+  "rawPath": "09852752637d44f666ab2e1f6c32b3b58fed4c995621d19db35db0faf0ec5a91",
+  "fileSize": 28672,
+  "rawSha256": "66211da4d4bfe79bd4aa00caa447edd86725d269aefd2872a84ac02640e907b1",
+  "rowCount": 68,
+  "schemaType": "Lang",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE Lang(`id` TEXT, `data` BLOB, PRIMARY KEY (`id`))",
+  "output": "data/LangCookingPuzzleRecipe_Eng.jsonl"
+}

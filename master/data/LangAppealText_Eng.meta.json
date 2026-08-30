@@ -1,0 +1,12 @@
+{
+  "type": "LangAppealText_Eng",
+  "fileName": "690e03e502acf27beb8e1040a4daa948e9b43634f2e10c81ceb72be04bcac4f7",
+  "rawPath": "690e03e502acf27beb8e1040a4daa948e9b43634f2e10c81ceb72be04bcac4f7",
+  "fileSize": 20480,
+  "rawSha256": "65093855e3f0b31c59d621b951b27ef2bdcc3cffc7009480674c3f1c3820ea18",
+  "rowCount": 32,
+  "schemaType": "Lang",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE Lang(`id` TEXT, `data` BLOB, PRIMARY KEY (`id`))",
+  "output": "data/LangAppealText_Eng.jsonl"
+}

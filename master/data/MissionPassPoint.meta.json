@@ -1,0 +1,12 @@
+{
+  "type": "MissionPassPoint",
+  "fileName": "e1292d4d59e391a40c7dea60c2900a258f0384aeeac320913a0543dbc39fe06e",
+  "rawPath": "e1292d4d59e391a40c7dea60c2900a258f0384aeeac320913a0543dbc39fe06e",
+  "fileSize": 12288,
+  "rawSha256": "fdbc32b871b24799ccb0078275a40c3ddb4a561ead71cf3792f878b4abfdde89",
+  "rowCount": 2,
+  "schemaType": "MissionPassPoint",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE MissionPassPoint(`id` TEXT, `data` BLOB, PRIMARY KEY (`id`))",
+  "output": "data/MissionPassPoint.jsonl"
+}

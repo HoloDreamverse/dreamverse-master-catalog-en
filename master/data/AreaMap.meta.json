@@ -1,0 +1,12 @@
+{
+  "type": "AreaMap",
+  "fileName": "3a2c663943f5e9133920ecb15545fb0ea45d2f6b7cf6ff8e1b7e10bfac14edc3",
+  "rawPath": "3a2c663943f5e9133920ecb15545fb0ea45d2f6b7cf6ff8e1b7e10bfac14edc3",
+  "fileSize": 12288,
+  "rawSha256": "b67afefca9caa463c326a2bb8a45b75b841de49ad6544d248e11ff179f663310",
+  "rowCount": 14,
+  "schemaType": "AreaMap",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE AreaMap(`area_appearance_area_id` TEXT, `area_appearance_priority` INTEGER, `priority` INTEGER, `data` BLOB, PRIMARY KEY (`area_appearance_area_id`, `area_appearance_priority`, `priority`))",
+  "output": "data/AreaMap.jsonl"
+}

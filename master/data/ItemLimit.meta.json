@@ -1,0 +1,12 @@
+{
+  "type": "ItemLimit",
+  "fileName": "10c4c6c2487d7d03d9820cbe384455a5db67add9c5f293040c64ea776f600322",
+  "rawPath": "10c4c6c2487d7d03d9820cbe384455a5db67add9c5f293040c64ea776f600322",
+  "fileSize": 8192,
+  "rawSha256": "a5f4f5ab4fdb8689b1d8a919c4931f1712e86d04eada513dac6fa1972d78224a",
+  "rowCount": 19,
+  "schemaType": "ItemLimit",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE ItemLimit(`item_type` INTEGER, `data` BLOB, PRIMARY KEY (`item_type`))",
+  "output": "data/ItemLimit.jsonl"
+}

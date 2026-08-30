@@ -1,0 +1,12 @@
+{
+  "type": "LangFeatureLock_Eng",
+  "fileName": "6b5537423c3d01d52a1e4617f6dabddc342558e3070ef9fe1effe1a81d9634c3",
+  "rawPath": "6b5537423c3d01d52a1e4617f6dabddc342558e3070ef9fe1effe1a81d9634c3",
+  "fileSize": 20480,
+  "rawSha256": "41448a627a5a22cdf1e8c5bb5b1d511d3f575ed4054c6a06083eb44b81f55ee5",
+  "rowCount": 54,
+  "schemaType": "Lang",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE Lang(`id` TEXT, `data` BLOB, PRIMARY KEY (`id`))",
+  "output": "data/LangFeatureLock_Eng.jsonl"
+}

@@ -1,0 +1,12 @@
+{
+  "type": "CharacterHistoryDisplay",
+  "fileName": "6ea6055c3fd0717cac8e211042528e4de6bfc706d83f6445c446b3de1e95927c",
+  "rawPath": "6ea6055c3fd0717cac8e211042528e4de6bfc706d83f6445c446b3de1e95927c",
+  "fileSize": 8192,
+  "rawSha256": "1ad34614afc0646037101de75c5b3e6706a21547d71a4b52e2eefb742be16a0e",
+  "rowCount": 12,
+  "schemaType": "CharacterHistoryDisplay",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE CharacterHistoryDisplay(`type` INTEGER, `data` BLOB, PRIMARY KEY (`type`))",
+  "output": "data/CharacterHistoryDisplay.jsonl"
+}

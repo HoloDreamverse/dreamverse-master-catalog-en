@@ -1,0 +1,12 @@
+{
+  "type": "LangAssetEmbeddingText_Eng",
+  "fileName": "c3d18011410738e51be00e11a064c822875ffde6f77a7ab69233c0fda57c3e7d",
+  "rawPath": "c3d18011410738e51be00e11a064c822875ffde6f77a7ab69233c0fda57c3e7d",
+  "fileSize": 24576,
+  "rawSha256": "5dbe09db6351db1978fc64e92e930f7d0c97aaf2db76c33346ba42b656f132d8",
+  "rowCount": 62,
+  "schemaType": "Lang",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE Lang(`id` TEXT, `data` BLOB, PRIMARY KEY (`id`))",
+  "output": "data/LangAssetEmbeddingText_Eng.jsonl"
+}

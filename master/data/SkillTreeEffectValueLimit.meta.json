@@ -1,0 +1,12 @@
+{
+  "type": "SkillTreeEffectValueLimit",
+  "fileName": "e67d4caf0dd585b299a21c45c4e1188e758945baaa172b672426dbe5b3c1b506",
+  "rawPath": "e67d4caf0dd585b299a21c45c4e1188e758945baaa172b672426dbe5b3c1b506",
+  "fileSize": 8192,
+  "rawSha256": "7c14d819ee48745cef2db190ab9e40591a4db093bb675e0576aff18759d1ec28",
+  "rowCount": 2,
+  "schemaType": "SkillTreeEffectValueLimit",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE SkillTreeEffectValueLimit(`skill_tree_effect_type` INTEGER, `data` BLOB, PRIMARY KEY (`skill_tree_effect_type`))",
+  "output": "data/SkillTreeEffectValueLimit.jsonl"
+}

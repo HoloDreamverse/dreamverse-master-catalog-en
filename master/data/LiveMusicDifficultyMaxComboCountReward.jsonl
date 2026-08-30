@@ -1,0 +1,4 @@
+{"difficulty_type":1,"data":{"difficultyType":"Easy","rewards":[{"resourceType":"Item","resourceId":"item-gold","quantity":2000}]}}
+{"difficulty_type":2,"data":{"difficultyType":"Normal","rewards":[{"resourceType":"Item","resourceId":"item-gold","quantity":5000}]}}
+{"difficulty_type":3,"data":{"difficultyType":"Hard","rewards":[{"resourceType":"Item","resourceId":"item-gold","quantity":10000}]}}
+{"difficulty_type":4,"data":{"difficultyType":"Expert","rewards":[{"resourceType":"Item","resourceId":"item-gold","quantity":20000}]}}

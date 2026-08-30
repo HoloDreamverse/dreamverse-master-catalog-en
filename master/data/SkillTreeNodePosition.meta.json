@@ -1,0 +1,12 @@
+{
+  "type": "SkillTreeNodePosition",
+  "fileName": "ca5bf04bd84a2402e12419cc7fe0582d6c65697d26df7f1edb0ba1acba28ea93",
+  "rawPath": "ca5bf04bd84a2402e12419cc7fe0582d6c65697d26df7f1edb0ba1acba28ea93",
+  "fileSize": 73728,
+  "rawSha256": "cf83fec0e004e92652588ff0251bcd49093b90fe6a4fca2fcf9ec5db3fa73b98",
+  "rowCount": 612,
+  "schemaType": "SkillTreeNodePosition",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE SkillTreeNodePosition(`group_id` TEXT, `skill_tree_node_group_id` TEXT, `data` BLOB, PRIMARY KEY (`group_id`, `skill_tree_node_group_id`))",
+  "output": "data/SkillTreeNodePosition.jsonl"
+}

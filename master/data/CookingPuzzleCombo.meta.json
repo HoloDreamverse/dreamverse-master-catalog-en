@@ -1,0 +1,12 @@
+{
+  "type": "CookingPuzzleCombo",
+  "fileName": "accba622396f49811c32b0b3173329b6d6a07ccad84131bf84680672b8c51957",
+  "rawPath": "accba622396f49811c32b0b3173329b6d6a07ccad84131bf84680672b8c51957",
+  "fileSize": 12288,
+  "rawSha256": "2b116fad4cc2e590111d87f90ed43eba45881290292b4d7fd578fbcd35e0781e",
+  "rowCount": 10,
+  "schemaType": "CookingPuzzleCombo",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE CookingPuzzleCombo(`group_id` TEXT, `combo_count_from` INTEGER, `data` BLOB, PRIMARY KEY (`group_id`, `combo_count_from`))",
+  "output": "data/CookingPuzzleCombo.jsonl"
+}

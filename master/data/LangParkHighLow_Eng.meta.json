@@ -1,0 +1,12 @@
+{
+  "type": "LangParkHighLow_Eng",
+  "fileName": "0164797aecc90ad2d61f49ace71c4b9db05e88ecad0cffb8fa46d26138d1f277",
+  "rawPath": "0164797aecc90ad2d61f49ace71c4b9db05e88ecad0cffb8fa46d26138d1f277",
+  "fileSize": 12288,
+  "rawSha256": "169d02714c2551a3e6e95c9153c5e12947c09d9386e15522323e840a3c3aa03c",
+  "rowCount": 1,
+  "schemaType": "Lang",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE Lang(`id` TEXT, `data` BLOB, PRIMARY KEY (`id`))",
+  "output": "data/LangParkHighLow_Eng.jsonl"
+}

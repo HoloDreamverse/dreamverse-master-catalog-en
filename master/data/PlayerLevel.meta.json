@@ -1,0 +1,12 @@
+{
+  "type": "PlayerLevel",
+  "fileName": "c0dfb2132052aba1b0ddf1611e1db31db2eb1888e9348b69d7d490566f37fbc5",
+  "rawPath": "c0dfb2132052aba1b0ddf1611e1db31db2eb1888e9348b69d7d490566f37fbc5",
+  "fileSize": 16384,
+  "rawSha256": "126070a846a81517057d0df1d9a25f8d8c7c6229991aca627e9a302b1b5f0f6d",
+  "rowCount": 50,
+  "schemaType": "PlayerLevel",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE PlayerLevel(`level` INTEGER, `data` BLOB, PRIMARY KEY (`level`))",
+  "output": "data/PlayerLevel.jsonl"
+}

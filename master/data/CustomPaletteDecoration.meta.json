@@ -1,0 +1,12 @@
+{
+  "type": "CustomPaletteDecoration",
+  "fileName": "c50daf8d6495e2555eef78918d7e1ff8b3b4b5c8ced3726415f12a8c6d777c1f",
+  "rawPath": "c50daf8d6495e2555eef78918d7e1ff8b3b4b5c8ced3726415f12a8c6d777c1f",
+  "fileSize": 12288,
+  "rawSha256": "892d06e8db24eec052b4090995a29a479c67107b37b72f8ec7198a02b1a14899",
+  "rowCount": 2,
+  "schemaType": "CustomPaletteDecoration",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE CustomPaletteDecoration(`id` TEXT, `data` BLOB, PRIMARY KEY (`id`))",
+  "output": "data/CustomPaletteDecoration.jsonl"
+}

@@ -1,0 +1,12 @@
+{
+  "type": "LangMission_Eng",
+  "fileName": "0ba4b38e7a73ef37a6235d0a629466f59816dbeb0c00fe4d2ac33782a708faa5",
+  "rawPath": "0ba4b38e7a73ef37a6235d0a629466f59816dbeb0c00fe4d2ac33782a708faa5",
+  "fileSize": 512000,
+  "rawSha256": "ebd65b437f05898144ef95004b49f954642720f43e7e4c91756cd779ce5e3d67",
+  "rowCount": 1655,
+  "schemaType": "Lang",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE Lang(`id` TEXT, `data` BLOB, PRIMARY KEY (`id`))",
+  "output": "data/LangMission_Eng.jsonl"
+}

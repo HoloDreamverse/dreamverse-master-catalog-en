@@ -1,0 +1,12 @@
+{
+  "type": "LangCharacterStory_Eng",
+  "fileName": "216bc5edf6fd9af24ecc8dee861a641ab9d8dc4c532a2b016778ef5210af7f1d",
+  "rawPath": "216bc5edf6fd9af24ecc8dee861a641ab9d8dc4c532a2b016778ef5210af7f1d",
+  "fileSize": 20480,
+  "rawSha256": "9f42bd76583d3b44c239bbb4136e7b970d2bbe6751eb07fd98c8cce49195ea9c",
+  "rowCount": 59,
+  "schemaType": "Lang",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE Lang(`id` TEXT, `data` BLOB, PRIMARY KEY (`id`))",
+  "output": "data/LangCharacterStory_Eng.jsonl"
+}

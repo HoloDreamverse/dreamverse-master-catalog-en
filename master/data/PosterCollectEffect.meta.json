@@ -1,0 +1,12 @@
+{
+  "type": "PosterCollectEffect",
+  "fileName": "6d0ecbca9ab1acb377b4c2f0a489f91463de5b3d78a169448b4409f2f19b93b3",
+  "rawPath": "6d0ecbca9ab1acb377b4c2f0a489f91463de5b3d78a169448b4409f2f19b93b3",
+  "fileSize": 8192,
+  "rawSha256": "8f3c446100c659dffbadae4e1e8438ad53c8a5b35de8162b1ba0ff63507ea1f6",
+  "rowCount": 50,
+  "schemaType": "PosterCollectEffect",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE PosterCollectEffect(`threshold` INTEGER, `data` BLOB, PRIMARY KEY (`threshold`))",
+  "output": "data/PosterCollectEffect.jsonl"
+}

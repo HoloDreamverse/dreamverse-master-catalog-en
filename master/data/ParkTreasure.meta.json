@@ -1,0 +1,12 @@
+{
+  "type": "ParkTreasure",
+  "fileName": "31ea2710b06004a2559b2519cd6743ae2a348c4fcb1b417dbd703ee6b376d920",
+  "rawPath": "31ea2710b06004a2559b2519cd6743ae2a348c4fcb1b417dbd703ee6b376d920",
+  "fileSize": 24576,
+  "rawSha256": "df6a52497f5f463a45de1cac7ace19e295c142fc7777d7499e2994a486796fd9",
+  "rowCount": 42,
+  "schemaType": "ParkTreasure",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE ParkTreasure(`id` TEXT, `data` BLOB, PRIMARY KEY (`id`))",
+  "output": "data/ParkTreasure.jsonl"
+}

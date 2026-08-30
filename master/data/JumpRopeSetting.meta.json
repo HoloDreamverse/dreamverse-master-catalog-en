@@ -1,0 +1,12 @@
+{
+  "type": "JumpRopeSetting",
+  "fileName": "55c9188766d284d16b0f8df2cbde30293f61775b55f35a33f0a7d110f788d0aa",
+  "rawPath": "55c9188766d284d16b0f8df2cbde30293f61775b55f35a33f0a7d110f788d0aa",
+  "fileSize": 12288,
+  "rawSha256": "0675dad7de5a593c80354cab045f451b184a8780b43c1c63c8f0e6bdd3e6b957",
+  "rowCount": 1,
+  "schemaType": "JumpRopeSetting",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE JumpRopeSetting(`id` TEXT, `data` BLOB, PRIMARY KEY (`id`))",
+  "output": "data/JumpRopeSetting.jsonl"
+}

@@ -1,0 +1,12 @@
+{
+  "type": "MiniGameRewardUpStaminaEffect",
+  "fileName": "622f20852f103b797d497a492370bf9df4f7a752e5edfe8f1843e0b5ed6a1d81",
+  "rawPath": "622f20852f103b797d497a492370bf9df4f7a752e5edfe8f1843e0b5ed6a1d81",
+  "fileSize": 12288,
+  "rawSha256": "de00854561da0dd52e9fb957abf68acdbc7ffac12e59fe5c5846f70bd78d7081",
+  "rowCount": 12,
+  "schemaType": "MiniGameRewardUpStaminaEffect",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE MiniGameRewardUpStaminaEffect(`group_id` TEXT, `consumption_rate` INTEGER, `data` BLOB, PRIMARY KEY (`group_id`, `consumption_rate`))",
+  "output": "data/MiniGameRewardUpStaminaEffect.jsonl"
+}

@@ -1,0 +1,12 @@
+{
+  "type": "CharacterProduction",
+  "fileName": "13951aa6c85b71ed8f17d476293a69dd398c2e1e606b87562b53bfcfc564ff2d",
+  "rawPath": "13951aa6c85b71ed8f17d476293a69dd398c2e1e606b87562b53bfcfc564ff2d",
+  "fileSize": 12288,
+  "rawSha256": "3d0f64bfdb35419250c05191ca1d0a57e5e8d472ec0b430fafef32caddc1b12e",
+  "rowCount": 4,
+  "schemaType": "CharacterProduction",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE CharacterProduction(`id` TEXT, `data` BLOB, PRIMARY KEY (`id`))",
+  "output": "data/CharacterProduction.jsonl"
+}

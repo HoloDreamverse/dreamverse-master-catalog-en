@@ -1,0 +1,12 @@
+{
+  "type": "Country",
+  "fileName": "ca68badb05e4747f5746741114a90a8e66049b02e09f94943c5c692c8eb95d47",
+  "rawPath": "ca68badb05e4747f5746741114a90a8e66049b02e09f94943c5c692c8eb95d47",
+  "fileSize": 12288,
+  "rawSha256": "fb3a8ba0d2dcba51af2cdcf50847e3748c6c5eebafbc4085086566f1a88b6c30",
+  "rowCount": 83,
+  "schemaType": "Country",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE Country(`code` TEXT, `data` BLOB, PRIMARY KEY (`code`))",
+  "output": "data/Country.jsonl"
+}

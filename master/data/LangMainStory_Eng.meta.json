@@ -1,0 +1,12 @@
+{
+  "type": "LangMainStory_Eng",
+  "fileName": "1ce71341c76f5f9c7a885efd5a6c2c99a2c4ac952539872dddf02ccd86ff5e9c",
+  "rawPath": "1ce71341c76f5f9c7a885efd5a6c2c99a2c4ac952539872dddf02ccd86ff5e9c",
+  "fileSize": 12288,
+  "rawSha256": "3c4d136a6289786f0893d69eaada6ca3b952d425e78d44ae87ac1e3ea6e8840a",
+  "rowCount": 36,
+  "schemaType": "Lang",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE Lang(`id` TEXT, `data` BLOB, PRIMARY KEY (`id`))",
+  "output": "data/LangMainStory_Eng.jsonl"
+}

@@ -1,0 +1,12 @@
+{"type":1,"data":{"type":"CharacterLevel","order":12}}
+{"type":2,"data":{"type":"CardGetRarityGte5","order":11}}
+{"type":3,"data":{"type":"CostumeGet","order":10}}
+{"type":4,"data":{"type":"SdCostumeGet","order":9}}
+{"type":5,"data":{"type":"Achievement","order":8}}
+{"type":6,"data":{"type":"MembershipElapsedMonths","order":7}}
+{"type":7,"data":{"type":"LivePlayCount","order":6}}
+{"type":8,"data":{"type":"MiniGamePlayCount","order":5}}
+{"type":9,"data":{"type":"CharacterGetDurationMonths","order":3}}
+{"type":10,"data":{"type":"CharacterGetDurationYears","order":4}}
+{"type":11,"data":{"type":"LiveDeckEvaluationRank","order":2}}
+{"type":12,"data":{"type":"Birthday","order":1}}

@@ -1,0 +1,12 @@
+{
+  "type": "SpecialStory",
+  "fileName": "0631c7f293890bd20b749f127180bc35ffbc28827cff6d458abb51faae8c7f17",
+  "rawPath": "0631c7f293890bd20b749f127180bc35ffbc28827cff6d458abb51faae8c7f17",
+  "fileSize": 12288,
+  "rawSha256": "3035188dbbd017dc6c69a5850c3a2552aea3d20d4389bffb54e69b8d2e458e3d",
+  "rowCount": 2,
+  "schemaType": "SpecialStory",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE SpecialStory(`id` TEXT, `data` BLOB, PRIMARY KEY (`id`))",
+  "output": "data/SpecialStory.jsonl"
+}

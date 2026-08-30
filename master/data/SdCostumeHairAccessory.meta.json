@@ -1,0 +1,12 @@
+{
+  "type": "SdCostumeHairAccessory",
+  "fileName": "a1fda0f9f9a4330a41654fb66fe8f19ded74af25f82ea95fe06c0fd1dae5cb95",
+  "rawPath": "a1fda0f9f9a4330a41654fb66fe8f19ded74af25f82ea95fe06c0fd1dae5cb95",
+  "fileSize": 94208,
+  "rawSha256": "c1b10b7afb1b1b5f1471437874097c9944953a30f9751b4e79c8d17c07c14b70",
+  "rowCount": 270,
+  "schemaType": "SdCostumeHairAccessory",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE SdCostumeHairAccessory(`id` TEXT, `data` BLOB, PRIMARY KEY (`id`))",
+  "output": "data/SdCostumeHairAccessory.jsonl"
+}

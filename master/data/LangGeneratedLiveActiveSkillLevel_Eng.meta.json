@@ -1,0 +1,12 @@
+{
+  "type": "LangGeneratedLiveActiveSkillLevel_Eng",
+  "fileName": "329fef3764ee6ff11ce8a4facd2ce254221a2bb714409c08311637d42ce3f585",
+  "rawPath": "329fef3764ee6ff11ce8a4facd2ce254221a2bb714409c08311637d42ce3f585",
+  "fileSize": 143360,
+  "rawSha256": "56c26856cda84d2cb282173cd7a75a336de3c17ce4804754b5ddb366b708e448",
+  "rowCount": 359,
+  "schemaType": "Lang",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE Lang(`id` TEXT, `data` BLOB, PRIMARY KEY (`id`))",
+  "output": "data/LangGeneratedLiveActiveSkillLevel_Eng.jsonl"
+}

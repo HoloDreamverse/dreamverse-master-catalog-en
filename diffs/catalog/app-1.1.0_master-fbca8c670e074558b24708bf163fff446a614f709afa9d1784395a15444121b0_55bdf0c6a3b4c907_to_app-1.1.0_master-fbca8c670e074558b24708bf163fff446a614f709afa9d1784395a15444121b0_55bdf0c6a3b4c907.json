@@ -1,0 +1,10 @@
+{
+  "from": "app-1.1.0_master-fbca8c670e074558b24708bf163fff446a614f709afa9d1784395a15444121b0_55bdf0c6a3b4c907",
+  "manifests": {
+    "added": [],
+    "changed": [],
+    "removed": []
+  },
+  "schemaVersion": 1,
+  "to": "app-1.1.0_master-fbca8c670e074558b24708bf163fff446a614f709afa9d1784395a15444121b0_55bdf0c6a3b4c907"
+}

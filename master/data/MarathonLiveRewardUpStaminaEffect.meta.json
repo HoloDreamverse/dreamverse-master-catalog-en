@@ -1,0 +1,12 @@
+{
+  "type": "MarathonLiveRewardUpStaminaEffect",
+  "fileName": "2b6d15e51c925ba7d0020a19ae781bb57eb398c3b5a8206812425a0b67cc1204",
+  "rawPath": "2b6d15e51c925ba7d0020a19ae781bb57eb398c3b5a8206812425a0b67cc1204",
+  "fileSize": 8192,
+  "rawSha256": "a7a37ed7e7946db6a14e4cf3fc173320988019d79d1d5e0dbe5dea1cd5b9eadd",
+  "rowCount": 10,
+  "schemaType": "MarathonLiveRewardUpStaminaEffect",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE MarathonLiveRewardUpStaminaEffect(`quantity` INTEGER, `data` BLOB, PRIMARY KEY (`quantity`))",
+  "output": "data/MarathonLiveRewardUpStaminaEffect.jsonl"
+}

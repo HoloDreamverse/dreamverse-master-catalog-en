@@ -1,0 +1,12 @@
+{
+  "type": "ShopChargeItemProduct",
+  "fileName": "0366b35769728e1b225a9cb97e7bafa65134822dde7860e8ae2cc0d2118ba4c4",
+  "rawPath": "0366b35769728e1b225a9cb97e7bafa65134822dde7860e8ae2cc0d2118ba4c4",
+  "fileSize": 57344,
+  "rawSha256": "77669c27d53ea0e6fd49cbe9714b80b30a0ab6cfe0d66ba61ea9970f219558de",
+  "rowCount": 141,
+  "schemaType": "ShopChargeItemProduct",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE ShopChargeItemProduct(`payment_method` INTEGER, `shop_charge_item_type` INTEGER, `product_id` TEXT, `shop_charge_item_id` TEXT, `data` BLOB, PRIMARY KEY (`payment_method`, `shop_charge_item_type`, `product_id`, `shop_charge_item_id`))",
+  "output": "data/ShopChargeItemProduct.jsonl"
+}

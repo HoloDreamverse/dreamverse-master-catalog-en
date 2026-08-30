@@ -1,0 +1,12 @@
+{
+  "type": "LangAchievementGroup_Eng",
+  "fileName": "91fc1a862852f09ec420c62f0ab04e68a47a82c54ecff9120d65996a063b2878",
+  "rawPath": "91fc1a862852f09ec420c62f0ab04e68a47a82c54ecff9120d65996a063b2878",
+  "fileSize": 20480,
+  "rawSha256": "e442dd15aaaa65659e95d7d0d2da067442364badf844f2aecc8a76914e52e17e",
+  "rowCount": 77,
+  "schemaType": "Lang",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE Lang(`id` TEXT, `data` BLOB, PRIMARY KEY (`id`))",
+  "output": "data/LangAchievementGroup_Eng.jsonl"
+}

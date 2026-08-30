@@ -1,0 +1,12 @@
+{
+  "type": "Music",
+  "fileName": "15b856e033fe14ee756463fc978cc100af48a8f483ac9ba4d879b4b8b547e360",
+  "rawPath": "15b856e033fe14ee756463fc978cc100af48a8f483ac9ba4d879b4b8b547e360",
+  "fileSize": 118784,
+  "rawSha256": "6eb854d958ffdbb793bfddcc19a4a18b475e3b19600c05f0aee7e868e2be1585",
+  "rowCount": 194,
+  "schemaType": "Music",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE Music(`id` TEXT, `data` BLOB, PRIMARY KEY (`id`))",
+  "output": "data/Music.jsonl"
+}

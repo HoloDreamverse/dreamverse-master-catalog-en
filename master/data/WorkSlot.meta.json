@@ -1,0 +1,12 @@
+{
+  "type": "WorkSlot",
+  "fileName": "542f5d07137325c676bae4dabc51a4cf70112546bb2e02c0a678841273eac02d",
+  "rawPath": "542f5d07137325c676bae4dabc51a4cf70112546bb2e02c0a678841273eac02d",
+  "fileSize": 8192,
+  "rawSha256": "8377ad985437f5220c25fa9cf2d1c65ea62d66f4445ed05adea93dd6f55e620c",
+  "rowCount": 4,
+  "schemaType": "WorkSlot",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE WorkSlot(`number` INTEGER, `data` BLOB, PRIMARY KEY (`number`))",
+  "output": "data/WorkSlot.jsonl"
+}

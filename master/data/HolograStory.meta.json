@@ -1,0 +1,12 @@
+{
+  "type": "HolograStory",
+  "fileName": "00f8893c593b470ffd372963eef68bb679e0bf00f61045518597106686506090",
+  "rawPath": "00f8893c593b470ffd372963eef68bb679e0bf00f61045518597106686506090",
+  "fileSize": 12288,
+  "rawSha256": "aa16b373dd28dc6557cf7c5473a06d99ae227d3c33dacf98bf237b093e6dd902",
+  "rowCount": 4,
+  "schemaType": "HolograStory",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE HolograStory(`id` TEXT, `data` BLOB, PRIMARY KEY (`id`))",
+  "output": "data/HolograStory.jsonl"
+}

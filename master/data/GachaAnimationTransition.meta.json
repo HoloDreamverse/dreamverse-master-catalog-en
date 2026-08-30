@@ -1,0 +1,12 @@
+{
+  "type": "GachaAnimationTransition",
+  "fileName": "31ac1fffecea0f01c16f1483d72cbfa91565b9d000f72476d886a08a6b7b5d04",
+  "rawPath": "31ac1fffecea0f01c16f1483d72cbfa91565b9d000f72476d886a08a6b7b5d04",
+  "fileSize": 106496,
+  "rawSha256": "96353853f2321f8ad54e7755847c62ff2c92f1ccf44939345c2b7798c972be80",
+  "rowCount": 564,
+  "schemaType": "GachaAnimationTransition",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE GachaAnimationTransition(`gacha_animation_grouping_id` TEXT, `animation_rarity` INTEGER, `animation_type_from` INTEGER, `animation_number_from` INTEGER, `animation_type_to` INTEGER, `animation_number_to` INTEGER, `data` BLOB, PRIMARY KEY (`gacha_animation_grouping_id`, `animation_rarity`, `animation_type_from`, `animation_number_from`, `animation_type_to`, `animation_number_to`))",
+  "output": "data/GachaAnimationTransition.jsonl"
+}

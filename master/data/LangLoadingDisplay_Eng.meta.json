@@ -1,0 +1,12 @@
+{
+  "type": "LangLoadingDisplay_Eng",
+  "fileName": "a3ac65cf45a36f7ec9ac5ef92d66944212d5046d133a7abbba6029498805984e",
+  "rawPath": "a3ac65cf45a36f7ec9ac5ef92d66944212d5046d133a7abbba6029498805984e",
+  "fileSize": 36864,
+  "rawSha256": "ebbc45622bba1413b59e65b290cbf1587b2cb54e3c1164861ece177b1f0541e3",
+  "rowCount": 104,
+  "schemaType": "Lang",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE Lang(`id` TEXT, `data` BLOB, PRIMARY KEY (`id`))",
+  "output": "data/LangLoadingDisplay_Eng.jsonl"
+}

@@ -1,0 +1,7 @@
+{"live_note_judgement_type":1,"data":{"liveNoteJudgementType":"Miss"}}
+{"live_note_judgement_type":2,"data":{"liveNoteJudgementType":"Bad"}}
+{"live_note_judgement_type":3,"data":{"liveNoteJudgementType":"Good"}}
+{"live_note_judgement_type":4,"data":{"liveNoteJudgementType":"Great","score":5}}
+{"live_note_judgement_type":5,"data":{"liveNoteJudgementType":"Perfect","score":10}}
+{"live_note_judgement_type":6,"data":{"liveNoteJudgementType":"PerfectPlus","score":11}}
+{"live_note_judgement_type":100,"data":{"liveNoteJudgementType":"Auto"}}

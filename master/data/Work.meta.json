@@ -1,0 +1,12 @@
+{
+  "type": "Work",
+  "fileName": "573308023b6bf6944620b667221ef1983ff5d33930e648ce915fe5b1c2dfcdd4",
+  "rawPath": "573308023b6bf6944620b667221ef1983ff5d33930e648ce915fe5b1c2dfcdd4",
+  "fileSize": 1081344,
+  "rawSha256": "5d3718be7f34946b45eeb2376489f85a56daf0e189a730fe80694ac10e5599dd",
+  "rowCount": 2040,
+  "schemaType": "Work",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE Work(`id` TEXT, `data` BLOB, PRIMARY KEY (`id`))",
+  "output": "data/Work.jsonl"
+}

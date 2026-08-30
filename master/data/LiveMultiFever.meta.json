@@ -1,0 +1,12 @@
+{
+  "type": "LiveMultiFever",
+  "fileName": "ab95567f8676b4b8faaff95f030d87d0bf24d377cac69e61830242db444a9f71",
+  "rawPath": "ab95567f8676b4b8faaff95f030d87d0bf24d377cac69e61830242db444a9f71",
+  "fileSize": 8192,
+  "rawSha256": "ca0b6a515e906a61435d3f8aa6c6b1a5005904bf0ea7c545e147de1dd103a3a8",
+  "rowCount": 4,
+  "schemaType": "LiveMultiFever",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE LiveMultiFever(`perfect_fever_point_sum_from` INTEGER, `data` BLOB, PRIMARY KEY (`perfect_fever_point_sum_from`))",
+  "output": "data/LiveMultiFever.jsonl"
+}

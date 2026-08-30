@@ -1,0 +1,12 @@
+{
+  "type": "LivePassiveSkillEffect",
+  "fileName": "ebdd2eeb05fa4e25cde8847abfb482e7b209317f310e411a386b4ed2ddbb2611",
+  "rawPath": "ebdd2eeb05fa4e25cde8847abfb482e7b209317f310e411a386b4ed2ddbb2611",
+  "fileSize": 118784,
+  "rawSha256": "5aefd9a1f4f69b4756bca673cb86d71a53a0c538ebaa2697a578177e359cdfbf",
+  "rowCount": 182,
+  "schemaType": "LivePassiveSkillEffect",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE LivePassiveSkillEffect(`group_id` TEXT, `number` INTEGER, `data` BLOB, PRIMARY KEY (`group_id`, `number`))",
+  "output": "data/LivePassiveSkillEffect.jsonl"
+}

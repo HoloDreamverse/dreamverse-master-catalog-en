@@ -1,0 +1,12 @@
+{
+  "type": "JumpRope",
+  "fileName": "d8f8b0850feace095dc6db1e4031654066cdca590250e938277ffea20b01809f",
+  "rawPath": "d8f8b0850feace095dc6db1e4031654066cdca590250e938277ffea20b01809f",
+  "fileSize": 20480,
+  "rawSha256": "368a20c034f013b739c285fa8e7cfa9652e9c6ef5b9a5888615a4b923898dfb2",
+  "rowCount": 14,
+  "schemaType": "JumpRope",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE JumpRope(`id` TEXT, `data` BLOB, PRIMARY KEY (`id`))",
+  "output": "data/JumpRope.jsonl"
+}

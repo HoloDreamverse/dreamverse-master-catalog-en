@@ -1,0 +1,12 @@
+{
+  "type": "LangMainStoryChapter_Eng",
+  "fileName": "de7666cbf7a2b60ce3afdd177ddbac2df2c33c8aa4ed6b43a0e292ee67304566",
+  "rawPath": "de7666cbf7a2b60ce3afdd177ddbac2df2c33c8aa4ed6b43a0e292ee67304566",
+  "fileSize": 12288,
+  "rawSha256": "ab9e073dc879248653a13dba46efb518d7f32f48a4c0f972e7eaa0243d7c1c79",
+  "rowCount": 4,
+  "schemaType": "Lang",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE Lang(`id` TEXT, `data` BLOB, PRIMARY KEY (`id`))",
+  "output": "data/LangMainStoryChapter_Eng.jsonl"
+}

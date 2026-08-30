@@ -1,0 +1,12 @@
+{
+  "type": "ParkQuestChase",
+  "fileName": "cf2314066d2e931043831dd8211e5bd666bdc8cdd808d760d6a45433f8a5d0c1",
+  "rawPath": "cf2314066d2e931043831dd8211e5bd666bdc8cdd808d760d6a45433f8a5d0c1",
+  "fileSize": 12288,
+  "rawSha256": "08353f9f4f0e80201c8b51039fc5abf9138075f02594d9738ab9bebd8ca2231f",
+  "rowCount": 1,
+  "schemaType": "ParkQuestChase",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE ParkQuestChase(`id` TEXT, `data` BLOB, PRIMARY KEY (`id`))",
+  "output": "data/ParkQuestChase.jsonl"
+}

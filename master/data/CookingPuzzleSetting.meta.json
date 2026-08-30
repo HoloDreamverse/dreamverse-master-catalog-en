@@ -1,0 +1,12 @@
+{
+  "type": "CookingPuzzleSetting",
+  "fileName": "69f5846952090ab08329450290763774f573c2e420e12452b3c1f42f253c90a9",
+  "rawPath": "69f5846952090ab08329450290763774f573c2e420e12452b3c1f42f253c90a9",
+  "fileSize": 12288,
+  "rawSha256": "9482e269b6b37b24aa35efcd199ef320628b50fe70024e14729a458a49411b9c",
+  "rowCount": 1,
+  "schemaType": "CookingPuzzleSetting",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE CookingPuzzleSetting(`id` TEXT, `data` BLOB, PRIMARY KEY (`id`))",
+  "output": "data/CookingPuzzleSetting.jsonl"
+}

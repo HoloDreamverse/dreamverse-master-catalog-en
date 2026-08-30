@@ -1,0 +1,12 @@
+{
+  "type": "ChaseSetting",
+  "fileName": "e12d571b87dbade542134988c476dcd7efad8c27e7074d9c7b83580a02654d2f",
+  "rawPath": "e12d571b87dbade542134988c476dcd7efad8c27e7074d9c7b83580a02654d2f",
+  "fileSize": 12288,
+  "rawSha256": "ab8b774c564f910d6e86539b993afae637e029825f23a10406254872a2ac5ada",
+  "rowCount": 1,
+  "schemaType": "ChaseSetting",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE ChaseSetting(`id` TEXT, `data` BLOB, PRIMARY KEY (`id`))",
+  "output": "data/ChaseSetting.jsonl"
+}

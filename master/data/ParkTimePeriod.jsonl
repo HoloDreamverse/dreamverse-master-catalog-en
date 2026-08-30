@@ -1,0 +1,3 @@
+{"id":"evening-01","data":{"id":"evening-01","timePointFrom":23,"timePointTo":30,"type":"Evening"}}
+{"id":"night-01","data":{"id":"night-01","timePointFrom":31,"timePointTo":47,"type":"Night"}}
+{"id":"noon-01","data":{"id":"noon-01","timePointTo":22,"type":"Noon"}}

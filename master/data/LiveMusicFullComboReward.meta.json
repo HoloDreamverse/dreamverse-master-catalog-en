@@ -1,0 +1,12 @@
+{
+  "type": "LiveMusicFullComboReward",
+  "fileName": "83f4f766c2711e3f0b44b0da80c9112838b1c5f260bf7de6aa029947b0be8c08",
+  "rawPath": "83f4f766c2711e3f0b44b0da80c9112838b1c5f260bf7de6aa029947b0be8c08",
+  "fileSize": 8192,
+  "rawSha256": "b601cd3d429ba8ce157dbe4583fb3d25729c304c680c40baf19b366ff232ee11",
+  "rowCount": 4,
+  "schemaType": "LiveMusicFullComboReward",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE LiveMusicFullComboReward(`music_difficulty_type` INTEGER, `data` BLOB, PRIMARY KEY (`music_difficulty_type`))",
+  "output": "data/LiveMusicFullComboReward.jsonl"
+}

@@ -1,0 +1,12 @@
+{
+  "type": "ParkTimePeriod",
+  "fileName": "ff1230f535997bf4f91fda48e8458f77309a7582e1a1e24b79a87bf0506a36d3",
+  "rawPath": "ff1230f535997bf4f91fda48e8458f77309a7582e1a1e24b79a87bf0506a36d3",
+  "fileSize": 12288,
+  "rawSha256": "5b55c0e5052da9d829e32a2ba37deaffdf0405537c4ee40ac5ea71e1603beca3",
+  "rowCount": 3,
+  "schemaType": "ParkTimePeriod",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE ParkTimePeriod(`id` TEXT, `data` BLOB, PRIMARY KEY (`id`))",
+  "output": "data/ParkTimePeriod.jsonl"
+}

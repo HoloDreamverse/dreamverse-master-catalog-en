@@ -1,0 +1,12 @@
+{
+  "type": "MiniGameNpc",
+  "fileName": "e3a2df0ca958b9ec4937c70564e9381ab9f68a2600c6c7f5eac007c0c179562e",
+  "rawPath": "e3a2df0ca958b9ec4937c70564e9381ab9f68a2600c6c7f5eac007c0c179562e",
+  "fileSize": 20480,
+  "rawSha256": "177f6a173f60e8200498ce4fe1ca1399b596757702b1bea2fea5b96dd44479da",
+  "rowCount": 62,
+  "schemaType": "MiniGameNpc",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE MiniGameNpc(`id` TEXT, `data` BLOB, PRIMARY KEY (`id`))",
+  "output": "data/MiniGameNpc.jsonl"
+}

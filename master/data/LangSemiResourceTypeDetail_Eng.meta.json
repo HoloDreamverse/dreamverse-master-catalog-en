@@ -1,0 +1,12 @@
+{
+  "type": "LangSemiResourceTypeDetail_Eng",
+  "fileName": "3b274f5a5ea1f0211cddcf3111d688db8d3d9e715e503c7818fff70f2cb32c2f",
+  "rawPath": "3b274f5a5ea1f0211cddcf3111d688db8d3d9e715e503c7818fff70f2cb32c2f",
+  "fileSize": 12288,
+  "rawSha256": "064b404beade8d55b12731c25f6c49c4d51bbcaf060b6ae5efe57b0f537f4074",
+  "rowCount": 6,
+  "schemaType": "Lang",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE Lang(`id` TEXT, `data` BLOB, PRIMARY KEY (`id`))",
+  "output": "data/LangSemiResourceTypeDetail_Eng.jsonl"
+}

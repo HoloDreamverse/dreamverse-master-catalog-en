@@ -1,0 +1,12 @@
+{
+  "type": "WorkEvaluationRank",
+  "fileName": "f5c502c8d96258a121fdb0cb97cf34ceeaff78b383155a6572b190ee2bb45ac6",
+  "rawPath": "f5c502c8d96258a121fdb0cb97cf34ceeaff78b383155a6572b190ee2bb45ac6",
+  "fileSize": 49152,
+  "rawSha256": "d81dd7cdc1ea6957ae71fdd29d8c129dedaa52024ce9860506d5716e1d5968fb",
+  "rowCount": 200,
+  "schemaType": "WorkEvaluationRank",
+  "schemaFound": true,
+  "schemaSql": "CREATE TABLE WorkEvaluationRank(`group_id` TEXT, `type` INTEGER, `data` BLOB, PRIMARY KEY (`group_id`, `type`))",
+  "output": "data/WorkEvaluationRank.jsonl"
+}
