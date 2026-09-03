@@ -1,0 +1,17 @@
+{
+  "currentSnapshot": "19311772f3b23ad1",
+  "manifests": {
+    "added": [
+      {
+        "path": "catalog/catalog_en_rev70.redacted.json",
+        "region": "en",
+        "revision": 70,
+        "sha256": "5d72fc031933f486a472e214bf03bba8d1157c8768cdd741fc21a652b2f9c18e"
+      }
+    ],
+    "changed": [],
+    "removed": []
+  },
+  "previousSnapshot": "dbe53dbd37ed3983",
+  "schemaVersion": 1
+}
