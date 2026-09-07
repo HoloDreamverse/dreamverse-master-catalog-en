@@ -795,7 +795,7 @@
 {"client_id":67819159370759,"data":{"clientId":67819159370759,"text":"HH:mm:ss"}}
 {"client_id":67824361306487,"data":{"clientId":67824361306487,"text":"Sense"}}
 {"client_id":67967285092700,"data":{"clientId":67967285092700,"text":"Cancel"}}
-{"client_id":68201761837224,"data":{"clientId":68201761837224,"text":"Payment Complete"}}
+{"client_id":68201761837224,"data":{"clientId":68201761837224,"text":"Complete Payment"}}
 {"client_id":68218817744328,"data":{"clientId":68218817744328,"text":"Failed to Grant Purchase"}}
 {"client_id":68286842040524,"data":{"clientId":68286842040524,"text":"Limited time: until {0}"}}
 {"client_id":68389716964468,"data":{"clientId":68389716964468,"text":"JASRAC License No. 9018159005Y45112\\nJASRAC License No. 9018159007Y31015"}}

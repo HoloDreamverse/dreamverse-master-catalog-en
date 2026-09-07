@@ -10,9 +10,12 @@
 {"id":"la-name_cv-live_dial_chr-00022_00022-5-uniq-0063-00_myself","data":{"id":"la-name_cv-live_dial_chr-00022_00022-5-uniq-0063-00_myself","text":"【Serene Wave Knight Noel】SP Skill"}}
 {"id":"la-name_cv-live_dial_chr-00026_00026-5-uniq-0065-00_myself","data":{"id":"la-name_cv-live_dial_chr-00026_00026-5-uniq-0065-00_myself","text":"【Floatie Float Time Watame】SP Skill"}}
 {"id":"la-name_cv-live_dial_chr-00028_00028-5-uniq-0070-00_myself","data":{"id":"la-name_cv-live_dial_chr-00028_00028-5-uniq-0070-00_myself","text":"【Spoiled Beach Princess Luna】SP Skill"}}
+{"id":"la-name_cv-live_dial_chr-00036_00036-5-uniq-0078-00_myself","data":{"id":"la-name_cv-live_dial_chr-00036_00036-5-uniq-0078-00_myself","text":"【Relaxing Executive Lui】SP Skill"}}
 {"id":"la-name_cv-live_dial_chr-03004_03004-5-uniq-0073-00_myself","data":{"id":"la-name_cv-live_dial_chr-03004_03004-5-uniq-0073-00_myself","text":"【Crazy Summer Dive Ollie】SP Skill"}}
 {"id":"la-name_cv-live_dial_chr-04001_04001-5-uniq-0071-00_myself","data":{"id":"la-name_cv-live_dial_chr-04001_04001-5-uniq-0071-00_myself","text":"【Beach Reaper's Spike Calliope】SP Skill"}}
 {"id":"la-name_cv-live_dial_chr-04003_04003-5-uniq-0072-00_myself","data":{"id":"la-name_cv-live_dial_chr-04003_04003-5-uniq-0072-00_myself","text":"【Tracing Tide Memories Ina'nis】SP Skill"}}
+{"id":"la-name_cv-live_dial_chr-04016_04016-5-uniq-0079-00_myself","data":{"id":"la-name_cv-live_dial_chr-04016_04016-5-uniq-0079-00_myself","text":"【Fluffy Flowing Summer Fuwawa】SP Skill"}}
+{"id":"la-name_cv-live_dial_chr-04017_04017-5-uniq-0080-00_myself","data":{"id":"la-name_cv-live_dial_chr-04017_04017-5-uniq-0080-00_myself","text":"【Fuzzy Breezy Summer Mococo】SP Skill"}}
 {"id":"la-name_cv-live_dial_chr-06002_06002-5-uniq-0066-00_myself","data":{"id":"la-name_cv-live_dial_chr-06002_06002-5-uniq-0066-00_myself","text":"【Breezy Smile Chords Kanade】SP Skill"}}
 {"id":"la-name_live_dial_voice_card_00001-5-uniq-0000-00_00001-to-00002","data":{"id":"la-name_live_dial_voice_card_00001-5-uniq-0000-00_00001-to-00002","text":"【Rainbow’s Devotion Sora】Sora&Robocosan"}}
 {"id":"la-name_live_dial_voice_card_00001-5-uniq-0000-00_00001-to-00013","data":{"id":"la-name_live_dial_voice_card_00001-5-uniq-0000-00_00001-to-00013","text":"【Rainbow’s Devotion Sora】Sora&AZKi"}}
@@ -204,6 +207,10 @@
 {"id":"la-name_live_dial_voice_card_00036-5-uniq-0029-00_00036-to-00037","data":{"id":"la-name_live_dial_voice_card_00036-5-uniq-0029-00_00036-to-00037","text":"【Iron Executive Lui】Lui&Koyori"}}
 {"id":"la-name_live_dial_voice_card_00036-5-uniq-0029-00_00036-to-00039","data":{"id":"la-name_live_dial_voice_card_00036-5-uniq-0029-00_00036-to-00039","text":"【Iron Executive Lui】Lui&Iroha"}}
 {"id":"la-name_live_dial_voice_card_00036-5-uniq-0029-00_myself","data":{"id":"la-name_live_dial_voice_card_00036-5-uniq-0029-00_myself","text":"【Iron Executive Lui】 SP Skill"}}
+{"id":"la-name_live_dial_voice_card_00036-5-uniq-0078-00_00036-to-04016","data":{"id":"la-name_live_dial_voice_card_00036-5-uniq-0078-00_00036-to-04016","text":"【Relaxing Executive Lui】Lui&Fuwawa"}}
+{"id":"la-name_live_dial_voice_card_00036-5-uniq-0078-00_00036-to-04017","data":{"id":"la-name_live_dial_voice_card_00036-5-uniq-0078-00_00036-to-04017","text":"【Relaxing Executive Lui】Lui&Mococo"}}
+{"id":"la-name_live_dial_voice_card_00036-5-uniq-0078-00_04016-to-00036","data":{"id":"la-name_live_dial_voice_card_00036-5-uniq-0078-00_04016-to-00036","text":"【Relaxing Executive Lui】Fuwawa&Lui"}}
+{"id":"la-name_live_dial_voice_card_00036-5-uniq-0078-00_04017-to-00036","data":{"id":"la-name_live_dial_voice_card_00036-5-uniq-0078-00_04017-to-00036","text":"【Relaxing Executive Lui】Mococo&Lui"}}
 {"id":"la-name_live_dial_voice_card_00037-5-uniq-0030-00_00037-to-00035","data":{"id":"la-name_live_dial_voice_card_00037-5-uniq-0030-00_00037-to-00035","text":"【Assistant’s Muse Koyori】Koyori&La+"}}
 {"id":"la-name_live_dial_voice_card_00037-5-uniq-0030-00_00037-to-00036","data":{"id":"la-name_live_dial_voice_card_00037-5-uniq-0030-00_00037-to-00036","text":"【Assistant’s Muse Koyori】Koyori&Lui"}}
 {"id":"la-name_live_dial_voice_card_00037-5-uniq-0030-00_00037-to-00039","data":{"id":"la-name_live_dial_voice_card_00037-5-uniq-0030-00_00037-to-00039","text":"【Assistant’s Muse Koyori】Koyori&Iroha"}}
@@ -301,11 +308,19 @@
 {"id":"la-name_live_dial_voice_card_04016-5-uniq-0055-00_04016-to-04015","data":{"id":"la-name_live_dial_voice_card_04016-5-uniq-0055-00_04016-to-04015","text":"【Fluffy Donut Feast Fuwawa】Fuwawa&Nerissa"}}
 {"id":"la-name_live_dial_voice_card_04016-5-uniq-0055-00_04016-to-04017","data":{"id":"la-name_live_dial_voice_card_04016-5-uniq-0055-00_04016-to-04017","text":"【Fluffy Donut Feast Fuwawa】Fuwawa&Mococo"}}
 {"id":"la-name_live_dial_voice_card_04016-5-uniq-0055-00_myself","data":{"id":"la-name_live_dial_voice_card_04016-5-uniq-0055-00_myself","text":"【Fluffy Donut Feast Fuwawa】 SP Skill"}}
+{"id":"la-name_live_dial_voice_card_04016-5-uniq-0079-00_00036-to-04016","data":{"id":"la-name_live_dial_voice_card_04016-5-uniq-0079-00_00036-to-04016","text":"【Fluffy Flowing Summer Fuwawa】Lui&Fuwawa"}}
+{"id":"la-name_live_dial_voice_card_04016-5-uniq-0079-00_04016-to-00036","data":{"id":"la-name_live_dial_voice_card_04016-5-uniq-0079-00_04016-to-00036","text":"【Fluffy Flowing Summer Fuwawa】Fuwawa&Lui"}}
+{"id":"la-name_live_dial_voice_card_04016-5-uniq-0079-00_04016-to-04017","data":{"id":"la-name_live_dial_voice_card_04016-5-uniq-0079-00_04016-to-04017","text":"【Fluffy Flowing Summer Fuwawa】Fuwawa&Mococo"}}
+{"id":"la-name_live_dial_voice_card_04016-5-uniq-0079-00_04017-to-04016","data":{"id":"la-name_live_dial_voice_card_04016-5-uniq-0079-00_04017-to-04016","text":"【Fluffy Flowing Summer Fuwawa】Mococo&Fuwawa"}}
 {"id":"la-name_live_dial_voice_card_04017-5-uniq-0056-00_04017-to-04013","data":{"id":"la-name_live_dial_voice_card_04017-5-uniq-0056-00_04017-to-04013","text":"【Leisurely Donut Feast Mococo】Mococo&Shiori"}}
 {"id":"la-name_live_dial_voice_card_04017-5-uniq-0056-00_04017-to-04014","data":{"id":"la-name_live_dial_voice_card_04017-5-uniq-0056-00_04017-to-04014","text":"【Leisurely Donut Feast Mococo】Mococo&Bijou"}}
 {"id":"la-name_live_dial_voice_card_04017-5-uniq-0056-00_04017-to-04015","data":{"id":"la-name_live_dial_voice_card_04017-5-uniq-0056-00_04017-to-04015","text":"【Leisurely Donut Feast Mococo】Mococo&Nerissa"}}
 {"id":"la-name_live_dial_voice_card_04017-5-uniq-0056-00_04017-to-04016","data":{"id":"la-name_live_dial_voice_card_04017-5-uniq-0056-00_04017-to-04016","text":"【Leisurely Donut Feast Mococo】Mococo&Fuwawa"}}
 {"id":"la-name_live_dial_voice_card_04017-5-uniq-0056-00_myself","data":{"id":"la-name_live_dial_voice_card_04017-5-uniq-0056-00_myself","text":"【Leisurely Donut Feast Mococo】 SP Skill"}}
+{"id":"la-name_live_dial_voice_card_04017-5-uniq-0080-00_00036-to-04017","data":{"id":"la-name_live_dial_voice_card_04017-5-uniq-0080-00_00036-to-04017","text":"【Fuzzy Breezy Summer Mococo】Lui&Mococo"}}
+{"id":"la-name_live_dial_voice_card_04017-5-uniq-0080-00_04016-to-04017","data":{"id":"la-name_live_dial_voice_card_04017-5-uniq-0080-00_04016-to-04017","text":"【Fuzzy Breezy Summer Mococo】Fuwawa&Mococo"}}
+{"id":"la-name_live_dial_voice_card_04017-5-uniq-0080-00_04017-to-00036","data":{"id":"la-name_live_dial_voice_card_04017-5-uniq-0080-00_04017-to-00036","text":"【Fuzzy Breezy Summer Mococo】Mococo&Lui"}}
+{"id":"la-name_live_dial_voice_card_04017-5-uniq-0080-00_04017-to-04016","data":{"id":"la-name_live_dial_voice_card_04017-5-uniq-0080-00_04017-to-04016","text":"【Fuzzy Breezy Summer Mococo】Mococo&Fuwawa"}}
 {"id":"la-name_live_dial_voice_card_06002-5-uniq-0058-00_06002-to-06003","data":{"id":"la-name_live_dial_voice_card_06002-5-uniq-0058-00_06002-to-06003","text":"【Parade of Smiles Kanade】Kanade&Ririka"}}
 {"id":"la-name_live_dial_voice_card_06002-5-uniq-0058-00_06002-to-06004","data":{"id":"la-name_live_dial_voice_card_06002-5-uniq-0058-00_06002-to-06004","text":"【Parade of Smiles Kanade】Kanade&Raden"}}
 {"id":"la-name_live_dial_voice_card_06002-5-uniq-0058-00_06002-to-06005","data":{"id":"la-name_live_dial_voice_card_06002-5-uniq-0058-00_06002-to-06005","text":"【Parade of Smiles Kanade】Kanade&Hajime"}}
