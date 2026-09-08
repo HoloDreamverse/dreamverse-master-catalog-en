@@ -2,7 +2,128 @@
   "currentVersion": "rev70",
   "files": {
     "added": [
-      "catalog/catalog_en_rev70.redacted.json"
+      {
+        "asset_bundles": {
+          "added": [
+            {
+              "addresses": [
+                "Actor/Decal",
+                "Actor/Default",
+                "Effect/ActorLit",
+                "Effect/Lit",
+                "Effect/SixWay",
+                "Effect/Unlit",
+                "Environment/CanvasEmission",
+                "Environment/CanvasMonitor",
+                "Environment/Cliff/Cliff",
+                "Environment/Cloud",
+                "Environment/Composite",
+                "Environment/CubemapSkybox",
+                "Environment/Decal/Albedo",
+                "Environment/Decal/DecalHeightmap",
+                "Environment/Decal/Default",
+                "Environment/Decal/Emission",
+                "Environment/Decal/HeightOcclusion",
+                "Environment/Decal/MAOS",
+                "Environment/Decal/Normal",
+                "Environment/Decal/Occlusion",
+                "Environment/Decal/TransparentDecal",
+                "Environment/Decal/TransparentUnlitDecal",
+                "Environment/Decal/Water",
+                "Environment/Default",
+                "Environment/Ground",
+                "Environment/LaserShader",
+                "Environment/OctaImpostorVegetation",
+                "Environment/SixWayCloud",
+                "Environment/Skybox",
+                "Environment/Unlit",
+                "Environment/Vat/VatAudience",
+                "Environment/Vegetation",
+                "Environment/VisionMonitor",
+                "Environment/Water/Water",
+                "Environment/Water/WaterCaustics",
+                "Environment/Water/WaterFlow",
+                "Outline/SubMeshOutline",
+                "Assets/Data/System/GraphicsStateCollection/Output/Android/gsc_android-00.graphicsstate",
+                "Assets/Data/System/GraphicsStateCollection/Output/Android/gsc_android-00_pixel10.graphicsstate",
+                "Assets/Data/System/GraphicsStateCollection/Output/Windows/gsc_win-00.graphicsstate",
+                "Assets/Data/System/GraphicsStateCollection/Output/iOS/gsc_ios-00.graphicsstate",
+                "Packages/jp.qualiarts.quaunity-live2d/Rendering/Resources/Live2D/Cubism/Shaders/Mask.shader",
+                "Packages/jp.qualiarts.quaunity-live2d/Rendering/Resources/Live2D/Cubism/Shaders/Unlit.shader"
+              ],
+              "crc": 4274785527,
+              "dependencies": [
+                35684
+              ],
+              "id": 35425,
+              "md5": "095f3dd0ba547b9fe838e0a4d1f14df2",
+              "name": "remote-shader",
+              "object_name": "T12rw7",
+              "size": 18596254
+            }
+          ],
+          "removed": [
+            {
+              "addresses": [
+                "Actor/Decal",
+                "Actor/Default",
+                "Effect/ActorLit",
+                "Effect/Lit",
+                "Effect/SixWay",
+                "Effect/Unlit",
+                "Environment/CanvasEmission",
+                "Environment/CanvasMonitor",
+                "Environment/Cliff/Cliff",
+                "Environment/Cloud",
+                "Environment/Composite",
+                "Environment/CubemapSkybox",
+                "Environment/Decal/Albedo",
+                "Environment/Decal/DecalHeightmap",
+                "Environment/Decal/Default",
+                "Environment/Decal/Emission",
+                "Environment/Decal/HeightOcclusion",
+                "Environment/Decal/MAOS",
+                "Environment/Decal/Normal",
+                "Environment/Decal/Occlusion",
+                "Environment/Decal/TransparentDecal",
+                "Environment/Decal/TransparentUnlitDecal",
+                "Environment/Decal/Water",
+                "Environment/Default",
+                "Environment/Ground",
+                "Environment/LaserShader",
+                "Environment/OctaImpostorVegetation",
+                "Environment/SixWayCloud",
+                "Environment/Skybox",
+                "Environment/Unlit",
+                "Environment/Vat/VatAudience",
+                "Environment/Vegetation",
+                "Environment/VisionMonitor",
+                "Environment/Water/Water",
+                "Environment/Water/WaterCaustics",
+                "Environment/Water/WaterFlow",
+                "Outline/SubMeshOutline",
+                "Assets/Data/System/GraphicsStateCollection/Output/Android/gsc_android-00.graphicsstate",
+                "Assets/Data/System/GraphicsStateCollection/Output/Android/gsc_android-00_pixel10.graphicsstate",
+                "Assets/Data/System/GraphicsStateCollection/Output/Windows/gsc_win-00.graphicsstate",
+                "Assets/Data/System/GraphicsStateCollection/Output/iOS/gsc_ios-00.graphicsstate",
+                "Packages/jp.qualiarts.quaunity-live2d/Rendering/Resources/Live2D/Cubism/Shaders/Mask.shader",
+                "Packages/jp.qualiarts.quaunity-live2d/Rendering/Resources/Live2D/Cubism/Shaders/Unlit.shader"
+              ],
+              "crc": 3374940940,
+              "dependencies": [
+                35684
+              ],
+              "id": 35425,
+              "md5": "e67d8edd7e694b4c4f80d3200f18fc22",
+              "name": "remote-shader",
+              "object_name": "iG7HZD",
+              "size": 19560079
+            }
+          ]
+        },
+        "path": "catalog/catalog_en_rev70.redacted.json",
+        "previousPath": "catalog/catalog_en_rev69.redacted.json"
+      }
     ],
     "changed": [],
     "removed": []

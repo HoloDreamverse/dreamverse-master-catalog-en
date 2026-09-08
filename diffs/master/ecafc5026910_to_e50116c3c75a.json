@@ -1,5 +1,5 @@
 {
-  "currentVersion": "e50116c3c75a4da07b27936baa10bdc1eabd71955406848104f2a0e0241ac508",
+  "currentVersion": "e50116c3c75a",
   "files": {
     "added": [],
     "changed": [
@@ -7926,6 +7926,6 @@
     ],
     "removed": []
   },
-  "previousVersion": "ecafc5026910aa691822a154f926ed55d83bd6613c4f27ca0591692e2f4700e1",
+  "previousVersion": "ecafc5026910",
   "schemaVersion": 2
 }
