@@ -1,0 +1,123 @@
+{
+  "currentVersion": "ecafc5026910aa691822a154f926ed55d83bd6613c4f27ca0591692e2f4700e1",
+  "files": {
+    "added": [],
+    "changed": [
+      {
+        "added": [
+          {
+            "data": {
+              "parameterType": "CookingPuzzlePerRecipeCompletionTimeMillisecond",
+              "severityType": "Red",
+              "threshold": 2000,
+              "type": "CookingPuzzlePerRecipeCompletion"
+            },
+            "parameter_type": 103000,
+            "severity_type": 2,
+            "type": 1300
+          },
+          {
+            "data": {
+              "parameterType": "CookingPuzzlePerRecipeCompletionTimeMillisecond",
+              "severityType": "Yellow",
+              "threshold": 3000,
+              "type": "CookingPuzzlePerRecipeCompletion"
+            },
+            "parameter_type": 103000,
+            "severity_type": 1,
+            "type": 1300
+          },
+          {
+            "data": {
+              "parameterType": 103002,
+              "severityType": "Red",
+              "threshold": 10,
+              "type": "CookingPuzzlePerRecipeCompletion"
+            },
+            "parameter_type": 103002,
+            "severity_type": 2,
+            "type": 1300
+          },
+          {
+            "data": {
+              "parameterType": 103002,
+              "severityType": "Yellow",
+              "threshold": 10,
+              "type": "CookingPuzzlePerRecipeCompletion"
+            },
+            "parameter_type": 103002,
+            "severity_type": 1,
+            "type": 1300
+          },
+          {
+            "data": {
+              "parameterType": 103003,
+              "severityType": "Red",
+              "threshold": 30000,
+              "type": 1302
+            },
+            "parameter_type": 103003,
+            "severity_type": 2,
+            "type": 1302
+          },
+          {
+            "data": {
+              "parameterType": 103003,
+              "severityType": "Yellow",
+              "threshold": 25000,
+              "type": 1302
+            },
+            "parameter_type": 103003,
+            "severity_type": 1,
+            "type": 1302
+          },
+          {
+            "data": {
+              "parameterType": 103004,
+              "severityType": "Yellow",
+              "threshold": 20000,
+              "type": 1303
+            },
+            "parameter_type": 103004,
+            "severity_type": 1,
+            "type": 1303
+          },
+          {
+            "data": {
+              "parameterType": 103005,
+              "severityType": "Yellow",
+              "threshold": 4000,
+              "type": 1303
+            },
+            "parameter_type": 103005,
+            "severity_type": 1,
+            "type": 1303
+          }
+        ],
+        "path": "master/data/Cheat.jsonl",
+        "removed": [
+          {
+            "data": {
+              "parameterType": "CookingPuzzlePerRecipeCompletionTimeMillisecond",
+              "severityType": "Yellow",
+              "threshold": 200,
+              "type": "CookingPuzzlePerRecipeCompletion"
+            },
+            "parameter_type": 103000,
+            "severity_type": 1,
+            "type": 1300
+          }
+        ]
+      },
+      {
+        "path": "master/export-manifest.json"
+      },
+      {
+        "path": "master/manifest.redacted.json"
+      }
+    ],
+    "removed": []
+  },
+  "previousVersion": "fbca8c670e074558b24708bf163fff446a614f709afa9d1784395a15444121b0",
+  "schemaVersion": 2
+}

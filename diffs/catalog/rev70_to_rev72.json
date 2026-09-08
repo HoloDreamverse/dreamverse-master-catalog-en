@@ -1,19 +1,12 @@
 {
-  "currentSnapshot": "dc327dfeab714c7c",
   "currentVersion": "rev72",
-  "manifests": {
+  "files": {
     "added": [
-      {
-        "path": "catalog/catalog_en_rev72.redacted.json",
-        "region": "en",
-        "revision": 72,
-        "sha256": "c1a5c7784bf5635272610577f52663118308de664dbe59bdf8045058ec29cd34"
-      }
+      "catalog/catalog_en_rev72.redacted.json"
     ],
     "changed": [],
     "removed": []
   },
-  "previousSnapshot": "ded85056b188fec5",
   "previousVersion": "rev70",
-  "schemaVersion": 1
+  "schemaVersion": 2
 }
