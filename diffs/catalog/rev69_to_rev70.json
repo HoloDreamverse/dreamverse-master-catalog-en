@@ -1,5 +1,6 @@
 {
   "currentSnapshot": "19311772f3b23ad1",
+  "currentVersion": "rev70",
   "manifests": {
     "added": [
       {
@@ -13,5 +14,6 @@
     "removed": []
   },
   "previousSnapshot": "dbe53dbd37ed3983",
+  "previousVersion": "rev69",
   "schemaVersion": 1
 }
