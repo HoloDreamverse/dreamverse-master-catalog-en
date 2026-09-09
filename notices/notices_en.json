@@ -21,6 +21,17 @@
      "external_url": ""
     },
     {
+     "id": "notice-news-info-update-260909",
+     "title": "Ver.1.1.1 Update Announcement",
+     "type": 3,
+     "type_name": "update",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/d6b259a0bfde08f444ac9f20f5879b03fcf7111c03729bb0e1b2369fcb445019/index.html",
+     "banner_asset_id": "img_banner_full_update-info",
+     "start_time": 1788919200000,
+     "start_time_utc": "2026-09-09T02:00:00Z",
+     "external_url": ""
+    },
+    {
      "id": "notice-news-birthday-chr-00032-260908",
      "title": "Happy Birthday! Shishiro Botan",
      "type": 6,
@@ -40,17 +51,6 @@
      "banner_asset_id": "img_banner_full_gacha-pickup-260908",
      "start_time": 1788832800000,
      "start_time_utc": "2026-09-08T02:00:00Z",
-     "external_url": ""
-    },
-    {
-     "id": "notice-news-info-update-260909",
-     "title": "Ver.1.1.1 Update Announcement",
-     "type": 3,
-     "type_name": "update",
-     "detail_url": "https://static.game-hololive-dreams.com/html/notice/d6b259a0bfde08f444ac9f20f5879b03fcf7111c03729bb0e1b2369fcb445019/index.html",
-     "banner_asset_id": "img_banner_full_update-info",
-     "start_time": 1788919200000,
-     "start_time_utc": "2026-09-09T02:00:00Z",
      "external_url": ""
     },
     {
