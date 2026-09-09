@@ -1,0 +1,81 @@
+{
+  "currentVersion": "rev73",
+  "files": {
+    "added": [
+      {
+        "path": "catalog/catalog_en_rev73.redacted.json",
+        "previousPath": "catalog/catalog_en_rev72.redacted.json",
+        "resources": {
+          "added": [
+            {
+              "addresses": [],
+              "crc": null,
+              "dependencies": [],
+              "id": 36199,
+              "md5": "67373571756b33ecdeb159a5964dfe09",
+              "name": "mov_adv_teaser_area-a01-01.usm",
+              "object_name": "9lYxvf",
+              "size": 30770153
+            },
+            {
+              "addresses": [],
+              "crc": null,
+              "dependencies": [],
+              "id": 36200,
+              "md5": "53e0e0c28598949d3d412b621b4dab6a",
+              "name": "mov_adv_teaser_area-a01-02.usm",
+              "object_name": "6V0Fz0",
+              "size": 4066633
+            },
+            {
+              "addresses": [],
+              "crc": null,
+              "dependencies": [],
+              "id": 36201,
+              "md5": "4cad4a64b19577be8df61460112963d3",
+              "name": "mov_adv_teaser_area-a02.usm",
+              "object_name": "Inb1pk",
+              "size": 23417961
+            }
+          ],
+          "removed": [
+            {
+              "addresses": [],
+              "crc": null,
+              "dependencies": [],
+              "id": 36199,
+              "md5": "65dc373c6d801f6d210be80d6f06f113",
+              "name": "mov_adv_teaser_area-a01-01.usm",
+              "object_name": "goe3Jj",
+              "size": 31135369
+            },
+            {
+              "addresses": [],
+              "crc": null,
+              "dependencies": [],
+              "id": 36200,
+              "md5": "26de9ed49e6ee4e515c64d6b5fe77c9a",
+              "name": "mov_adv_teaser_area-a01-02.usm",
+              "object_name": "9oF0Fi",
+              "size": 4046441
+            },
+            {
+              "addresses": [],
+              "crc": null,
+              "dependencies": [],
+              "id": 36201,
+              "md5": "4cfc017951c6eb5be4803da84cbd2a4c",
+              "name": "mov_adv_teaser_area-a02.usm",
+              "object_name": "vYQnyT",
+              "size": 23514281
+            }
+          ]
+        }
+      }
+    ],
+    "changed": [],
+    "removed": []
+  },
+  "previousVersion": "rev72",
+  "schemaVersion": 2
+}
