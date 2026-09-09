@@ -1,7 +1,7 @@
 {
   "region": "en",
   "appVersion": "1.1.0",
-  "version": "e50116c3c75a4da07b27936baa10bdc1eabd71955406848104f2a0e0241ac508",
+  "version": "77f2004e9d1a46fccd0d39b88b5175ddd8b48d25108060751c7864e29474d1d3",
   "packCount": 373,
   "packs": [
     {
@@ -534,10 +534,10 @@
     },
     {
       "type": "ExchangeBoothFixedItem",
-      "fileName": "ee2844dd3b68c6d4bb30efbccfd7332610f3561b0230d2482f426a6cda0ca604",
-      "fileSize": 348160,
-      "downloadUrl": "https://static.game-hololive-dreams.com/master/ExchangeBoothFixedItem/ee2844dd3b68c6d4bb30efbccfd7332610f3561b0230d2482f426a6cda0ca604",
-      "cryptoKeySha256": "36d6cd19c22ecc318e4b00e80abe21c49deff599e70bb51d9969d791a9ffc2bd",
+      "fileName": "d399933e820d3ae4ae92c7329729bdad86528877099f80d3135ab1a97ef9b369",
+      "fileSize": 352256,
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/ExchangeBoothFixedItem/d399933e820d3ae4ae92c7329729bdad86528877099f80d3135ab1a97ef9b369",
+      "cryptoKeySha256": "8074c06d17705565f5ac65b3ab7983c6011b46a475e8a66997ef30087f10e423",
       "cryptoKeyLength": 64
     },
     {

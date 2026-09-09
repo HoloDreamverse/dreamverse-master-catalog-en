@@ -1,6 +1,6 @@
 {
   "region": "en",
-  "masterVersion": "e50116c3c75a4da07b27936baa10bdc1eabd71955406848104f2a0e0241ac508",
+  "masterVersion": "77f2004e9d1a46fccd0d39b88b5175ddd8b48d25108060751c7864e29474d1d3",
   "packCount": 373,
   "selectedCount": 373,
   "schemaSource": "dumps/holo-en-1.1.0/dump.cs",
@@ -733,11 +733,11 @@
     },
     {
       "type": "ExchangeBoothFixedItem",
-      "fileName": "ee2844dd3b68c6d4bb30efbccfd7332610f3561b0230d2482f426a6cda0ca604",
-      "rawPath": "ee2844dd3b68c6d4bb30efbccfd7332610f3561b0230d2482f426a6cda0ca604",
-      "fileSize": 348160,
-      "rawSha256": "1578bea907cb77fb9f49d2bd86cc7170b730ea21ea2b1226fb8b9c2950842d94",
-      "rowCount": 991,
+      "fileName": "d399933e820d3ae4ae92c7329729bdad86528877099f80d3135ab1a97ef9b369",
+      "rawPath": "d399933e820d3ae4ae92c7329729bdad86528877099f80d3135ab1a97ef9b369",
+      "fileSize": 352256,
+      "rawSha256": "154ca9b3892a5e88d9b8557acf2439c8c34f8fc537b7bbc31611dd7498c78865",
+      "rowCount": 993,
       "schemaFound": true,
       "output": "data/ExchangeBoothFixedItem.jsonl",
       "status": "ok"

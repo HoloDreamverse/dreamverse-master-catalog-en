@@ -1,0 +1,40 @@
+{
+  "currentVersion": "77f2004e9d1a",
+  "files": {
+    "added": [],
+    "changed": [
+      {
+        "added": [
+          {
+            "data": {
+              "exchangeBoothId": "exchange_booth-facility-a01-exchangebooth-facility_item",
+              "id": "exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-first_time-item-facility-area_a01-002-1-001",
+              "purchaseLimitQuantity": 50
+            },
+            "id": "exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-first_time-item-facility-area_a01-002-1-001"
+          },
+          {
+            "data": {
+              "exchangeBoothId": "exchange_booth-facility-a01-exchangebooth-facility_item",
+              "id": "exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-facility-area_a01-002-1-001",
+              "purchaseLimitQuantity": 50,
+              "resetIntervalType": "Monthly"
+            },
+            "id": "exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-facility-area_a01-002-1-001"
+          }
+        ],
+        "path": "master/data/ExchangeBoothFixedItem.jsonl",
+        "removed": []
+      },
+      {
+        "path": "master/export-manifest.json"
+      },
+      {
+        "path": "master/manifest.redacted.json"
+      }
+    ],
+    "removed": []
+  },
+  "previousVersion": "e50116c3c75a",
+  "schemaVersion": 2
+}
