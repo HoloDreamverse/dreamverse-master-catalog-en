@@ -1,0 +1,84 @@
+{
+  "currentVersion": "251ae0da8534",
+  "files": {
+    "added": [],
+    "changed": [
+      {
+        "added": [
+          {
+            "data": {
+              "areaGroupingId": "area_group-a02",
+              "descriptionLangId": "la-quest-daily-description",
+              "id": "quest-daily-card-00015",
+              "number": 1,
+              "parkQuestChapterId": "quest_chapter-daily",
+              "priority": 1,
+              "ratio": 100,
+              "titleLangId": "la-quest-daily-title",
+              "type": "Daily",
+              "viewConditionGroupId": "cd-quest_clear-quest-main-w1-02-08"
+            },
+            "id": "quest-daily-card-00015"
+          },
+          {
+            "data": {
+              "areaGroupingId": "area_group-a02",
+              "descriptionLangId": "la-quest-daily-description",
+              "id": "quest-daily-card-04015",
+              "number": 1,
+              "parkQuestChapterId": "quest_chapter-daily",
+              "priority": 3,
+              "ratio": 100,
+              "titleLangId": "la-quest-daily-title",
+              "type": "Daily",
+              "viewConditionGroupId": "cd-quest_clear-quest-main-w1-02-08"
+            },
+            "id": "quest-daily-card-04015"
+          }
+        ],
+        "path": "master/data/ParkQuest.jsonl",
+        "removed": [
+          {
+            "data": {
+              "areaGroupingId": "area_group-a02",
+              "descriptionLangId": "la-quest-daily-description",
+              "id": "quest-daily-card-00015",
+              "number": 1,
+              "parkQuestChapterId": "quest_chapter-daily",
+              "priority": 1,
+              "ratio": 100,
+              "titleLangId": "la-quest-daily-title",
+              "type": "Daily",
+              "viewConditionGroupId": "cd-quest_clear-quest-main-w1-02-07"
+            },
+            "id": "quest-daily-card-00015"
+          },
+          {
+            "data": {
+              "areaGroupingId": "area_group-a02",
+              "descriptionLangId": "la-quest-daily-description",
+              "id": "quest-daily-card-04015",
+              "number": 1,
+              "parkQuestChapterId": "quest_chapter-daily",
+              "priority": 3,
+              "ratio": 100,
+              "titleLangId": "la-quest-daily-title",
+              "type": "Daily",
+              "viewConditionGroupId": "cd-quest_clear-quest-main-w1-02-07"
+            },
+            "id": "quest-daily-card-04015"
+          }
+        ]
+      },
+      {
+        "path": "master/export-manifest.json"
+      },
+      {
+        "path": "master/manifest.redacted.json"
+      }
+    ],
+    "removed": []
+  },
+  "previousVersion": "77f2004e9d1a",
+  "schemaVersion": 2
+}

@@ -1,0 +1,32 @@
+{
+  "currentVersion": "rev74",
+  "files": {
+    "added": [
+      {
+        "asset_bundles": {
+          "added": [
+            {
+              "addresses": [
+                "img_banner_full_sub-birthday-live-botan-2026"
+              ],
+              "crc": 756551744,
+              "dependencies": [],
+              "id": 40198,
+              "md5": "a73b8830f5773e94ddb480f7f5c3203f",
+              "name": "img_banner_full_sub-birthday-live-botan-2026",
+              "object_name": "MKwATD",
+              "size": 1042515
+            }
+          ],
+          "removed": []
+        },
+        "path": "catalog/catalog_en_rev74.redacted.json",
+        "previousPath": "catalog/catalog_en_rev73.redacted.json"
+      }
+    ],
+    "changed": [],
+    "removed": []
+  },
+  "previousVersion": "rev73",
+  "schemaVersion": 2
+}
