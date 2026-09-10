@@ -313,17 +313,6 @@
      "start_time": 1787466600000,
      "start_time_utc": "2026-08-23T06:30:00Z",
      "external_url": ""
-    },
-    {
-     "id": "notice-mal-shop-benefit_pass-01-android",
-     "title": "Issue Regarding the HoloPassport",
-     "type": 100,
-     "type_name": "bug",
-     "detail_url": "https://static.game-hololive-dreams.com/html/notice/994dca9fb7f1c2c89191062a70271120b14479576f7d7628bb3f7ecf3fd925d0/index.html",
-     "banner_asset_id": "",
-     "start_time": 1786327200000,
-     "start_time_utc": "2026-08-10T02:00:00Z",
-     "external_url": ""
     }
    ]
   },
