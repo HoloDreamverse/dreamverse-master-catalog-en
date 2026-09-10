@@ -21,6 +21,17 @@
      "external_url": ""
     },
     {
+     "id": "notice-news-exchange_booth-facility-a01-exchangebooth2",
+     "title": "Holomedal Exchange has been added to the NePoLaBo Mart!",
+     "type": 3,
+     "type_name": "update",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/111c399fa8ffb8c9fae8f91f04dbcd811fd4ba42cad17844eb9bc15223de352f/index.html",
+     "banner_asset_id": "",
+     "start_time": 1789005600000,
+     "start_time_utc": "2026-09-10T02:00:00Z",
+     "external_url": ""
+    },
+    {
      "id": "notice-news-info-update-260909",
      "title": "Ver.1.1.1 Update Announcement",
      "type": 3,
