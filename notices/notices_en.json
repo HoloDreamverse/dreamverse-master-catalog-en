@@ -10,17 +10,6 @@
    "display_type_name": "normal",
    "notices": [
     {
-     "id": "notice-news-birthday-chr-03006-260909",
-     "title": "Happy Birthday! Pavolia Reine",
-     "type": 6,
-     "type_name": "campaign",
-     "detail_url": "https://static.game-hololive-dreams.com/html/notice/47f84cfd44d02c047c03616292ea6894db134e332b49c4bebcdc7916186c84e1/index.html",
-     "banner_asset_id": "img_banner_full_birthday-chr-03006-260909",
-     "start_time": 1788879600000,
-     "start_time_utc": "2026-09-08T15:00:00Z",
-     "external_url": ""
-    },
-    {
      "id": "notice-news-exchange_booth-facility-a01-exchangebooth2",
      "title": "Holomedal Exchange has been added to the NePoLaBo Mart!",
      "type": 3,
