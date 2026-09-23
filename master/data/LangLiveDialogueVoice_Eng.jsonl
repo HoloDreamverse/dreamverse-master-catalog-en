@@ -1,3 +1,4 @@
+{"id":"la-name_cv-live_dial_chr-00004_00004-5-uniq-0081-00_myself","data":{"id":"la-name_cv-live_dial_chr-00004_00004-5-uniq-0081-00_myself","text":"【Mystic Sun Swing Aki】SP Skill"}}
 {"id":"la-name_cv-live_dial_chr-00006_00006-5-uniq-0074-00_myself","data":{"id":"la-name_cv-live_dial_chr-00006_00006-5-uniq-0074-00_myself","text":"【Twinkle on the Shore Fubuki】SP Skill"}}
 {"id":"la-name_cv-live_dial_chr-00010_00010-5-uniq-0069-00_myself","data":{"id":"la-name_cv-live_dial_chr-00010_00010-5-uniq-0069-00_myself","text":"【Oni Way: Breezy Resort Ayame】SP Skill"}}
 {"id":"la-name_cv-live_dial_chr-00012_00012-5-uniq-0062-00_myself","data":{"id":"la-name_cv-live_dial_chr-00012_00012-5-uniq-0062-00_myself","text":"【Vibrant Sun Splash! Subaru】SP Skill"}}
@@ -10,10 +11,13 @@
 {"id":"la-name_cv-live_dial_chr-00022_00022-5-uniq-0063-00_myself","data":{"id":"la-name_cv-live_dial_chr-00022_00022-5-uniq-0063-00_myself","text":"【Serene Wave Knight Noel】SP Skill"}}
 {"id":"la-name_cv-live_dial_chr-00026_00026-5-uniq-0065-00_myself","data":{"id":"la-name_cv-live_dial_chr-00026_00026-5-uniq-0065-00_myself","text":"【Floatie Float Time Watame】SP Skill"}}
 {"id":"la-name_cv-live_dial_chr-00028_00028-5-uniq-0070-00_myself","data":{"id":"la-name_cv-live_dial_chr-00028_00028-5-uniq-0070-00_myself","text":"【Spoiled Beach Princess Luna】SP Skill"}}
+{"id":"la-name_cv-live_dial_chr-00035_00035-5-uniq-0082-00_myself","data":{"id":"la-name_cv-live_dial_chr-00035_00035-5-uniq-0082-00_myself","text":"【Leader’s Secret Pool La+】SP Skill"}}
 {"id":"la-name_cv-live_dial_chr-00036_00036-5-uniq-0078-00_myself","data":{"id":"la-name_cv-live_dial_chr-00036_00036-5-uniq-0078-00_myself","text":"【Relaxing Executive Lui】SP Skill"}}
 {"id":"la-name_cv-live_dial_chr-03004_03004-5-uniq-0073-00_myself","data":{"id":"la-name_cv-live_dial_chr-03004_03004-5-uniq-0073-00_myself","text":"【Crazy Summer Dive Ollie】SP Skill"}}
+{"id":"la-name_cv-live_dial_chr-03005_03005-5-uniq-0084-00_myself","data":{"id":"la-name_cv-live_dial_chr-03005_03005-5-uniq-0084-00_myself","text":"【Chill Sunny Holiday Anya】SP Skill"}}
 {"id":"la-name_cv-live_dial_chr-04001_04001-5-uniq-0071-00_myself","data":{"id":"la-name_cv-live_dial_chr-04001_04001-5-uniq-0071-00_myself","text":"【Beach Reaper's Spike Calliope】SP Skill"}}
 {"id":"la-name_cv-live_dial_chr-04003_04003-5-uniq-0072-00_myself","data":{"id":"la-name_cv-live_dial_chr-04003_04003-5-uniq-0072-00_myself","text":"【Tracing Tide Memories Ina'nis】SP Skill"}}
+{"id":"la-name_cv-live_dial_chr-04013_04013-5-uniq-0083-00_myself","data":{"id":"la-name_cv-live_dial_chr-04013_04013-5-uniq-0083-00_myself","text":"【Archived Night Pool Shiori】SP Skill"}}
 {"id":"la-name_cv-live_dial_chr-04016_04016-5-uniq-0079-00_myself","data":{"id":"la-name_cv-live_dial_chr-04016_04016-5-uniq-0079-00_myself","text":"【Fluffy Flowing Summer Fuwawa】SP Skill"}}
 {"id":"la-name_cv-live_dial_chr-04017_04017-5-uniq-0080-00_myself","data":{"id":"la-name_cv-live_dial_chr-04017_04017-5-uniq-0080-00_myself","text":"【Fuzzy Breezy Summer Mococo】SP Skill"}}
 {"id":"la-name_cv-live_dial_chr-06002_06002-5-uniq-0066-00_myself","data":{"id":"la-name_cv-live_dial_chr-06002_06002-5-uniq-0066-00_myself","text":"【Breezy Smile Chords Kanade】SP Skill"}}
@@ -31,6 +35,14 @@
 {"id":"la-name_live_dial_voice_card_00004-5-uniq-0005-00_00004-to-00006","data":{"id":"la-name_live_dial_voice_card_00004-5-uniq-0005-00_00004-to-00006","text":"【Ethereal Half-Elf Aki】Aki&Fubuki"}}
 {"id":"la-name_live_dial_voice_card_00004-5-uniq-0005-00_00004-to-00007","data":{"id":"la-name_live_dial_voice_card_00004-5-uniq-0005-00_00004-to-00007","text":"【Ethereal Half-Elf Aki】Aki&Matsuri"}}
 {"id":"la-name_live_dial_voice_card_00004-5-uniq-0005-00_myself","data":{"id":"la-name_live_dial_voice_card_00004-5-uniq-0005-00_myself","text":"【Ethereal Half-Elf Aki】 SP Skill"}}
+{"id":"la-name_live_dial_voice_card_00004-5-uniq-0081-00_00002-to-00004","data":{"id":"la-name_live_dial_voice_card_00004-5-uniq-0081-00_00002-to-00004","text":"【Mystic Sun Swing Aki】Robocosan&Aki"}}
+{"id":"la-name_live_dial_voice_card_00004-5-uniq-0081-00_00004-to-00002","data":{"id":"la-name_live_dial_voice_card_00004-5-uniq-0081-00_00004-to-00002","text":"【Mystic Sun Swing Aki】Aki&Robocosan"}}
+{"id":"la-name_live_dial_voice_card_00004-5-uniq-0081-00_00004-to-00011","data":{"id":"la-name_live_dial_voice_card_00004-5-uniq-0081-00_00004-to-00011","text":"【Mystic Sun Swing Aki】Aki&Choco"}}
+{"id":"la-name_live_dial_voice_card_00004-5-uniq-0081-00_00004-to-00012","data":{"id":"la-name_live_dial_voice_card_00004-5-uniq-0081-00_00004-to-00012","text":"【Mystic Sun Swing Aki】Aki&Subaru"}}
+{"id":"la-name_live_dial_voice_card_00004-5-uniq-0081-00_00004-to-00030","data":{"id":"la-name_live_dial_voice_card_00004-5-uniq-0081-00_00004-to-00030","text":"【Mystic Sun Swing Aki】Aki&Lamy"}}
+{"id":"la-name_live_dial_voice_card_00004-5-uniq-0081-00_00011-to-00004","data":{"id":"la-name_live_dial_voice_card_00004-5-uniq-0081-00_00011-to-00004","text":"【Mystic Sun Swing Aki】Choco&Aki"}}
+{"id":"la-name_live_dial_voice_card_00004-5-uniq-0081-00_00012-to-00004","data":{"id":"la-name_live_dial_voice_card_00004-5-uniq-0081-00_00012-to-00004","text":"【Mystic Sun Swing Aki】Subaru&Aki"}}
+{"id":"la-name_live_dial_voice_card_00004-5-uniq-0081-00_00030-to-00004","data":{"id":"la-name_live_dial_voice_card_00004-5-uniq-0081-00_00030-to-00004","text":"【Mystic Sun Swing Aki】Lamy&Aki"}}
 {"id":"la-name_live_dial_voice_card_00005-5-uniq-0006-00_00005-to-00004","data":{"id":"la-name_live_dial_voice_card_00005-5-uniq-0006-00_00005-to-00004","text":"【Snack-Time Rebel Haato】Haato&Aki"}}
 {"id":"la-name_live_dial_voice_card_00005-5-uniq-0006-00_00005-to-00006","data":{"id":"la-name_live_dial_voice_card_00005-5-uniq-0006-00_00005-to-00006","text":"【Snack-Time Rebel Haato】Haato&Fubuki"}}
 {"id":"la-name_live_dial_voice_card_00005-5-uniq-0006-00_00005-to-00007","data":{"id":"la-name_live_dial_voice_card_00005-5-uniq-0006-00_00005-to-00007","text":"【Snack-Time Rebel Haato】Haato&Matsuri"}}
@@ -203,6 +215,14 @@
 {"id":"la-name_live_dial_voice_card_00035-5-uniq-0028-00_00035-to-00037","data":{"id":"la-name_live_dial_voice_card_00035-5-uniq-0028-00_00035-to-00037","text":"【Commanding Genius La+】La+&Koyori"}}
 {"id":"la-name_live_dial_voice_card_00035-5-uniq-0028-00_00035-to-00039","data":{"id":"la-name_live_dial_voice_card_00035-5-uniq-0028-00_00035-to-00039","text":"【Commanding Genius La+】La+&Iroha"}}
 {"id":"la-name_live_dial_voice_card_00035-5-uniq-0028-00_myself","data":{"id":"la-name_live_dial_voice_card_00035-5-uniq-0028-00_myself","text":"【Commanding Genius La+】 SP Skill"}}
+{"id":"la-name_live_dial_voice_card_00035-5-uniq-0082-00_00013-to-00035","data":{"id":"la-name_live_dial_voice_card_00035-5-uniq-0082-00_00013-to-00035","text":"【Leader’s Secret Pool La+】AZKi&La+"}}
+{"id":"la-name_live_dial_voice_card_00035-5-uniq-0082-00_00027-to-00035","data":{"id":"la-name_live_dial_voice_card_00035-5-uniq-0082-00_00027-to-00035","text":"【Leader’s Secret Pool La+】Towa&La+"}}
+{"id":"la-name_live_dial_voice_card_00035-5-uniq-0082-00_00035-to-00013","data":{"id":"la-name_live_dial_voice_card_00035-5-uniq-0082-00_00035-to-00013","text":"【Leader’s Secret Pool La+】La+&AZKi"}}
+{"id":"la-name_live_dial_voice_card_00035-5-uniq-0082-00_00035-to-00027","data":{"id":"la-name_live_dial_voice_card_00035-5-uniq-0082-00_00035-to-00027","text":"【Leader’s Secret Pool La+】La+&Towa"}}
+{"id":"la-name_live_dial_voice_card_00035-5-uniq-0082-00_00035-to-00039","data":{"id":"la-name_live_dial_voice_card_00035-5-uniq-0082-00_00035-to-00039","text":"【Leader’s Secret Pool La+】La+&Iroha"}}
+{"id":"la-name_live_dial_voice_card_00035-5-uniq-0082-00_00035-to-06002","data":{"id":"la-name_live_dial_voice_card_00035-5-uniq-0082-00_00035-to-06002","text":"【Leader’s Secret Pool La+】La+&Kanade"}}
+{"id":"la-name_live_dial_voice_card_00035-5-uniq-0082-00_00039-to-00035","data":{"id":"la-name_live_dial_voice_card_00035-5-uniq-0082-00_00039-to-00035","text":"【Leader’s Secret Pool La+】Iroha&La+"}}
+{"id":"la-name_live_dial_voice_card_00035-5-uniq-0082-00_06002-to-00035","data":{"id":"la-name_live_dial_voice_card_00035-5-uniq-0082-00_06002-to-00035","text":"【Leader’s Secret Pool La+】Kanade&La+"}}
 {"id":"la-name_live_dial_voice_card_00036-5-uniq-0029-00_00036-to-00035","data":{"id":"la-name_live_dial_voice_card_00036-5-uniq-0029-00_00036-to-00035","text":"【Iron Executive Lui】Lui&La+"}}
 {"id":"la-name_live_dial_voice_card_00036-5-uniq-0029-00_00036-to-00037","data":{"id":"la-name_live_dial_voice_card_00036-5-uniq-0029-00_00036-to-00037","text":"【Iron Executive Lui】Lui&Koyori"}}
 {"id":"la-name_live_dial_voice_card_00036-5-uniq-0029-00_00036-to-00039","data":{"id":"la-name_live_dial_voice_card_00036-5-uniq-0029-00_00036-to-00039","text":"【Iron Executive Lui】Lui&Iroha"}}
@@ -242,6 +262,14 @@
 {"id":"la-name_live_dial_voice_card_03005-5-uniq-0037-00_03005-to-03004","data":{"id":"la-name_live_dial_voice_card_03005-5-uniq-0037-00_03005-to-03004","text":"【Couch Potato Gamer Anya】Anya&Ollie"}}
 {"id":"la-name_live_dial_voice_card_03005-5-uniq-0037-00_03005-to-03006","data":{"id":"la-name_live_dial_voice_card_03005-5-uniq-0037-00_03005-to-03006","text":"【Couch Potato Gamer Anya】Anya&Reine"}}
 {"id":"la-name_live_dial_voice_card_03005-5-uniq-0037-00_myself","data":{"id":"la-name_live_dial_voice_card_03005-5-uniq-0037-00_myself","text":"【Couch Potato Gamer Anya】 SP Skill"}}
+{"id":"la-name_live_dial_voice_card_03005-5-uniq-0084-00_00021-to-03005","data":{"id":"la-name_live_dial_voice_card_03005-5-uniq-0084-00_00021-to-03005","text":"【Chill Sunny Holiday Anya】Flare&Anya"}}
+{"id":"la-name_live_dial_voice_card_03005-5-uniq-0084-00_00026-to-03005","data":{"id":"la-name_live_dial_voice_card_03005-5-uniq-0084-00_00026-to-03005","text":"【Chill Sunny Holiday Anya】Watame&Anya"}}
+{"id":"la-name_live_dial_voice_card_03005-5-uniq-0084-00_03005-to-00021","data":{"id":"la-name_live_dial_voice_card_03005-5-uniq-0084-00_03005-to-00021","text":"【Chill Sunny Holiday Anya】Anya&Flare"}}
+{"id":"la-name_live_dial_voice_card_03005-5-uniq-0084-00_03005-to-00026","data":{"id":"la-name_live_dial_voice_card_03005-5-uniq-0084-00_03005-to-00026","text":"【Chill Sunny Holiday Anya】Anya&Watame"}}
+{"id":"la-name_live_dial_voice_card_03005-5-uniq-0084-00_03005-to-04003","data":{"id":"la-name_live_dial_voice_card_03005-5-uniq-0084-00_03005-to-04003","text":"【Chill Sunny Holiday Anya】Anya&Ina'nis"}}
+{"id":"la-name_live_dial_voice_card_03005-5-uniq-0084-00_03005-to-04007","data":{"id":"la-name_live_dial_voice_card_03005-5-uniq-0084-00_03005-to-04007","text":"【Chill Sunny Holiday Anya】Anya&IRyS"}}
+{"id":"la-name_live_dial_voice_card_03005-5-uniq-0084-00_04003-to-03005","data":{"id":"la-name_live_dial_voice_card_03005-5-uniq-0084-00_04003-to-03005","text":"【Chill Sunny Holiday Anya】Ina'nis&Anya"}}
+{"id":"la-name_live_dial_voice_card_03005-5-uniq-0084-00_04007-to-03005","data":{"id":"la-name_live_dial_voice_card_03005-5-uniq-0084-00_04007-to-03005","text":"【Chill Sunny Holiday Anya】IRyS&Anya"}}
 {"id":"la-name_live_dial_voice_card_03006-5-uniq-0038-00_03006-to-03004","data":{"id":"la-name_live_dial_voice_card_03006-5-uniq-0038-00_03006-to-03004","text":"【Royal Peafowl Brew Reine】Reine&Ollie"}}
 {"id":"la-name_live_dial_voice_card_03006-5-uniq-0038-00_03006-to-03005","data":{"id":"la-name_live_dial_voice_card_03006-5-uniq-0038-00_03006-to-03005","text":"【Royal Peafowl Brew Reine】Reine&Anya"}}
 {"id":"la-name_live_dial_voice_card_03006-5-uniq-0038-00_myself","data":{"id":"la-name_live_dial_voice_card_03006-5-uniq-0038-00_myself","text":"【Royal Peafowl Brew Reine】 SP Skill"}}
@@ -293,6 +321,14 @@
 {"id":"la-name_live_dial_voice_card_04013-5-uniq-0052-00_04013-to-04016","data":{"id":"la-name_live_dial_voice_card_04013-5-uniq-0052-00_04013-to-04016","text":"【Library Inquisitor Shiori】Shiori&Fuwawa"}}
 {"id":"la-name_live_dial_voice_card_04013-5-uniq-0052-00_04013-to-04017","data":{"id":"la-name_live_dial_voice_card_04013-5-uniq-0052-00_04013-to-04017","text":"【Library Inquisitor Shiori】Shiori&Mococo"}}
 {"id":"la-name_live_dial_voice_card_04013-5-uniq-0052-00_myself","data":{"id":"la-name_live_dial_voice_card_04013-5-uniq-0052-00_myself","text":"【Library Inquisitor Shiori】 SP Skill"}}
+{"id":"la-name_live_dial_voice_card_04013-5-uniq-0083-00_03005-to-04013","data":{"id":"la-name_live_dial_voice_card_04013-5-uniq-0083-00_03005-to-04013","text":"【Archived Night Pool Shiori】Anya&Shiori"}}
+{"id":"la-name_live_dial_voice_card_04013-5-uniq-0083-00_03007-to-04013","data":{"id":"la-name_live_dial_voice_card_04013-5-uniq-0083-00_03007-to-04013","text":"【Archived Night Pool Shiori】Zeta&Shiori"}}
+{"id":"la-name_live_dial_voice_card_04013-5-uniq-0083-00_04001-to-04013","data":{"id":"la-name_live_dial_voice_card_04013-5-uniq-0083-00_04001-to-04013","text":"【Archived Night Pool Shiori】Calliope&Shiori"}}
+{"id":"la-name_live_dial_voice_card_04013-5-uniq-0083-00_04013-to-03005","data":{"id":"la-name_live_dial_voice_card_04013-5-uniq-0083-00_04013-to-03005","text":"【Archived Night Pool Shiori】Shiori&Anya"}}
+{"id":"la-name_live_dial_voice_card_04013-5-uniq-0083-00_04013-to-03007","data":{"id":"la-name_live_dial_voice_card_04013-5-uniq-0083-00_04013-to-03007","text":"【Archived Night Pool Shiori】Shiori&Zeta"}}
+{"id":"la-name_live_dial_voice_card_04013-5-uniq-0083-00_04013-to-04001","data":{"id":"la-name_live_dial_voice_card_04013-5-uniq-0083-00_04013-to-04001","text":"【Archived Night Pool Shiori】Shiori&Calliope"}}
+{"id":"la-name_live_dial_voice_card_04013-5-uniq-0083-00_04013-to-04015","data":{"id":"la-name_live_dial_voice_card_04013-5-uniq-0083-00_04013-to-04015","text":"【Archived Night Pool Shiori】Shiori&Nerissa"}}
+{"id":"la-name_live_dial_voice_card_04013-5-uniq-0083-00_04015-to-04013","data":{"id":"la-name_live_dial_voice_card_04013-5-uniq-0083-00_04015-to-04013","text":"【Archived Night Pool Shiori】Nerissa&Shiori"}}
 {"id":"la-name_live_dial_voice_card_04014-5-uniq-0053-00_04014-to-04013","data":{"id":"la-name_live_dial_voice_card_04014-5-uniq-0053-00_04014-to-04013","text":"【Prism Crystal Realm Bijou】Bijou&Shiori"}}
 {"id":"la-name_live_dial_voice_card_04014-5-uniq-0053-00_04014-to-04015","data":{"id":"la-name_live_dial_voice_card_04014-5-uniq-0053-00_04014-to-04015","text":"【Prism Crystal Realm Bijou】Bijou&Nerissa"}}
 {"id":"la-name_live_dial_voice_card_04014-5-uniq-0053-00_04014-to-04016","data":{"id":"la-name_live_dial_voice_card_04014-5-uniq-0053-00_04014-to-04016","text":"【Prism Crystal Realm Bijou】Bijou&Fuwawa"}}

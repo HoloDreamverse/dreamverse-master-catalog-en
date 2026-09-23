@@ -1,11 +1,13 @@
 {"type":1500,"severity_type":1,"parameter_type":105002,"data":{"type":"ChasePerElapsedTime","severityType":"Yellow","parameterType":"ChasePerElapsedTimeProhibitedAreaStayDurationMilliseconds","threshold":3000}}
 {"type":1500,"severity_type":1,"parameter_type":105001,"data":{"type":"ChasePerElapsedTime","severityType":"Yellow","parameterType":"ChasePerElapsedTimeSpeedUpSkillDurationGraceMilliseconds","threshold":4000}}
-{"type":1501,"severity_type":2,"parameter_type":105003,"data":{"type":"ChaseResultScoreTampering","severityType":"Red","parameterType":"ChaseResultScoreTamperingMischiefTeamSelfScore","threshold":7000}}
-{"type":1501,"severity_type":2,"parameter_type":105004,"data":{"type":"ChaseResultScoreTampering","severityType":"Red","parameterType":"ChaseResultScoreTamperingPatrolTeamSelfScore","threshold":7000}}
-{"type":1501,"severity_type":1,"parameter_type":105003,"data":{"type":"ChaseResultScoreTampering","severityType":"Yellow","parameterType":"ChaseResultScoreTamperingMischiefTeamSelfScore","threshold":5000}}
-{"type":1501,"severity_type":1,"parameter_type":105004,"data":{"type":"ChaseResultScoreTampering","severityType":"Yellow","parameterType":"ChaseResultScoreTamperingPatrolTeamSelfScore","threshold":5000}}
 {"type":1000,"severity_type":2,"parameter_type":100000,"data":{"type":"SingleJumpRopeScoreTampering","severityType":"Red","parameterType":"SingleJumpRopeScoreTamperingElapsedTimeCoefficientPermilMultiply","threshold":3000}}
 {"type":1000,"severity_type":1,"parameter_type":100000,"data":{"type":"SingleJumpRopeScoreTampering","severityType":"Yellow","parameterType":"SingleJumpRopeScoreTamperingElapsedTimeCoefficientPermilMultiply","threshold":2000}}
+{"type":1500,"severity_type":2,"parameter_type":105000,"data":{"type":"ChasePerElapsedTime","severityType":"Red","parameterType":"ChasePerElapsedTimeAbnormalMoveSpeedDurationMilliseconds","threshold":7000}}
+{"type":1500,"severity_type":2,"parameter_type":105001,"data":{"type":"ChasePerElapsedTime","severityType":"Red","parameterType":"ChasePerElapsedTimeSpeedUpSkillDurationGraceMilliseconds","threshold":7000}}
+{"type":1501,"severity_type":2,"parameter_type":105003,"data":{"type":"ChaseResultScoreTampering","severityType":"Red","parameterType":"ChaseResultScoreTamperingMischiefTeamSelfScore","threshold":5500}}
+{"type":1501,"severity_type":2,"parameter_type":105004,"data":{"type":"ChaseResultScoreTampering","severityType":"Red","parameterType":"ChaseResultScoreTamperingPatrolTeamSelfScore","threshold":5500}}
+{"type":1501,"severity_type":1,"parameter_type":105003,"data":{"type":"ChaseResultScoreTampering","severityType":"Yellow","parameterType":"ChaseResultScoreTamperingMischiefTeamSelfScore","threshold":4500}}
+{"type":1501,"severity_type":1,"parameter_type":105004,"data":{"type":"ChaseResultScoreTampering","severityType":"Yellow","parameterType":"ChaseResultScoreTamperingPatrolTeamSelfScore","threshold":4500}}
 {"type":100,"severity_type":1,"parameter_type":1000,"data":{"type":"MultiLiveFinishBeforeMusicTimeLength","severityType":"Yellow","parameterType":"MultiLiveFinishBeforeMusicTimeLengthGraceSecond","threshold":10}}
 {"type":1,"severity_type":1,"parameter_type":1,"data":{"type":"SingleLiveFinishBeforeMusicTimeLength","severityType":"Yellow","parameterType":"SingleLiveFinishBeforeMusicTimeLengthGraceSecond","threshold":10}}
 {"type":2,"severity_type":2,"parameter_type":11,"data":{"type":"SingleLiveScoreTampering","severityType":"Red","parameterType":"SingleLiveScoreTamperingLiveDeckEvaluationValueCoefficientPermilMultiply","threshold":2500}}
@@ -54,7 +56,5 @@
 {"type":1300,"severity_type":1,"parameter_type":103000,"data":{"type":"CookingPuzzlePerRecipeCompletion","severityType":"Yellow","parameterType":"CookingPuzzlePerRecipeCompletionTimeMillisecond","threshold":3000}}
 {"type":1302,"severity_type":2,"parameter_type":103003,"data":{"type":1302,"severityType":"Red","parameterType":103003,"threshold":30000}}
 {"type":1302,"severity_type":1,"parameter_type":103003,"data":{"type":1302,"severityType":"Yellow","parameterType":103003,"threshold":25000}}
-{"type":1500,"severity_type":2,"parameter_type":105000,"data":{"type":"ChasePerElapsedTime","severityType":"Red","parameterType":"ChasePerElapsedTimeAbnormalMoveSpeedDurationMilliseconds","threshold":10000}}
 {"type":1500,"severity_type":2,"parameter_type":105002,"data":{"type":"ChasePerElapsedTime","severityType":"Red","parameterType":"ChasePerElapsedTimeProhibitedAreaStayDurationMilliseconds","threshold":180000}}
-{"type":1500,"severity_type":2,"parameter_type":105001,"data":{"type":"ChasePerElapsedTime","severityType":"Red","parameterType":"ChasePerElapsedTimeSpeedUpSkillDurationGraceMilliseconds","threshold":10000}}
 {"type":1500,"severity_type":1,"parameter_type":105000,"data":{"type":"ChasePerElapsedTime","severityType":"Yellow","parameterType":"ChasePerElapsedTimeAbnormalMoveSpeedDurationMilliseconds","threshold":4000}}
