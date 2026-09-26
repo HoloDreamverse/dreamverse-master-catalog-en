@@ -1,0 +1,394 @@
+{
+  "currentVersion": "845cee36af22",
+  "files": {
+    "added": [],
+    "changed": [
+      {
+        "added": [
+          {
+            "data": {
+              "id": "la-asset_embedding_text-facility-a02-blackjack",
+              "text": "MoonAce"
+            },
+            "id": "la-asset_embedding_text-facility-a02-blackjack"
+          }
+        ],
+        "path": "master/data/LangAssetEmbeddingText_Eng.jsonl",
+        "removed": [
+          {
+            "data": {
+              "id": "la-asset_embedding_text-facility-a02-blackjack",
+              "text": "Moon Ace"
+            },
+            "id": "la-asset_embedding_text-facility-a02-blackjack"
+          }
+        ]
+      },
+      {
+        "added": [
+          {
+            "data": {
+              "id": "la-text_cv-live_dial_chr-04017_00036-5-uniq-0078-00_04017-to-00036",
+              "text": "I love your swimsuit, Lui-nee-senpai! That's such a cute headband!"
+            },
+            "id": "la-text_cv-live_dial_chr-04017_00036-5-uniq-0078-00_04017-to-00036"
+          }
+        ],
+        "path": "master/data/LangCharacterVoice_Eng.jsonl",
+        "removed": [
+          {
+            "data": {
+              "id": "la-text_cv-live_dial_chr-04017_00036-5-uniq-0078-00_04017-to-00036",
+              "text": "I love your swimsuit, Lui-senpai! That's such a cute headband!"
+            },
+            "id": "la-text_cv-live_dial_chr-04017_00036-5-uniq-0078-00_04017-to-00036"
+          }
+        ]
+      },
+      {
+        "added": [
+          {
+            "client_id": 971880078893056,
+            "data": {
+              "clientId": 971880078893056,
+              "text": "Hot Picks set. Time to pull the Gacha!"
+            }
+          }
+        ],
+        "path": "master/data/LangClientCommon_Eng.jsonl",
+        "removed": [
+          {
+            "client_id": 971880078893056,
+            "data": {
+              "clientId": 971880078893056,
+              "text": "Hot Picks sets. Time to draw Gacha."
+            }
+          }
+        ]
+      },
+      {
+        "added": [
+          {
+            "data": {
+              "id": "la-mission-achievement-common-increment_chase_patrol_team_restraint_count-description",
+              "text": "Caught {0} times."
+            },
+            "id": "la-mission-achievement-common-increment_chase_patrol_team_restraint_count-description"
+          }
+        ],
+        "path": "master/data/LangMission_Eng.jsonl",
+        "removed": [
+          {
+            "data": {
+              "id": "la-mission-achievement-common-increment_chase_patrol_team_restraint_count-description",
+              "text": "caught {0} times."
+            },
+            "id": "la-mission-achievement-common-increment_chase_patrol_team_restraint_count-description"
+          }
+        ]
+      },
+      {
+        "added": [
+          {
+            "data": {
+              "id": "la-music_mv-m0525-mv-01-description"
+            },
+            "id": "la-music_mv-m0525-mv-01-description"
+          }
+        ],
+        "path": "master/data/LangMusicMv_Eng.jsonl",
+        "removed": []
+      },
+      {
+        "added": [
+          {
+            "data": {
+              "id": "la-music_arranger-m0525",
+              "text": "PandaBoY"
+            },
+            "id": "la-music_arranger-m0525"
+          },
+          {
+            "data": {
+              "id": "la-music_arranger_ruby-m0525",
+              "text": "PandaBoY"
+            },
+            "id": "la-music_arranger_ruby-m0525"
+          },
+          {
+            "data": {
+              "id": "la-music_composer-m0525",
+              "text": "PandaBoY"
+            },
+            "id": "la-music_composer-m0525"
+          },
+          {
+            "data": {
+              "id": "la-music_composer_ruby-m0525",
+              "text": "PandaBoY"
+            },
+            "id": "la-music_composer_ruby-m0525"
+          },
+          {
+            "data": {
+              "id": "la-music_lyricist-m0525",
+              "text": "PandaBoY"
+            },
+            "id": "la-music_lyricist-m0525"
+          },
+          {
+            "data": {
+              "id": "la-music_lyricist_ruby-m0525",
+              "text": "PandaBoY"
+            },
+            "id": "la-music_lyricist_ruby-m0525"
+          },
+          {
+            "data": {
+              "id": "la-music_title-m0525",
+              "text": "Watcha Gatcha!!!!!!!!"
+            },
+            "id": "la-music_title-m0525"
+          },
+          {
+            "data": {
+              "id": "la-music_title_ruby-m0525",
+              "text": "WatchaGatcha!!!!!!!!"
+            },
+            "id": "la-music_title_ruby-m0525"
+          },
+          {
+            "data": {
+              "id": "la-singer_name-m0525",
+              "text": "hololive 5th Generation, Secret Society holoX"
+            },
+            "id": "la-singer_name-m0525"
+          },
+          {
+            "data": {
+              "id": "la-singer_name_ruby-m0525",
+              "text": "hololive5thGenerationSecretSocietyholoX"
+            },
+            "id": "la-singer_name_ruby-m0525"
+          }
+        ],
+        "path": "master/data/LangMusic_Eng.jsonl",
+        "removed": []
+      },
+      {
+        "added": [
+          {
+            "data": {
+              "id": "la-quest-main-w1-01-24-1-2",
+              "text": "Let's rile up the guests with the performance at the Live Stage!"
+            },
+            "id": "la-quest-main-w1-01-24-1-2"
+          }
+        ],
+        "path": "master/data/LangParkQuestStep_Eng.jsonl",
+        "removed": [
+          {
+            "data": {
+              "id": "la-quest-main-w1-01-24-1-2",
+              "text": "Let's rail up the guests with the performance at the Live Stage!"
+            },
+            "id": "la-quest-main-w1-01-24-1-2"
+          }
+        ]
+      },
+      {
+        "added": [
+          {
+            "data": {
+              "arrangerLangId": "la-music_arranger-m0525",
+              "arrangerRubyLangId": "la-music_arranger_ruby-m0525",
+              "assetId": "m0525",
+              "categoryType": "Original",
+              "characterGroupDisplayNameLangId": "la-singer_name-m0525",
+              "characterGroupDisplayNameRubyLangId": "la-singer_name_ruby-m0525",
+              "characterIds": [
+                "chr-00030",
+                "chr-00031",
+                "chr-00032",
+                "chr-00034",
+                "chr-00035",
+                "chr-00036",
+                "chr-00037",
+                "chr-00039"
+              ],
+              "chorusEndMillisecond": 98285,
+              "chorusStartMillisecond": 68571,
+              "composerLangId": "la-music_composer-m0525",
+              "composerRubyLangId": "la-music_composer_ruby-m0525",
+              "id": "m0525",
+              "isHighestScoreRatingTarget": true,
+              "jacketAssetId": "m0525",
+              "liveComboGroupId": "live_combo-1",
+              "liveScoreCoefficientPermil": 5,
+              "lyricistLangId": "la-music_lyricist-m0525",
+              "lyricistRubyLangId": "la-music_lyricist_ruby-m0525",
+              "multiLiveScoreEvaluationRankGroupId": "live_score_rank-m001",
+              "musicSingerType": "Group",
+              "mvThumbnailAssetId": "m0525-mv-01",
+              "mvUrl": "https://youtu.be/iSQYbf9XFg8",
+              "order": 40000525,
+              "playingSeconds": 122,
+              "releaseType": "Preset",
+              "singleLiveScoreEvaluationRankGroupId": "live_score_rank-s001",
+              "startTime": 1790424000000,
+              "titleLangId": "la-music_title-m0525",
+              "titleRubyLangId": "la-music_title_ruby-m0525"
+            },
+            "id": "m0525"
+          }
+        ],
+        "path": "master/data/Music.jsonl",
+        "removed": []
+      },
+      {
+        "added": [
+          {
+            "data": {
+              "chartAssetId": "chart_m0525_easy",
+              "difficultyLevel": 6,
+              "difficultyType": "Easy",
+              "musicId": "m0525"
+            },
+            "difficulty_type": 1,
+            "music_id": "m0525"
+          },
+          {
+            "data": {
+              "chartAssetId": "chart_m0525_expert",
+              "difficultyLevel": 27,
+              "difficultyType": "Expert",
+              "musicId": "m0525"
+            },
+            "difficulty_type": 4,
+            "music_id": "m0525"
+          },
+          {
+            "data": {
+              "chartAssetId": "chart_m0525_hard",
+              "difficultyLevel": 22,
+              "difficultyType": "Hard",
+              "musicId": "m0525"
+            },
+            "difficulty_type": 3,
+            "music_id": "m0525"
+          },
+          {
+            "data": {
+              "chartAssetId": "chart_m0525_normal",
+              "difficultyLevel": 13,
+              "difficultyType": "Normal",
+              "musicId": "m0525"
+            },
+            "difficulty_type": 2,
+            "music_id": "m0525"
+          }
+        ],
+        "path": "master/data/MusicDifficulty.jsonl",
+        "removed": []
+      },
+      {
+        "added": [
+          {
+            "data": {
+              "chartHash": "17aa683df422800347a952dd579ba557",
+              "difficultyType": "Normal",
+              "fullComboNoteCount": 432,
+              "maxComboCountRewardThreshold": 350,
+              "musicId": "m0525",
+              "normalNoteCount": 200
+            },
+            "difficulty_type": 2,
+            "music_id": "m0525"
+          },
+          {
+            "data": {
+              "chartHash": "773b12269be49f29b209fe541ac06744",
+              "difficultyType": "Hard",
+              "fullComboNoteCount": 812,
+              "maxComboCountRewardThreshold": 650,
+              "musicId": "m0525",
+              "normalNoteCount": 337
+            },
+            "difficulty_type": 3,
+            "music_id": "m0525"
+          },
+          {
+            "data": {
+              "chartHash": "8ad3680f19803518e6a9d50a6bc27d6a",
+              "difficultyType": "Expert",
+              "fullComboNoteCount": 1144,
+              "maxComboCountRewardThreshold": 900,
+              "musicId": "m0525",
+              "normalNoteCount": 352
+            },
+            "difficulty_type": 4,
+            "music_id": "m0525"
+          },
+          {
+            "data": {
+              "chartHash": "d57f91ec1c09e69aaf2018f794924b9f",
+              "difficultyType": "Easy",
+              "fullComboNoteCount": 280,
+              "maxComboCountRewardThreshold": 200,
+              "musicId": "m0525",
+              "normalNoteCount": 82
+            },
+            "difficulty_type": 1,
+            "music_id": "m0525"
+          }
+        ],
+        "path": "master/data/MusicDifficultyChart.jsonl",
+        "removed": []
+      },
+      {
+        "added": [
+          {
+            "data": {
+              "descriptionLangId": "la-music_mv-m0525-mv-01-description",
+              "musicId": "m0525",
+              "musicMvCategoryId": "music_mv_category-mv",
+              "mvAssetId": "m0525-mv-01",
+              "nameLangId": "la-music_mv_category-mv",
+              "number": 1,
+              "order": 1,
+              "thumbnailAssetId": "m0525-mv-01"
+            },
+            "music_id": "m0525",
+            "number": 1
+          },
+          {
+            "data": {
+              "descriptionLangId": "la-music_mv-m0525-mv-01-description",
+              "musicId": "m0525",
+              "musicMvCategoryId": "music_mv_category-mv_light",
+              "nameLangId": "la-music_mv_category-mv_light",
+              "number": 2,
+              "order": 2,
+              "slideMvAssetCount": 20,
+              "slideMvAssetId": "m0525-mv-01",
+              "thumbnailAssetId": "m0525-mv-01"
+            },
+            "music_id": "m0525",
+            "number": 2
+          }
+        ],
+        "path": "master/data/MusicMv.jsonl",
+        "removed": []
+      },
+      {
+        "path": "master/export-manifest.json"
+      },
+      {
+        "path": "master/manifest.redacted.json"
+      }
+    ],
+    "removed": []
+  },
+  "previousVersion": "927a8489062c",
+  "schemaVersion": 2
+}

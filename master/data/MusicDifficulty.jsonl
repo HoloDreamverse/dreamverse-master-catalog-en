@@ -711,6 +711,10 @@
 {"music_id":"m0352","difficulty_type":4,"data":{"musicId":"m0352","difficultyType":"Expert","difficultyLevel":26,"chartAssetId":"chart_m0352_expert"}}
 {"music_id":"m0352","difficulty_type":3,"data":{"musicId":"m0352","difficultyType":"Hard","difficultyLevel":19,"chartAssetId":"chart_m0352_hard"}}
 {"music_id":"m0352","difficulty_type":2,"data":{"musicId":"m0352","difficultyType":"Normal","difficultyLevel":11,"chartAssetId":"chart_m0352_normal"}}
+{"music_id":"m0525","difficulty_type":1,"data":{"musicId":"m0525","difficultyType":"Easy","difficultyLevel":6,"chartAssetId":"chart_m0525_easy"}}
+{"music_id":"m0525","difficulty_type":4,"data":{"musicId":"m0525","difficultyType":"Expert","difficultyLevel":27,"chartAssetId":"chart_m0525_expert"}}
+{"music_id":"m0525","difficulty_type":3,"data":{"musicId":"m0525","difficultyType":"Hard","difficultyLevel":22,"chartAssetId":"chart_m0525_hard"}}
+{"music_id":"m0525","difficulty_type":2,"data":{"musicId":"m0525","difficultyType":"Normal","difficultyLevel":13,"chartAssetId":"chart_m0525_normal"}}
 {"music_id":"m0095","difficulty_type":2,"data":{"musicId":"m0095","difficultyType":"Normal","difficultyLevel":9,"chartAssetId":"chart_m0095_normal"}}
 {"music_id":"m0002","difficulty_type":1,"data":{"musicId":"m0002","difficultyType":"Easy","difficultyLevel":2,"chartAssetId":"chart_m0002_easy"}}
 {"music_id":"m0002","difficulty_type":2,"data":{"musicId":"m0002","difficultyType":"Normal","difficultyLevel":10,"chartAssetId":"chart_m0002_normal"}}

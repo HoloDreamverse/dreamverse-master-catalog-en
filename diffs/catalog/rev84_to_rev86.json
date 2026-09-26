@@ -1,0 +1,431 @@
+{
+  "currentVersion": "rev86",
+  "files": {
+    "added": [
+      {
+        "asset_bundles": {
+          "added": [
+            {
+              "addresses": [
+                "img_banner_full_music-release-260927"
+              ],
+              "crc": 1819122338,
+              "dependencies": [],
+              "id": 40872,
+              "md5": "99edce93870bba691c8e0051c3de8240",
+              "name": "img_banner_full_music-release-260927",
+              "object_name": "FCUuMv",
+              "size": 732565
+            },
+            {
+              "addresses": [
+                "img_banner_full_music-release-260927_lang-chs"
+              ],
+              "crc": 1629078969,
+              "dependencies": [],
+              "id": 40873,
+              "md5": "e884099ce31219d07c7c69319be884d5",
+              "name": "img_banner_full_music-release-260927_lang-chs",
+              "object_name": "k72Adz",
+              "size": 731315
+            },
+            {
+              "addresses": [
+                "img_banner_full_music-release-260927_lang-cht"
+              ],
+              "crc": 1273492462,
+              "dependencies": [],
+              "id": 40874,
+              "md5": "a44d346155de9ca6bb312c6e94b7bf27",
+              "name": "img_banner_full_music-release-260927_lang-cht",
+              "object_name": "15p7Um",
+              "size": 741807
+            },
+            {
+              "addresses": [
+                "img_banner_full_music-release-260927_lang-eng"
+              ],
+              "crc": 3592961088,
+              "dependencies": [],
+              "id": 40875,
+              "md5": "43fbf050317f3ebb2ae54eea2b80405a",
+              "name": "img_banner_full_music-release-260927_lang-eng",
+              "object_name": "N19dEi",
+              "size": 746885
+            },
+            {
+              "addresses": [
+                "img_banner_full_music-release-260927_lang-ind"
+              ],
+              "crc": 1250379780,
+              "dependencies": [],
+              "id": 40876,
+              "md5": "8606e8bd599d3e9b6045d4ec33a4677b",
+              "name": "img_banner_full_music-release-260927_lang-ind",
+              "object_name": "MSWqcF",
+              "size": 743001
+            },
+            {
+              "addresses": [
+                "img_banner_full_music-release-260927_lang-kor"
+              ],
+              "crc": 1524308899,
+              "dependencies": [],
+              "id": 40877,
+              "md5": "8589289dad711a633c72718644926061",
+              "name": "img_banner_full_music-release-260927_lang-kor",
+              "object_name": "jTXv58",
+              "size": 736368
+            },
+            {
+              "addresses": [
+                "img_music_jacket_m0525"
+              ],
+              "crc": 4151535566,
+              "dependencies": [],
+              "id": 40878,
+              "md5": "d7a3efc989a921e6e82898c7092bfaee",
+              "name": "img_music_jacket_m0525",
+              "object_name": "Kq7mvt",
+              "size": 1185820
+            },
+            {
+              "addresses": [
+                "img_mv_slide_m0525-mv-01_001"
+              ],
+              "crc": 4287802768,
+              "dependencies": [],
+              "id": 40879,
+              "md5": "f091990eb4fc032cceef4676d7e43e61",
+              "name": "img_mv_slide_m0525-mv-01_001",
+              "object_name": "8E1vNr",
+              "size": 735245
+            },
+            {
+              "addresses": [
+                "img_mv_slide_m0525-mv-01_002"
+              ],
+              "crc": 445787757,
+              "dependencies": [],
+              "id": 40880,
+              "md5": "1de6063252cfc60e7e23b4e53ec7acd6",
+              "name": "img_mv_slide_m0525-mv-01_002",
+              "object_name": "4cKTpB",
+              "size": 769188
+            },
+            {
+              "addresses": [
+                "img_mv_slide_m0525-mv-01_003"
+              ],
+              "crc": 3759914122,
+              "dependencies": [],
+              "id": 40881,
+              "md5": "213a8b39e62b01fe22fe3ee5f3443a8a",
+              "name": "img_mv_slide_m0525-mv-01_003",
+              "object_name": "vV4F95",
+              "size": 341041
+            },
+            {
+              "addresses": [
+                "img_mv_slide_m0525-mv-01_004"
+              ],
+              "crc": 2282965201,
+              "dependencies": [],
+              "id": 40882,
+              "md5": "d0a0b66f72f722f8ded6479a91ff9411",
+              "name": "img_mv_slide_m0525-mv-01_004",
+              "object_name": "y0JXxx",
+              "size": 429017
+            },
+            {
+              "addresses": [
+                "img_mv_slide_m0525-mv-01_005"
+              ],
+              "crc": 4257459594,
+              "dependencies": [],
+              "id": 40883,
+              "md5": "85dbf6556d47d24b91e6fdbd03d4f5cf",
+              "name": "img_mv_slide_m0525-mv-01_005",
+              "object_name": "ruxHh6",
+              "size": 868414
+            },
+            {
+              "addresses": [
+                "img_mv_slide_m0525-mv-01_006"
+              ],
+              "crc": 704743116,
+              "dependencies": [],
+              "id": 40884,
+              "md5": "0d791567a74254b0c02418adbdb8e4a4",
+              "name": "img_mv_slide_m0525-mv-01_006",
+              "object_name": "5ZjOTR",
+              "size": 585707
+            },
+            {
+              "addresses": [
+                "img_mv_slide_m0525-mv-01_007"
+              ],
+              "crc": 2483934881,
+              "dependencies": [],
+              "id": 40885,
+              "md5": "c585b22fd3e6576f644826c40dfb64e4",
+              "name": "img_mv_slide_m0525-mv-01_007",
+              "object_name": "ktbiaJ",
+              "size": 712721
+            },
+            {
+              "addresses": [
+                "img_mv_slide_m0525-mv-01_008"
+              ],
+              "crc": 654198360,
+              "dependencies": [],
+              "id": 40886,
+              "md5": "8aeb73ea7e900bb97deb055b5590bc3f",
+              "name": "img_mv_slide_m0525-mv-01_008",
+              "object_name": "D7is3R",
+              "size": 506397
+            },
+            {
+              "addresses": [
+                "img_mv_slide_m0525-mv-01_009"
+              ],
+              "crc": 401342530,
+              "dependencies": [],
+              "id": 40887,
+              "md5": "22de129c7b6bbd10ed5d737a3a866630",
+              "name": "img_mv_slide_m0525-mv-01_009",
+              "object_name": "wR5bP1",
+              "size": 419405
+            },
+            {
+              "addresses": [
+                "img_mv_slide_m0525-mv-01_010"
+              ],
+              "crc": 2921125337,
+              "dependencies": [],
+              "id": 40888,
+              "md5": "94effe3b5d5d6d9d0053c05c299804a3",
+              "name": "img_mv_slide_m0525-mv-01_010",
+              "object_name": "VqX9pz",
+              "size": 914678
+            },
+            {
+              "addresses": [
+                "img_mv_slide_m0525-mv-01_011"
+              ],
+              "crc": 2074550735,
+              "dependencies": [],
+              "id": 40889,
+              "md5": "8a860899ab2f334f8a3efe18333ecb2f",
+              "name": "img_mv_slide_m0525-mv-01_011",
+              "object_name": "BwGBj2",
+              "size": 855492
+            },
+            {
+              "addresses": [
+                "img_mv_slide_m0525-mv-01_012"
+              ],
+              "crc": 2481403425,
+              "dependencies": [],
+              "id": 40890,
+              "md5": "c024613e672c93c1552103bcd19ba17e",
+              "name": "img_mv_slide_m0525-mv-01_012",
+              "object_name": "oBByYk",
+              "size": 918139
+            },
+            {
+              "addresses": [
+                "img_mv_slide_m0525-mv-01_013"
+              ],
+              "crc": 1291161840,
+              "dependencies": [],
+              "id": 40891,
+              "md5": "e9ac5691a1d840b92dbcb2aba8436d04",
+              "name": "img_mv_slide_m0525-mv-01_013",
+              "object_name": "VvmLqs",
+              "size": 985921
+            },
+            {
+              "addresses": [
+                "img_mv_slide_m0525-mv-01_014"
+              ],
+              "crc": 3543048894,
+              "dependencies": [],
+              "id": 40892,
+              "md5": "e3f51228995718373d1093589a4db67f",
+              "name": "img_mv_slide_m0525-mv-01_014",
+              "object_name": "NPh3oe",
+              "size": 730691
+            },
+            {
+              "addresses": [
+                "img_mv_slide_m0525-mv-01_015"
+              ],
+              "crc": 236220776,
+              "dependencies": [],
+              "id": 40893,
+              "md5": "5da2f5960ccd53d9e706c86c9cb67dc1",
+              "name": "img_mv_slide_m0525-mv-01_015",
+              "object_name": "Ze6xv3",
+              "size": 958734
+            },
+            {
+              "addresses": [
+                "img_mv_slide_m0525-mv-01_016"
+              ],
+              "crc": 685697765,
+              "dependencies": [],
+              "id": 40894,
+              "md5": "3a644b392cf4e50b4906e8459305feb1",
+              "name": "img_mv_slide_m0525-mv-01_016",
+              "object_name": "fzEdBo",
+              "size": 435858
+            },
+            {
+              "addresses": [
+                "img_mv_slide_m0525-mv-01_017"
+              ],
+              "crc": 2269430065,
+              "dependencies": [],
+              "id": 40895,
+              "md5": "ddc8335157b627b4372fc34e4504ca7a",
+              "name": "img_mv_slide_m0525-mv-01_017",
+              "object_name": "jNHJmV",
+              "size": 1141213
+            },
+            {
+              "addresses": [
+                "img_mv_slide_m0525-mv-01_018"
+              ],
+              "crc": 818682093,
+              "dependencies": [],
+              "id": 40896,
+              "md5": "2a13303a8e8fbe1259298554332ccd44",
+              "name": "img_mv_slide_m0525-mv-01_018",
+              "object_name": "qTicyh",
+              "size": 1124106
+            },
+            {
+              "addresses": [
+                "img_mv_slide_m0525-mv-01_019"
+              ],
+              "crc": 1272313135,
+              "dependencies": [],
+              "id": 40897,
+              "md5": "1e6ce8e54dd7c4286a0d1529499e5e0c",
+              "name": "img_mv_slide_m0525-mv-01_019",
+              "object_name": "Ez2vsm",
+              "size": 978719
+            },
+            {
+              "addresses": [
+                "img_mv_slide_m0525-mv-01_020"
+              ],
+              "crc": 3151146889,
+              "dependencies": [],
+              "id": 40898,
+              "md5": "dd7192c9c35cfa518b66c4552c107f69",
+              "name": "img_mv_slide_m0525-mv-01_020",
+              "object_name": "nTsQLq",
+              "size": 647378
+            },
+            {
+              "addresses": [
+                "img_mv_thumb_m0525-mv-01"
+              ],
+              "crc": 4129911506,
+              "dependencies": [],
+              "id": 40899,
+              "md5": "809e7e259fffa7f49ed33e544f84195e",
+              "name": "img_mv_thumb_m0525-mv-01",
+              "object_name": "tf2xjz",
+              "size": 240674
+            }
+          ],
+          "removed": []
+        },
+        "path": "catalog/catalog_en_rev86.redacted.json",
+        "previousPath": "catalog/catalog_en_rev84.redacted.json",
+        "resources": {
+          "added": [
+            {
+              "addresses": [],
+              "crc": null,
+              "dependencies": [],
+              "id": 40865,
+              "md5": "d57f91ec1c09e69aaf2018f794924b9f",
+              "name": "chart_m0525_easy.sus",
+              "object_name": "dVEn5B",
+              "size": 2795
+            },
+            {
+              "addresses": [],
+              "crc": null,
+              "dependencies": [],
+              "id": 40866,
+              "md5": "8ad3680f19803518e6a9d50a6bc27d6a",
+              "name": "chart_m0525_expert.sus",
+              "object_name": "qho6DP",
+              "size": 32629
+            },
+            {
+              "addresses": [],
+              "crc": null,
+              "dependencies": [],
+              "id": 40867,
+              "md5": "773b12269be49f29b209fe541ac06744",
+              "name": "chart_m0525_hard.sus",
+              "object_name": "UJ0UbU",
+              "size": 18193
+            },
+            {
+              "addresses": [],
+              "crc": null,
+              "dependencies": [],
+              "id": 40868,
+              "md5": "17aa683df422800347a952dd579ba557",
+              "name": "chart_m0525_normal.sus",
+              "object_name": "OiOPTh",
+              "size": 5573
+            },
+            {
+              "addresses": [],
+              "crc": null,
+              "dependencies": [],
+              "id": 40869,
+              "md5": "d0dba09d56fc0a64691079e738a28acb",
+              "name": "mov_music_mv_m0525-mv-01.usm",
+              "object_name": "Oa1jZ0",
+              "size": 45590121
+            },
+            {
+              "addresses": [],
+              "crc": null,
+              "dependencies": [],
+              "id": 40870,
+              "md5": "4a20b1d75ec7a10eec211b9c3141cecb",
+              "name": "mov_music_thumb_m0525-mv-01.usm",
+              "object_name": "d7a8Kz",
+              "size": 499113
+            },
+            {
+              "addresses": [],
+              "crc": null,
+              "dependencies": [],
+              "id": 40871,
+              "md5": "c663ed344cc25b89796193dc630749a1",
+              "name": "music_short_m0525.acb",
+              "object_name": "bsJrWO",
+              "size": 3933321
+            }
+          ],
+          "removed": []
+        }
+      }
+    ],
+    "changed": [],
+    "removed": []
+  },
+  "previousVersion": "rev84",
+  "schemaVersion": 2
+}
