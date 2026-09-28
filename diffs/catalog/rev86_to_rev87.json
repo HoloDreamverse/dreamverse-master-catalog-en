@@ -1,0 +1,453 @@
+{
+  "currentVersion": "rev87",
+  "files": {
+    "added": [
+      {
+        "asset_bundles": {
+          "added": [
+            {
+              "addresses": [
+                "img_banner_full_area-a03"
+              ],
+              "crc": 3224562848,
+              "dependencies": [],
+              "id": 40845,
+              "md5": "4725951fda4847d88b5e04e96ab008a2",
+              "name": "img_banner_full_area-a03",
+              "object_name": "cJMmNw",
+              "size": 1035813
+            },
+            {
+              "addresses": [
+                "img_banner_full_area-a03_lang-chs"
+              ],
+              "crc": 1141804635,
+              "dependencies": [],
+              "id": 40846,
+              "md5": "dca9a84c1fbf1c4f072190fe8a712b7d",
+              "name": "img_banner_full_area-a03_lang-chs",
+              "object_name": "BbqrA3",
+              "size": 1046042
+            },
+            {
+              "addresses": [
+                "img_banner_full_area-a03_lang-cht"
+              ],
+              "crc": 762164824,
+              "dependencies": [],
+              "id": 40847,
+              "md5": "4a7977b5c425e7e36b283e4b7573c044",
+              "name": "img_banner_full_area-a03_lang-cht",
+              "object_name": "qpARav",
+              "size": 1049157
+            },
+            {
+              "addresses": [
+                "img_banner_full_area-a03_lang-eng"
+              ],
+              "crc": 3420387181,
+              "dependencies": [],
+              "id": 40848,
+              "md5": "39188cc040bf49793c454395c2192c51",
+              "name": "img_banner_full_area-a03_lang-eng",
+              "object_name": "qyvd4s",
+              "size": 1040161
+            },
+            {
+              "addresses": [
+                "img_banner_full_area-a03_lang-ind"
+              ],
+              "crc": 3124600306,
+              "dependencies": [],
+              "id": 40849,
+              "md5": "03270ead8973b4649eb901fd322a8641",
+              "name": "img_banner_full_area-a03_lang-ind",
+              "object_name": "6iwtuQ",
+              "size": 1043151
+            },
+            {
+              "addresses": [
+                "img_banner_full_area-a03_lang-kor"
+              ],
+              "crc": 2892820102,
+              "dependencies": [],
+              "id": 40850,
+              "md5": "a320cb3c2b36bf5bdc25ec21a0e16101",
+              "name": "img_banner_full_area-a03_lang-kor",
+              "object_name": "hLGD2G",
+              "size": 1033654
+            },
+            {
+              "addresses": [
+                "img_banner_full_gacha-pickup-260929"
+              ],
+              "crc": 736393320,
+              "dependencies": [],
+              "id": 40851,
+              "md5": "f5cb4a776b8214a4ab8ce7b9279d1521",
+              "name": "img_banner_full_gacha-pickup-260929",
+              "object_name": "taDguF",
+              "size": 1130247
+            },
+            {
+              "addresses": [
+                "img_banner_full_gacha-pickup-260929_lang-chs"
+              ],
+              "crc": 3184931945,
+              "dependencies": [],
+              "id": 40852,
+              "md5": "de4d03c2cfa6aa960ce8f207297022ca",
+              "name": "img_banner_full_gacha-pickup-260929_lang-chs",
+              "object_name": "5OKfTj",
+              "size": 1126482
+            },
+            {
+              "addresses": [
+                "img_banner_full_gacha-pickup-260929_lang-cht"
+              ],
+              "crc": 3931846629,
+              "dependencies": [],
+              "id": 40853,
+              "md5": "764a65c427de8ad9fef519e53e5df2ca",
+              "name": "img_banner_full_gacha-pickup-260929_lang-cht",
+              "object_name": "a2HGa3",
+              "size": 1126055
+            },
+            {
+              "addresses": [
+                "img_banner_full_gacha-pickup-260929_lang-eng"
+              ],
+              "crc": 100273568,
+              "dependencies": [],
+              "id": 40854,
+              "md5": "2e5d8fb8cff0d6a7a93310fb878f1a7f",
+              "name": "img_banner_full_gacha-pickup-260929_lang-eng",
+              "object_name": "01jwPV",
+              "size": 1126702
+            },
+            {
+              "addresses": [
+                "img_banner_full_gacha-pickup-260929_lang-ind"
+              ],
+              "crc": 715645128,
+              "dependencies": [],
+              "id": 40855,
+              "md5": "78fd662792d29d863dc3035e1c94ad3b",
+              "name": "img_banner_full_gacha-pickup-260929_lang-ind",
+              "object_name": "DRh6AB",
+              "size": 1105179
+            },
+            {
+              "addresses": [
+                "img_banner_full_gacha-pickup-260929_lang-kor"
+              ],
+              "crc": 2712263747,
+              "dependencies": [],
+              "id": 40856,
+              "md5": "b174192d6259afa3360bfeb65526f0d1",
+              "name": "img_banner_full_gacha-pickup-260929_lang-kor",
+              "object_name": "cxrpCj",
+              "size": 1121496
+            },
+            {
+              "addresses": [
+                "img_banner_full_marathon_event-normal-005"
+              ],
+              "crc": 3511854223,
+              "dependencies": [],
+              "id": 40857,
+              "md5": "bbe43ee23dcad4d187569043b600bf03",
+              "name": "img_banner_full_marathon_event-normal-005",
+              "object_name": "o97WBQ",
+              "size": 1200479
+            },
+            {
+              "addresses": [
+                "img_banner_full_marathon_event-normal-005_lang-chs"
+              ],
+              "crc": 2045382368,
+              "dependencies": [],
+              "id": 40858,
+              "md5": "cbbfc0f534e35fc4769adc935b261c24",
+              "name": "img_banner_full_marathon_event-normal-005_lang-chs",
+              "object_name": "sdhSdt",
+              "size": 1197367
+            },
+            {
+              "addresses": [
+                "img_banner_full_marathon_event-normal-005_lang-cht"
+              ],
+              "crc": 116391453,
+              "dependencies": [],
+              "id": 40859,
+              "md5": "9c8480ccacc83f3deb76825088ac5f19",
+              "name": "img_banner_full_marathon_event-normal-005_lang-cht",
+              "object_name": "N3Nt6y",
+              "size": 1197620
+            },
+            {
+              "addresses": [
+                "img_banner_full_marathon_event-normal-005_lang-eng"
+              ],
+              "crc": 846445902,
+              "dependencies": [],
+              "id": 40860,
+              "md5": "625768823c8d3b52fc179972a0b40e85",
+              "name": "img_banner_full_marathon_event-normal-005_lang-eng",
+              "object_name": "ZBVW2K",
+              "size": 1193599
+            },
+            {
+              "addresses": [
+                "img_banner_full_marathon_event-normal-005_lang-ind"
+              ],
+              "crc": 3338754598,
+              "dependencies": [],
+              "id": 40861,
+              "md5": "457f1cd6b4347515bd860d4cbb1b485b",
+              "name": "img_banner_full_marathon_event-normal-005_lang-ind",
+              "object_name": "q2s2TS",
+              "size": 1198019
+            },
+            {
+              "addresses": [
+                "img_banner_full_marathon_event-normal-005_lang-kor"
+              ],
+              "crc": 3729453280,
+              "dependencies": [],
+              "id": 40862,
+              "md5": "06288d320e740a4edc51384734fd7887",
+              "name": "img_banner_full_marathon_event-normal-005_lang-kor",
+              "object_name": "kC59VO",
+              "size": 1198930
+            }
+          ],
+          "removed": [
+            {
+              "addresses": [
+                "img_banner_full_area-a03"
+              ],
+              "crc": 525229287,
+              "dependencies": [],
+              "id": 40845,
+              "md5": "dbd777af94609958a63293684db86cd1",
+              "name": "img_banner_full_area-a03",
+              "object_name": "VowKyh",
+              "size": 271782
+            },
+            {
+              "addresses": [
+                "img_banner_full_area-a03_lang-chs"
+              ],
+              "crc": 2830484837,
+              "dependencies": [],
+              "id": 40846,
+              "md5": "73056142f0802f462a4f0fb1696d1428",
+              "name": "img_banner_full_area-a03_lang-chs",
+              "object_name": "xi42U0",
+              "size": 271811
+            },
+            {
+              "addresses": [
+                "img_banner_full_area-a03_lang-cht"
+              ],
+              "crc": 632204798,
+              "dependencies": [],
+              "id": 40847,
+              "md5": "0b448eeffb0422ddcd9d19b4fc625778",
+              "name": "img_banner_full_area-a03_lang-cht",
+              "object_name": "wkdCLQ",
+              "size": 271815
+            },
+            {
+              "addresses": [
+                "img_banner_full_area-a03_lang-eng"
+              ],
+              "crc": 2602126107,
+              "dependencies": [],
+              "id": 40848,
+              "md5": "f646afe81066ad7e0ece2443012f80fa",
+              "name": "img_banner_full_area-a03_lang-eng",
+              "object_name": "8QFKeg",
+              "size": 271810
+            },
+            {
+              "addresses": [
+                "img_banner_full_area-a03_lang-ind"
+              ],
+              "crc": 4228474365,
+              "dependencies": [],
+              "id": 40849,
+              "md5": "c5e4804b80865265b8abab8ec971621c",
+              "name": "img_banner_full_area-a03_lang-ind",
+              "object_name": "pw9oxN",
+              "size": 271810
+            },
+            {
+              "addresses": [
+                "img_banner_full_area-a03_lang-kor"
+              ],
+              "crc": 2208297958,
+              "dependencies": [],
+              "id": 40850,
+              "md5": "380e704b530e5a97f61dd0c3b90b7ce4",
+              "name": "img_banner_full_area-a03_lang-kor",
+              "object_name": "XhbKKh",
+              "size": 271814
+            },
+            {
+              "addresses": [
+                "img_banner_full_gacha-pickup-260929"
+              ],
+              "crc": 3379343865,
+              "dependencies": [],
+              "id": 40851,
+              "md5": "2ef7429b59d0ad1c606548a848e4207e",
+              "name": "img_banner_full_gacha-pickup-260929",
+              "object_name": "FLAAR3",
+              "size": 271817
+            },
+            {
+              "addresses": [
+                "img_banner_full_gacha-pickup-260929_lang-chs"
+              ],
+              "crc": 668438817,
+              "dependencies": [],
+              "id": 40852,
+              "md5": "1977d8ea1690d25e06a7039cb881c1c4",
+              "name": "img_banner_full_gacha-pickup-260929_lang-chs",
+              "object_name": "qRoHm4",
+              "size": 271816
+            },
+            {
+              "addresses": [
+                "img_banner_full_gacha-pickup-260929_lang-cht"
+              ],
+              "crc": 2930116387,
+              "dependencies": [],
+              "id": 40853,
+              "md5": "0a08117a4dbac596b4dd17e9ca9a3828",
+              "name": "img_banner_full_gacha-pickup-260929_lang-cht",
+              "object_name": "fCxtHJ",
+              "size": 271816
+            },
+            {
+              "addresses": [
+                "img_banner_full_gacha-pickup-260929_lang-eng"
+              ],
+              "crc": 3084145154,
+              "dependencies": [],
+              "id": 40854,
+              "md5": "4331f2a304a6d2d4000b8abd3de74f02",
+              "name": "img_banner_full_gacha-pickup-260929_lang-eng",
+              "object_name": "wZM9dv",
+              "size": 271816
+            },
+            {
+              "addresses": [
+                "img_banner_full_gacha-pickup-260929_lang-ind"
+              ],
+              "crc": 998011292,
+              "dependencies": [],
+              "id": 40855,
+              "md5": "3fdb143d5743f98b9f90e6e16972e1f4",
+              "name": "img_banner_full_gacha-pickup-260929_lang-ind",
+              "object_name": "Y7ETwh",
+              "size": 271816
+            },
+            {
+              "addresses": [
+                "img_banner_full_gacha-pickup-260929_lang-kor"
+              ],
+              "crc": 3777204255,
+              "dependencies": [],
+              "id": 40856,
+              "md5": "93d12311472c96ffbf8364a2e6058120",
+              "name": "img_banner_full_gacha-pickup-260929_lang-kor",
+              "object_name": "xGknwy",
+              "size": 271814
+            },
+            {
+              "addresses": [
+                "img_banner_full_marathon_event-normal-005"
+              ],
+              "crc": 2767544667,
+              "dependencies": [],
+              "id": 40857,
+              "md5": "a0ef73b18ac458be88f6b1a5eb2390b4",
+              "name": "img_banner_full_marathon_event-normal-005",
+              "object_name": "R1vv6c",
+              "size": 271812
+            },
+            {
+              "addresses": [
+                "img_banner_full_marathon_event-normal-005_lang-chs"
+              ],
+              "crc": 232868894,
+              "dependencies": [],
+              "id": 40858,
+              "md5": "55adad0bb663da86f0c2dafadd35cacf",
+              "name": "img_banner_full_marathon_event-normal-005_lang-chs",
+              "object_name": "JC3ncS",
+              "size": 271793
+            },
+            {
+              "addresses": [
+                "img_banner_full_marathon_event-normal-005_lang-cht"
+              ],
+              "crc": 4191925034,
+              "dependencies": [],
+              "id": 40859,
+              "md5": "57789950e881646f0b23f2a4ec24de15",
+              "name": "img_banner_full_marathon_event-normal-005_lang-cht",
+              "object_name": "7XiRm0",
+              "size": 271792
+            },
+            {
+              "addresses": [
+                "img_banner_full_marathon_event-normal-005_lang-eng"
+              ],
+              "crc": 2967336501,
+              "dependencies": [],
+              "id": 40860,
+              "md5": "f8eea01c5da97873a7adb6ccc7768c60",
+              "name": "img_banner_full_marathon_event-normal-005_lang-eng",
+              "object_name": "btolsS",
+              "size": 271786
+            },
+            {
+              "addresses": [
+                "img_banner_full_marathon_event-normal-005_lang-ind"
+              ],
+              "crc": 703381888,
+              "dependencies": [],
+              "id": 40861,
+              "md5": "4a73703eac3cb15f4a492123b0a4b444",
+              "name": "img_banner_full_marathon_event-normal-005_lang-ind",
+              "object_name": "cjfneu",
+              "size": 271793
+            },
+            {
+              "addresses": [
+                "img_banner_full_marathon_event-normal-005_lang-kor"
+              ],
+              "crc": 1088855191,
+              "dependencies": [],
+              "id": 40862,
+              "md5": "2acdbad3d238e72d619524f92a0d30bf",
+              "name": "img_banner_full_marathon_event-normal-005_lang-kor",
+              "object_name": "A5c05W",
+              "size": 271785
+            }
+          ]
+        },
+        "path": "catalog/catalog_en_rev87.redacted.json",
+        "previousPath": "catalog/catalog_en_rev86.redacted.json"
+      }
+    ],
+    "changed": [],
+    "removed": []
+  },
+  "previousVersion": "rev86",
+  "schemaVersion": 2
+}

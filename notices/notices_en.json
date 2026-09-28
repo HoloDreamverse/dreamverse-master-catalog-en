@@ -21,6 +21,28 @@
      "external_url": ""
     },
     {
+     "id": "notice-news-gacha-pickup-260929-pre",
+     "title": "[Notice] \"Dreamy Deep Blue Gacha\" is now underway!",
+     "type": 1,
+     "type_name": "gacha",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/1b613f9fd904e80e3be63faab40c9ec7c17e4ba7979275f5ed406078c977f6d5/index.html",
+     "banner_asset_id": "img_banner_full_gacha-pickup-260929",
+     "start_time": 1790575200000,
+     "start_time_utc": "2026-09-28T06:00:00Z",
+     "external_url": ""
+    },
+    {
+     "id": "notice-marathon_event-normal-005-pre",
+     "title": "[Notice] The Score Challenge Event \"Sea Splash Hype!\" is now underway!",
+     "type": 2,
+     "type_name": "event",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/4514531bfc2f44e0ed4a2cfec8b90585226ef80b966a557daac93d1bb21b96c1/index.html",
+     "banner_asset_id": "img_banner_full_marathon_event-normal-005",
+     "start_time": 1790575200000,
+     "start_time_utc": "2026-09-28T06:00:00Z",
+     "external_url": ""
+    },
+    {
      "id": "notice-news-music-release-260926",
      "title": "NepoX! Song \"Watcha Gatcha!!!!!!!!\" added!",
      "type": 5,
