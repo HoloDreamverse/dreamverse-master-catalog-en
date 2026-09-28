@@ -376,17 +376,6 @@
      "start_time": 1784685600000,
      "start_time_utc": "2026-07-22T02:00:00Z",
      "external_url": "https://discord.gg/hololive-dreams"
-    },
-    {
-     "id": "notice-pr-area2_goods_sale",
-     "title": "",
-     "type": 0,
-     "type_name": "unknown",
-     "detail_url": "https://static.game-hololive-dreams.com/html/notice/f8575054b1a97975587e1f9f6a826429c3f652c57c696453482811e825828b21/index.html",
-     "banner_asset_id": "img_banner_full_sub-area2-goods-sale",
-     "start_time": 1787882400000,
-     "start_time_utc": "2026-08-28T02:00:00Z",
-     "external_url": "https://shop.hololivepro.com/pages/hololive-dreams-store"
     }
    ]
   }
