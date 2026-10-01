@@ -24,6 +24,7 @@
 {"tutorial_type":1003,"data":{"tutorialType":"Circuit","titleLangId":"la-feature_lock-circuit-title","viewConditionGroupId":"cd-quest_clear-quest-main-w1-02-02"}}
 {"tutorial_type":1004,"data":{"tutorialType":"ComboCardGame","titleLangId":"la-feature_lock-combo_card_game-title","viewConditionGroupId":"cd-quest_clear-quest-main-w1-02-08"}}
 {"tutorial_type":1005,"data":{"tutorialType":"Chase","titleLangId":"la-feature_lock-chase","viewConditionGroupId":"cd-perm-a01-chase"}}
+{"tutorial_type":1006,"data":{"tutorialType":"SplashBall","titleLangId":"la-feature_lock-splash_ball","viewConditionGroupId":"cd-quest_clear-quest-main-w1-03-08"}}
 {"tutorial_type":1101,"data":{"tutorialType":"MiniGameConvertRewardUpStaminaArea02BetCoin","titleLangId":"la-feature_lock-mini_game_convert_reward_up_stamina_to_bet_coin-title","viewConditionGroupId":"cd-quest_clear-quest-main-w1-02-02"}}
 {"tutorial_type":1501,"data":{"tutorialType":"MultiGameLive","titleLangId":"la-feature_lock-multi_game_live","unlockConditionGroupId":"cd-quest_clear-quest-main-w1-01-04"}}
 {"tutorial_type":1502,"data":{"tutorialType":"MultiGameMiniGame","titleLangId":"la-feature_lock-park_notification","unlockConditionGroupId":"cd-quest_clear-quest-main-w1-01-04"}}
@@ -45,3 +46,8 @@
 {"tutorial_type":10402,"data":{"tutorialType":"ParkLotteryArea02Scratch","titleLangId":"la-feature_lock-park_lottery_scratch-title","viewConditionGroupId":"cd-quest_clear-quest-main-w1-02-09-1-9"}}
 {"tutorial_type":10501,"data":{"tutorialType":"ParkHighLowArea02","titleLangId":"la-feature_lock-park_high_low-title","viewConditionGroupId":"cd-quest_clear-quest-main-w1-02-09-1-6"}}
 {"tutorial_type":10601,"data":{"tutorialType":"ParkPrintBoothArea02","titleLangId":"la-feature_lock-park_print_booth-title","viewConditionGroupId":"cd-quest_clear-quest-main-w1-02-06"}}
+{"tutorial_type":10801,"data":{"tutorialType":"ParkFishingArea03Unlock","titleLangId":"la-feature_lock-park_fishing-title","viewConditionGroupId":"cd-quest_clear-quest-main-w1-03-03-5"}}
+{"tutorial_type":10805,"data":{"tutorialType":"ParkFishingArea03RodLevelUp","titleLangId":"la-feature_lock-park_fishing-rod-level-up","viewConditionGroupId":"cd-quest_clear-quest-main-w1-03-05"}}
+{"tutorial_type":10806,"data":{"tutorialType":"ParkFishingArea03SeaArea2","titleLangId":"la-feature_lock-park_area03_sea_area2-title","viewConditionGroupId":"cd-quest_clear-quest-main-w1-03-05"}}
+{"tutorial_type":10807,"data":{"tutorialType":"ParkFishingArea03SeaArea3","titleLangId":"la-feature_lock-park_area03_sea_area3-title","viewConditionGroupId":"cd-quest_clear-quest-main-w1-03-10"}}
+{"tutorial_type":10901,"data":{"tutorialType":"ParkBoatArea03Unlock","titleLangId":"la-feature_lock-park_boat-title","viewConditionGroupId":"cd-quest_clear-quest-main-w1-03-02-1"}}

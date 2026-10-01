@@ -1,7 +1,7 @@
 {
  "format": "hololive-dreams-notices",
  "region": "en",
- "app_version": "1.1.1",
+ "app_version": "1.2.0",
  "categories": [
   {
    "id": "notice_category-news",
@@ -10,36 +10,157 @@
    "display_type_name": "normal",
    "notices": [
     {
-     "id": "notice-news-info-update-area03-pre",
-     "title": "[Notice]New Area \"Soda Pop Lagoon\" is open!",
+     "id": "notice-news-birthday-chr-00017-261001",
+     "title": "Happy Birthday! Inugami Korone",
+     "type": 6,
+     "type_name": "campaign",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/ac0e7b3b2cf58da135310375842e22942fca58a7610527012c97d90504dcce1b/index.html",
+     "banner_asset_id": "img_banner_full_birthday-chr-00017-261001",
+     "start_time": 1790780400000,
+     "start_time_utc": "2026-09-30T15:00:00Z",
+     "external_url": ""
+    },
+    {
+     "id": "notice-news-gift-sales_ranking_1st-gacha-260929",
+     "title": "Store Sales Chart #1 Achievement!",
+     "type": 4,
+     "type_name": "information",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/35093caf163070507e342853b835be674c5654fc4e7c9024105b039e58effbb4/index.html",
+     "banner_asset_id": "img_banner_full_gift-sales-ranking-1st-gacha-260929",
+     "start_time": 1790748000000,
+     "start_time_utc": "2026-09-30T06:00:00Z",
+     "external_url": ""
+    },
+    {
+     "id": "notice-news-info-update-area03",
+     "title": "New Area \"Soda Pop Lagoon\" is open!",
      "type": 3,
      "type_name": "update",
-     "detail_url": "https://static.game-hololive-dreams.com/html/notice/e8d98e69a94b1ccfc774325f99536ba45a04fbde9f5af20c9970ff7b2c192a9a/index.html",
-     "banner_asset_id": "img_banner_full_update-area03",
-     "start_time": 1790092800000,
-     "start_time_utc": "2026-09-22T16:00:00Z",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/8e5027c7048897d7b9f9f9a03b903f9445a125be52aac91c8ee4010a9e1e907b/index.html",
+     "banner_asset_id": "img_banner_full_area-a03",
+     "start_time": 1790647200000,
+     "start_time_utc": "2026-09-29T02:00:00Z",
      "external_url": ""
     },
     {
-     "id": "notice-news-gacha-pickup-260929-pre",
-     "title": "[Notice] \"Dreamy Deep Blue Gacha\" is now underway!",
+     "id": "notice-news-gacha-pickup-260929",
+     "title": "\"Dreamy Deep Blue Gacha\" is now underway!",
      "type": 1,
      "type_name": "gacha",
-     "detail_url": "https://static.game-hololive-dreams.com/html/notice/1b613f9fd904e80e3be63faab40c9ec7c17e4ba7979275f5ed406078c977f6d5/index.html",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/6590ace1590485c3ed4fd4276a2a7e26cb35cc82c44585baebf67e46fdbc375f/index.html",
      "banner_asset_id": "img_banner_full_gacha-pickup-260929",
-     "start_time": 1790575200000,
-     "start_time_utc": "2026-09-28T06:00:00Z",
+     "start_time": 1790629200000,
+     "start_time_utc": "2026-09-28T21:00:00Z",
      "external_url": ""
     },
     {
-     "id": "notice-marathon_event-normal-005-pre",
-     "title": "[Notice] The Score Challenge Event \"Sea Splash Hype!\" is now underway!",
+     "id": "notice-news-shop-missionpass-261001",
+     "title": "October Mission Pass now underway!",
+     "type": 4,
+     "type_name": "information",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/f4234a2b3c011299fcf654a6a117a99d9d4641939dea68eec25e7fad1d6433f0/index.html",
+     "banner_asset_id": "img_banner_full_shop-missionpass-261001",
+     "start_time": 1790798400000,
+     "start_time_utc": "2026-09-30T20:00:00Z",
+     "external_url": ""
+    },
+    {
+     "id": "notice-news-shop-membership-261001",
+     "title": "\"Emotes\" Added to Membership!",
+     "type": 4,
+     "type_name": "information",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/cfc8d58a13935bc2960123bb7606e882a7f724f51b946a19132da16eb41e1ff5/index.html",
+     "banner_asset_id": "img_banner_full_shop-membership-261001",
+     "start_time": 1790798400000,
+     "start_time_utc": "2026-09-30T20:00:00Z",
+     "external_url": ""
+    },
+    {
+     "id": "notice-marathon_event-normal-005",
+     "title": "The Score Challenge Event \"Sea Splash Hype!\" is now underway!",
      "type": 2,
      "type_name": "event",
-     "detail_url": "https://static.game-hololive-dreams.com/html/notice/4514531bfc2f44e0ed4a2cfec8b90585226ef80b966a557daac93d1bb21b96c1/index.html",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/366ed4e8ee4e633132a4e3bbacace4fc45a5eefd9d747dbb455a93e4b1fb8940/index.html",
      "banner_asset_id": "img_banner_full_marathon_event-normal-005",
-     "start_time": 1790575200000,
-     "start_time_utc": "2026-09-28T06:00:00Z",
+     "start_time": 1790650800000,
+     "start_time_utc": "2026-09-29T03:00:00Z",
+     "external_url": ""
+    },
+    {
+     "id": "notice-news-login_bonus-event-260929",
+     "title": "\"New Area Celebration Login Bonus\" is now underway!",
+     "type": 6,
+     "type_name": "campaign",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/74df8c871bec9ef00bee22b185d210f6682f8d6399058d525c02c026b8db166c/index.html",
+     "banner_asset_id": "img_banner_full_login-bonus-event-260929",
+     "start_time": 1790647200000,
+     "start_time_utc": "2026-09-29T02:00:00Z",
+     "external_url": ""
+    },
+    {
+     "id": "notice-news-gacha-fixed-260929",
+     "title": "New Area Celebration! One ★5 Member Guaranteed Gacha",
+     "type": 1,
+     "type_name": "gacha",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/680fc7414dfd1c6590fbec988e415a945b456fca7415c6c52d8834a232c1f5cd/index.html",
+     "banner_asset_id": "img_banner_full_gacha-fixed-260929",
+     "start_time": 1790629200000,
+     "start_time_utc": "2026-09-28T21:00:00Z",
+     "external_url": ""
+    },
+    {
+     "id": "notice-news-gacha-area03-select-260929",
+     "title": "\"New Area Celebration! Take your pick! ★5 Member Gacha\" now live!",
+     "type": 1,
+     "type_name": "gacha",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/9ff2219083b7a2134c5b19cdc8d36093502e6b9962eabf640db47dee11a13eae/index.html",
+     "banner_asset_id": "img_banner_full_gacha-area03-260929",
+     "start_time": 1790629200000,
+     "start_time_utc": "2026-09-28T21:00:00Z",
+     "external_url": ""
+    },
+    {
+     "id": "notice-news-shop-stone-area03_celebration-260929",
+     "title": "Limited-time Packs are available to celebrate the new Area!",
+     "type": 4,
+     "type_name": "information",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/2e1f15873f4428c3d752f4f0ac29f3b422bf7157e4e096baa64c7352bff4f04a/index.html",
+     "banner_asset_id": "img_banner_full_shop-stone-area03-celebration-260929",
+     "start_time": 1790647200000,
+     "start_time_utc": "2026-09-29T02:00:00Z",
+     "external_url": ""
+    },
+    {
+     "id": "notice-news-mission-area03-release-260929",
+     "title": "\"New Area Celebration Missions\" are now underway!",
+     "type": 4,
+     "type_name": "information",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/783690dedb14c1bb469fdf28cfe5b104258f33a441f3721723391b321d73eead/index.html",
+     "banner_asset_id": "img_banner_full_event-mission-area03-release-260929",
+     "start_time": 1790647200000,
+     "start_time_utc": "2026-09-29T02:00:00Z",
+     "external_url": ""
+    },
+    {
+     "id": "notice-news-info-update-260929",
+     "title": "Ver.1.2.0 Update",
+     "type": 3,
+     "type_name": "update",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/37500eef8147b8f81e667f46106a1490da4486f731fba3f33c625fecbffda573/index.html",
+     "banner_asset_id": "img_banner_full_update-area03",
+     "start_time": 1790647200000,
+     "start_time_utc": "2026-09-29T02:00:00Z",
+     "external_url": ""
+    },
+    {
+     "id": "notice-news-info-holocard-ranking_reset",
+     "title": "Upcoming Changes to How “Pokajan!” Works",
+     "type": 4,
+     "type_name": "information",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/bfc1f94c41f7f13ac974e9b8e1bd5ac3c1b225278db1fa2640cd4c42260ee587/index.html",
+     "banner_asset_id": "",
+     "start_time": 1789626600000,
+     "start_time_utc": "2026-09-17T06:30:00Z",
      "external_url": ""
     },
     {
@@ -54,17 +175,6 @@
      "external_url": ""
     },
     {
-     "id": "notice-news-gacha-pickup-260919",
-     "title": "Seeking the Summer Cool Gacha now underway!",
-     "type": 1,
-     "type_name": "gacha",
-     "detail_url": "https://static.game-hololive-dreams.com/html/notice/d96a24e22287fd5cd8a11c027e5d28f87d4d930b41ced111379d461814863647/index.html",
-     "banner_asset_id": "img_banner_full_gacha-pickup-260919",
-     "start_time": 1789783200000,
-     "start_time_utc": "2026-09-19T02:00:00Z",
-     "external_url": ""
-    },
-    {
      "id": "notice-news-info-maintenance-260922",
      "title": "Maintenance Notice",
      "type": 4,
@@ -76,17 +186,6 @@
      "external_url": ""
     },
     {
-     "id": "notice-news-shop-membership-260922-pre",
-     "title": "[Notice] \"Emotes\" Added to Membership!",
-     "type": 4,
-     "type_name": "information",
-     "detail_url": "https://static.game-hololive-dreams.com/html/notice/aee4ff39241ed8f1352b75f2072e7022a90e5a43756748f4a0200837627af0ef/index.html",
-     "banner_asset_id": "img_banner_full_shop-membership-261001",
-     "start_time": 1790042400000,
-     "start_time_utc": "2026-09-22T02:00:00Z",
-     "external_url": ""
-    },
-    {
      "id": "notice-marathon_event-relay-002",
      "title": "Spotlight Event “A Dreamy Summer Escape” is now underway!",
      "type": 2,
@@ -95,17 +194,6 @@
      "banner_asset_id": "img_banner_full_marathon_event-relay-002",
      "start_time": 1789815600000,
      "start_time_utc": "2026-09-19T11:00:00Z",
-     "external_url": ""
-    },
-    {
-     "id": "notice-news-info-holocard-ranking_reset",
-     "title": "Upcoming Changes to How “Pokajan!” Works",
-     "type": 4,
-     "type_name": "information",
-     "detail_url": "https://static.game-hololive-dreams.com/html/notice/162205a705fefe8a261c518f55ae2d5b72aa3158d7163c3e658c61b9782827ba/index.html",
-     "banner_asset_id": "",
-     "start_time": 1789626600000,
-     "start_time_utc": "2026-09-17T06:30:00Z",
      "external_url": ""
     },
     {
@@ -128,28 +216,6 @@
      "banner_asset_id": "img_banner_full_minigame-chase-260828",
      "start_time": 1787882400000,
      "start_time_utc": "2026-08-28T02:00:00Z",
-     "external_url": ""
-    },
-    {
-     "id": "notice-news-shop-missionpass-260901",
-     "title": "September Mission Pass is now underway!",
-     "type": 4,
-     "type_name": "information",
-     "detail_url": "https://static.game-hololive-dreams.com/html/notice/570e8eb4aca50f7e2057e46dc680f90996b1967a914f0738220c684b5e072aa1/index.html",
-     "banner_asset_id": "img_banner_full_shop-missionpass-260901",
-     "start_time": 1788206400000,
-     "start_time_utc": "2026-08-31T20:00:00Z",
-     "external_url": ""
-    },
-    {
-     "id": "notice-news-shop-membership-260901",
-     "title": "“Stickers” Added to Membership!",
-     "type": 4,
-     "type_name": "information",
-     "detail_url": "https://static.game-hololive-dreams.com/html/notice/033b5635d4b05a29e74ed52a5b88d933a175a2955f0d8c13446b904b805828ad/index.html",
-     "banner_asset_id": "img_banner_full_shop-membership-260901",
-     "start_time": 1788206400000,
-     "start_time_utc": "2026-08-31T20:00:00Z",
      "external_url": ""
     },
     {
@@ -272,17 +338,6 @@
      "start_time": 1784772000000,
      "start_time_utc": "2026-07-23T02:00:00Z",
      "external_url": ""
-    },
-    {
-     "id": "notice-news-gacha-common-001",
-     "title": "holodori Gacha now live!",
-     "type": 1,
-     "type_name": "gacha",
-     "detail_url": "https://static.game-hololive-dreams.com/html/notice/7e52a969977800840c67cbb758bdac9b6cbc866afb1880bf2b08cf5e4b489a80/index.html",
-     "banner_asset_id": "img_banner_full_gacha-common-001",
-     "start_time": 1784685600000,
-     "start_time_utc": "2026-07-22T02:00:00Z",
-     "external_url": ""
     }
    ]
   },
@@ -293,6 +348,28 @@
    "display_type_name": "normal",
    "notices": [
     {
+     "id": "notice-mal-list-confirmed",
+     "title": "Currently confirmed issues",
+     "type": 100,
+     "type_name": "bug",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/a246e4e8bd8c674c8f3f7f3f451dfc83002aeb2211b08e24a357f8f2fcf9faac/index.html",
+     "banner_asset_id": "",
+     "start_time": 1787875200000,
+     "start_time_utc": "2026-08-28T00:00:00Z",
+     "external_url": ""
+    },
+    {
+     "id": "notice-mal-list-fixed",
+     "title": "Fixed Issues",
+     "type": 100,
+     "type_name": "bug",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/24320e7cb728ce79d97861dfa40a393ed72fe1982577e4b4024f04e2eefeb54f/index.html",
+     "banner_asset_id": "",
+     "start_time": 1787875200000,
+     "start_time_utc": "2026-08-28T00:00:00Z",
+     "external_url": ""
+    },
+    {
      "id": "notice-mal-login-failed-android-01-ios",
      "title": "Regarding an issue preventing login on some Android devices",
      "type": 100,
@@ -301,28 +378,6 @@
      "banner_asset_id": "",
      "start_time": 1789626600000,
      "start_time_utc": "2026-09-17T06:30:00Z",
-     "external_url": ""
-    },
-    {
-     "id": "notice-mal-list-fixed",
-     "title": "Fixed Issues",
-     "type": 100,
-     "type_name": "bug",
-     "detail_url": "https://static.game-hololive-dreams.com/html/notice/e0f4be78ec739dae86535d15af6afa395af4bf1882ec75360bc08522e59e29d5/index.html",
-     "banner_asset_id": "",
-     "start_time": 1787875200000,
-     "start_time_utc": "2026-08-28T00:00:00Z",
-     "external_url": ""
-    },
-    {
-     "id": "notice-mal-list-confirmed",
-     "title": "Currently confirmed issues",
-     "type": 100,
-     "type_name": "bug",
-     "detail_url": "https://static.game-hololive-dreams.com/html/notice/184bfa22a3b056d503444da824c257aa259b83eadb678a5c5bf32d1e657dd4c4/index.html",
-     "banner_asset_id": "",
-     "start_time": 1787875200000,
-     "start_time_utc": "2026-08-28T00:00:00Z",
      "external_url": ""
     }
    ]

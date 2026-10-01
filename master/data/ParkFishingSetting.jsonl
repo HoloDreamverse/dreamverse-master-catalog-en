@@ -1,1 +1,1 @@
-{"id":"1","data":{"id":"1"}}
+{"id":"1","data":{"id":"1","progressMeterBaseIncreaseSpeed":8000,"progressMeterBaseDecreaseSpeed":8000,"progressMeterOfftrackDecreasePermil":50,"progressMeterMaxLength":35,"progressMeterOfftrackDecreaseDelayMillisecond":300,"_unknown":{"field_100":10000,"field_101":5,"field_102":250,"field_200":100,"field_201":50,"field_202":180,"field_203":1000,"field_204":15000,"field_301":300,"field_500":{"base64":"ZmFjaWxpdHktYTAzLWZpc2hpbmdzaG9w"}}}}

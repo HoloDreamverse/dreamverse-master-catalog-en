@@ -31,6 +31,10 @@
 {"id":"la-tips-game_screen-multi_rhythm_game_lobby-title","data":{"id":"la-tips-game_screen-multi_rhythm_game_lobby-title","text":"Live Together"}}
 {"id":"la-tips-game_screen-multi_rhythm_game_top-title","data":{"id":"la-tips-game_screen-multi_rhythm_game_top-title","text":"Live Together"}}
 {"id":"la-tips-game_screen-music_shop_selection-title","data":{"id":"la-tips-game_screen-music_shop_selection-title","text":"Song Shop"}}
+{"id":"la-tips-game_screen-park-fishing-fish-list-area03","data":{"id":"la-tips-game_screen-park-fishing-fish-list-area03","text":"Fish Guide"}}
+{"id":"la-tips-game_screen-park-fishing-rod-level","data":{"id":"la-tips-game_screen-park-fishing-rod-level","text":"Bae’s Bits & Bobs"}}
+{"id":"la-tips-game_screen-park-fishing-top-area03","data":{"id":"la-tips-game_screen-park-fishing-top-area03","text":"Fishing"}}
+{"id":"la-tips-game_screen-park-time-period-area03","data":{"id":"la-tips-game_screen-park-time-period-area03","text":"Change Time"}}
 {"id":"la-tips-game_screen-park_change_playable-title","data":{"id":"la-tips-game_screen-park_change_playable-title","text":"Change holomem"}}
 {"id":"la-tips-game_screen-park_high_low_top-title","data":{"id":"la-tips-game_screen-park_high_low_top-title","text":"High & Low"}}
 {"id":"la-tips-game_screen-park_poster_booth-title","data":{"id":"la-tips-game_screen-park_poster_booth-title","text":"Memory"}}
@@ -38,6 +42,7 @@
 {"id":"la-tips-game_screen-score_ranking-title","data":{"id":"la-tips-game_screen-score_ranking-title","text":"Score Ranking"}}
 {"id":"la-tips-game_screen-shop_top-title","data":{"id":"la-tips-game_screen-shop_top-title","text":"Shop"}}
 {"id":"la-tips-game_screen-skill_tree-title","data":{"id":"la-tips-game_screen-skill_tree-title","text":"Holomem Board"}}
+{"id":"la-tips-game_screen-splash_ball","data":{"id":"la-tips-game_screen-splash_ball","text":"Splash Ball"}}
 {"id":"la-tips-game_screen-story_archive_top-title","data":{"id":"la-tips-game_screen-story_archive_top-title","text":"Theater"}}
 {"id":"la-tips-game_screen-user_profile_top-title","data":{"id":"la-tips-game_screen-user_profile_top-title","text":"Profile"}}
 {"id":"la-tips-game_screen-work_top-title","data":{"id":"la-tips-game_screen-work_top-title","text":"Holowork"}}
@@ -72,23 +77,34 @@
 {"id":"la-tips-hint-live_option_detail_special_skill_background_display-title","data":{"id":"la-tips-hint-live_option_detail_special_skill_background_display-title","text":"Display SP Skill Background"}}
 {"id":"la-tips-hint-live_option_detail_special_skill_effect_display-title","data":{"id":"la-tips-hint-live_option_detail_special_skill_effect_display-title","text":"Display SP Skill Effect"}}
 {"id":"la-tips-hint-live_option_detail_special_skill_illustration_display-title","data":{"id":"la-tips-hint-live_option_detail_special_skill_illustration_display-title","text":"SP Skill Illustration and Live2D"}}
+{"id":"la-tips-hint-live_option_detail_special_skill_timing_display-title","data":{"id":"la-tips-hint-live_option_detail_special_skill_timing_display-title","text":"SP Skill Timing"}}
 {"id":"la-tips-hint-live_option_detail_tap_effect-title","data":{"id":"la-tips-hint-live_option_detail_tap_effect-title","text":"Tap Effect"}}
 {"id":"la-tips-hint-live_option_detail_tap_vibration-title","data":{"id":"la-tips-hint-live_option_detail_tap_vibration-title","text":"Vibration on Tap"}}
+{"id":"la-tips-hint-live_option_judgement_display_setting-title","data":{"id":"la-tips-hint-live_option_judgement_display_setting-title","text":"Judgement Result Display"}}
+{"id":"la-tips-hint-live_option_judgement_display_type-title","data":{"id":"la-tips-hint-live_option_judgement_display_type-title","text":"Judgement Result Display Type"}}
+{"id":"la-tips-hint-live_option_judgement_position-title","data":{"id":"la-tips-hint-live_option_judgement_position-title","text":"Judgement Result Position"}}
+{"id":"la-tips-hint-live_option_judgement_timing_position-title","data":{"id":"la-tips-hint-live_option_judgement_timing_position-title","text":"FAST/SLOW Judgement Result Position"}}
 {"id":"la-tips-hint-live_option_key_config_lane-title","data":{"id":"la-tips-hint-live_option_key_config_lane-title","text":"Configuration (Lane)"}}
 {"id":"la-tips-hint-live_option_key_config_other-title","data":{"id":"la-tips-hint-live_option_key_config_other-title","text":"Configuration (Other)"}}
 {"id":"la-tips-hint-live_option_lane_bottom_cut-title","data":{"id":"la-tips-hint-live_option_lane_bottom_cut-title","text":"Crop Bottom"}}
 {"id":"la-tips-hint-live_option_lane_setting-title","data":{"id":"la-tips-hint-live_option_lane_setting-title","text":"Hit Line"}}
+{"id":"la-tips-hint-live_option_lane_split-title","data":{"id":"la-tips-hint-live_option_lane_split-title","text":"Lane Divisions"}}
 {"id":"la-tips-hint-live_option_lane_top_cut-title","data":{"id":"la-tips-hint-live_option_lane_top_cut-title","text":"Crop Top"}}
+{"id":"la-tips-hint-live_option_lane_width_setting-title","data":{"id":"la-tips-hint-live_option_lane_width_setting-title","text":"Lane Width"}}
+{"id":"la-tips-hint-live_option_low_life_warning_effect-title","data":{"id":"la-tips-hint-live_option_low_life_warning_effect-title","text":"Alert When Life Is Low"}}
 {"id":"la-tips-hint-live_option_mirror_chart-title","data":{"id":"la-tips-hint-live_option_mirror_chart-title","text":"Mirror Chart"}}
 {"id":"la-tips-hint-live_option_music_mv_setting-title","data":{"id":"la-tips-hint-live_option_music_mv_setting-title","text":"MV Settings (Save Data)"}}
 {"id":"la-tips-hint-live_option_music_timing_adjustment-title","data":{"id":"la-tips-hint-live_option_music_timing_adjustment-title","text":"Adjust Song Timing"}}
+{"id":"la-tips-hint-live_option_note_height_pct_setting-title","data":{"id":"la-tips-hint-live_option_note_height_pct_setting-title","text":"Note Height (%)"}}
 {"id":"la-tips-hint-live_option_note_speed-title","data":{"id":"la-tips-hint-live_option_note_speed-title","text":"Note Speed"}}
+{"id":"la-tips-hint-live_option_note_width_pct_setting-title","data":{"id":"la-tips-hint-live_option_note_width_pct_setting-title","text":"Note Width (%)"}}
 {"id":"la-tips-hint-live_option_skin_combo-title","data":{"id":"la-tips-hint-live_option_skin_combo-title","text":"Combo Text"}}
 {"id":"la-tips-hint-live_option_skin_header-title","data":{"id":"la-tips-hint-live_option_skin_header-title","text":"Header UI"}}
 {"id":"la-tips-hint-live_option_skin_judgement_text-title","data":{"id":"la-tips-hint-live_option_skin_judgement_text-title","text":"Judgement Text"}}
 {"id":"la-tips-hint-live_option_skin_lane-title","data":{"id":"la-tips-hint-live_option_skin_lane-title","text":"Lane"}}
 {"id":"la-tips-hint-live_option_skin_normal_background_customize-title","data":{"id":"la-tips-hint-live_option_skin_normal_background_customize-title","text":"Default Background Customization"}}
 {"id":"la-tips-hint-live_option_skin_note-title","data":{"id":"la-tips-hint-live_option_skin_note-title","text":"Note Skin"}}
+{"id":"la-tips-hint-live_option_skin_penlight-title","data":{"id":"la-tips-hint-live_option_skin_penlight-title","text":"Penlight Settings"}}
 {"id":"la-tips-hint-live_option_skin_tap_effect_type-title","data":{"id":"la-tips-hint-live_option_skin_tap_effect_type-title","text":"Tap Effect Skin"}}
 {"id":"la-tips-hint-live_option_sound_effect-title","data":{"id":"la-tips-hint-live_option_sound_effect-title","text":"SFX Volume"}}
 {"id":"la-tips-hint-live_option_sound_music-title","data":{"id":"la-tips-hint-live_option_sound_music-title","text":"Songs"}}
@@ -116,10 +132,18 @@
 {"id":"la-tips-multi-mini_game-title","data":{"id":"la-tips-multi-mini_game-title","text":"Multiplayer Minigame"}}
 {"id":"la-tips-music_highest_score_ranking","data":{"id":"la-tips-music_highest_score_ranking","text":"Score Ranking & Holomem Score Rating"}}
 {"id":"la-tips-operation-title","data":{"id":"la-tips-operation-title","text":"Controls Guide"}}
+{"id":"la-tips-park-boat-area03","data":{"id":"la-tips-park-boat-area03","text":"Boat"}}
+{"id":"la-tips-park-boat-level-area03","data":{"id":"la-tips-park-boat-level-area03","text":"Koyo Lab Oceanic Branch"}}
 {"id":"la-tips-park-character-shop-area01-balloon-title","data":{"id":"la-tips-park-character-shop-area01-balloon-title","text":"Balloon Shop"}}
 {"id":"la-tips-park-character-shop-area01-candy-title","data":{"id":"la-tips-park-character-shop-area01-candy-title","text":"Candy Shop"}}
 {"id":"la-tips-park-character-shop-area01-pen-light-title","data":{"id":"la-tips-park-character-shop-area01-pen-light-title","text":"Penlight Shop"}}
 {"id":"la-tips-park-character-shop-area02-hair-accessory-title","data":{"id":"la-tips-park-character-shop-area02-hair-accessory-title","text":"Silk Hat Shop"}}
+{"id":"la-tips-park-fishing-area03","data":{"id":"la-tips-park-fishing-area03","text":"Fishing"}}
+{"id":"la-tips-park-fishing-fish-list-area03","data":{"id":"la-tips-park-fishing-fish-list-area03","text":"Fish Guide"}}
+{"id":"la-tips-park-fishing-rod-level-area03","data":{"id":"la-tips-park-fishing-rod-level-area03","text":"Bae’s Bits & Bobs"}}
+{"id":"la-tips-park-fishing-rod-level-up--area03-title","data":{"id":"la-tips-park-fishing-rod-level-up--area03-title","text":"Upgrade your Fishing Rod!"}}
+{"id":"la-tips-park-fishing-top-area03","data":{"id":"la-tips-park-fishing-top-area03","text":"Fishing"}}
+{"id":"la-tips-park-fishingshop-area03","data":{"id":"la-tips-park-fishingshop-area03","text":"Bae’s Bits & Bobs"}}
 {"id":"la-tips-park-high-low-area02-title","data":{"id":"la-tips-park-high-low-area02-title","text":"Card of Greed"}}
 {"id":"la-tips-park-lottery-area02-gachapon-title","data":{"id":"la-tips-park-lottery-area02-gachapon-title","text":"Capsule Kong"}}
 {"id":"la-tips-park-print-booth-area02-title","data":{"id":"la-tips-park-print-booth-area02-title","text":"Mega Puri"}}
@@ -132,5 +156,7 @@
 {"id":"la-tips-retracable-gacha-title","data":{"id":"la-tips-retracable-gacha-title","text":"Redraw Gacha"}}
 {"id":"la-tips-rhythm-game-title","data":{"id":"la-tips-rhythm-game-title","text":"Live"}}
 {"id":"la-tips-skill-tree-title","data":{"id":"la-tips-skill-tree-title","text":"Holomem Board"}}
+{"id":"la-tips-splash_ball","data":{"id":"la-tips-splash_ball","text":"Splash Ball"}}
+{"id":"la-tips-splash_ball-quest","data":{"id":"la-tips-splash_ball-quest","text":"Splash Ball"}}
 {"id":"la-tips-story-title","data":{"id":"la-tips-story-title","text":"Theater"}}
 {"id":"la-tips-work-title","data":{"id":"la-tips-work-title","text":"Holowork"}}

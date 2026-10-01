@@ -10,3 +10,6 @@
 {"mini_game_type":5,"consumption_rate":1,"data":{"miniGameType":"Chase","consumptionRate":1,"marathonScoreProvideCount":6}}
 {"mini_game_type":5,"consumption_rate":2,"data":{"miniGameType":"Chase","consumptionRate":2,"marathonScoreProvideCount":11}}
 {"mini_game_type":5,"consumption_rate":3,"data":{"miniGameType":"Chase","consumptionRate":3,"marathonScoreProvideCount":15}}
+{"mini_game_type":6,"consumption_rate":1,"data":{"miniGameType":"SplashBall","consumptionRate":1,"marathonScoreProvideCount":6}}
+{"mini_game_type":6,"consumption_rate":2,"data":{"miniGameType":"SplashBall","consumptionRate":2,"marathonScoreProvideCount":11}}
+{"mini_game_type":6,"consumption_rate":3,"data":{"miniGameType":"SplashBall","consumptionRate":3,"marathonScoreProvideCount":15}}

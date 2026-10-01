@@ -11,6 +11,7 @@
 {"id":"la-resource_type_detail-emblem-name","data":{"id":"la-resource_type_detail-emblem-name","text":"Badge"}}
 {"id":"la-resource_type_detail-fan_mark-description","data":{"id":"la-resource_type_detail-fan_mark-description","text":"A Fan Badge that is available when joining Membership."}}
 {"id":"la-resource_type_detail-fan_mark-name","data":{"id":"la-resource_type_detail-fan_mark-name","text":"Fan Badge"}}
+{"id":"la-resource_type_detail-fishingbait-name","data":{"id":"la-resource_type_detail-fishingbait-name","text":"Fishing Bait"}}
 {"id":"la-resource_type_detail-gacha_point-description","data":{"id":"la-resource_type_detail-gacha_point-description","text":"Points earned in Gacha."}}
 {"id":"la-resource_type_detail-gacha_point-name","data":{"id":"la-resource_type_detail-gacha_point-name","text":"Gacha Pts"}}
 {"id":"la-resource_type_detail-item-description","data":{"id":"la-resource_type_detail-item-description","text":"Different types of items."}}

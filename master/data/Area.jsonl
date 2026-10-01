@@ -6,3 +6,4 @@
 {"id":"area-a02-casino","data":{"id":"area-a02-casino","areaSelectorId":"area-a02-play-selector","priority":2,"nameLangId":"la-area-a02-casino-name","descriptionLangId":"la-area-a02-casino-description","viewConditionGroupId":"cd-park_area_select-area-a02-casino","order":4}}
 {"id":"area-a02-game","data":{"id":"area-a02-game","areaSelectorId":"area-a02-play-selector","priority":1,"nameLangId":"la-area-a02-game-name","descriptionLangId":"la-area-a02-game-description","order":3}}
 {"id":"area-a01-house","data":{"id":"area-a01-house","areaSelectorId":"area-a01-house-selector","priority":1,"nameLangId":"la-area-a01-house-name","descriptionLangId":"la-area-a01-house-description","viewConditionGroupId":"cd-quest_clear-quest-main-w1-01-02-1-5","order":1}}
+{"id":"area-a03","data":{"id":"area-a03","areaSelectorId":"area-a03-selector","priority":1,"nameLangId":"la-area_group-a03-name","descriptionLangId":"la-area-a03-description","order":5}}

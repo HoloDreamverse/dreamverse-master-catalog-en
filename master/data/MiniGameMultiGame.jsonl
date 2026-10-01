@@ -6,3 +6,5 @@
 {"mini_game_type":4,"multi_game_match_type":1,"data":{"miniGameType":"ComboCardGame","multiGameMatchType":"Random","listAssetId":"combocardgame","viewConditionGroupId":"cd-quest_clear-quest-main-w1-02-08","order":3}}
 {"mini_game_type":5,"multi_game_match_type":2,"data":{"miniGameType":"Chase","multiGameMatchType":"PrivateRoom","listAssetId":"chase","viewConditionGroupId":"cd-quest_clear-quest-main-w1-01-04","order":4}}
 {"mini_game_type":5,"multi_game_match_type":1,"data":{"miniGameType":"Chase","multiGameMatchType":"Random","listAssetId":"chase","viewConditionGroupId":"cd-perm-a01-chase","order":4}}
+{"mini_game_type":6,"multi_game_match_type":2,"data":{"miniGameType":"SplashBall","multiGameMatchType":"PrivateRoom","listAssetId":"splashball","viewConditionGroupId":"cd-quest_clear-quest-main-w1-01-04","order":5}}
+{"mini_game_type":6,"multi_game_match_type":1,"data":{"miniGameType":"SplashBall","multiGameMatchType":"Random","listAssetId":"splashball","viewConditionGroupId":"cd-quest_clear-quest-main-w1-03-08","order":5}}

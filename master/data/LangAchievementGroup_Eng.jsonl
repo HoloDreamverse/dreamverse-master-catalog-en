@@ -13,6 +13,7 @@
 {"id":"la-achievement_grp-minigame_cooking","data":{"id":"la-achievement_grp-minigame_cooking","text":"Collect Cooking"}}
 {"id":"la-achievement_grp-minigame_holocard","data":{"id":"la-achievement_grp-minigame_holocard","text":"Pokajan!"}}
 {"id":"la-achievement_grp-minigame_rope","data":{"id":"la-achievement_grp-minigame_rope","text":"Hoppin' Rope"}}
+{"id":"la-achievement_grp-minigame_splashball","data":{"id":"la-achievement_grp-minigame_splashball","text":"Splash Ball"}}
 {"id":"la-achievement_grp-music","data":{"id":"la-achievement_grp-music","text":"Songs"}}
 {"id":"la-achievement_grp-photograph","data":{"id":"la-achievement_grp-photograph","text":"Photography"}}
 {"id":"la-achievement_grp-quest","data":{"id":"la-achievement_grp-quest","text":"Quest"}}
@@ -20,6 +21,7 @@
 {"id":"la-achievement_grp-stamp","data":{"id":"la-achievement_grp-stamp","text":"Stickers"}}
 {"id":"la-achievement_grp-w1-a01","data":{"id":"la-achievement_grp-w1-a01","text":"Harmony Garden"}}
 {"id":"la-achievement_grp-w1-a02","data":{"id":"la-achievement_grp-w1-a02","text":"Mega Sphere"}}
+{"id":"la-achievement_grp-w1-a03","data":{"id":"la-achievement_grp-w1-a03","text":"Soda Pop Lagoon"}}
 {"id":"la-achievement_grp-work","data":{"id":"la-achievement_grp-work","text":"Holowork"}}
 {"id":"la-short_name-chr-00001","data":{"id":"la-short_name-chr-00001","text":"Sora"}}
 {"id":"la-short_name-chr-00002","data":{"id":"la-short_name-chr-00002","text":"Robocosan"}}

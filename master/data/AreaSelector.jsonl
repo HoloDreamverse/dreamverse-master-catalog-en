@@ -4,4 +4,5 @@
 {"id":"area-a01-selector","data":{"id":"area-a01-selector","areaGroupingId":"area_group-a01","isMapVisible":true}}
 {"id":"area-a01-theater-selector","data":{"id":"area-a01-theater-selector","areaGroupingId":"area_group-a01","facilityId":"facility-a01-theater"}}
 {"id":"area-a02-selector","data":{"id":"area-a02-selector","areaGroupingId":"area_group-a02","isMapVisible":true}}
-{"id":"area-a02-play-selector","data":{"id":"area-a02-play-selector","areaGroupingId":"area_group-a02","isMapVisible":true,"isUserSelectable":true}}
+{"id":"area-a02-play-selector","data":{"id":"area-a02-play-selector","areaGroupingId":"area_group-a02","isMapVisible":true}}
+{"id":"area-a03-selector","data":{"id":"area-a03-selector","areaGroupingId":"area_group-a03","isMapVisible":true}}

@@ -119,6 +119,15 @@
 {"client_id":193368940544,"data":{"clientId":193368940544}}
 {"client_id":195453509632,"data":{"clientId":195453509632,"text":"BPM Settings"}}
 {"client_id":195763888128,"data":{"clientId":195763888128,"text":"Live Together"}}
+{"client_id":202606300001,"data":{"clientId":202606300001,"text":"The teams have been decided!"}}
+{"client_id":202608070001,"data":{"clientId":202608070001,"text":"Should team imbalances occur, it will be resolved by lottery."}}
+{"client_id":202608070002,"data":{"clientId":202608070002,"text":"Multiplayer"}}
+{"client_id":202608070003,"data":{"clientId":202608070003,"text":"Splash Ball"}}
+{"client_id":202608070004,"data":{"clientId":202608070004,"text":"Auto"}}
+{"client_id":202608140001,"data":{"clientId":202608140001,"text":"Stolen from {0}!"}}
+{"client_id":202608140002,"data":{"clientId":202608140002,"text":"PINK"}}
+{"client_id":202608140003,"data":{"clientId":202608140003,"text":"YELLOW"}}
+{"client_id":202608140004,"data":{"clientId":202608140004,"text":"BLUE"}}
 {"client_id":219289739264,"data":{"clientId":219289739264,"text":"Fast"}}
 {"client_id":231402889216,"data":{"clientId":231402889216,"text":"No changes made."}}
 {"client_id":267792670720,"data":{"clientId":267792670720,"text":"Delete"}}
@@ -141,6 +150,7 @@
 {"client_id":557606494208,"data":{"clientId":557606494208,"text":"Drop Rates"}}
 {"client_id":575205793792,"data":{"clientId":575205793792,"text":"Account Link"}}
 {"client_id":586542997504,"data":{"clientId":586542997504,"text":"Edit"}}
+{"client_id":590875382694,"data":{"clientId":590875382694,"text":"If no input is detected within the remaining <space=6px><size=32><color=#F9FF55>{0} seconds</color></size><space=6px>, you will be forcibly removed."}}
 {"client_id":634412589056,"data":{"clientId":634412589056,"text":"None"}}
 {"client_id":742965370880,"data":{"clientId":742965370880,"text":"Login with ID"}}
 {"client_id":760048771072,"data":{"clientId":760048771072,"text":"x"}}
@@ -216,6 +226,7 @@
 {"client_id":2718545469440,"data":{"clientId":2718545469440,"text":"Create New"}}
 {"client_id":2749961827751,"data":{"clientId":2749961827751,"text":"Trial Play"}}
 {"client_id":2803613425664,"data":{"clientId":2803613425664,"text":"Campaign"}}
+{"client_id":2811230201836,"data":{"clientId":2811230201836,"text":"--"}}
 {"client_id":2830206230528,"data":{"clientId":2830206230528,"text":"All"}}
 {"client_id":2830210424833,"data":{"clientId":2830210424833,"text":"Today"}}
 {"client_id":2830210424835,"data":{"clientId":2830210424835,"text":"This Week"}}
@@ -308,8 +319,10 @@
 {"client_id":6400217341952,"data":{"clientId":6400217341952,"text":"During a Holomem Quest, you can't talk to other characters!"}}
 {"client_id":6467049480192,"data":{"clientId":6467049480192,"text":"{0} is now set to private."}}
 {"client_id":6472010227712,"data":{"clientId":6472010227712,"text":"Let's Play a Game!"}}
+{"client_id":6480768429193,"data":{"clientId":6480768429193,"text":"1st Time Bonus"}}
 {"client_id":6526320620455,"data":{"clientId":6526320620455,"text":"GPA."}}
 {"client_id":6529759109120,"data":{"clientId":6529759109120,"text":"Performance"}}
+{"client_id":6623057692057,"data":{"clientId":6623057692057,"text":"Report"}}
 {"client_id":6727395982968,"data":{"clientId":6727395982968,"text":"Don't show this again."}}
 {"client_id":6741856083968,"data":{"clientId":6741856083968,"text":"EASY"}}
 {"client_id":6741856083969,"data":{"clientId":6741856083969,"text":"Make the required\\nnumber of dishes."}}
@@ -343,6 +356,7 @@
 {"client_id":8452112900096,"data":{"clientId":8452112900096,"text":"*******"}}
 {"client_id":8457184968300,"data":{"clientId":8457184968300,"text":"Initialization failed."}}
 {"client_id":8572573310976,"data":{"clientId":8572573310976,"text":"Password"}}
+{"client_id":8597809391041,"data":{"clientId":8597809391041,"text":"Upgrade Fishing Rod"}}
 {"client_id":8622716215296,"data":{"clientId":8622716215296,"text":"{0} Park Announcements"}}
 {"client_id":8689988657152,"data":{"clientId":8689988657152,"text":"Re-enter Password"}}
 {"client_id":9114289233920,"data":{"clientId":9114289233920,"text":"Technique"}}
@@ -385,6 +399,7 @@
 {"client_id":11074541000315,"data":{"clientId":11074541000315,"text":"Delete Rhythm Game Data"}}
 {"client_id":11081327584300,"data":{"clientId":11081327584300,"text":"Cannot move during a Holomem Quest."}}
 {"client_id":11110441108620,"data":{"clientId":11110441108620,"text":"Copyright"}}
+{"client_id":11134621937617,"data":{"clientId":11134621937617,"text":"Change Bait"}}
 {"client_id":11182760628171,"data":{"clientId":11182760628171,"text":"MM/dd/yyyy HH:mm"}}
 {"client_id":11225679473808,"data":{"clientId":11225679473808,"text":"Cancel"}}
 {"client_id":11445323423744,"data":{"clientId":11445323423744,"text":"Reset"}}
@@ -465,15 +480,20 @@
 {"client_id":20396695971666,"data":{"clientId":20396695971666,"text":"Reached a Score Rating of <color=#F7FF44>{1}</color> with {0}."}}
 {"client_id":20417172430848,"data":{"clientId":20417172430848,"text":"Close"}}
 {"client_id":20543472558080,"data":{"clientId":20543472558080,"text":"Shop"}}
+{"client_id":20828188085068,"data":{"clientId":20828188085068,"text":"Best Ever"}}
+{"client_id":21203337706729,"data":{"clientId":21203337706729,"text":"This cannot be changed as the position is invalid."}}
+{"client_id":21427976644001,"data":{"clientId":21427976644001,"text":"Lane Width"}}
 {"client_id":21619123675136,"data":{"clientId":21619123675136,"text":"Content"}}
 {"client_id":21669981332282,"data":{"clientId":21669981332282,"text":"Q"}}
 {"client_id":21758261805400,"data":{"clientId":21758261805400,"text":"Sound Settings"}}
+{"client_id":22480911888912,"data":{"clientId":22480911888912,"text":"Original Color"}}
 {"client_id":22525577061769,"data":{"clientId":22525577061769,"text":"All Parameters [highlight]{0}%[/highlight] UP"}}
 {"client_id":22685594718208,"data":{"clientId":22685594718208,"text":"Canceled."}}
 {"client_id":22685607301120,"data":{"clientId":22685607301120,"text":"Duplicate key."}}
 {"client_id":22685607301121,"data":{"clientId":22685607301121,"text":"Key changed."}}
 {"client_id":22685607301123,"data":{"clientId":22685607301123,"text":"[Waiting for input.]"}}
 {"client_id":22852849038446,"data":{"clientId":22852849038446,"text":"Three will be chosen at random. Choose one!"}}
+{"client_id":23332640194103,"data":{"clientId":23332640194103,"text":"Goal"}}
 {"client_id":23351514451274,"data":{"clientId":23351514451274,"text":"Purchased HoloPassport."}}
 {"client_id":23389902812309,"data":{"clientId":23389902812309}}
 {"client_id":23444736577784,"data":{"clientId":23444736577784,"text":"Original Chart Info"}}
@@ -496,18 +516,23 @@
 {"client_id":26288239374671,"data":{"clientId":26288239374671,"text":"Clear"}}
 {"client_id":26706139204939,"data":{"clientId":26706139204939,"text":"Timing Adjustment"}}
 {"client_id":26786187471679,"data":{"clientId":26786187471679,"text":"Still happens"}}
+{"client_id":27397249670644,"data":{"clientId":27397249670644,"text":"Fishing Rod upgrade available."}}
 {"client_id":27520443343165,"data":{"clientId":27520443343165,"text":"Active Skill"}}
 {"client_id":27532468299924,"data":{"clientId":27532468299924,"text":"Total High Score Ranking Results"}}
 {"client_id":27618269460354,"data":{"clientId":27618269460354,"text":"B"}}
 {"client_id":27656672992176,"data":{"clientId":27656672992176,"text":"Visit Dream Park!"}}
+{"client_id":28167913602282,"data":{"clientId":28167913602282,"text":"Boat"}}
 {"client_id":28261965271945,"data":{"clientId":28261965271945,"text":"[{0}] {1}<alpha=#8B> is"}}
 {"client_id":28331001242075,"data":{"clientId":28331001242075,"text":"Off"}}
+{"client_id":28761925576133,"data":{"clientId":28761925576133,"text":"OUT!"}}
+{"client_id":29109149014419,"data":{"clientId":29109149014419,"text":"You cannot set a difficulty level that is significantly lower than the Estimated Difficulty."}}
 {"client_id":29112528035840,"data":{"clientId":29112528035840,"text":"Badge"}}
 {"client_id":29189520812543,"data":{"clientId":29189520812543,"text":"Blue Diamonds limit: {0}."}}
 {"client_id":29259966637053,"data":{"clientId":29259966637053,"text":"Change"}}
 {"client_id":29339782732954,"data":{"clientId":29339782732954,"text":"Bonus Total"}}
 {"client_id":29359891308544,"data":{"clientId":29359891308544,"text":"Stickers"}}
 {"client_id":29396020686017,"data":{"clientId":29396020686017,"text":"Connection failed.\\n[useridmismatch]"}}
+{"client_id":29492151002064,"data":{"clientId":29492151002064,"text":"Other"}}
 {"client_id":29520273104896,"data":{"clientId":29520273104896,"text":"Others"}}
 {"client_id":30198869391227,"data":{"clientId":30198869391227,"text":"Leave\\nthis Room"}}
 {"client_id":30481878353035,"data":{"clientId":30481878353035,"text":"Your Dream Rank"}}
@@ -524,6 +549,7 @@
 {"client_id":32091112696350,"data":{"clientId":32091112696350,"text":"Account Link Restriction"}}
 {"client_id":32682479935488,"data":{"clientId":32682479935488,"text":"Minigame Boost"}}
 {"client_id":32842849148928,"data":{"clientId":32842849148928,"text":"Cancel"}}
+{"client_id":32847540736756,"data":{"clientId":32847540736756,"text":"Penlight"}}
 {"client_id":32994003476480,"data":{"clientId":32994003476480,"text":"Confirm"}}
 {"client_id":33056695741807,"data":{"clientId":33056695741807,"text":"Online"}}
 {"client_id":33431962477933,"data":{"clientId":33431962477933,"text":"Event"}}
@@ -541,6 +567,7 @@
 {"client_id":35565507010560,"data":{"clientId":35565507010560,"text":"Jacket"}}
 {"client_id":35580430344192,"data":{"clientId":35580430344192,"text":"List"}}
 {"client_id":35642596057088,"data":{"clientId":35642596057088,"text":"Search around the park"}}
+{"client_id":35706714594581,"data":{"clientId":35706714594581,"text":"Fish that can be caught here"}}
 {"client_id":35714178310144,"data":{"clientId":35714178310144,"text":"Score Rating"}}
 {"client_id":35779483623424,"data":{"clientId":35779483623424,"text":"Random"}}
 {"client_id":35901833083677,"data":{"clientId":35901833083677,"text":"TOP100"}}
@@ -562,11 +589,13 @@
 {"client_id":38044925332929,"data":{"clientId":38044925332929,"text":"Day"}}
 {"client_id":38203005492658,"data":{"clientId":38203005492658,"text":"Transfer Account"}}
 {"client_id":38227978608640,"data":{"clientId":38227978608640,"text":"Current Score"}}
+{"client_id":38298234724197,"data":{"clientId":38298234724197,"text":"Fish Guide"}}
 {"client_id":38421319245824,"data":{"clientId":38421319245824,"text":"Top Score"}}
 {"client_id":38480074334208,"data":{"clientId":38480074334208,"text":"No Songs to display."}}
 {"client_id":38527723271028,"data":{"clientId":38527723271028,"text":"MM/dd"}}
 {"client_id":38703742161643,"data":{"clientId":38703742161643,"text":"Patrol Squad"}}
 {"client_id":38714760500538,"data":{"clientId":38714760500538,"text":"Header UI"}}
+{"client_id":38724332423842,"data":{"clientId":38724332423842,"text":"Items used for the upgrade will be consumed."}}
 {"client_id":38890956240120,"data":{"clientId":38890956240120,"text":"Connection has been disconnected."}}
 {"client_id":39285998616301,"data":{"clientId":39285998616301,"text":"Last login"}}
 {"client_id":39347277739270,"data":{"clientId":39347277739270,"text":"Default Cards cannot be edited."}}
@@ -589,6 +618,7 @@
 {"client_id":41177197165383,"data":{"clientId":41177197165383,"text":"Song Added!"}}
 {"client_id":41211043353647,"data":{"clientId":41211043353647,"text":"S"}}
 {"client_id":41249489578224,"data":{"clientId":41249489578224,"text":"PRIVATE"}}
+{"client_id":41262588683551,"data":{"clientId":41262588683551,"text":"{0}\\nTotalled Results Schedule"}}
 {"client_id":41571789304033,"data":{"clientId":41571789304033,"text":"Event Bonus"}}
 {"client_id":41641284296704,"data":{"clientId":41641284296704,"text":"The Deck is empty.\\nEnding the game."}}
 {"client_id":41679888061508,"data":{"clientId":41679888061508,"text":"E"}}
@@ -622,6 +652,7 @@
 {"client_id":44291753074688,"data":{"clientId":44291753074688,"text":"Set all Members."}}
 {"client_id":44320479675345,"data":{"clientId":44320479675345}}
 {"client_id":44390031054183,"data":{"clientId":44390031054183,"text":"Update required. Please try again from the edit screen."}}
+{"client_id":44489598940899,"data":{"clientId":44489598940899,"text":"Fail"}}
 {"client_id":44690749610706,"data":{"clientId":44690749610706,"text":"Changing this will exit the game."}}
 {"client_id":44757365904231,"data":{"clientId":44757365904231,"text":"Score Bonus"}}
 {"client_id":45057742658012,"data":{"clientId":45057742658012,"text":"Daily"}}
@@ -652,6 +683,7 @@
 {"client_id":46964017979392,"data":{"clientId":46964017979392,"text":"Confirm"}}
 {"client_id":46983173923636,"data":{"clientId":46983173923636,"text":"8"}}
 {"client_id":47073204100735,"data":{"clientId":47073204100735,"text":"Lead holomem"}}
+{"client_id":47128529851600,"data":{"clientId":47128529851600,"text":"Lane Divisions"}}
 {"client_id":47301566450577,"data":{"clientId":47301566450577,"text":"D"}}
 {"client_id":47407770691008,"data":{"clientId":47407770691008,"text":"Options"}}
 {"client_id":47456852943145,"data":{"clientId":47456852943145,"text":"Tap to scratch!"}}
@@ -687,6 +719,7 @@
 {"client_id":53592896592878,"data":{"clientId":53592896592878,"text":"Ranking"}}
 {"client_id":53596665876606,"data":{"clientId":53596665876606,"text":"Lane 6"}}
 {"client_id":53991672111104,"data":{"clientId":53991672111104,"text":"Bring the required ingredients!"}}
+{"client_id":54058167112346,"data":{"clientId":54058167112346,"text":"Failed to cancel the difficulty selection."}}
 {"client_id":54068314601485,"data":{"clientId":54068314601485,"text":"History"}}
 {"client_id":54213657564249,"data":{"clientId":54213657564249,"text":"Connection to the server was lost.\\nReturning to the Park."}}
 {"client_id":54279099306007,"data":{"clientId":54279099306007,"text":"Overall Power"}}
@@ -697,6 +730,7 @@
 {"client_id":54867119824896,"data":{"clientId":54867119824896,"text":"Friends"}}
 {"client_id":54871914307218,"data":{"clientId":54871914307218,"text":"Confirm Boost"}}
 {"client_id":54982979084288,"data":{"clientId":54982979084288,"text":"Preview"}}
+{"client_id":55083451363575,"data":{"clientId":55083451363575,"text":"Scoring Settings"}}
 {"client_id":55219026124800,"data":{"clientId":55219026124800,"text":"Chef"}}
 {"client_id":55342270849894,"data":{"clientId":55342270849894,"text":"Time Remaining"}}
 {"client_id":55365003800058,"data":{"clientId":55365003800058,"text":"Entry requirements not met."}}
@@ -737,7 +771,6 @@
 {"client_id":60196561870848,"data":{"clientId":60196561870848,"text":"Friend Request declined."}}
 {"client_id":60244666343424,"data":{"clientId":60244666343424,"text":"Retire"}}
 {"client_id":60371078471680,"data":{"clientId":60371078471680,"text":"Removed from Friends."}}
-{"client_id":60417203445434,"data":{"clientId":60417203445434,"text":"You can check after a clear."}}
 {"client_id":60532177643209,"data":{"clientId":60532177643209,"text":"External Transmission of User Information"}}
 {"client_id":60568382726144,"data":{"clientId":60568382726144,"text":"Blocked {0}."}}
 {"client_id":60657052576486,"data":{"clientId":60657052576486,"text":"Exchange"}}
@@ -767,6 +800,7 @@
 {"client_id":64710900408320,"data":{"clientId":64710900408320,"text":"m"}}
 {"client_id":64749722132480,"data":{"clientId":64749722132480,"text":"Friend limit reached."}}
 {"client_id":64803370852352,"data":{"clientId":64803370852352,"text":"Create"}}
+{"client_id":64882015935888,"data":{"clientId":64882015935888,"text":":"}}
 {"client_id":64901463662592,"data":{"clientId":64901463662592,"text":"Benefits (excl. Medals) require active membership."}}
 {"client_id":64906761068544,"data":{"clientId":64906761068544,"text":"/month"}}
 {"client_id":64911148310528,"data":{"clientId":64911148310528,"text":"Membership Benefits"}}
@@ -794,6 +828,7 @@
 {"client_id":67770693836800,"data":{"clientId":67770693836800,"text":"Reroll"}}
 {"client_id":67819159370759,"data":{"clientId":67819159370759,"text":"HH:mm:ss"}}
 {"client_id":67824361306487,"data":{"clientId":67824361306487,"text":"Sense"}}
+{"client_id":67945359829469,"data":{"clientId":67945359829469,"text":"There is not enough fishing bait."}}
 {"client_id":67967285092700,"data":{"clientId":67967285092700,"text":"Cancel"}}
 {"client_id":68201761837224,"data":{"clientId":68201761837224,"text":"Complete Payment"}}
 {"client_id":68218817744328,"data":{"clientId":68218817744328,"text":"Failed to Grant Purchase"}}
@@ -810,6 +845,7 @@
 {"client_id":69499138072576,"data":{"clientId":69499138072576,"text":"Bonus holomem"}}
 {"client_id":69611075657728,"data":{"clientId":69611075657728,"text":"If included in the hand,\\npoints are added for each card."}}
 {"client_id":69612874332199,"data":{"clientId":69612874332199,"text":"Purchase failed."}}
+{"client_id":69711317680359,"data":{"clientId":69711317680359,"text":"Items used for the upgrade will be consumed."}}
 {"client_id":69912407703277,"data":{"clientId":69912407703277,"text":"Rank {0}"}}
 {"client_id":69962096959488,"data":{"clientId":69962096959488,"text":"Outfit changed."}}
 {"client_id":70023020044288,"data":{"clientId":70023020044288,"text":"%"}}
@@ -833,6 +869,7 @@
 {"client_id":72043866727339,"data":{"clientId":72043866727339,"text":"<alpha=#A6>Until <alpha=#FF>{0}"}}
 {"client_id":72090913100277,"data":{"clientId":72090913100277,"text":"Lv"}}
 {"client_id":72311161107807,"data":{"clientId":72311161107807,"text":"Lane 3"}}
+{"client_id":72488060829775,"data":{"clientId":72488060829775,"text":"Fish that like this bait"}}
 {"client_id":72910449795072,"data":{"clientId":72910449795072,"text":"%"}}
 {"client_id":73405753738559,"data":{"clientId":73405753738559,"text":"Remove Block"}}
 {"client_id":73440222748995,"data":{"clientId":73440222748995,"text":"Earned"}}
@@ -849,6 +886,7 @@
 {"client_id":75913312283354,"data":{"clientId":75913312283354,"text":"Select Set Piece"}}
 {"client_id":76038379374800,"data":{"clientId":76038379374800,"text":"Not Achieved"}}
 {"client_id":76093305648100,"data":{"clientId":76093305648100,"text":"This character cannot be used."}}
+{"client_id":76155321078112,"data":{"clientId":76155321078112,"text":"pt"}}
 {"client_id":76276142347264,"data":{"clientId":76276142347264,"text":"No Score Rating"}}
 {"client_id":76307759898259,"data":{"clientId":76307759898259,"text":"This is the active holomem."}}
 {"client_id":76343823435435,"data":{"clientId":76343823435435,"text":"This character cannot be used."}}
@@ -862,6 +900,7 @@
 {"client_id":77763951965446,"data":{"clientId":77763951965446,"text":"Connection failed.\\n[ Unauthenticated ]"}}
 {"client_id":77920381200941,"data":{"clientId":77920381200941,"text":"({0})"}}
 {"client_id":78087086192474,"data":{"clientId":78087086192474,"text":"Account Restricted"}}
+{"client_id":78138526476578,"data":{"clientId":78138526476578,"text":"You cannot set a difficulty level that is significantly exceeds the Estimated Difficulty."}}
 {"client_id":78199322763264,"data":{"clientId":78199322763264,"text":"+{0}"}}
 {"client_id":78400909418040,"data":{"clientId":78400909418040,"text":"Owned"}}
 {"client_id":78443982798347,"data":{"clientId":78443982798347,"text":"holomem name"}}
@@ -884,6 +923,7 @@
 {"client_id":80720959365123,"data":{"clientId":80720959365123,"text":"Currently undergoing maintenance."}}
 {"client_id":80720959365124,"data":{"clientId":80720959365124,"text":"In Maintenance"}}
 {"client_id":80720959365125,"data":{"clientId":80720959365125,"text":"Currently undergoing maintenance."}}
+{"client_id":80777379197786,"data":{"clientId":80777379197786,"text":"CLEARED!"}}
 {"client_id":80800845451093,"data":{"clientId":80800845451093,"text":"Bar"}}
 {"client_id":81079597858151,"data":{"clientId":81079597858151,"text":"Tracking Settings"}}
 {"client_id":81090348776935,"data":{"clientId":81090348776935,"text":"* Check here for perk details."}}
@@ -899,6 +939,7 @@
 {"client_id":82493030916096,"data":{"clientId":82493030916096,"text":"times/week"}}
 {"client_id":82498173694455,"data":{"clientId":82498173694455,"text":"Thumbnail erased."}}
 {"client_id":82646270076964,"data":{"clientId":82646270076964,"text":"This may take some time. Please wait for a bit."}}
+{"client_id":82715765679041,"data":{"clientId":82715765679041,"text":"Confirm"}}
 {"client_id":82798275584000,"data":{"clientId":82798275584000,"text":"times/day"}}
 {"client_id":82835992305664,"data":{"clientId":82835992305664,"text":"Bloom"}}
 {"client_id":83011124671827,"data":{"clientId":83011124671827,"text":"Selected items reset."}}
@@ -913,12 +954,15 @@
 {"client_id":84660492733820,"data":{"clientId":84660492733820,"text":"Rescued!"}}
 {"client_id":85110186856764,"data":{"clientId":85110186856764,"text":"Change device settings to \"Allow.\""}}
 {"client_id":85110679265280,"data":{"clientId":85110679265280,"text":"time(s)"}}
+{"client_id":85182408856929,"data":{"clientId":85182408856929,"text":"Favorite Bait"}}
 {"client_id":85464158545221,"data":{"clientId":85464158545221,"text":"Data Sharing"}}
+{"client_id":85472627192213,"data":{"clientId":85472627192213,"text":"Powered-Up Fishing Rod.\\nEven slippery fish can be caught like it's nothing!"}}
 {"client_id":85477499206102,"data":{"clientId":85477499206102,"text":"Amount Obtained"}}
 {"client_id":85895132224918,"data":{"clientId":85895132224918,"text":"Share"}}
 {"client_id":86399859379029,"data":{"clientId":86399859379029,"text":"st"}}
 {"client_id":86684470787372,"data":{"clientId":86684470787372,"text":"Light"}}
 {"client_id":86727911083853,"data":{"clientId":86727911083853,"text":"Confirm"}}
+{"client_id":86740115084185,"data":{"clientId":86740115084185,"text":"Perfect Fishing Rod.\\nEven slippery fish can be caught like it's nothing!"}}
 {"client_id":86792674710737,"data":{"clientId":86792674710737,"text":"Weekly Pts limit has been reached."}}
 {"client_id":87166304995451,"data":{"clientId":87166304995451,"text":"Insufficient formation score to participate in Graded Mode."}}
 {"client_id":87631987797891,"data":{"clientId":87631987797891,"text":"Mission Pass"}}
@@ -926,14 +970,17 @@
 {"client_id":87736567390208,"data":{"clientId":87736567390208,"text":"Exit"}}
 {"client_id":87785493389312,"data":{"clientId":87785493389312,"text":"Holomem Board has been reset."}}
 {"client_id":88553072579496,"data":{"clientId":88553072579496,"text":"Members that have enough Pts to Fully Bloom\\nwill be converted into the following items."}}
+{"client_id":88634430503054,"data":{"clientId":88634430503054,"text":"Line"}}
 {"client_id":89388026070647,"data":{"clientId":89388026070647,"text":"Exchange period has ended.\\nReturning to Title screen."}}
 {"client_id":89410337038336,"data":{"clientId":89410337038336,"text":"A Player is Selecting a Song"}}
 {"client_id":89890475791805,"data":{"clientId":89890475791805,"text":"JDG. Boost"}}
+{"client_id":90370242537558,"data":{"clientId":90370242537558,"text":"Note Height(%)"}}
 {"client_id":90544181977137,"data":{"clientId":90544181977137,"text":"Warning"}}
 {"client_id":90646367125860,"data":{"clientId":90646367125860,"text":"4"}}
 {"client_id":90709488021174,"data":{"clientId":90709488021174,"text":"/{0}"}}
 {"client_id":90720225289205,"data":{"clientId":90720225289205,"text":"Lane"}}
 {"client_id":90889181773740,"data":{"clientId":90889181773740,"text":"Progress through the Main Quests first."}}
+{"client_id":91041481404042,"data":{"clientId":91041481404042,"text":"Key Configuration (Park)"}}
 {"client_id":91086829084672,"data":{"clientId":91086829084672,"text":"Bonus Rewards"}}
 {"client_id":91865020192769,"data":{"clientId":91865020192769,"text":"Swap"}}
 {"client_id":91969644915345,"data":{"clientId":91969644915345,"text":"Connection failed.\\n[ AlreadyConnected ]"}}
@@ -958,6 +1005,7 @@
 {"client_id":94377478960752,"data":{"clientId":94377478960752,"text":"Sometimes"}}
 {"client_id":94694170091520,"data":{"clientId":94694170091520,"text":"Delete all resources?"}}
 {"client_id":94697949159424,"data":{"clientId":94697949159424,"text":"Deleting resources will not delete save data."}}
+{"client_id":94934413190447,"data":{"clientId":94934413190447,"text":"By Lane"}}
 {"client_id":95108122304512,"data":{"clientId":95108122304512,"text":"Go!"}}
 {"client_id":95447678813151,"data":{"clientId":95447678813151,"text":"Time Remaining"}}
 {"client_id":95457724382807,"data":{"clientId":95457724382807,"text":"Download Music"}}
@@ -981,9 +1029,11 @@
 {"client_id":98097616543290,"data":{"clientId":98097616543290,"text":"License Number: ID000012096\\nLicense Number: ID000012095"}}
 {"client_id":98230347325440,"data":{"clientId":98230347325440,"text":"Ending the game. Multiple players reached 0 points."}}
 {"client_id":98349632871446,"data":{"clientId":98349632871446,"text":"Month"}}
+{"client_id":98619044845502,"data":{"clientId":98619044845502,"text":"GOOD & below"}}
 {"client_id":98654268837929,"data":{"clientId":98654268837929,"text":"Titles are distributed based on your ranking every week at the time of update. Titles remain valid until the next update."}}
 {"client_id":98726161393050,"data":{"clientId":98726161393050,"text":"Could not connect. The game has already started."}}
 {"client_id":98921961807216,"data":{"clientId":98921961807216,"text":"Play with other players."}}
+{"client_id":99023187762244,"data":{"clientId":99023187762244,"text":"Field guide rewards available to claim."}}
 {"client_id":99353951407048,"data":{"clientId":99353951407048,"text":"This account has not been created."}}
 {"client_id":99701624922112,"data":{"clientId":99701624922112,"text":"No blocked players."}}
 {"client_id":99960762450018,"data":{"clientId":99960762450018,"text":"Unlock holomems music by completing Quests."}}
@@ -1015,6 +1065,7 @@
 {"client_id":102105613885440,"data":{"clientId":102105613885440,"text":"Unlocked!"}}
 {"client_id":102161495354129,"data":{"clientId":102161495354129,"text":"Members that are already assigned cannot be added."}}
 {"client_id":102530790358684,"data":{"clientId":102530790358684,"text":"F"}}
+{"client_id":102809088138335,"data":{"clientId":102809088138335,"text":"Key Configuration (Fishing)"}}
 {"client_id":102978277720385,"data":{"clientId":102978277720385,"text":"Caught!"}}
 {"client_id":103088533687835,"data":{"clientId":103088533687835,"text":"Editor Settings"}}
 {"client_id":103189976460927,"data":{"clientId":103189976460927,"text":"Treasure Chest"}}
@@ -1031,11 +1082,13 @@
 {"client_id":104646061395980,"data":{"clientId":104646061395980,"text":"Failed to assign the copied Notes."}}
 {"client_id":104664969384404,"data":{"clientId":104664969384404,"text":"Host-only feature."}}
 {"client_id":104674305606234,"data":{"clientId":104674305606234,"text":"T"}}
+{"client_id":104786989303116,"data":{"clientId":104786989303116,"text":"Display SLOW/FAST"}}
 {"client_id":104872538217778,"data":{"clientId":104872538217778,"text":"Unlock Conditions:"}}
 {"client_id":105307319421543,"data":{"clientId":105307319421543,"text":"I took a photo at Dream Park!\nLet’s play hololive Dreams!\n\n#MyHolodoriPicture"}}
 {"client_id":105795078980191,"data":{"clientId":105795078980191,"text":"Found!"}}
 {"client_id":105827331006464,"data":{"clientId":105827331006464,"text":"Lv"}}
 {"client_id":105934899765248,"data":{"clientId":105934899765248,"text":"Remove"}}
+{"client_id":106030032847894,"data":{"clientId":106030032847894,"text":"Patrol Squad: Use skill"}}
 {"client_id":106031278214794,"data":{"clientId":106031278214794,"text":"The same holomem is already in the lineup.\\nReplace {0}?"}}
 {"client_id":106375436182024,"data":{"clientId":106375436182024,"text":"Change"}}
 {"client_id":106456498023635,"data":{"clientId":106456498023635,"text":"Birthdate"}}
@@ -1051,15 +1104,19 @@
 {"client_id":108085878679709,"data":{"clientId":108085878679709,"text":"9"}}
 {"client_id":108156354049519,"data":{"clientId":108156354049519,"text":"Next"}}
 {"client_id":108488725985644,"data":{"clientId":108488725985644,"text":"Quick Chat"}}
+{"client_id":108497959713342,"data":{"clientId":108497959713342,"text":"Matchmaking timed out."}}
 {"client_id":108501731129186,"data":{"clientId":108501731129186,"text":"Purchase Confirmation"}}
 {"client_id":108788449468416,"data":{"clientId":108788449468416,"text":"Live Outfit"}}
 {"client_id":109259847294976,"data":{"clientId":109259847294976,"text":"Park Outfit"}}
+{"client_id":109464742164561,"data":{"clientId":109464742164561,"text":"Live Color"}}
+{"client_id":109871167340975,"data":{"clientId":109871167340975,"text":"Power Up Your Boat: Jet Across the Open Sea!"}}
 {"client_id":109988051383082,"data":{"clientId":109988051383082,"text":"Submit"}}
 {"client_id":110040339268659,"data":{"clientId":110040339268659,"text":"The date you started the game"}}
 {"client_id":110072237892782,"data":{"clientId":110072237892782,"text":"To Next Story"}}
 {"client_id":110248249384024,"data":{"clientId":110248249384024,"text":"Leave Room"}}
 {"client_id":110323122594471,"data":{"clientId":110323122594471,"text":"Off"}}
 {"client_id":110358790152207,"data":{"clientId":110358790152207,"text":"Moving"}}
+{"client_id":110366006093427,"data":{"clientId":110366006093427,"text":"Display All"}}
 {"client_id":110377357107200,"data":{"clientId":110377357107200,"text":"Live"}}
 {"client_id":110384317009785,"data":{"clientId":110384317009785,"text":"No Songs to display."}}
 {"client_id":110437942081903,"data":{"clientId":110437942081903,"text":"01"}}
@@ -1068,16 +1125,20 @@
 {"client_id":110998530933799,"data":{"clientId":110998530933799,"text":"Mission"}}
 {"client_id":111296082837699,"data":{"clientId":111296082837699,"text":"Deleting resources will not delete save data."}}
 {"client_id":111394954585488,"data":{"clientId":111394954585488,"text":"Streamer Mode"}}
+{"client_id":111407385215380,"data":{"clientId":111407385215380,"text":"Amount Used"}}
 {"client_id":111512041917253,"data":{"clientId":111512041917253,"text":"Achievs"}}
+{"client_id":112077237337464,"data":{"clientId":112077237337464,"text":"Highlight"}}
 {"client_id":112123834752842,"data":{"clientId":112123834752842,"text":"--"}}
 {"client_id":112307387178923,"data":{"clientId":112307387178923,"text":"Outfit Skill"}}
 {"client_id":112486698408497,"data":{"clientId":112486698408497,"text":"Transaction Processing Error"}}
+{"client_id":112559174875507,"data":{"clientId":112559174875507,"text":"Maximum level reached"}}
 {"client_id":112623128895461,"data":{"clientId":112623128895461,"text":"More fun awaits!"}}
 {"client_id":112663655656770,"data":{"clientId":112663655656770,"text":"Let’s complete Missions!"}}
 {"client_id":112735893053440,"data":{"clientId":112735893053440,"text":"Mode"}}
 {"client_id":112843146583841,"data":{"clientId":112843146583841,"text":"Deletes rarely used data to reduce storage usage."}}
 {"client_id":112847654940450,"data":{"clientId":112847654940450,"text":"Face Camera"}}
 {"client_id":112995329444239,"data":{"clientId":112995329444239,"text":"You have friend requests."}}
+{"client_id":113368905515828,"data":{"clientId":113368905515828,"text":"How to Obtain"}}
 {"client_id":113508879875796,"data":{"clientId":113508879875796,"text":"7"}}
 {"client_id":113545307038007,"data":{"clientId":113545307038007,"text":"Failed to autosave."}}
 {"client_id":114033147305774,"data":{"clientId":114033147305774,"text":"Total"}}
@@ -1091,6 +1152,7 @@
 {"client_id":115512381224055,"data":{"clientId":115512381224055,"text":"With MV"}}
 {"client_id":115552568673340,"data":{"clientId":115552568673340,"text":"All"}}
 {"client_id":115592316850676,"data":{"clientId":115592316850676,"text":"This chapter is not open yet."}}
+{"client_id":116144009142970,"data":{"clientId":116144009142970,"text":"Field Guide Reward"}}
 {"client_id":116294624403456,"data":{"clientId":116294624403456,"text":"View"}}
 {"client_id":116576303538176,"data":{"clientId":116576303538176,"text":"File"}}
 {"client_id":116577603772416,"data":{"clientId":116577603772416,"text":"Finish"}}
@@ -1108,8 +1170,10 @@
 {"client_id":118928867680256,"data":{"clientId":118928867680256,"text":"Showing the top 100 players."}}
 {"client_id":119096722841600,"data":{"clientId":119096722841600,"text":"Payment Services Act"}}
 {"client_id":119167136555718,"data":{"clientId":119167136555718,"text":"Join"}}
+{"client_id":119254927205055,"data":{"clientId":119254927205055,"text":"Hide All"}}
 {"client_id":119260780556154,"data":{"clientId":119260780556154,"text":"Please enter 8-16 characters."}}
 {"client_id":119433013747712,"data":{"clientId":119433013747712,"text":"Legal Notices"}}
+{"client_id":119854367263277,"data":{"clientId":119854367263277,"text":"LEVEL UP!"}}
 {"client_id":119917962176578,"data":{"clientId":119917962176578,"text":"Confirm"}}
 {"client_id":120081429345435,"data":{"clientId":120081429345435,"text":"High"}}
 {"client_id":120134269537802,"data":{"clientId":120134269537802,"text":"Quick Chat 2"}}
@@ -1129,6 +1193,7 @@
 {"client_id":122216698929152,"data":{"clientId":122216698929152,"text":"Reload"}}
 {"client_id":122524622766160,"data":{"clientId":122524622766160,"text":"Couldn’t unlock in time..."}}
 {"client_id":122924797755122,"data":{"clientId":122924797755122,"text":"Account linking date"}}
+{"client_id":123006427951991,"data":{"clientId":123006427951991,"text":"Scoring Display Type"}}
 {"client_id":123078356594941,"data":{"clientId":123078356594941,"text":"Not unblocked"}}
 {"client_id":123133183713280,"data":{"clientId":123133183713280,"text":"Friends"}}
 {"client_id":123322095362048,"data":{"clientId":123322095362048,"text":"Player ID"}}
@@ -1137,6 +1202,9 @@
 {"client_id":123921312833536,"data":{"clientId":123921312833536,"text":"Member Parameter"}}
 {"client_id":124305628656345,"data":{"clientId":124305628656345,"text":"Title"}}
 {"client_id":124306953920512,"data":{"clientId":124306953920512,"text":"Outfit Skill"}}
+{"client_id":124518069627445,"data":{"clientId":124518069627445,"text":"Key Configuration (Shadowbound Chase/Patrol Squad)"}}
+{"client_id":124550326747671,"data":{"clientId":124550326747671,"text":"Let’s choose a bait."}}
+{"client_id":124741878216016,"data":{"clientId":124741878216016,"text":"Continue"}}
 {"client_id":124824786886656,"data":{"clientId":124824786886656,"text":"Holomem Board Bonus"}}
 {"client_id":125145198157824,"data":{"clientId":125145198157824,"text":"Passive Skill"}}
 {"client_id":125434725097472,"data":{"clientId":125434725097472,"text":"Preset {0}"}}
@@ -1168,6 +1236,7 @@
 {"client_id":128768999972864,"data":{"clientId":128768999972864,"text":"Unlocked"}}
 {"client_id":128952999895040,"data":{"clientId":128952999895040,"text":"No unlockable Nodes."}}
 {"client_id":128969718302559,"data":{"clientId":128969718302559,"text":"Grade"}}
+{"client_id":129096002954899,"data":{"clientId":129096002954899,"text":"Spawn Area"}}
 {"client_id":129096506862295,"data":{"clientId":129096506862295,"text":"Remove friend request?"}}
 {"client_id":129132462215168,"data":{"clientId":129132462215168,"text":"Please press the key you wish to assign."}}
 {"client_id":129182159762096,"data":{"clientId":129182159762096,"text":"Try selecting Hot Picks Members."}}
@@ -1178,6 +1247,7 @@
 {"client_id":129748631456706,"data":{"clientId":129748631456706,"text":"Talent Guidelines"}}
 {"client_id":129769916325888,"data":{"clientId":129769916325888,"text":"Spend <alpha=#FF>{1} <alpha=#A6>{0} to draw?"}}
 {"client_id":129770703937536,"data":{"clientId":129770703937536,"text":"Custom Card"}}
+{"client_id":129777156368767,"data":{"clientId":129777156368767,"text":"Failed to save photo."}}
 {"client_id":129925621851595,"data":{"clientId":129925621851595,"text":"No matching Friends found."}}
 {"client_id":129955666123902,"data":{"clientId":129955666123902,"text":"Finish"}}
 {"client_id":129978886971392,"data":{"clientId":129978886971392,"text":"ID Entry"}}
@@ -1205,11 +1275,14 @@
 {"client_id":133484317040424,"data":{"clientId":133484317040424,"text":"0"}}
 {"client_id":133547372497278,"data":{"clientId":133547372497278,"text":"Loading data..."}}
 {"client_id":133866467319808,"data":{"clientId":133866467319808,"text":"Total"}}
+{"client_id":134071460711440,"data":{"clientId":134071460711440,"text":"Are you sure you want to reset all\\nkey configurations settings back to default?"}}
 {"client_id":134125401228663,"data":{"clientId":134125401228663,"text":"mm:ss"}}
 {"client_id":134459146836631,"data":{"clientId":134459146836631,"text":"No available Members are set."}}
 {"client_id":134483483200899,"data":{"clientId":134483483200899,"text":"1"}}
 {"client_id":134489877700608,"data":{"clientId":134489877700608,"text":"Enter the Room ID."}}
+{"client_id":134729507062026,"data":{"clientId":134729507062026,"text":"Fish that like this bait"}}
 {"client_id":134754170417333,"data":{"clientId":134754170417333,"text":"Due to disruptive behavior to other players\\nyou have been temporarily restricted from Multiplayer Live."}}
+{"client_id":134757844370353,"data":{"clientId":134757844370353,"text":"Action"}}
 {"client_id":134778363606176,"data":{"clientId":134778363606176,"text":"Connect Bonus"}}
 {"client_id":134992257568524,"data":{"clientId":134992257568524,"text":"You can play Card of Greed."}}
 {"client_id":135020224639875,"data":{"clientId":135020224639875,"text":"* If multiple are set, the bonus effect will only apply to one holomem"}}
@@ -1250,6 +1323,7 @@
 {"client_id":138057358467072,"data":{"clientId":138057358467072,"text":"Send to All."}}
 {"client_id":138057358467073,"data":{"clientId":138057358467073,"text":"Invitation sent."}}
 {"client_id":138057358467074,"data":{"clientId":138057358467074,"text":"Already invited."}}
+{"client_id":138289897885663,"data":{"clientId":138289897885663,"text":"High-Spec Fishing Rod.\\nEven slippery fish can be caught like it's nothing!"}}
 {"client_id":138656132069497,"data":{"clientId":138656132069497,"text":"By completing this purchase, I acknowledge that I am purchasing a license to use the digital content specified in the terms of this license agreement. I expressly consent to the immediate download of the digital content upon purchase and acknowledge that my right of withdrawal will terminate once the download has commenced."}}
 {"client_id":138797272055446,"data":{"clientId":138797272055446,"text":"~"}}
 {"client_id":138940088279040,"data":{"clientId":138940088279040,"text":"{0} can be upgraded"}}
@@ -1272,9 +1346,12 @@
 {"client_id":139798280153165,"data":{"clientId":139798280153165,"text":"Account linking date\\n(Date you recently added a new device)"}}
 {"client_id":139998925379692,"data":{"clientId":139998925379692,"text":"Speed Up"}}
 {"client_id":140184722432000,"data":{"clientId":140184722432000,"text":"Too bad..."}}
+{"client_id":140242834952609,"data":{"clientId":140242834952609,"text":"Key Configuration (Movement)"}}
 {"client_id":140638702932876,"data":{"clientId":140638702932876,"text":"You do not own this Fan Badge."}}
 {"client_id":140643413936952,"data":{"clientId":140643413936952,"text":"Caught!"}}
 {"client_id":140827551621120,"data":{"clientId":140827551621120,"text":"Vocal ver."}}
+{"client_id":140883373011756,"data":{"clientId":140883373011756,"text":"Bait"}}
+{"client_id":141028108199085,"data":{"clientId":141028108199085,"text":"Maximum level reached"}}
 {"client_id":141208789409792,"data":{"clientId":141208789409792,"text":"Reset"}}
 {"client_id":141322063746130,"data":{"clientId":141322063746130,"text":"Payment Pending"}}
 {"client_id":141332155211502,"data":{"clientId":141332155211502,"text":"Private player info"}}
@@ -1282,11 +1359,14 @@
 {"client_id":141761239196061,"data":{"clientId":141761239196061,"text":"VS"}}
 {"client_id":141781377674110,"data":{"clientId":141781377674110,"text":"Mid"}}
 {"client_id":142089776552336,"data":{"clientId":142089776552336,"text":"Skip"}}
+{"client_id":142197475622576,"data":{"clientId":142197475622576,"text":"Key Configuration (Shadowbound Chase/Prank Gang)"}}
 {"client_id":142222883134808,"data":{"clientId":142222883134808,"text":"Select a player."}}
+{"client_id":142637145472144,"data":{"clientId":142637145472144,"text":"How to Upgrade"}}
 {"client_id":142978427478016,"data":{"clientId":142978427478016,"text":"Filter"}}
 {"client_id":143030630733339,"data":{"clientId":143030630733339,"text":"Original"}}
 {"client_id":143298178557728,"data":{"clientId":143298178557728,"text":"--:--.--"}}
 {"client_id":143382413344468,"data":{"clientId":143382413344468,"text":"Failed to initialize purchase processing."}}
+{"client_id":143537155726184,"data":{"clientId":143537155726184,"text":"Lv"}}
 {"client_id":143549850655551,"data":{"clientId":143549850655551,"text":"Retry"}}
 {"client_id":143666136603966,"data":{"clientId":143666136603966,"text":"Autosaving..."}}
 {"client_id":144177449880077,"data":{"clientId":144177449880077,"text":"Visit Dream Park!"}}
@@ -1307,6 +1387,7 @@
 {"client_id":147045286233724,"data":{"clientId":147045286233724,"text":"Mouse"}}
 {"client_id":147079740804264,"data":{"clientId":147079740804264,"text":"{0} hr {1} min"}}
 {"client_id":147204378728393,"data":{"clientId":147204378728393,"text":"Selected"}}
+{"client_id":147220480777755,"data":{"clientId":147220480777755,"text":"Fishing"}}
 {"client_id":147308723585301,"data":{"clientId":147308723585301,"text":"Chapter {0} <color=#62628ebf>has been unlocked."}}
 {"client_id":147362131369984,"data":{"clientId":147362131369984,"text":"Confirm"}}
 {"client_id":147430422720967,"data":{"clientId":147430422720967,"text":"3"}}
@@ -1335,6 +1416,7 @@
 {"client_id":151160549811976,"data":{"clientId":151160549811976,"text":"Purchase pending."}}
 {"client_id":151483420623734,"data":{"clientId":151483420623734,"text":"Linking complete."}}
 {"client_id":152357530716003,"data":{"clientId":152357530716003,"text":"Downloading assets..."}}
+{"client_id":152721070420963,"data":{"clientId":152721070420963,"text":"Best Score"}}
 {"client_id":152994130000111,"data":{"clientId":152994130000111,"text":"MV Settings"}}
 {"client_id":153064069239620,"data":{"clientId":153064069239620,"text":"Do Not Link"}}
 {"client_id":153146890606246,"data":{"clientId":153146890606246,"text":"Volume for specific songs will be set to 0."}}
@@ -1347,6 +1429,7 @@
 {"client_id":154255698476030,"data":{"clientId":154255698476030,"text":"Select a type of report."}}
 {"client_id":154448745448592,"data":{"clientId":154448745448592,"text":"Play Details"}}
 {"client_id":154629955033605,"data":{"clientId":154629955033605,"text":"No more draws available today."}}
+{"client_id":154899795811027,"data":{"clientId":154899795811027,"text":"New Record!"}}
 {"client_id":154924381593600,"data":{"clientId":154924381593600}}
 {"client_id":154955502458368,"data":{"clientId":154955502458368,"text":"Options"}}
 {"client_id":155061448138752,"data":{"clientId":155061448138752,"text":"Trim"}}
@@ -1372,6 +1455,7 @@
 {"client_id":157133923409920,"data":{"clientId":157133923409920,"text":"Remaining Time"}}
 {"client_id":157134317674496,"data":{"clientId":157134317674496,"text":"Reward Collection Expired"}}
 {"client_id":157349320957352,"data":{"clientId":157349320957352,"text":"No eligible events."}}
+{"client_id":157601853239892,"data":{"clientId":157601853239892,"text":"∞"}}
 {"client_id":157737652760328,"data":{"clientId":157737652760328,"text":"No unlocked Skills."}}
 {"client_id":157883170571332,"data":{"clientId":157883170571332,"text":"p"}}
 {"client_id":158014483554304,"data":{"clientId":158014483554304,"text":"Collect All"}}
@@ -1381,12 +1465,14 @@
 {"client_id":158387025029143,"data":{"clientId":158387025029143,"text":"Custom Template registered."}}
 {"client_id":158575488852231,"data":{"clientId":158575488852231,"text":"SP Skill Illustration and Live2D"}}
 {"client_id":158578528149168,"data":{"clientId":158578528149168,"text":"This will turn off tracking from third-party cross-site apps and websites.\\n\\nAs a result, you're more likely to see irrelevant ads."}}
+{"client_id":158586228057072,"data":{"clientId":158586228057072,"text":"Customize Boat"}}
 {"client_id":158688117531881,"data":{"clientId":158688117531881,"text":"Standard"}}
 {"client_id":159112846614067,"data":{"clientId":159112846614067,"text":"Write the report."}}
 {"client_id":159269849448283,"data":{"clientId":159269849448283,"text":"Leave\\nthis Room"}}
 {"client_id":159312549010060,"data":{"clientId":159312549010060,"text":"Retry Challenge"}}
 {"client_id":159468320072058,"data":{"clientId":159468320072058,"text":"Choose the first holomem to play."}}
 {"client_id":160235586803111,"data":{"clientId":160235586803111,"text":"example@example.com"}}
+{"client_id":160354713874129,"data":{"clientId":160354713874129,"text":"Own Goal..."}}
 {"client_id":160411624766432,"data":{"clientId":160411624766432,"text":"MM/dd/yyyy HH:mm"}}
 {"client_id":160894170656063,"data":{"clientId":160894170656063,"text":"Details"}}
 {"client_id":160931681498603,"data":{"clientId":160931681498603,"text":"None"}}
@@ -1400,6 +1486,7 @@
 {"client_id":162967806331775,"data":{"clientId":162967806331775,"text":"Others"}}
 {"client_id":163021335143507,"data":{"clientId":163021335143507,"text":"Information updated."}}
 {"client_id":163066800908073,"data":{"clientId":163066800908073,"text":"Minigame (Chase in the Dark)"}}
+{"client_id":163079102592301,"data":{"clientId":163079102592301,"text":"LEVEL UP!"}}
 {"client_id":163092983372341,"data":{"clientId":163092983372341,"text":"Stealth Activated!"}}
 {"client_id":163108054294528,"data":{"clientId":163108054294528,"text":"Perfect"}}
 {"client_id":163370928103424,"data":{"clientId":163370928103424,"text":"GREAT"}}
@@ -1421,9 +1508,11 @@
 {"client_id":164739954279030,"data":{"clientId":164739954279030,"text":"Confirm Live Boost"}}
 {"client_id":164964746852141,"data":{"clientId":164964746852141,"text":"th"}}
 {"client_id":165039877993805,"data":{"clientId":165039877993805,"text":"x"}}
+{"client_id":165049181133805,"data":{"clientId":165049181133805,"text":"Failed to save photo."}}
 {"client_id":165142451348012,"data":{"clientId":165142451348012,"text":"Cannot create because the maximum number of charts has been reached."}}
 {"client_id":165177275699010,"data":{"clientId":165177275699010,"text":"Payment Services Act"}}
 {"client_id":165333052272359,"data":{"clientId":165333052272359,"text":"Stickers"}}
+{"client_id":165643122152798,"data":{"clientId":165643122152798,"text":"Fishing Rod"}}
 {"client_id":165701883647920,"data":{"clientId":165701883647920,"text":"Free input. / Up to 100 characters."}}
 {"client_id":165959386846153,"data":{"clientId":165959386846153,"text":"High-score"}}
 {"client_id":166051820761141,"data":{"clientId":166051820761141,"text":"+{0}%"}}
@@ -1449,9 +1538,11 @@
 {"client_id":169343943653646,"data":{"clientId":169343943653646,"text":"Calculating"}}
 {"client_id":169760510271488,"data":{"clientId":169760510271488,"text":"Currently locked."}}
 {"client_id":170165019522433,"data":{"clientId":170165019522433,"text":"B"}}
+{"client_id":170282585182683,"data":{"clientId":170282585182683,"text":"Icon"}}
 {"client_id":170495085220418,"data":{"clientId":170495085220418,"text":"Tap to close"}}
 {"client_id":170546674488688,"data":{"clientId":170546674488688,"text":"Event"}}
 {"client_id":170832546566974,"data":{"clientId":170832546566974,"text":"Quick Chat 3"}}
+{"client_id":170881198635134,"data":{"clientId":170881198635134,"text":"Number of Exchanges"}}
 {"client_id":171092172460353,"data":{"clientId":171092172460353,"text":"Underway"}}
 {"client_id":171259875026791,"data":{"clientId":171259875026791,"text":"No history."}}
 {"client_id":171370984458278,"data":{"clientId":171370984458278,"text":"Change"}}
@@ -1483,19 +1574,23 @@
 {"client_id":175765290467860,"data":{"clientId":175765290467860,"text":"Not enough available Members."}}
 {"client_id":176058017407564,"data":{"clientId":176058017407564,"text":"Song already unlocked."}}
 {"client_id":176266128240236,"data":{"clientId":176266128240236,"text":"HoloPassport"}}
+{"client_id":176285540301213,"data":{"clientId":176285540301213,"text":"Regular"}}
 {"client_id":176643305588580,"data":{"clientId":176643305588580,"text":"Play the Same\\nGame"}}
 {"client_id":176663115225147,"data":{"clientId":176663115225147,"text":"<color=#F9FF55>Capture all of the Prank Gang!</color>"}}
 {"client_id":176926570811707,"data":{"clientId":176926570811707,"text":"Top Score"}}
+{"client_id":177076926115126,"data":{"clientId":177076926115126,"text":"Highlight Bonus"}}
 {"client_id":177162247645535,"data":{"clientId":177162247645535,"text":"Select Box"}}
 {"client_id":177302551567220,"data":{"clientId":177302551567220,"text":"Frequency of occurrence"}}
 {"client_id":177408751753039,"data":{"clientId":177408751753039,"text":"Holomem Score Rating Rankings"}}
 {"client_id":177421391874093,"data":{"clientId":177421391874093,"text":"Skill Activation Voice"}}
+{"client_id":177507855254637,"data":{"clientId":177507855254637,"text":"Rewards Earned"}}
 {"client_id":177640489442371,"data":{"clientId":177640489442371,"text":"Boards Unlocked"}}
 {"client_id":178154390868840,"data":{"clientId":178154390868840,"text":"Remaining Facilities: {0}"}}
 {"client_id":178214938173440,"data":{"clientId":178214938173440,"text":"Now playable in Live."}}
 {"client_id":178676528702847,"data":{"clientId":178676528702847,"text":"Not enough Diamonds. Got to the Diamond Shop?"}}
 {"client_id":178703402877230,"data":{"clientId":178703402877230,"text":"{0} assigned."}}
 {"client_id":178744514347256,"data":{"clientId":178744514347256,"text":"Product updates are available at {0}."}}
+{"client_id":178839456405827,"data":{"clientId":178839456405827,"text":"Event Badge"}}
 {"client_id":179065099313152,"data":{"clientId":179065099313152,"text":"Play"}}
 {"client_id":179181927588882,"data":{"clientId":179181927588882,"text":"Singer"}}
 {"client_id":179203211946773,"data":{"clientId":179203211946773,"text":"+1"}}
@@ -1505,6 +1600,7 @@
 {"client_id":179354745825343,"data":{"clientId":179354745825343,"text":"Long"}}
 {"client_id":179476999580257,"data":{"clientId":179476999580257,"text":"Coins Earned"}}
 {"client_id":179877316245102,"data":{"clientId":179877316245102,"text":"An unexpected error occurred."}}
+{"client_id":179959226528343,"data":{"clientId":179959226528343,"text":"Level Up Fishing Rod"}}
 {"client_id":180113299495501,"data":{"clientId":180113299495501,"text":"Please input a valid age."}}
 {"client_id":180202808001567,"data":{"clientId":180202808001567,"text":"This setting is shared across presets."}}
 {"client_id":180231135828629,"data":{"clientId":180231135828629,"text":"* Limited-time accessories may return in the future."}}
@@ -1544,10 +1640,12 @@
 {"client_id":186416815792128,"data":{"clientId":186416815792128,"text":"Live Together"}}
 {"client_id":187158716862246,"data":{"clientId":187158716862246,"text":"Check Minigame Boost"}}
 {"client_id":187210354357002,"data":{"clientId":187210354357002,"text":"Diamond Purchase"}}
+{"client_id":187265459161388,"data":{"clientId":187265459161388,"text":"SP Skill Timing"}}
 {"client_id":187584456089600,"data":{"clientId":187584456089600,"text":"Resources deleted."}}
 {"client_id":187806616699622,"data":{"clientId":187806616699622,"text":"Please select Hot Picks Member."}}
 {"client_id":187821680888062,"data":{"clientId":187821680888062,"text":"Failed to grant purchased items to the previous account. Contact Support."}}
 {"client_id":187840606242973,"data":{"clientId":187840606242973,"text":"TAP"}}
+{"client_id":187871869339322,"data":{"clientId":187871869339322,"text":"Current Score"}}
 {"client_id":187889360152634,"data":{"clientId":187889360152634,"text":"Reason for account recovery request"}}
 {"client_id":188187922747895,"data":{"clientId":188187922747895,"text":"You have not read this story. Would you like to skip it?"}}
 {"client_id":188187938611200,"data":{"clientId":188187938611200,"text":"Rewards"}}
@@ -1556,6 +1654,7 @@
 {"client_id":189442913582830,"data":{"clientId":189442913582830,"text":"Our recommended Original Charts!\\n\nLet’s play hololive Dreams!\\n\\n\n\n[{0}]\\n\nChart ID: {1}\\n\\n\n\n#MyholodoriOriginals\\n"}}
 {"client_id":190047115438741,"data":{"clientId":190047115438741,"text":"CREATE"}}
 {"client_id":190246224734835,"data":{"clientId":190246224734835,"text":"Live"}}
+{"client_id":190776526102413,"data":{"clientId":190776526102413,"text":"The wider you make the lanes, the higher the chance of overlapping with UI elements."}}
 {"client_id":191131441140206,"data":{"clientId":191131441140206,"text":"Display Skill Settings"}}
 {"client_id":191244994086355,"data":{"clientId":191244994086355,"text":"Start Anyway"}}
 {"client_id":191687545422343,"data":{"clientId":191687545422343,"text":"Background Settings"}}
@@ -1568,6 +1667,7 @@
 {"client_id":192604653756089,"data":{"clientId":192604653756089,"text":"Guaranteed Slot"}}
 {"client_id":192676745666560,"data":{"clientId":192676745666560,"text":"Reset"}}
 {"client_id":192951076625981,"data":{"clientId":192951076625981,"text":"Not enough Diamonds to be able to recover."}}
+{"client_id":193613022522218,"data":{"clientId":193613022522218,"text":"Size"}}
 {"client_id":193730252844322,"data":{"clientId":193730252844322,"text":"{0} day(s) ago"}}
 {"client_id":193895282418811,"data":{"clientId":193895282418811,"text":"Unit"}}
 {"client_id":194054733750272,"data":{"clientId":194054733750272,"text":"Level Up"}}
@@ -1592,6 +1692,7 @@
 {"client_id":197497256894464,"data":{"clientId":197497256894464,"text":"Gacha Log"}}
 {"client_id":197606737673113,"data":{"clientId":197606737673113,"text":"Skip"}}
 {"client_id":197683903622961,"data":{"clientId":197683903622961,"text":"Daily Pts limit has been reached."}}
+{"client_id":198323575482155,"data":{"clientId":198323575482155,"text":"Spawn Time"}}
 {"client_id":198623699976603,"data":{"clientId":198623699976603,"text":"Boost Settings"}}
 {"client_id":198823572496384,"data":{"clientId":198823572496384,"text":"S"}}
 {"client_id":198873556017152,"data":{"clientId":198873556017152,"text":"M"}}
@@ -1625,6 +1726,7 @@
 {"client_id":203698525109794,"data":{"clientId":203698525109794,"text":"A"}}
 {"client_id":203937113634668,"data":{"clientId":203937113634668,"text":"Device name"}}
 {"client_id":204163089932948,"data":{"clientId":204163089932948,"text":"Server communication timed out."}}
+{"client_id":204343453307638,"data":{"clientId":204343453307638,"text":"Bonus Inc."}}
 {"client_id":204557739577807,"data":{"clientId":204557739577807}}
 {"client_id":204585116565664,"data":{"clientId":204585116565664,"text":"Live Quality"}}
 {"client_id":204895122110380,"data":{"clientId":204895122110380,"text":"New!"}}
@@ -1679,6 +1781,7 @@
 {"client_id":209224281481216,"data":{"clientId":209224281481216,"text":"Lv"}}
 {"client_id":209332153839647,"data":{"clientId":209332153839647,"text":"3440x1440"}}
 {"client_id":209439259470492,"data":{"clientId":209439259470492,"text":"Event Ranking"}}
+{"client_id":209571580209432,"data":{"clientId":209571580209432,"text":"TIME'S UP!"}}
 {"client_id":209765962604544,"data":{"clientId":209765962604544,"text":"Next"}}
 {"client_id":209916595441858,"data":{"clientId":209916595441858,"text":"Storage Limit"}}
 {"client_id":209927995320994,"data":{"clientId":209927995320994,"text":"Thanks!"}}
@@ -1695,6 +1798,7 @@
 {"client_id":211222464782336,"data":{"clientId":211222464782336,"text":"Invite"}}
 {"client_id":211257412542464,"data":{"clientId":211257412542464,"text":"Cancel"}}
 {"client_id":211372609144403,"data":{"clientId":211372609144403,"text":"Dot"}}
+{"client_id":211553485302535,"data":{"clientId":211553485302535,"text":"Fish"}}
 {"client_id":211614722809856,"data":{"clientId":211614722809856,"text":"Start Holomem Quest?"}}
 {"client_id":211622315572969,"data":{"clientId":211622315572969,"text":"+{0}%"}}
 {"client_id":211734249094857,"data":{"clientId":211734249094857,"text":"SP Skill Effect"}}
@@ -1711,6 +1815,7 @@
 {"client_id":214614257921846,"data":{"clientId":214614257921846,"text":"Minimum"}}
 {"client_id":214650242195456,"data":{"clientId":214650242195456,"text":"MULTI SCORE"}}
 {"client_id":214729946000858,"data":{"clientId":214729946000858,"text":"C"}}
+{"client_id":214973362115376,"data":{"clientId":214973362115376,"text":"Change Time"}}
 {"client_id":215019381972992,"data":{"clientId":215019381972992,"text":"Other Quests are unavailable during a Holomem Quest (can be paused)."}}
 {"client_id":215297200800307,"data":{"clientId":215297200800307,"text":"Working!"}}
 {"client_id":215362746274117,"data":{"clientId":215362746274117,"text":"Random"}}
@@ -1719,6 +1824,7 @@
 {"client_id":215715713240698,"data":{"clientId":215715713240698,"text":"31"}}
 {"client_id":215860927827848,"data":{"clientId":215860927827848,"text":"Play Guide"}}
 {"client_id":215935421883889,"data":{"clientId":215935421883889,"text":"Back"}}
+{"client_id":215951530512145,"data":{"clientId":215951530512145,"text":"Bottom"}}
 {"client_id":216019064971264,"data":{"clientId":216019064971264,"text":"Resume Holomem Quest?"}}
 {"client_id":216152476379045,"data":{"clientId":216152476379045,"text":"Earned Bonus"}}
 {"client_id":216231798452233,"data":{"clientId":216231798452233,"text":"MM/dd HH:mm"}}
@@ -1733,6 +1839,7 @@
 {"client_id":217975006750412,"data":{"clientId":217975006750412,"text":"Go"}}
 {"client_id":218012472756249,"data":{"clientId":218012472756249,"text":"{0:D2}:{1:D2}"}}
 {"client_id":218143689865184,"data":{"clientId":218143689865184,"text":"Let’s make our own Custom Profile!\nLet’s play hololive Dreams!\n\n#MyHolodoriProfile"}}
+{"client_id":218149562304581,"data":{"clientId":218149562304581,"text":"The bait is gone..."}}
 {"client_id":218328455146562,"data":{"clientId":218328455146562,"text":"No ranking info"}}
 {"client_id":218408779062885,"data":{"clientId":218408779062885,"text":"Parameter UP"}}
 {"client_id":218487904460800,"data":{"clientId":218487904460800,"text":"Exit game?"}}
@@ -1742,6 +1849,7 @@
 {"client_id":218817048272896,"data":{"clientId":218817048272896,"text":"Overall race results will be unavailable."}}
 {"client_id":218956731179008,"data":{"clientId":218956731179008,"text":"Exit"}}
 {"client_id":219721360123651,"data":{"clientId":219721360123651,"text":"ID"}}
+{"client_id":219844064940506,"data":{"clientId":219844064940506,"text":"/{0}"}}
 {"client_id":219975319480054,"data":{"clientId":219975319480054,"text":"Overall Power"}}
 {"client_id":220002887803945,"data":{"clientId":220002887803945,"text":"ID"}}
 {"client_id":220381935589250,"data":{"clientId":220381935589250,"text":"* You receive bonus effect just by owning them."}}
@@ -1752,7 +1860,9 @@
 {"client_id":220925921940099,"data":{"clientId":220925921940099,"text":"Loading"}}
 {"client_id":221027276382208,"data":{"clientId":221027276382208,"text":"Memory Stand"}}
 {"client_id":221406207695978,"data":{"clientId":221406207695978,"text":"AC"}}
+{"client_id":221748600260508,"data":{"clientId":221748600260508,"text":"Lane Divisions"}}
 {"client_id":222098170830001,"data":{"clientId":222098170830001,"text":"I’ve published an Original Chart!\\n\nLet’s play hololive Dreams!\\n\\n\n\n[{0}]\\n\nChart ID: {1}\\n\\n\n\n#MyholodoriOriginals"}}
+{"client_id":222272372501752,"data":{"clientId":222272372501752,"text":"A cool, powered-up boat Thanks to the windshield, safety is improved!"}}
 {"client_id":222585071557787,"data":{"clientId":222585071557787,"text":"1600x1200"}}
 {"client_id":222671764766538,"data":{"clientId":222671764766538,"text":"Waiting..."}}
 {"client_id":222878562358090,"data":{"clientId":222878562358090,"text":"Cancel"}}
@@ -1765,6 +1875,7 @@
 {"client_id":224373229138554,"data":{"clientId":224373229138554,"text":"Would you like to continue?"}}
 {"client_id":224877336387823,"data":{"clientId":224877336387823,"text":"{0}+"}}
 {"client_id":225226408913703,"data":{"clientId":225226408913703,"text":"Display"}}
+{"client_id":225297087395783,"data":{"clientId":225297087395783,"text":"Team defended!"}}
 {"client_id":225639315816103,"data":{"clientId":225639315816103,"text":"Story"}}
 {"client_id":225655605977719,"data":{"clientId":225655605977719,"text":"<alpha=#A6>From <alpha=#FF>{0}"}}
 {"client_id":225811701359040,"data":{"clientId":225811701359040,"text":"Inappropriate chart detected."}}
@@ -1772,6 +1883,8 @@
 {"client_id":225942306701479,"data":{"clientId":225942306701479,"text":"Normal"}}
 {"client_id":225949463045826,"data":{"clientId":225949463045826,"text":"If an error or disconnection occurs during purchasing,\\nit can be completed here."}}
 {"client_id":226228688755941,"data":{"clientId":226228688755941,"text":"Secret Mode"}}
+{"client_id":226260569507326,"data":{"clientId":226260569507326,"text":"g"}}
+{"client_id":226499894520324,"data":{"clientId":226499894520324,"text":"No Multi-Finger"}}
 {"client_id":226640543761006,"data":{"clientId":226640543761006,"text":"The information you entered is not correct."}}
 {"client_id":226850021957632,"data":{"clientId":226850021957632,"text":"Event"}}
 {"client_id":226979424624640,"data":{"clientId":226979424624640,"text":"Game"}}
@@ -1796,6 +1909,7 @@
 {"client_id":229405924548608,"data":{"clientId":229405924548608,"text":"Precious Friends"}}
 {"client_id":229555942428697,"data":{"clientId":229555942428697,"text":"--"}}
 {"client_id":229609369713293,"data":{"clientId":229609369713293,"text":"None"}}
+{"client_id":229866390281079,"data":{"clientId":229866390281079,"text":"Max. Lv. {0}"}}
 {"client_id":230091269452885,"data":{"clientId":230091269452885,"text":"ms"}}
 {"client_id":230123768757647,"data":{"clientId":230123768757647,"text":"Creator"}}
 {"client_id":230229890171855,"data":{"clientId":230229890171855,"text":"Secured!"}}
@@ -1803,6 +1917,7 @@
 {"client_id":230540083217421,"data":{"clientId":230540083217421,"text":"Live Quality Settings"}}
 {"client_id":231110758901661,"data":{"clientId":231110758901661,"text":"Details"}}
 {"client_id":231261976478574,"data":{"clientId":231261976478574,"text":"Don't change"}}
+{"client_id":231446769731481,"data":{"clientId":231446769731481,"text":"Patrol Squad: Use skill"}}
 {"client_id":231607329841163,"data":{"clientId":231607329841163,"text":"X"}}
 {"client_id":231640442069107,"data":{"clientId":231640442069107,"text":"!"}}
 {"client_id":231740691275776,"data":{"clientId":231740691275776,"text":"Default"}}
@@ -1814,6 +1929,7 @@
 {"client_id":232771047634177,"data":{"clientId":232771047634177,"text":"Reset"}}
 {"client_id":232806922084352,"data":{"clientId":232806922084352,"text":"Bonus Rewards"}}
 {"client_id":232936069265601,"data":{"clientId":232936069265601,"text":"Special Titles can be claimed through Achievs."}}
+{"client_id":233048304980143,"data":{"clientId":233048304980143,"text":"Required"}}
 {"client_id":233127210249974,"data":{"clientId":233127210249974,"text":"Recommended input lag"}}
 {"client_id":233486877937057,"data":{"clientId":233486877937057,"text":"Registered device name"}}
 {"client_id":234003510176948,"data":{"clientId":234003510176948,"text":"u"}}
@@ -1822,6 +1938,7 @@
 {"client_id":234490797770176,"data":{"clientId":234490797770176,"text":"Unlocking!"}}
 {"client_id":234637917583579,"data":{"clientId":234637917583579,"text":"nd"}}
 {"client_id":234913317147536,"data":{"clientId":234913317147536,"text":"Display Guide"}}
+{"client_id":235030385773992,"data":{"clientId":235030385773992,"text":"The results of your Pokajan! match have been recorded."}}
 {"client_id":235362861556149,"data":{"clientId":235362861556149,"text":"This is not available in CREATE."}}
 {"client_id":235457114212171,"data":{"clientId":235457114212171,"text":"The ESC key is disabled on this screen."}}
 {"client_id":235613256183813,"data":{"clientId":235613256183813,"text":"{0} Skin Pack"}}
@@ -1830,6 +1947,7 @@
 {"client_id":235905896600571,"data":{"clientId":235905896600571,"text":"Photo saved."}}
 {"client_id":236012900179968,"data":{"clientId":236012900179968,"text":"Discard"}}
 {"client_id":236060943868432,"data":{"clientId":236060943868432,"text":"2"}}
+{"client_id":236110736395862,"data":{"clientId":236110736395862,"text":"Note Width(%)"}}
 {"client_id":236117060304762,"data":{"clientId":236117060304762,"text":"Default Card cannot be removed. Select another Card."}}
 {"client_id":236656136035962,"data":{"clientId":236656136035962,"text":"CLEARED"}}
 {"client_id":236657804910532,"data":{"clientId":236657804910532,"text":"One facility left!"}}
@@ -1844,6 +1962,7 @@
 {"client_id":239605525871475,"data":{"clientId":239605525871475,"text":"th"}}
 {"client_id":240007004250112,"data":{"clientId":240007004250112,"text":"Membership Benefits"}}
 {"client_id":240172092055552,"data":{"clientId":240172092055552,"text":"Badge"}}
+{"client_id":240182675930479,"data":{"clientId":240182675930479,"text":"Level Up Boat"}}
 {"client_id":240350042930005,"data":{"clientId":240350042930005,"text":"Remove all."}}
 {"client_id":240386815722354,"data":{"clientId":240386815722354,"text":"Reason for account restoration request"}}
 {"client_id":240418788433920,"data":{"clientId":240418788433920,"text":"Stickers"}}
@@ -1857,8 +1976,10 @@
 {"client_id":242139159721062,"data":{"clientId":242139159721062,"text":"Cannot be applied until the recommended value is set."}}
 {"client_id":242156554354249,"data":{"clientId":242156554354249,"text":"Charts"}}
 {"client_id":242177672010744,"data":{"clientId":242177672010744,"text":"Cruising!"}}
+{"client_id":242259114219279,"data":{"clientId":242259114219279,"text":"No Obstacles"}}
 {"client_id":242594053610408,"data":{"clientId":242594053610408,"text":"Required Unit Score: {0}"}}
 {"client_id":242655411028237,"data":{"clientId":242655411028237,"text":"3840x2880"}}
+{"client_id":243137198509034,"data":{"clientId":243137198509034,"text":"Note Settings"}}
 {"client_id":243159930595896,"data":{"clientId":243159930595896,"text":"Dream Rank"}}
 {"client_id":243254070276837,"data":{"clientId":243254070276837,"text":"Discard current changes and exit options.\\nProceed?"}}
 {"client_id":243569932009487,"data":{"clientId":243569932009487,"text":"Eligible"}}
@@ -1885,6 +2006,7 @@
 {"client_id":247010931909933,"data":{"clientId":247010931909933,"text":"Go"}}
 {"client_id":247051386639508,"data":{"clientId":247051386639508,"text":"EP"}}
 {"client_id":247164688703588,"data":{"clientId":247164688703588,"text":"Support is only provided in English. We appreciate your understanding."}}
+{"client_id":247178928037429,"data":{"clientId":247178928037429,"text":"FAST/SLOW Scoring Position"}}
 {"client_id":247519453661921,"data":{"clientId":247519453661921,"text":"Contains invalid parts."}}
 {"client_id":247795120005120,"data":{"clientId":247795120005120,"text":"Notification"}}
 {"client_id":248018894868525,"data":{"clientId":248018894868525,"text":"Defended facilities in time!"}}
@@ -1902,6 +2024,8 @@
 {"client_id":250192446117780,"data":{"clientId":250192446117780,"text":"Public (All)"}}
 {"client_id":250417918500864,"data":{"clientId":250417918500864,"text":"End the current Chart\\nand create new Chart?"}}
 {"client_id":250599657693184,"data":{"clientId":250599657693184,"text":"Create New"}}
+{"client_id":250691950937970,"data":{"clientId":250691950937970,"text":"{0} is in Secret Mode so cannot be displayed on a profile."}}
+{"client_id":250863090900176,"data":{"clientId":250863090900176,"text":"Key Configuration"}}
 {"client_id":251083096921935,"data":{"clientId":251083096921935,"text":"Skip"}}
 {"client_id":251121576737280,"data":{"clientId":251121576737280,"text":"Lv"}}
 {"client_id":251123917576960,"data":{"clientId":251123917576960,"text":"Tag Settings"}}
@@ -1918,6 +2042,7 @@
 {"client_id":251299288571904,"data":{"clientId":251299288571904,"text":"Save the current Chart?"}}
 {"client_id":251337706512640,"data":{"clientId":251337706512640,"text":"Chart saved."}}
 {"client_id":251353706512640,"data":{"clientId":251353706512640,"text":"You can set a max of {0} tag(s)."}}
+{"client_id":251362110937708,"data":{"clientId":251362110937708,"text":"kg"}}
 {"client_id":251421706512640,"data":{"clientId":251421706512640,"text":"{0}_{1}"}}
 {"client_id":251437706512640,"data":{"clientId":251437706512640,"text":"Delete this Chart?"}}
 {"client_id":251438576512512,"data":{"clientId":251438576512512,"text":"Discard"}}
@@ -1936,6 +2061,7 @@
 {"client_id":252468597513991,"data":{"clientId":252468597513991,"text":"Legal Notices"}}
 {"client_id":252548578795520,"data":{"clientId":252548578795520,"text":"End the current Chart\\nand edit another Created Chart?"}}
 {"client_id":252835721535082,"data":{"clientId":252835721535082,"text":"Cannot purchase while already holding max amount."}}
+{"client_id":252898316141129,"data":{"clientId":252898316141129,"text":"Current Time"}}
 {"client_id":252938621977846,"data":{"clientId":252938621977846,"text":"Confirm"}}
 {"client_id":252995188285440,"data":{"clientId":252995188285440,"text":"Edit"}}
 {"client_id":253269128440662,"data":{"clientId":253269128440662,"text":"0.5"}}
@@ -1969,6 +2095,7 @@
 {"client_id":255285433458688,"data":{"clientId":255285433458688,"text":"Trial Play"}}
 {"client_id":255659047775132,"data":{"clientId":255659047775132,"text":"Top Score"}}
 {"client_id":255746163822681,"data":{"clientId":255746163822681,"text":"/{0}%"}}
+{"client_id":255758852655061,"data":{"clientId":255758852655061,"text":"Scoring Position"}}
 {"client_id":255873887100047,"data":{"clientId":255873887100047,"text":"If left unselected, this Room will be set to public mode!"}}
 {"client_id":256062688589824,"data":{"clientId":256062688589824,"text":"A section with {0}+ simultaneous Notes was added."}}
 {"client_id":256062688589866,"data":{"clientId":256062688589866,"text":"A section with overlapping Notes was added."}}
@@ -1986,6 +2113,7 @@
 {"client_id":259884479995214,"data":{"clientId":259884479995214,"text":"Change holomem"}}
 {"client_id":260026722780081,"data":{"clientId":260026722780081}}
 {"client_id":260085274168182,"data":{"clientId":260085274168182,"text":"Unavailable during a Holomem Quest."}}
+{"client_id":260102496199404,"data":{"clientId":260102496199404,"text":"Alert when Life is low"}}
 {"client_id":260602000000001,"data":{"clientId":260602000000001,"text":"YOU"}}
 {"client_id":260619000000001,"data":{"clientId":260619000000001,"text":"ALL UNLOCKED!"}}
 {"client_id":260619000000002,"data":{"clientId":260619000000002,"text":"ALL ARRESTED!"}}
@@ -1994,6 +2122,7 @@
 {"client_id":260624000000002,"data":{"clientId":260624000000002,"text":"Device Disarmed!"}}
 {"client_id":260627000000001,"data":{"clientId":260627000000001,"text":"One key has been used on every facility!"}}
 {"client_id":260705000000001,"data":{"clientId":260705000000001,"text":"All facilities unlocked!"}}
+{"client_id":260723000000001,"data":{"clientId":260723000000001,"text":"{0} minute(s) left!"}}
 {"client_id":260814378403481,"data":{"clientId":260814378403481,"text":"0"}}
 {"client_id":260853711036416,"data":{"clientId":260853711036416,"text":"Aim for <color=#F9FF55>{0}</color> points!"}}
 {"client_id":260932341236248,"data":{"clientId":260932341236248,"text":"Chapter ended."}}
@@ -2005,8 +2134,10 @@
 {"client_id":262676337234996,"data":{"clientId":262676337234996,"text":"All\\nUnlocked"}}
 {"client_id":262747208847854,"data":{"clientId":262747208847854,"text":"There are no Nodes available to reset."}}
 {"client_id":262804880945878,"data":{"clientId":262804880945878,"text":"Unlock by progressing through Main Quests."}}
+{"client_id":263289128963483,"data":{"clientId":263289128963483,"text":"A ton of balls has appeared!"}}
 {"client_id":263528394189817,"data":{"clientId":263528394189817,"text":"iOS order date"}}
 {"client_id":263910397340110,"data":{"clientId":263910397340110,"text":"Nothing to sell!"}}
+{"client_id":264079956936260,"data":{"clientId":264079956936260,"text":"Other"}}
 {"client_id":264251913561012,"data":{"clientId":264251913561012,"text":"#{0}・{1}/{2}"}}
 {"client_id":264334122812021,"data":{"clientId":264334122812021,"text":"Invite Participants"}}
 {"client_id":264509716734225,"data":{"clientId":264509716734225,"text":"Amount Used"}}
@@ -2025,6 +2156,8 @@
 {"client_id":266483590154550,"data":{"clientId":266483590154550,"text":"Event related"}}
 {"client_id":266517836822697,"data":{"clientId":266517836822697,"text":"Download MVs"}}
 {"client_id":266646480557808,"data":{"clientId":266646480557808,"text":"2"}}
+{"client_id":266795432418646,"data":{"clientId":266795432418646,"text":"Splash Ball"}}
+{"client_id":266912564022995,"data":{"clientId":266912564022995,"text":"Top"}}
 {"client_id":266926850887631,"data":{"clientId":266926850887631,"text":"Order number"}}
 {"client_id":267211165708089,"data":{"clientId":267211165708089,"text":"Mission"}}
 {"client_id":267571060367360,"data":{"clientId":267571060367360,"text":"Not Enough Minigame Boosts"}}
@@ -2047,6 +2180,7 @@
 {"client_id":270696856641536,"data":{"clientId":270696856641536,"text":"Details"}}
 {"client_id":270880521034549,"data":{"clientId":270880521034549,"text":"Chart Amount"}}
 {"client_id":270942914157482,"data":{"clientId":270942914157482,"text":"Birthdate"}}
+{"client_id":270957784885017,"data":{"clientId":270957784885017,"text":"You can check after playing."}}
 {"client_id":271285309906609,"data":{"clientId":271285309906609,"text":"Reset {0} settings.\\nProceed?"}}
 {"client_id":271364770222684,"data":{"clientId":271364770222684,"text":"This event has ended."}}
 {"client_id":271760726763251,"data":{"clientId":271760726763251,"text":"Own Creations"}}
@@ -2059,16 +2193,19 @@
 {"client_id":272823580653014,"data":{"clientId":272823580653014,"text":"Change"}}
 {"client_id":272899808668983,"data":{"clientId":272899808668983,"text":"Last 10 seconds!"}}
 {"client_id":273260683656150,"data":{"clientId":273260683656150,"text":"Guide"}}
+{"client_id":273356968496714,"data":{"clientId":273356968496714,"text":"Display Scoring"}}
 {"client_id":273503382580827,"data":{"clientId":273503382580827,"text":"Return to Title?"}}
 {"client_id":273535275480526,"data":{"clientId":273535275480526,"text":"Accept friend request?"}}
 {"client_id":273553604110655,"data":{"clientId":273553604110655,"text":"Submit"}}
 {"client_id":273633440729709,"data":{"clientId":273633440729709,"text":"{0} facilities were unlocked..."}}
 {"client_id":273745634549760,"data":{"clientId":273745634549760,"text":"time(s)"}}
 {"client_id":274007286472704,"data":{"clientId":274007286472704,"text":"Reset"}}
+{"client_id":274180652232091,"data":{"clientId":274180652232091,"text":"TEAM"}}
 {"client_id":274288251361989,"data":{"clientId":274288251361989,"text":"Select All"}}
 {"client_id":274299272617984,"data":{"clientId":274299272617984,"text":"Purchasing a product constitutes the purchase of a license to digital content obtained by using that product. For details on the license, please see the Terms of Service."}}
 {"client_id":274385801869589,"data":{"clientId":274385801869589}}
 {"client_id":274437520856561,"data":{"clientId":274437520856561,"text":"Set"}}
+{"client_id":274569560932634,"data":{"clientId":274569560932634,"text":"Defense Points"}}
 {"client_id":274972954255360,"data":{"clientId":274972954255360,"text":"Preparing to open"}}
 {"client_id":275013318770282,"data":{"clientId":275013318770282,"text":"Unlocked Facilities"}}
 {"client_id":275061261805269,"data":{"clientId":275061261805269,"text":"Today's Daily Quest has ended."}}
@@ -2078,6 +2215,7 @@
 {"client_id":276154225334564,"data":{"clientId":276154225334564,"text":"Quit\\nGame"}}
 {"client_id":276365564944437,"data":{"clientId":276365564944437,"text":"Technique"}}
 {"client_id":276671702261760,"data":{"clientId":276671702261760,"text":"Quest"}}
+{"client_id":276805342887425,"data":{"clientId":276805342887425,"text":"Start"}}
 {"client_id":276815394922496,"data":{"clientId":276815394922496,"text":"Quest"}}
 {"client_id":276868334650299,"data":{"clientId":276868334650299,"text":"Default Cards cannot be deleted."}}
 {"client_id":276916087485055,"data":{"clientId":276916087485055,"text":"Required Materials"}}
@@ -2091,6 +2229,7 @@
 {"client_id":278889957711872,"data":{"clientId":278889957711872,"text":"Finish!"}}
 {"client_id":278889970294784,"data":{"clientId":278889970294784,"text":"Clear"}}
 {"client_id":278889974489088,"data":{"clientId":278889974489088,"text":"Failed"}}
+{"client_id":278989127684840,"data":{"clientId":278989127684840,"text":"GREAT & below"}}
 {"client_id":279128447016960,"data":{"clientId":279128447016960,"text":"---"}}
 {"client_id":279377801087187,"data":{"clientId":279377801087187,"text":"No eligible events."}}
 {"client_id":279449639719770,"data":{"clientId":279449639719770,"text":"You can share Public (All) charts."}}
@@ -2809,6 +2948,9 @@
 {"client_id":705845174919168,"data":{"clientId":705845174919168,"text":"Double Up Chance!"}}
 {"client_id":706677128814592,"data":{"clientId":706677128814592,"text":"Tap"}}
 {"client_id":706680765276160,"data":{"clientId":706680765276160,"text":"Flick"}}
+{"client_id":706904353357824,"data":{"clientId":706904353357824,"text":"’s score reached {0} point(s). The match has ended."}}
+{"client_id":706904353357825,"data":{"clientId":706904353357825,"text":"’s score dropped to 0 points. The match has ended."}}
+{"client_id":706904353357827,"data":{"clientId":706904353357827,"text":"{0}pt"}}
 {"client_id":707542663716864,"data":{"clientId":707542663716864,"text":"Shop"}}
 {"client_id":708415267692544,"data":{"clientId":708415267692544,"text":"Result"}}
 {"client_id":708483274137600,"data":{"clientId":708483274137600,"text":"Play Results"}}

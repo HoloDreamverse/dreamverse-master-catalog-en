@@ -1,6 +1,15 @@
 {"type":21,"step":1,"data":{"type":"MusicCreativeChart","step":1,"navigationType":"Tips","tipsId":"tips-creative-chart"}}
 {"type":1005,"step":1,"data":{"type":"Chase","step":1,"unlockConditionGroupId":"cd-perm-a01-chase","navigationType":"Tips","tipsId":"tips-chase"}}
 {"type":2106,"step":1,"data":{"type":"ParkQuestChase","step":1,"navigationType":"Tips","tipsId":"tips-chase-quest"}}
+{"type":10902,"step":1,"data":{"type":"ParkBoatArea03LevelUp","step":1,"unlockConditionGroupId":"cd-quest_clear-quest-main-w1-03-05-2","navigationType":"Tips","tipsId":"tips-park-boat-level-area03"}}
+{"type":10901,"step":1,"data":{"type":"ParkBoatArea03Unlock","step":1,"unlockConditionGroupId":"cd-quest_clear-quest-main-w1-03-02-1","navigationType":"Tips","tipsId":"tips-park-boat-area03"}}
+{"type":10804,"step":1,"data":{"type":"ParkFishingArea03ExchangeBooth","step":1,"unlockConditionGroupId":"cd-quest_clear-quest-main-w1-03-03-6","navigationType":"Tips","tipsId":"tips-park-fishingshop-area03"}}
+{"type":10803,"step":1,"data":{"type":"ParkFishingArea03FishBook","step":1,"navigationType":"Tips","tipsId":"tips-park-fishing-fish-list-area03"}}
+{"type":10805,"step":1,"data":{"type":"ParkFishingArea03RodLevelUp","step":1,"unlockConditionGroupId":"cd-park_fishing_rod-02","navigationType":"Tips","tipsId":"tips-park-fishing-rod-level-area03"}}
+{"type":10802,"step":1,"data":{"type":"ParkFishingArea03Top","step":1,"navigationType":"Tips","tipsId":"tips-park-fishing-top-area03"}}
+{"type":10801,"step":1,"data":{"type":"ParkFishingArea03Unlock","step":1,"unlockConditionGroupId":"cd-quest_clear-quest-main-w1-03-03-5","navigationType":"Tips","tipsId":"tips-park-fishing-area03"}}
+{"type":2107,"step":1,"data":{"type":"ParkQuestSplashBall","step":1,"navigationType":"Tips","tipsId":"tips-splash_ball-quest"}}
+{"type":1006,"step":1,"data":{"type":"SplashBall","step":1,"unlockConditionGroupId":"cd-quest_clear-quest-main-w1-03-08","navigationType":"Tips","tipsId":"tips-splash_ball"}}
 {"type":1501,"step":1,"data":{"type":"MultiGameLive","step":1,"navigationType":"Tips","tipsId":"tips-multi-live"}}
 {"type":9,"step":1,"data":{"type":"Achievement","step":1,"unlockConditionGroupId":"cd-quest_clear-quest-main-w1-01-06","navigationType":"Tips","tipsId":"tips-achievement"}}
 {"type":1001,"step":1,"data":{"type":"CookingPuzzle","step":1,"unlockConditionGroupId":"cd-quest_clear-quest-main-w1-01-11","navigationType":"Tips","tipsId":"tips-cooking-puzzle"}}

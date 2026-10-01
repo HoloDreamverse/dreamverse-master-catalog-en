@@ -15,3 +15,7 @@
 {"type":2,"target_id":"perm-a01-facerock-present-all_character_get","data":{"type":"ParkPresentReceivable","targetId":"perm-a01-facerock-present-all_character_get","order":12}}
 {"type":8,"target_id":"","data":{"type":"ParkLotteryScratchAvailable","order":17}}
 {"type":2,"target_id":"perm-a01-facerock-present-default","data":{"type":"ParkPresentReceivable","targetId":"perm-a01-facerock-present-default","order":13}}
+{"type":10,"target_id":"","data":{"type":"EventEndTimeSoon","order":19}}
+{"type":7,"target_id":"","data":{"type":"ItemExpirationSoon","order":18}}
+{"type":11,"target_id":"perm-a03-fishingshop-open-rod","data":{"type":"ParkFishingRodLevelUpable","targetId":"perm-a03-fishingshop-open-rod","order":21}}
+{"type":11,"target_id":"perm-a03-fishingshop-rod","data":{"type":"ParkFishingRodLevelUpable","targetId":"perm-a03-fishingshop-rod","order":20}}

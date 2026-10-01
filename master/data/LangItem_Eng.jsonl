@@ -130,6 +130,8 @@
 {"id":"la-item-event_badge-marathon_event-normal-003-chapter-01-name","data":{"id":"la-item-event_badge-marathon_event-normal-003-chapter-01-name","text":"Event Badge"}}
 {"id":"la-item-event_badge-marathon_event-normal-004-chapter-01-description","data":{"id":"la-item-event_badge-marathon_event-normal-004-chapter-01-description","text":"A Badge used to exchange for items in the Event Exchange.\nAfter the deadline, they are converted into Hologold."}}
 {"id":"la-item-event_badge-marathon_event-normal-004-chapter-01-name","data":{"id":"la-item-event_badge-marathon_event-normal-004-chapter-01-name","text":"Event Badge"}}
+{"id":"la-item-event_badge-marathon_event-normal-005-chapter-01-description","data":{"id":"la-item-event_badge-marathon_event-normal-005-chapter-01-description","text":"A Badge used to exchange for items in the Event Exchange.\nAfter the deadline, they are converted into Hologold."}}
+{"id":"la-item-event_badge-marathon_event-normal-005-chapter-01-name","data":{"id":"la-item-event_badge-marathon_event-normal-005-chapter-01-name","text":"Event Badge"}}
 {"id":"la-item-event_badge-marathon_event-relay-001-all-description","data":{"id":"la-item-event_badge-marathon_event-relay-001-all-description","text":"A Badge used to exchange for items in the Event Exchange (Common).\nAfter the deadline, they are converted into Hologold."}}
 {"id":"la-item-event_badge-marathon_event-relay-001-all-name","data":{"id":"la-item-event_badge-marathon_event-relay-001-all-name","text":"Event Badge (Common)"}}
 {"id":"la-item-event_badge-marathon_event-relay-001-chapter-01-description","data":{"id":"la-item-event_badge-marathon_event-relay-001-chapter-01-description","text":"A Badge used to exchange for items in the Event Exchange (Calliope).\nAfter the deadline, they are converted into Hologold."}}
@@ -170,6 +172,12 @@
 {"id":"la-item-facility-area_a02-001-1-name","data":{"id":"la-item-facility-area_a02-001-1-name","text":"Screw"}}
 {"id":"la-item-facility-area_a02-002-1-description","data":{"id":"la-item-facility-area_a02-002-1-description","text":"An item used for Building, Upgrading facilities, and more."}}
 {"id":"la-item-facility-area_a02-002-1-name","data":{"id":"la-item-facility-area_a02-002-1-name","text":"IC Chip"}}
+{"id":"la-item-facility-area_a03-001-1-description","data":{"id":"la-item-facility-area_a03-001-1-description","text":"An item used for Building, Upgrading facilities, and more."}}
+{"id":"la-item-facility-area_a03-001-1-name","data":{"id":"la-item-facility-area_a03-001-1-name","text":"Seashell"}}
+{"id":"la-item-facility-area_a03-002-1-description","data":{"id":"la-item-facility-area_a03-002-1-description","text":"An item used for Building, Upgrading facilities, and more."}}
+{"id":"la-item-facility-area_a03-002-1-name","data":{"id":"la-item-facility-area_a03-002-1-name","text":"Drift Metal"}}
+{"id":"la-item-facility-area_a03-003-1-description","data":{"id":"la-item-facility-area_a03-003-1-description","text":"An item used for Building, Upgrading facilities, and more."}}
+{"id":"la-item-facility-area_a03-003-1-name","data":{"id":"la-item-facility-area_a03-003-1-name","text":"Driftwood"}}
 {"id":"la-item-gacha-cmn_sticker-01-description","data":{"id":"la-item-gacha-cmn_sticker-01-description","text":"Stickers used to exchange for items at the Holosticker Exchange."}}
 {"id":"la-item-gacha-cmn_sticker-01-name","data":{"id":"la-item-gacha-cmn_sticker-01-name","text":"Holosticker"}}
 {"id":"la-item-gacha-sp_sticker-01-description","data":{"id":"la-item-gacha-sp_sticker-01-description","text":"Special stickers used to exchange for items at the Special Holosticker Exchange."}}
@@ -190,6 +198,8 @@
 {"id":"la-item-mini-game-chase-coin-name","data":{"id":"la-item-mini-game-chase-coin-name","text":"Harmony Garden Coin"}}
 {"id":"la-item-mini_game_bet_coin-description","data":{"id":"la-item-mini_game_bet_coin-description","text":"An item used in Mega Sphere minigames, Exchange Shops, and more."}}
 {"id":"la-item-mini_game_bet_coin-name","data":{"id":"la-item-mini_game_bet_coin-name","text":"Mega Sphere Coin"}}
+{"id":"la-item-mini_game_fishing_coin-description","data":{"id":"la-item-mini_game_fishing_coin-description","text":"An item that can be traded for items at the Soda Pop Lagoon Exchange."}}
+{"id":"la-item-mini_game_fishing_coin-name","data":{"id":"la-item-mini_game_fishing_coin-name","text":"Soda Pop Coin"}}
 {"id":"la-item-mini_game_reward_up_stamina_recover-description","data":{"id":"la-item-mini_game_reward_up_stamina_recover-description","text":"An item that can be converted into Minigame Boosts."}}
 {"id":"la-item-mini_game_reward_up_stamina_recover-name","data":{"id":"la-item-mini_game_reward_up_stamina_recover-name","text":"Minigame Boost Jelly"}}
 {"id":"la-item-music_release-description","data":{"id":"la-item-music_release-description","text":"An item used to exchange for songs."}}
@@ -198,6 +208,10 @@
 {"id":"la-item-park_character_quest-name","data":{"id":"la-item-park_character_quest-name","text":"holomem Invitation"}}
 {"id":"la-item-quest-area-a01-17-1-2-description","data":{"id":"la-item-quest-area-a01-17-1-2-description","text":"A tool the member’s of Advent used to clean The Cell Returns. Hand it to them so they start cleaning the facility."}}
 {"id":"la-item-quest-area-a01-17-1-2-name","data":{"id":"la-item-quest-area-a01-17-1-2-name","text":"Cleaning Tools"}}
+{"id":"la-item-quest-area-a03-05-1-1-description","data":{"id":"la-item-quest-area-a03-05-1-1-description","text":"La+'s misplaced Fishing Rod. An essential fishing companion."}}
+{"id":"la-item-quest-area-a03-05-1-1-name","data":{"id":"la-item-quest-area-a03-05-1-1-name","text":"La+'s Fishing Rod"}}
+{"id":"la-item-quest-area-a03-12-1-1-description","data":{"id":"la-item-quest-area-a03-12-1-1-description","text":"The beach ball Polka launched into the ocean. Hurry back and entertain the princess!"}}
+{"id":"la-item-quest-area-a03-12-1-1-name","data":{"id":"la-item-quest-area-a03-12-1-1-name","text":"Beach Ball"}}
 {"id":"la-item-quest-main-w1-01-02-1-4-description","data":{"id":"la-item-quest-main-w1-01-02-1-4-description","text":"A box where holomems store their belongings. It’s filled with various things, so let's deliver it to whoever needs it."}}
 {"id":"la-item-quest-main-w1-01-02-1-4-name","data":{"id":"la-item-quest-main-w1-01-02-1-4-name","text":"holomem's Baggage"}}
 {"id":"la-item-quest-main-w1-01-05-1-4-description","data":{"id":"la-item-quest-main-w1-01-05-1-4-description","text":"A box where holomems store their belongings. It contains not only personal items, but also tools needed for the concert. Let’s deliver it to whoever needs it."}}

@@ -1,1 +1,2 @@
 {"id":"mini_game_reward_up_stamina_conversion-item-mini_game_bet_coin","data":{"id":"mini_game_reward_up_stamina_conversion-item-mini_game_bet_coin","consumptionQuantity":20,"reward":{"resourceType":"Item","resourceId":"item-mini_game_bet_coin","quantity":500}}}
+{"id":"mini_game_reward_up_stamina_conversion-item-mini_game_fishing_coin","data":{"id":"mini_game_reward_up_stamina_conversion-item-mini_game_fishing_coin","consumptionQuantity":20,"reward":{"resourceType":"Item","resourceId":"item-mini_game_fishing_coin","quantity":250}}}
