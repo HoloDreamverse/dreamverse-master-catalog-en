@@ -21,6 +21,17 @@
      "external_url": ""
     },
     {
+     "id": "notice-news-info-update-261002",
+     "title": "Ver.1.2.1 Update Announcement",
+     "type": 3,
+     "type_name": "update",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/dbee1d79cca55e3f03a410e03311822b5885c858739ec79eee11fcc332424466/index.html",
+     "banner_asset_id": "img_banner_full_update-info",
+     "start_time": 1790906400000,
+     "start_time_utc": "2026-10-02T02:00:00Z",
+     "external_url": ""
+    },
+    {
      "id": "notice-news-gift-sales_ranking_1st-gacha-260929",
      "title": "Store Sales Chart #1 Achievement!",
      "type": 4,
@@ -326,17 +337,6 @@
      "banner_asset_id": "img_banner_full_shop-startdash-release",
      "start_time": 1784685600000,
      "start_time_utc": "2026-07-22T02:00:00Z",
-     "external_url": ""
-    },
-    {
-     "id": "notice-news-shop_pass-release",
-     "title": "Great-value items such as the \"HoloPassport\" now live!",
-     "type": 4,
-     "type_name": "information",
-     "detail_url": "https://static.game-hololive-dreams.com/html/notice/ef2acecce0722b99a035d67889ed801bf47f77aa9113195fa1e88dc942a7a713/index.html",
-     "banner_asset_id": "img_banner_full_hololive-pass-release",
-     "start_time": 1784772000000,
-     "start_time_utc": "2026-07-23T02:00:00Z",
      "external_url": ""
     }
    ]
