@@ -186,17 +186,6 @@
      "external_url": ""
     },
     {
-     "id": "notice-marathon_event-relay-002",
-     "title": "Spotlight Event “A Dreamy Summer Escape” is now underway!",
-     "type": 2,
-     "type_name": "event",
-     "detail_url": "https://static.game-hololive-dreams.com/html/notice/2da505d050efcd34a617c6db94178c3c78f5678e2dbc22b90c13ae681f2f7b93/index.html",
-     "banner_asset_id": "img_banner_full_marathon_event-relay-002",
-     "start_time": 1789815600000,
-     "start_time_utc": "2026-09-19T11:00:00Z",
-     "external_url": ""
-    },
-    {
      "id": "notice-news-info-update-260909",
      "title": "Ver.1.1.1 Update Announcement",
      "type": 3,
@@ -337,6 +326,17 @@
      "banner_asset_id": "img_banner_full_hololive-pass-release",
      "start_time": 1784772000000,
      "start_time_utc": "2026-07-23T02:00:00Z",
+     "external_url": ""
+    },
+    {
+     "id": "notice-news-gacha-common-001",
+     "title": "holodori Gacha now live!",
+     "type": 1,
+     "type_name": "gacha",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/7e52a969977800840c67cbb758bdac9b6cbc866afb1880bf2b08cf5e4b489a80/index.html",
+     "banner_asset_id": "img_banner_full_gacha-common-001",
+     "start_time": 1784685600000,
+     "start_time_utc": "2026-07-22T02:00:00Z",
      "external_url": ""
     }
    ]
