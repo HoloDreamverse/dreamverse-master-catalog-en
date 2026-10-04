@@ -10,6 +10,17 @@
    "display_type_name": "normal",
    "notices": [
     {
+     "id": "notice-news-birthday-chr-00006-261005",
+     "title": "Happy Birthday! Shirakami Fubuki",
+     "type": 6,
+     "type_name": "campaign",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/7045ce9e7a49bda8ffcd714595d79b966f868fd95e5668a30d7ab46183501e29/index.html",
+     "banner_asset_id": "img_banner_full_birthday-chr-00006-261005",
+     "start_time": 1791126000000,
+     "start_time_utc": "2026-10-04T15:00:00Z",
+     "external_url": ""
+    },
+    {
      "id": "notice-news-info-update-261002",
      "title": "Ver.1.2.1 Update Announcement",
      "type": 3,
@@ -326,17 +337,6 @@
      "banner_asset_id": "img_banner_full_hololive-pass-release",
      "start_time": 1784772000000,
      "start_time_utc": "2026-07-23T02:00:00Z",
-     "external_url": ""
-    },
-    {
-     "id": "notice-news-gacha-common-001",
-     "title": "holodori Gacha now live!",
-     "type": 1,
-     "type_name": "gacha",
-     "detail_url": "https://static.game-hololive-dreams.com/html/notice/7e52a969977800840c67cbb758bdac9b6cbc866afb1880bf2b08cf5e4b489a80/index.html",
-     "banner_asset_id": "img_banner_full_gacha-common-001",
-     "start_time": 1784685600000,
-     "start_time_utc": "2026-07-22T02:00:00Z",
      "external_url": ""
     }
    ]
