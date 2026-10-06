@@ -32,6 +32,7 @@
 {"id":"tips-park-fishingshop-area03","data":{"id":"tips-park-fishingshop-area03","type":"Tutorial","titleLangId":"la-tips-park-fishingshop-area03","order":1}}
 {"id":"tips-splash_ball","data":{"id":"tips-splash_ball","type":"Tutorial","titleLangId":"la-tips-splash_ball","order":1}}
 {"id":"tips-splash_ball-quest","data":{"id":"tips-splash_ball-quest","type":"Tutorial","titleLangId":"la-tips-splash_ball-quest","order":1}}
+{"id":"tips-hint-marathon_area","data":{"id":"tips-hint-marathon_area","type":"Hint","titleLangId":"la-tips-hint-marathon_nomal","hintType":"EventMarathonArea","order":1}}
 {"id":"tips-achievement","data":{"id":"tips-achievement","type":"Tutorial","titleLangId":"la-tips-achievement-title","order":1}}
 {"id":"tips-card-upgrade-potential","data":{"id":"tips-card-upgrade-potential","type":"Tutorial","titleLangId":"la-tips-card-upgrade-potential-title","order":1}}
 {"id":"tips-character-quest","data":{"id":"tips-character-quest","type":"Tutorial","titleLangId":"la-tips-character-quest-title","order":1}}

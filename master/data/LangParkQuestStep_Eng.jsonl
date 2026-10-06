@@ -459,7 +459,7 @@
 {"id":"la-quest-daily-delivery-00013-1-2","data":{"id":"la-quest-daily-delivery-00013-1-2","text":"Lost item found? Talk to {character} waiting at the Live Stage."}}
 {"id":"la-quest-daily-delivery-00027-1-1","data":{"id":"la-quest-daily-delivery-00027-1-1","text":"Talk to {character} looking down at ChoVeryBad."}}
 {"id":"la-quest-daily-delivery-00027-1-2","data":{"id":"la-quest-daily-delivery-00027-1-2","text":"There’s gotta be spares! Talk to {character} at holo Home to seek tools."}}
-{"id":"la-quest-daily-delivery-00028-1-1","data":{"id":"la-quest-daily-delivery-00028-1-1","text":"Time for snacks. Talk to hungry{character} in the plaza."}}
+{"id":"la-quest-daily-delivery-00028-1-1","data":{"id":"la-quest-daily-delivery-00028-1-1","text":"Time for snacks. Talk to hungry {character} in the plaza."}}
 {"id":"la-quest-daily-delivery-00028-1-2","data":{"id":"la-quest-daily-delivery-00028-1-2","text":"Follow the sweet scent! Chase after {character} hurrying to h3ro Vehicle."}}
 {"id":"la-quest-daily-delivery-03003-1-1","data":{"id":"la-quest-daily-delivery-03003-1-1","text":"Talk to {character} looking delighted at Lucu-Chu Mobile 15."}}
 {"id":"la-quest-daily-delivery-03003-1-2","data":{"id":"la-quest-daily-delivery-03003-1-2","text":"Talk to starving {character} headed to Tarafuku Journey."}}

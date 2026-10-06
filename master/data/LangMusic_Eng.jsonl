@@ -199,9 +199,14 @@
 {"id":"la-music_arranger-m0357","data":{"id":"la-music_arranger-m0357","text":"Camellia"}}
 {"id":"la-music_arranger-m0358","data":{"id":"la-music_arranger-m0358"}}
 {"id":"la-music_arranger-m0359","data":{"id":"la-music_arranger-m0359","text":"Ren Mizunoya "}}
+{"id":"la-music_arranger-m0360","data":{"id":"la-music_arranger-m0360","text":"Chiaki Natsume"}}
+{"id":"la-music_arranger-m0361","data":{"id":"la-music_arranger-m0361","text":"MARON (IOSYS)"}}
+{"id":"la-music_arranger-m0362","data":{"id":"la-music_arranger-m0362"}}
 {"id":"la-music_arranger-m0363","data":{"id":"la-music_arranger-m0363","text":"Sheeno Mirin"}}
 {"id":"la-music_arranger-m0375","data":{"id":"la-music_arranger-m0375","text":"Giga"}}
 {"id":"la-music_arranger-m0376","data":{"id":"la-music_arranger-m0376","text":"TOKOTOKO"}}
+{"id":"la-music_arranger-m0377","data":{"id":"la-music_arranger-m0377","text":"RISH"}}
+{"id":"la-music_arranger-m0378","data":{"id":"la-music_arranger-m0378","text":"yuzen（Hifumi,inc.）"}}
 {"id":"la-music_arranger-m0413","data":{"id":"la-music_arranger-m0413","text":"NayutalieN"}}
 {"id":"la-music_arranger-m0459","data":{"id":"la-music_arranger-m0459","text":"Aira (Dream Monster)"}}
 {"id":"la-music_arranger-m0524","data":{"id":"la-music_arranger-m0524","text":"TAK"}}
@@ -410,9 +415,14 @@
 {"id":"la-music_arranger_ruby-m0357","data":{"id":"la-music_arranger_ruby-m0357","text":"Camellia"}}
 {"id":"la-music_arranger_ruby-m0358","data":{"id":"la-music_arranger_ruby-m0358"}}
 {"id":"la-music_arranger_ruby-m0359","data":{"id":"la-music_arranger_ruby-m0359","text":"RenMizunoya"}}
+{"id":"la-music_arranger_ruby-m0360","data":{"id":"la-music_arranger_ruby-m0360","text":"ChiakiNatsume"}}
+{"id":"la-music_arranger_ruby-m0361","data":{"id":"la-music_arranger_ruby-m0361","text":"MARON(IOSYS)"}}
+{"id":"la-music_arranger_ruby-m0362","data":{"id":"la-music_arranger_ruby-m0362"}}
 {"id":"la-music_arranger_ruby-m0363","data":{"id":"la-music_arranger_ruby-m0363","text":"SheenoMirin"}}
 {"id":"la-music_arranger_ruby-m0375","data":{"id":"la-music_arranger_ruby-m0375","text":"Giga"}}
 {"id":"la-music_arranger_ruby-m0376","data":{"id":"la-music_arranger_ruby-m0376","text":"TOKOTOKO"}}
+{"id":"la-music_arranger_ruby-m0377","data":{"id":"la-music_arranger_ruby-m0377","text":"RISH"}}
+{"id":"la-music_arranger_ruby-m0378","data":{"id":"la-music_arranger_ruby-m0378","text":"yuzen（Hifumiinc.）"}}
 {"id":"la-music_arranger_ruby-m0413","data":{"id":"la-music_arranger_ruby-m0413","text":"NayutalieN"}}
 {"id":"la-music_arranger_ruby-m0459","data":{"id":"la-music_arranger_ruby-m0459","text":"Aira(DreamMonster)"}}
 {"id":"la-music_arranger_ruby-m0524","data":{"id":"la-music_arranger_ruby-m0524","text":"TAK"}}
@@ -621,9 +631,14 @@
 {"id":"la-music_composer-m0357","data":{"id":"la-music_composer-m0357","text":"Camellia"}}
 {"id":"la-music_composer-m0358","data":{"id":"la-music_composer-m0358","text":"natori"}}
 {"id":"la-music_composer-m0359","data":{"id":"la-music_composer-m0359","text":"Ren Mizunoya "}}
+{"id":"la-music_composer-m0360","data":{"id":"la-music_composer-m0360","text":"Chiaki Natsume"}}
+{"id":"la-music_composer-m0361","data":{"id":"la-music_composer-m0361","text":"MARON (IOSYS)"}}
+{"id":"la-music_composer-m0362","data":{"id":"la-music_composer-m0362","text":"Tsumiki"}}
 {"id":"la-music_composer-m0363","data":{"id":"la-music_composer-m0363","text":"Sheeno Mirin"}}
 {"id":"la-music_composer-m0375","data":{"id":"la-music_composer-m0375","text":"Giga"}}
 {"id":"la-music_composer-m0376","data":{"id":"la-music_composer-m0376","text":"TOKOTOKO"}}
+{"id":"la-music_composer-m0377","data":{"id":"la-music_composer-m0377","text":"RISH"}}
+{"id":"la-music_composer-m0378","data":{"id":"la-music_composer-m0378","text":"yuzen（Hifumi,inc.）"}}
 {"id":"la-music_composer-m0413","data":{"id":"la-music_composer-m0413","text":"NayutalieN"}}
 {"id":"la-music_composer-m0459","data":{"id":"la-music_composer-m0459","text":"Aira (Dream Monster)"}}
 {"id":"la-music_composer-m0524","data":{"id":"la-music_composer-m0524","text":"TAK"}}
@@ -832,9 +847,14 @@
 {"id":"la-music_composer_ruby-m0357","data":{"id":"la-music_composer_ruby-m0357","text":"Camellia"}}
 {"id":"la-music_composer_ruby-m0358","data":{"id":"la-music_composer_ruby-m0358","text":"natori"}}
 {"id":"la-music_composer_ruby-m0359","data":{"id":"la-music_composer_ruby-m0359","text":"RenMizunoya"}}
+{"id":"la-music_composer_ruby-m0360","data":{"id":"la-music_composer_ruby-m0360","text":"ChiakiNatsume"}}
+{"id":"la-music_composer_ruby-m0361","data":{"id":"la-music_composer_ruby-m0361","text":"MARON(IOSYS)"}}
+{"id":"la-music_composer_ruby-m0362","data":{"id":"la-music_composer_ruby-m0362","text":"Tsumiki"}}
 {"id":"la-music_composer_ruby-m0363","data":{"id":"la-music_composer_ruby-m0363","text":"SheenoMirin"}}
 {"id":"la-music_composer_ruby-m0375","data":{"id":"la-music_composer_ruby-m0375","text":"Giga"}}
 {"id":"la-music_composer_ruby-m0376","data":{"id":"la-music_composer_ruby-m0376","text":"TOKOTOKO"}}
+{"id":"la-music_composer_ruby-m0377","data":{"id":"la-music_composer_ruby-m0377","text":"RISH"}}
+{"id":"la-music_composer_ruby-m0378","data":{"id":"la-music_composer_ruby-m0378","text":"yuzen（Hifumiinc.）"}}
 {"id":"la-music_composer_ruby-m0413","data":{"id":"la-music_composer_ruby-m0413","text":"NayutalieN"}}
 {"id":"la-music_composer_ruby-m0459","data":{"id":"la-music_composer_ruby-m0459","text":"Aira(DreamMonster)"}}
 {"id":"la-music_composer_ruby-m0524","data":{"id":"la-music_composer_ruby-m0524","text":"TAK"}}
@@ -1100,9 +1120,14 @@
 {"id":"la-music_lyricist-m0357","data":{"id":"la-music_lyricist-m0357","text":"Camellia, Hakos Baelz"}}
 {"id":"la-music_lyricist-m0358","data":{"id":"la-music_lyricist-m0358","text":"natori"}}
 {"id":"la-music_lyricist-m0359","data":{"id":"la-music_lyricist-m0359","text":"Kaela Kovalskia"}}
+{"id":"la-music_lyricist-m0360","data":{"id":"la-music_lyricist-m0360","text":"Chiaki Natsume"}}
+{"id":"la-music_lyricist-m0361","data":{"id":"la-music_lyricist-m0361","text":"MARON (IOSYS)"}}
+{"id":"la-music_lyricist-m0362","data":{"id":"la-music_lyricist-m0362","text":"Tsumiki"}}
 {"id":"la-music_lyricist-m0363","data":{"id":"la-music_lyricist-m0363","text":"Sheeno Mirin"}}
 {"id":"la-music_lyricist-m0375","data":{"id":"la-music_lyricist-m0375","text":"Yoshimi YOUNO(IOSYS)"}}
 {"id":"la-music_lyricist-m0376","data":{"id":"la-music_lyricist-m0376","text":"TOKOTOKO"}}
+{"id":"la-music_lyricist-m0377","data":{"id":"la-music_lyricist-m0377","text":"RISH"}}
+{"id":"la-music_lyricist-m0378","data":{"id":"la-music_lyricist-m0378","text":"Sakurazawa Hikaru（Hifumi,inc.）、Saitou Dai（Hifumi,inc.）"}}
 {"id":"la-music_lyricist-m0413","data":{"id":"la-music_lyricist-m0413","text":"NayutalieN"}}
 {"id":"la-music_lyricist-m0459","data":{"id":"la-music_lyricist-m0459","text":"Aira (Dream Monster)"}}
 {"id":"la-music_lyricist-m0524","data":{"id":"la-music_lyricist-m0524","text":"TAK"}}
@@ -1311,9 +1336,14 @@
 {"id":"la-music_lyricist_ruby-m0357","data":{"id":"la-music_lyricist_ruby-m0357","text":"CamelliaHakosBaelz"}}
 {"id":"la-music_lyricist_ruby-m0358","data":{"id":"la-music_lyricist_ruby-m0358","text":"natori"}}
 {"id":"la-music_lyricist_ruby-m0359","data":{"id":"la-music_lyricist_ruby-m0359","text":"KaelaKovalskia"}}
+{"id":"la-music_lyricist_ruby-m0360","data":{"id":"la-music_lyricist_ruby-m0360","text":"ChiakiNatsume"}}
+{"id":"la-music_lyricist_ruby-m0361","data":{"id":"la-music_lyricist_ruby-m0361","text":"MARON(IOSYS)"}}
+{"id":"la-music_lyricist_ruby-m0362","data":{"id":"la-music_lyricist_ruby-m0362","text":"Tsumiki"}}
 {"id":"la-music_lyricist_ruby-m0363","data":{"id":"la-music_lyricist_ruby-m0363","text":"SheenoMirin"}}
 {"id":"la-music_lyricist_ruby-m0375","data":{"id":"la-music_lyricist_ruby-m0375","text":"YoshimiYOUNO(IOSYS)"}}
 {"id":"la-music_lyricist_ruby-m0376","data":{"id":"la-music_lyricist_ruby-m0376","text":"TOKOTOKO"}}
+{"id":"la-music_lyricist_ruby-m0377","data":{"id":"la-music_lyricist_ruby-m0377","text":"RISH"}}
+{"id":"la-music_lyricist_ruby-m0378","data":{"id":"la-music_lyricist_ruby-m0378","text":"SakurazawaHikaru（Hifumiinc.）、SaitouDai（Hifumiinc.）"}}
 {"id":"la-music_lyricist_ruby-m0413","data":{"id":"la-music_lyricist_ruby-m0413","text":"NayutalieN"}}
 {"id":"la-music_lyricist_ruby-m0459","data":{"id":"la-music_lyricist_ruby-m0459","text":"Aira(DreamMonster)"}}
 {"id":"la-music_lyricist_ruby-m0524","data":{"id":"la-music_lyricist_ruby-m0524","text":"TAK"}}
@@ -1522,9 +1552,14 @@
 {"id":"la-music_title-m0357","data":{"id":"la-music_title-m0357","text":"Play Dice!"}}
 {"id":"la-music_title-m0358","data":{"id":"la-music_title-m0358","text":"PROPOSE"}}
 {"id":"la-music_title-m0359","data":{"id":"la-music_title-m0359","text":"Backseat"}}
+{"id":"la-music_title-m0360","data":{"id":"la-music_title-m0360","text":"HOLOGRAM CIRCUS"}}
+{"id":"la-music_title-m0361","data":{"id":"la-music_title-m0361","text":"Lamy's Baribari Workout"}}
+{"id":"la-music_title-m0362","data":{"id":"la-music_title-m0362","text":"Tokyo Shandy Rendez-vous"}}
 {"id":"la-music_title-m0363","data":{"id":"la-music_title-m0363","text":"Simulacre"}}
 {"id":"la-music_title-m0375","data":{"id":"la-music_title-m0375","text":"Wonky Monkey"}}
 {"id":"la-music_title-m0376","data":{"id":"la-music_title-m0376","text":"KONKON Beats"}}
+{"id":"la-music_title-m0377","data":{"id":"la-music_title-m0377","text":"Round and Round and CircLuna"}}
+{"id":"la-music_title-m0378","data":{"id":"la-music_title-m0378","text":"NEW[zom]BIE!!"}}
 {"id":"la-music_title-m0413","data":{"id":"la-music_title-m0413","text":"BAKU LOVE CHEMISTRY"}}
 {"id":"la-music_title-m0459","data":{"id":"la-music_title-m0459","text":"Illusion Night"}}
 {"id":"la-music_title-m0524","data":{"id":"la-music_title-m0524","text":"You & aIzu"}}
@@ -1733,9 +1768,14 @@
 {"id":"la-music_title_ruby-m0357","data":{"id":"la-music_title_ruby-m0357","text":"PlayDice!"}}
 {"id":"la-music_title_ruby-m0358","data":{"id":"la-music_title_ruby-m0358","text":"PROPOSE"}}
 {"id":"la-music_title_ruby-m0359","data":{"id":"la-music_title_ruby-m0359","text":"Backseat"}}
+{"id":"la-music_title_ruby-m0360","data":{"id":"la-music_title_ruby-m0360","text":"HOLOGRAMCIRCUS"}}
+{"id":"la-music_title_ruby-m0361","data":{"id":"la-music_title_ruby-m0361","text":"Lamy'sBaribariWorkout"}}
+{"id":"la-music_title_ruby-m0362","data":{"id":"la-music_title_ruby-m0362","text":"TokyoShandyRendez-vous"}}
 {"id":"la-music_title_ruby-m0363","data":{"id":"la-music_title_ruby-m0363","text":"Simulacre"}}
 {"id":"la-music_title_ruby-m0375","data":{"id":"la-music_title_ruby-m0375","text":"WonkyMonkey"}}
 {"id":"la-music_title_ruby-m0376","data":{"id":"la-music_title_ruby-m0376","text":"KONKONBeats"}}
+{"id":"la-music_title_ruby-m0377","data":{"id":"la-music_title_ruby-m0377","text":"RoundandRoundandCircLuna"}}
+{"id":"la-music_title_ruby-m0378","data":{"id":"la-music_title_ruby-m0378","text":"NEW[zom]BIE!!"}}
 {"id":"la-music_title_ruby-m0413","data":{"id":"la-music_title_ruby-m0413","text":"BAKULOVECHEMISTRY"}}
 {"id":"la-music_title_ruby-m0459","data":{"id":"la-music_title_ruby-m0459","text":"IllusionNight"}}
 {"id":"la-music_title_ruby-m0524","data":{"id":"la-music_title_ruby-m0524","text":"You&aIzu"}}
@@ -1944,9 +1984,14 @@
 {"id":"la-singer_name-m0357","data":{"id":"la-singer_name-m0357","text":"Hakos Baelz"}}
 {"id":"la-singer_name-m0358","data":{"id":"la-singer_name-m0358","text":"Kobo Kanaeru"}}
 {"id":"la-singer_name-m0359","data":{"id":"la-singer_name-m0359","text":"Kaela Kovalskia"}}
+{"id":"la-singer_name-m0360","data":{"id":"la-singer_name-m0360","text":"Omaru Polka"}}
+{"id":"la-singer_name-m0361","data":{"id":"la-singer_name-m0361","text":"Yukihana Lamy"}}
+{"id":"la-singer_name-m0362","data":{"id":"la-singer_name-m0362","text":"Ichijou Ririka"}}
 {"id":"la-singer_name-m0363","data":{"id":"la-singer_name-m0363","text":"Shishiro Botan"}}
 {"id":"la-singer_name-m0375","data":{"id":"la-singer_name-m0375","text":"Inugami Korone"}}
 {"id":"la-singer_name-m0376","data":{"id":"la-singer_name-m0376","text":"Shirakami Fubuki"}}
+{"id":"la-singer_name-m0377","data":{"id":"la-singer_name-m0377","text":"Himemori Luna"}}
+{"id":"la-singer_name-m0378","data":{"id":"la-singer_name-m0378","text":"Kureiji Ollie"}}
 {"id":"la-singer_name-m0413","data":{"id":"la-singer_name-m0413","text":"Hakui Koyori"}}
 {"id":"la-singer_name-m0459","data":{"id":"la-singer_name-m0459","text":"Pavolia Reine"}}
 {"id":"la-singer_name-m0524","data":{"id":"la-singer_name-m0524","text":"Otonose Kanade"}}
@@ -2155,9 +2200,14 @@
 {"id":"la-singer_name_ruby-m0357","data":{"id":"la-singer_name_ruby-m0357","text":"HakosBaelz"}}
 {"id":"la-singer_name_ruby-m0358","data":{"id":"la-singer_name_ruby-m0358","text":"KoboKanaeru"}}
 {"id":"la-singer_name_ruby-m0359","data":{"id":"la-singer_name_ruby-m0359","text":"KaelaKovalskia"}}
+{"id":"la-singer_name_ruby-m0360","data":{"id":"la-singer_name_ruby-m0360","text":"OmaruPolka"}}
+{"id":"la-singer_name_ruby-m0361","data":{"id":"la-singer_name_ruby-m0361","text":"YukihanaLamy"}}
+{"id":"la-singer_name_ruby-m0362","data":{"id":"la-singer_name_ruby-m0362","text":"IchijouRirika"}}
 {"id":"la-singer_name_ruby-m0363","data":{"id":"la-singer_name_ruby-m0363","text":"ShishiroBotan"}}
 {"id":"la-singer_name_ruby-m0375","data":{"id":"la-singer_name_ruby-m0375","text":"InugamiKorone"}}
 {"id":"la-singer_name_ruby-m0376","data":{"id":"la-singer_name_ruby-m0376","text":"ShirakamiFubuki"}}
+{"id":"la-singer_name_ruby-m0377","data":{"id":"la-singer_name_ruby-m0377","text":"HimemoriLuna"}}
+{"id":"la-singer_name_ruby-m0378","data":{"id":"la-singer_name_ruby-m0378","text":"KureijiOllie"}}
 {"id":"la-singer_name_ruby-m0413","data":{"id":"la-singer_name_ruby-m0413","text":"HakuiKoyori"}}
 {"id":"la-singer_name_ruby-m0459","data":{"id":"la-singer_name_ruby-m0459","text":"PavoliaReine"}}
 {"id":"la-singer_name_ruby-m0524","data":{"id":"la-singer_name_ruby-m0524","text":"OtonoseKanade"}}

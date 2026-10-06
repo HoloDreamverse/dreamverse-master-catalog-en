@@ -1,4 +1,5 @@
 {"id":"la-increment_park_fishing_fish_caught_count","data":{"id":"la-increment_park_fishing_fish_caught_count","text":"Catch {0} fish."}}
+{"id":"la-increment_splash_ball_play_count","data":{"id":"la-increment_splash_ball_play_count","text":"Play a game of Splash Ball {0} time(s)."}}
 {"id":"la-mission-achievement-chr-00001-absolute_card_get_unique_count-description","data":{"id":"la-mission-achievement-chr-00001-absolute_card_get_unique_count-description","text":"Obtain {0} different type(s) of Members."}}
 {"id":"la-mission-achievement-chr-00001-absolute_card_level_limit_break-description","data":{"id":"la-mission-achievement-chr-00001-absolute_card_level_limit_break-description","text":"Train a Member up to Stage {0}."}}
 {"id":"la-mission-achievement-chr-00001-absolute_card_level_sum_by_card_id-description","data":{"id":"la-mission-achievement-chr-00001-absolute_card_level_sum_by_card_id-description","text":"Reach of total of {0} Member Levels."}}
@@ -1598,7 +1599,7 @@
 {"id":"la-mission-event_mission-area03-release-260929-increment_resource_get_count-item-item-mini_game_fishing_coin","data":{"id":"la-mission-event_mission-area03-release-260929-increment_resource_get_count-item-item-mini_game_fishing_coin","text":"Earn {0} Soda Pop Coins."}}
 {"id":"la-mission-event_mission-area03-release-260929-increment_splash_ball_defense_score","data":{"id":"la-mission-event_mission-area03-release-260929-increment_splash_ball_defense_score","text":"Earn {0} Defense Point(s) in Splash Ball."}}
 {"id":"la-mission-event_mission-area03-release-260929-increment_splash_ball_goal_count","data":{"id":"la-mission-event_mission-area03-release-260929-increment_splash_ball_goal_count","text":"Score {0} time(s) in Splash Ball."}}
-{"id":"la-mission-event_mission-area03-release-260929-increment_splash_ball_win_count","data":{"id":"la-mission-event_mission-area03-release-260929-increment_splash_ball_win_count","text":"Win a game of Splash Ball {0} time(s)."}}
+{"id":"la-mission-event_mission-area03-release-260929-increment_splash_ball_win_count","data":{"id":"la-mission-event_mission-area03-release-260929-increment_splash_ball_win_count","text":"Play a game of Splash Ball {0} time(s)."}}
 {"id":"la-mission-event_mission-area03-release-260929-increment_work_finish_count","data":{"id":"la-mission-event_mission-area03-release-260929-increment_work_finish_count","text":"Complete Holowork tasks {0} time(s)."}}
 {"id":"la-mission-event_mission-chase_celebration-260828-increment_chase_mischief_team_key_use_count","data":{"id":"la-mission-event_mission-chase_celebration-260828-increment_chase_mischief_team_key_use_count","text":"Use a Key {0} time(s) in Shadowbound Chase."}}
 {"id":"la-mission-event_mission-chase_celebration-260828-increment_chase_patrol_team_restraint_count","data":{"id":"la-mission-event_mission-chase_celebration-260828-increment_chase_patrol_team_restraint_count","text":"Capture {0} player(s) in Shadowbound Chase."}}
