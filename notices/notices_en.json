@@ -10,23 +10,23 @@
    "display_type_name": "normal",
    "notices": [
     {
-     "id": "notice-marathon_event-normal-006-pre",
-     "title": "[Notice] Announcing the Score Challenge Event \"Unstoppable Sea Race\"!",
-     "type": 2,
-     "type_name": "event",
-     "detail_url": "https://static.game-hololive-dreams.com/html/notice/32e9006c31691e659f74e4717d99c4f0b6e4e7087a2b8c295b497fada1a5a5d1/index.html",
-     "banner_asset_id": "img_banner_full_marathon_event-normal-006",
-     "start_time": 1791280800000,
-     "start_time_utc": "2026-10-06T10:00:00Z",
-     "external_url": ""
-    },
-    {
      "id": "notice-news-gacha-pickup-261007-pre",
      "title": "[Notice] Announcing the \"Sea Bridge Gacha\"!",
      "type": 1,
      "type_name": "gacha",
      "detail_url": "https://static.game-hololive-dreams.com/html/notice/f8818d91c0487b95e516e442ffbdb3d78a4c82c0de8dcc7b30ac2bd20b655ceb/index.html",
      "banner_asset_id": "img_banner_full_gacha-pickup-261007",
+     "start_time": 1791280800000,
+     "start_time_utc": "2026-10-06T10:00:00Z",
+     "external_url": ""
+    },
+    {
+     "id": "notice-marathon_event-normal-006-pre",
+     "title": "[Notice] Announcing the Score Challenge Event \"Unstoppable Sea Race\"!",
+     "type": 2,
+     "type_name": "event",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/32e9006c31691e659f74e4717d99c4f0b6e4e7087a2b8c295b497fada1a5a5d1/index.html",
+     "banner_asset_id": "img_banner_full_marathon_event-normal-006",
      "start_time": 1791280800000,
      "start_time_utc": "2026-10-06T10:00:00Z",
      "external_url": ""
