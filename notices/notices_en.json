@@ -1,7 +1,7 @@
 {
  "format": "hololive-dreams-notices",
  "region": "en",
- "app_version": "1.2.0",
+ "app_version": "1.2.1",
  "categories": [
   {
    "id": "notice_category-news",
