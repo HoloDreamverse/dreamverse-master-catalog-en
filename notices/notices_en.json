@@ -10,14 +10,14 @@
    "display_type_name": "normal",
    "notices": [
     {
-     "id": "notice-news-gacha-pickup-261007-pre",
-     "title": "[Notice] Announcing the \"Sea Bridge Gacha\"!",
+     "id": "notice-news-gacha-pickup-261007",
+     "title": "Sea Bridge Gacha is now live!",
      "type": 1,
      "type_name": "gacha",
-     "detail_url": "https://static.game-hololive-dreams.com/html/notice/f8818d91c0487b95e516e442ffbdb3d78a4c82c0de8dcc7b30ac2bd20b655ceb/index.html",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/f9e012c125c00daef8bae4cbff37e5b7fbfa38654eb9ed739c45741cac9eb2f3/index.html",
      "banner_asset_id": "img_banner_full_gacha-pickup-261007",
-     "start_time": 1791280800000,
-     "start_time_utc": "2026-10-06T10:00:00Z",
+     "start_time": 1791338400000,
+     "start_time_utc": "2026-10-07T02:00:00Z",
      "external_url": ""
     },
     {
