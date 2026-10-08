@@ -1,6 +1,11 @@
 {
   "appVersion": "1.2.1",
   "catalogRevision": 99,
+  "filesManifest": {
+    "bytes": 62224,
+    "path": "master/files.json",
+    "sha256": "050370b745d9a57da38d926fbe73878627b7f886e9635d888e1c879ea5a9565d"
+  },
   "masterVersion": "65badf8533aacbc04382f97f0f5f56740e761e6f5be6172d8440ae9061deebe7",
   "package": null,
   "region": "en"
