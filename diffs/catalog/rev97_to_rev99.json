@@ -1,0 +1,142 @@
+{
+  "currentVersion": "rev99",
+  "files": {
+    "added": [
+      {
+        "asset_bundles": {
+          "added": [
+            {
+              "addresses": [
+                "eff_ps_env_cannon-000_in"
+              ],
+              "crc": 3485824014,
+              "dependencies": [
+                20129,
+                20130,
+                20162,
+                20269,
+                20297,
+                20351,
+                20377,
+                20378,
+                35425,
+                35684
+              ],
+              "id": 44214,
+              "md5": "d188fc16e5a72fd774161521c966434e",
+              "name": "eff_ps_env_cannon-000_in",
+              "object_name": "qbFMfp",
+              "size": 37463
+            },
+            {
+              "addresses": [
+                "eff_ps_env_water-splash-000_in"
+              ],
+              "crc": 2227768750,
+              "dependencies": [
+                20190,
+                20191,
+                20205,
+                20206,
+                42073,
+                42074,
+                20359,
+                20376,
+                42097,
+                20429,
+                42111,
+                35425,
+                35684
+              ],
+              "id": 44215,
+              "md5": "3d73b075861f2929e6f20c278691122c",
+              "name": "eff_ps_env_water-splash-000_in",
+              "object_name": "25CZob",
+              "size": 44130
+            },
+            {
+              "addresses": [
+                "vis_script_subgraph_area-a03-cannon-00_asset_holder"
+              ],
+              "crc": 1750036921,
+              "dependencies": [
+                44214,
+                44215,
+                20129,
+                20130,
+                20162,
+                20190,
+                20191,
+                20205,
+                20206,
+                42073,
+                42074,
+                20269,
+                20297,
+                20351,
+                20359,
+                20376,
+                20377,
+                20378,
+                42097,
+                20429,
+                42111,
+                35425,
+                35684
+              ],
+              "id": 44216,
+              "md5": "4461010a9ebeaf0d184a01e07546c7be",
+              "name": "vis_script_subgraph_area-a03-cannon-00_asset_holder",
+              "object_name": "8tKlIV",
+              "size": 3887
+            },
+            {
+              "addresses": [
+                "vis_script_subgraph_sit-npc-motion-solo-00_asset_holder"
+              ],
+              "crc": 854255576,
+              "dependencies": [
+                33959,
+                33992,
+                34570,
+                34661,
+                34663,
+                35425,
+                35456,
+                35461,
+                35684
+              ],
+              "id": 44217,
+              "md5": "e8b797a0da06f56379d15bd74dab29df",
+              "name": "vis_script_subgraph_sit-npc-motion-solo-00_asset_holder",
+              "object_name": "d8CLrJ",
+              "size": 2847
+            }
+          ],
+          "removed": []
+        },
+        "path": "catalog/catalog_en_rev99.redacted.json",
+        "previousPath": "catalog/catalog_en_rev97.redacted.json",
+        "resources": {
+          "added": [
+            {
+              "addresses": [],
+              "crc": null,
+              "dependencies": [],
+              "id": 44213,
+              "md5": "a544207856f19a4cd992c58d949f168c",
+              "name": "se_park_facility_area-a03-marin.acb",
+              "object_name": "pWLvL9",
+              "size": 168649
+            }
+          ],
+          "removed": []
+        }
+      }
+    ],
+    "changed": [],
+    "removed": []
+  },
+  "previousVersion": "rev97",
+  "schemaVersion": 2
+}
