@@ -142,17 +142,6 @@
      "external_url": ""
     },
     {
-     "id": "notice-news-gacha-area03-select-260929",
-     "title": "\"New Area Celebration! Take your pick! ★5 Member Gacha\" now live!",
-     "type": 1,
-     "type_name": "gacha",
-     "detail_url": "https://static.game-hololive-dreams.com/html/notice/9ff2219083b7a2134c5b19cdc8d36093502e6b9962eabf640db47dee11a13eae/index.html",
-     "banner_asset_id": "img_banner_full_gacha-area03-260929",
-     "start_time": 1790629200000,
-     "start_time_utc": "2026-09-28T21:00:00Z",
-     "external_url": ""
-    },
-    {
      "id": "notice-news-shop-stone-area03_celebration-260929",
      "title": "Limited-time Packs are available to celebrate the new Area!",
      "type": 4,
@@ -335,6 +324,17 @@
      "type_name": "gacha",
      "detail_url": "https://static.game-hololive-dreams.com/html/notice/c7cc79a3811f79ac63038636d2d5fe330e414549d1ee69352f1f370e579d910a/index.html",
      "banner_asset_id": "img_banner_full_gacha-beginner-select-001",
+     "start_time": 1784685600000,
+     "start_time_utc": "2026-07-22T02:00:00Z",
+     "external_url": ""
+    },
+    {
+     "id": "notice-news-shop_startdash-release",
+     "title": "A limited-time pack is available to celebrate the official launch!",
+     "type": 4,
+     "type_name": "information",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/bc355e1e8b108e662c02e41fc3d168d78291e364993420592803fb0ac6db63cf/index.html",
+     "banner_asset_id": "img_banner_full_shop-startdash-release",
      "start_time": 1784685600000,
      "start_time_utc": "2026-07-22T02:00:00Z",
      "external_url": ""
