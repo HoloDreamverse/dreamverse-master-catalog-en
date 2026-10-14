@@ -1572,8 +1572,8 @@
   "masterVersion": "65badf8533aacbc04382f97f0f5f56740e761e6f5be6172d8440ae9061deebe7",
   "notices": {
     "notices/notices_en.json": {
-      "bytes": 18186,
-      "sha256": "3fde1f0e72181f11ffb478653cafb1054c2359744db12bc4bfa2a4d0d4a8ed34"
+      "bytes": 18248,
+      "sha256": "1b211797595a796bd35b27e9b507d4502fde5ebfedf226fd630b734ebfe2f87b"
     }
   },
   "region": "en",
