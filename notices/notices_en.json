@@ -54,17 +54,6 @@
      "external_url": ""
     },
     {
-     "id": "notice-news-gift-sales_ranking_1st-gacha-260929",
-     "title": "Store Sales Chart #1 Achievement!",
-     "type": 4,
-     "type_name": "information",
-     "detail_url": "https://static.game-hololive-dreams.com/html/notice/35093caf163070507e342853b835be674c5654fc4e7c9024105b039e58effbb4/index.html",
-     "banner_asset_id": "img_banner_full_gift-sales-ranking-1st-gacha-260929",
-     "start_time": 1790748000000,
-     "start_time_utc": "2026-09-30T06:00:00Z",
-     "external_url": ""
-    },
-    {
      "id": "notice-news-info-update-area03",
      "title": "New Area \"Soda Pop Lagoon\" is open!",
      "type": 3,
@@ -161,17 +150,6 @@
      "banner_asset_id": "img_banner_full_update-area03",
      "start_time": 1790647200000,
      "start_time_utc": "2026-09-29T02:00:00Z",
-     "external_url": ""
-    },
-    {
-     "id": "notice-news-info-holocard-ranking_reset",
-     "title": "Upcoming Changes to How “Pokajan!” Works",
-     "type": 4,
-     "type_name": "information",
-     "detail_url": "https://static.game-hololive-dreams.com/html/notice/bfc1f94c41f7f13ac974e9b8e1bd5ac3c1b225278db1fa2640cd4c42260ee587/index.html",
-     "banner_asset_id": "",
-     "start_time": 1789626600000,
-     "start_time_utc": "2026-09-17T06:30:00Z",
      "external_url": ""
     },
     {
