@@ -354,7 +354,7 @@
 {"type":10721,"data":{"type":"SeSplashBallStart","soundAssetId":"se_mg_006_pkg-start"}}
 {"type":10722,"data":{"type":"SeSplashBallStartWinCondition","soundAssetId":"se_mg_006_pkg-rule"}}
 {"type":10723,"data":{"type":"SeSplashBallCountdown","soundAssetId":"se_mg_006_pkg-countdown"}}
-{"type":10724,"data":{"type":"SeSplashBallRemainingTimeAnnounce","soundAssetId":"se_mg_006_pkg-announce-30s"}}
+{"type":10724,"data":{"type":"SeSplashBallRemainingTimeAnnounce","soundAssetId":"se_mg_006_pkg-remaining-time-announce"}}
 {"type":10725,"data":{"type":"SeSplashBallFinish","soundAssetId":"se_mg_006_pkg-finish"}}
 {"type":10726,"data":{"type":"SeSplashBallFeverTimeNotice","soundAssetId":"se_mg_006_pkg-notice-many-spawn"}}
 {"type":10728,"data":{"type":"SeSplashBallGoldBallOmen","soundAssetId":"se_mg_006_pkg-ball-gold-omen"}}

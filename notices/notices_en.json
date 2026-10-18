@@ -10,6 +10,28 @@
    "display_type_name": "normal",
    "notices": [
     {
+     "id": "notice-news-gacha-pickup-261019-pre",
+     "title": "[Notice] Announcing the \"Blissful Seaside Days Gacha\"!",
+     "type": 1,
+     "type_name": "gacha",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/0d630ce72d592f5f5b4d33238c243b21de122db555b3fc82e8a0f0e023475d2d/index.html",
+     "banner_asset_id": "img_banner_full_gacha-pickup-261019",
+     "start_time": 1792317600000,
+     "start_time_utc": "2026-10-18T10:00:00Z",
+     "external_url": ""
+    },
+    {
+     "id": "notice-marathon_event-relay-003-pre",
+     "title": "[Notice] Announcing the Spotlight Event \"Sunlit Shoreline Style\"!",
+     "type": 2,
+     "type_name": "event",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/cde86032c617c2d0ba7f6f61af38fbb351815a0fb8309454208a396b8cce9017/index.html",
+     "banner_asset_id": "img_banner_full_marathon_event-relay-003",
+     "start_time": 1792317600000,
+     "start_time_utc": "2026-10-18T10:00:00Z",
+     "external_url": ""
+    },
+    {
      "id": "notice-marathon_event-normal-007",
      "title": "The Point Rally Event \"Neon Sunshine Festival\" is now underway!",
      "type": 2,

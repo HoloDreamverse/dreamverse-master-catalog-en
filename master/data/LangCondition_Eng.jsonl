@@ -83,7 +83,7 @@
 {"id":"la-locktestdesc-cd-quest-area-a01-01","data":{"id":"la-locktestdesc-cd-quest-area-a01-01","text":"Unlock by progressing through Main Quests."}}
 {"id":"la-locktestdesc-cd-quest-area-a01-02","data":{"id":"la-locktestdesc-cd-quest-area-a01-02","text":"Unlock by progressing through Main Quests."}}
 {"id":"la-locktestdesc-cd-quest-area-a01-03","data":{"id":"la-locktestdesc-cd-quest-area-a01-03","text":"Unlock by progressing through Main Quests."}}
-{"id":"la-music_lock_description-m0301","data":{"id":"la-music_lock_description-m0301","text":"Unlock requirement: Complete Main Quest Chapter 2"}}
+{"id":"la-music_lock_description-m0301","data":{"id":"la-music_lock_description-m0301","text":"Unlock Requirement: Complete Main Quest Chapter 2"}}
 {"id":"la-quest-main-w1-01-03-unlock-description","data":{"id":"la-quest-main-w1-01-03-unlock-description","text":"Unlock holomems by completing holomem Quests."}}
 {"id":"la-quest-main-w1-01-06-unlock-description","data":{"id":"la-quest-main-w1-01-06-unlock-description","text":"You can unlock this by completing the Area Quest \"Currently on a Mission.\""}}
 {"id":"la-quest-main-w1-01-12-unlock-description","data":{"id":"la-quest-main-w1-01-12-unlock-description","text":"You can level up your Dream Rank\nby challenging area quests and Holomem Quests."}}
