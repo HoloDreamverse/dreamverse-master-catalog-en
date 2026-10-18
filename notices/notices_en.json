@@ -131,17 +131,6 @@
      "external_url": ""
     },
     {
-     "id": "notice-news-login_bonus-event-260929",
-     "title": "\"New Area Celebration Login Bonus\" is now underway!",
-     "type": 6,
-     "type_name": "campaign",
-     "detail_url": "https://static.game-hololive-dreams.com/html/notice/74df8c871bec9ef00bee22b185d210f6682f8d6399058d525c02c026b8db166c/index.html",
-     "banner_asset_id": "img_banner_full_login-bonus-event-260929",
-     "start_time": 1790647200000,
-     "start_time_utc": "2026-09-29T02:00:00Z",
-     "external_url": ""
-    },
-    {
      "id": "notice-news-gacha-fixed-260929",
      "title": "New Area Celebration! One ★5 Member Guaranteed Gacha",
      "type": 1,
@@ -150,17 +139,6 @@
      "banner_asset_id": "img_banner_full_gacha-fixed-260929",
      "start_time": 1790629200000,
      "start_time_utc": "2026-09-28T21:00:00Z",
-     "external_url": ""
-    },
-    {
-     "id": "notice-news-shop-stone-area03_celebration-260929",
-     "title": "Limited-time Packs are available to celebrate the new Area!",
-     "type": 4,
-     "type_name": "information",
-     "detail_url": "https://static.game-hololive-dreams.com/html/notice/2e1f15873f4428c3d752f4f0ac29f3b422bf7157e4e096baa64c7352bff4f04a/index.html",
-     "banner_asset_id": "img_banner_full_shop-stone-area03-celebration-260929",
-     "start_time": 1790647200000,
-     "start_time_utc": "2026-09-29T02:00:00Z",
      "external_url": ""
     },
     {
