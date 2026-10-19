@@ -1,0 +1,137 @@
+{
+  "currentVersion": "452bd7acfd1b",
+  "files": {
+    "added": [],
+    "changed": [
+      {
+        "added": [
+          {
+            "data": {
+              "groupId": "cd-distributed_reward-mal-261019-01",
+              "number": 1,
+              "resourceId1": "mission-event_mission-comeback-260929-absolute_park_quest_clear_count-quest-main-w1-02-12",
+              "type": "MissionClear"
+            },
+            "group_id": "cd-distributed_reward-mal-261019-01",
+            "number": 1
+          },
+          {
+            "data": {
+              "groupId": "cd-distributed_reward-mal-261019-01-nega",
+              "number": 1,
+              "resourceId1": "cd-distributed_reward-mal-261019-01",
+              "type": "NegativeSet"
+            },
+            "group_id": "cd-distributed_reward-mal-261019-01-nega",
+            "number": 1
+          },
+          {
+            "data": {
+              "groupId": "cd-distributed_reward-mal-261019-02",
+              "number": 1,
+              "resourceId1": "mission-event_mission-comeback-260929-absolute_card_level",
+              "type": "MissionClear"
+            },
+            "group_id": "cd-distributed_reward-mal-261019-02",
+            "number": 1
+          },
+          {
+            "data": {
+              "groupId": "cd-distributed_reward-mal-261019-02-nega",
+              "number": 1,
+              "resourceId1": "cd-distributed_reward-mal-261019-02",
+              "type": "NegativeSet"
+            },
+            "group_id": "cd-distributed_reward-mal-261019-02-nega",
+            "number": 1
+          },
+          {
+            "data": {
+              "groupId": "cd-distributed_reward-mal-261019-03",
+              "number": 1,
+              "resourceId1": "mission-event_mission-comeback-260929-increment_mini_game_stamina_consumption",
+              "type": "MissionClear"
+            },
+            "group_id": "cd-distributed_reward-mal-261019-03",
+            "number": 1
+          },
+          {
+            "data": {
+              "groupId": "cd-distributed_reward-mal-261019-03-nega",
+              "number": 1,
+              "resourceId1": "cd-distributed_reward-mal-261019-03",
+              "type": "NegativeSet"
+            },
+            "group_id": "cd-distributed_reward-mal-261019-03-nega",
+            "number": 1
+          },
+          {
+            "data": {
+              "groupId": "cd-distributed_reward-mal-261019-04",
+              "number": 1,
+              "resourceId1": "mission-event_mission-comeback-260929-absolute_live_deck_evaluation_value",
+              "type": "MissionClear"
+            },
+            "group_id": "cd-distributed_reward-mal-261019-04",
+            "number": 1
+          },
+          {
+            "data": {
+              "groupId": "cd-distributed_reward-mal-261019-04-nega",
+              "number": 1,
+              "resourceId1": "cd-distributed_reward-mal-261019-04",
+              "type": "NegativeSet"
+            },
+            "group_id": "cd-distributed_reward-mal-261019-04-nega",
+            "number": 1
+          },
+          {
+            "data": {
+              "groupId": "cd-distributed_reward-mal-261019-05",
+              "number": 1,
+              "resourceId1": "mission-event_mission-comeback-260929-absolute_live_clear_music_count",
+              "type": "MissionClear"
+            },
+            "group_id": "cd-distributed_reward-mal-261019-05",
+            "number": 1
+          },
+          {
+            "data": {
+              "groupId": "cd-distributed_reward-mal-261019-05-nega",
+              "number": 1,
+              "resourceId1": "cd-distributed_reward-mal-261019-05",
+              "type": "NegativeSet"
+            },
+            "group_id": "cd-distributed_reward-mal-261019-05-nega",
+            "number": 1
+          }
+        ],
+        "path": "master/data/Condition.jsonl",
+        "removed": []
+      },
+      {
+        "added": [],
+        "path": "master/data/ParkNotice.jsonl",
+        "removed": [
+          {
+            "data": {
+              "order": 19,
+              "type": "EventEndTimeSoon"
+            },
+            "target_id": "",
+            "type": 10
+          }
+        ]
+      },
+      {
+        "path": "master/export-manifest.json"
+      },
+      {
+        "path": "master/manifest.redacted.json"
+      }
+    ],
+    "removed": []
+  },
+  "previousVersion": "e1eea8627c36",
+  "schemaVersion": 2
+}

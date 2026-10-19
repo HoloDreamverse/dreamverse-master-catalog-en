@@ -252,8 +252,8 @@
       "sha256": "ca0274f40f44b7715ce0d556cf8e3a78072cc3f64881a419a043c92ea6a33a02"
     },
     "master/data/Condition.jsonl": {
-      "bytes": 768439,
-      "sha256": "6b4d8bf70a7745b4957f0ccb69be62191684a0792df2c8f25bffb669e238b155"
+      "bytes": 770714,
+      "sha256": "e68cb6f20332a7209616f1d7d36de171f9ee1afdf9963206e127a3af41bce1b4"
     },
     "master/data/CookingPuzzle.jsonl": {
       "bytes": 2976,
@@ -1272,8 +1272,8 @@
       "sha256": "5adec7d2d0ec9973d7acc0f2bdcc6ac0a3a3d91f0c649aabc9487453b35df13b"
     },
     "master/data/ParkNotice.jsonl": {
-      "bytes": 2759,
-      "sha256": "7c0bf2f4546c61fe10a21dd41a72c6441b5df6dd8df742d0b03142dc8d38db1c"
+      "bytes": 2686,
+      "sha256": "a972dbd843bdf5f2a363e1e60e69da6e587110b4d9c71b02e02ed57c754fce73"
     },
     "master/data/ParkNpc.jsonl": {
       "bytes": 3342516,
@@ -1573,11 +1573,11 @@
     }
   },
   "generatedBy": "dreamverse-master-updater",
-  "masterVersion": "e1eea8627c36e512ed0f8f662d0d80e14b9000cb8facd546d38e492e91a3c528",
+  "masterVersion": "452bd7acfd1b9f90cc85d9978aea55b1a6bf6c2cddaff470c640462830c8c00d",
   "notices": {
     "notices/notices_en.json": {
-      "bytes": 15246,
-      "sha256": "f727e38ad6badb3ba43e9bdea4d5b51fdf40c1db5cce4247e5395f594cb2866b"
+      "bytes": 15685,
+      "sha256": "5731d10d02a12f1221ddc50215a667c3ab639ea7b48ea4376dab68a8bc70ddd9"
     }
   },
   "region": "en",
