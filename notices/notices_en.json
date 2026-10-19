@@ -10,14 +10,14 @@
    "display_type_name": "normal",
    "notices": [
     {
-     "id": "notice-news-gacha-pickup-261019-pre",
-     "title": "[Notice] Announcing the \"Blissful Seaside Days Gacha\"!",
+     "id": "notice-news-gacha-pickup-261019",
+     "title": "Blissful Seaside Days Gacha is now live!",
      "type": 1,
      "type_name": "gacha",
-     "detail_url": "https://static.game-hololive-dreams.com/html/notice/0d630ce72d592f5f5b4d33238c243b21de122db555b3fc82e8a0f0e023475d2d/index.html",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/316740c6ecc7d1cc9628a22f3ac6605046f16c38fb97aace17d1b5c1462afde2/index.html",
      "banner_asset_id": "img_banner_full_gacha-pickup-261019",
-     "start_time": 1792317600000,
-     "start_time_utc": "2026-10-18T10:00:00Z",
+     "start_time": 1792375200000,
+     "start_time_utc": "2026-10-19T02:00:00Z",
      "external_url": ""
     },
     {
@@ -54,17 +54,6 @@
      "external_url": ""
     },
     {
-     "id": "notice-news-gacha-pickup-261007",
-     "title": "Sea Bridge Gacha is now live!",
-     "type": 1,
-     "type_name": "gacha",
-     "detail_url": "https://static.game-hololive-dreams.com/html/notice/f9e012c125c00daef8bae4cbff37e5b7fbfa38654eb9ed739c45741cac9eb2f3/index.html",
-     "banner_asset_id": "img_banner_full_gacha-pickup-261007",
-     "start_time": 1791338400000,
-     "start_time_utc": "2026-10-07T02:00:00Z",
-     "external_url": ""
-    },
-    {
      "id": "notice-marathon_event-normal-006",
      "title": "The Score Challenge Event \"Unstoppable Sea Race\" is now underway!",
      "type": 2,
@@ -98,17 +87,6 @@
      "external_url": ""
     },
     {
-     "id": "notice-news-gacha-pickup-260929",
-     "title": "\"Dreamy Deep Blue Gacha\" is now underway!",
-     "type": 1,
-     "type_name": "gacha",
-     "detail_url": "https://static.game-hololive-dreams.com/html/notice/6590ace1590485c3ed4fd4276a2a7e26cb35cc82c44585baebf67e46fdbc375f/index.html",
-     "banner_asset_id": "img_banner_full_gacha-pickup-260929",
-     "start_time": 1790629200000,
-     "start_time_utc": "2026-09-28T21:00:00Z",
-     "external_url": ""
-    },
-    {
      "id": "notice-news-shop-missionpass-261001",
      "title": "October Mission Pass now underway!",
      "type": 4,
@@ -128,17 +106,6 @@
      "banner_asset_id": "img_banner_full_shop-membership-261001",
      "start_time": 1790798400000,
      "start_time_utc": "2026-09-30T20:00:00Z",
-     "external_url": ""
-    },
-    {
-     "id": "notice-news-gacha-fixed-260929",
-     "title": "New Area Celebration! One ★5 Member Guaranteed Gacha",
-     "type": 1,
-     "type_name": "gacha",
-     "detail_url": "https://static.game-hololive-dreams.com/html/notice/680fc7414dfd1c6590fbec988e415a945b456fca7415c6c52d8834a232c1f5cd/index.html",
-     "banner_asset_id": "img_banner_full_gacha-fixed-260929",
-     "start_time": 1790629200000,
-     "start_time_utc": "2026-09-28T21:00:00Z",
      "external_url": ""
     },
     {
