@@ -54,17 +54,6 @@
      "external_url": ""
     },
     {
-     "id": "notice-marathon_event-normal-007",
-     "title": "The Point Rally Event \"Neon Sunshine Festival\" is now underway!",
-     "type": 2,
-     "type_name": "event",
-     "detail_url": "https://static.game-hololive-dreams.com/html/notice/898fb123253c1033f4c32904aee11e5be82d80659ddfe01d554b9bba65901399/index.html",
-     "banner_asset_id": "img_banner_full_marathon_event-normal-007",
-     "start_time": 1792033200000,
-     "start_time_utc": "2026-10-15T03:00:00Z",
-     "external_url": ""
-    },
-    {
      "id": "notice-news-info-daily_quest_update-261016",
      "title": "About the Daily Quest Rewards",
      "type": 4,
