@@ -128,12 +128,12 @@
 {"client_id":202608140002,"data":{"clientId":202608140002,"text":"PINK"}}
 {"client_id":202608140003,"data":{"clientId":202608140003,"text":"YELLOW"}}
 {"client_id":202608140004,"data":{"clientId":202608140004,"text":"BLUE"}}
-{"client_id":219289739264,"data":{"clientId":219289739264,"text":"Fast"}}
+{"client_id":219289739264,"data":{"clientId":219289739264,"text":"FAST"}}
 {"client_id":231402889216,"data":{"clientId":231402889216,"text":"No changes made."}}
 {"client_id":267792670720,"data":{"clientId":267792670720,"text":"Delete"}}
 {"client_id":275782819840,"data":{"clientId":275782819840,"text":"Set"}}
 {"client_id":282816667648,"data":{"clientId":282816667648,"text":"No Cards available to Connect."}}
-{"client_id":297085689856,"data":{"clientId":297085689856,"text":"Slow"}}
+{"client_id":297085689856,"data":{"clientId":297085689856,"text":"SLOW"}}
 {"client_id":329648208640,"data":{"clientId":329648208640,"text":"Change Custom Value"}}
 {"client_id":329649208640,"data":{"clientId":329649208640,"text":"Valid range: 1 to 1,920"}}
 {"client_id":329650208640,"data":{"clientId":329650208640,"text":"per bar"}}
@@ -276,6 +276,7 @@
 {"client_id":4159892873216,"data":{"clientId":4159892873216,"text":"Clear"}}
 {"client_id":4178670772224,"data":{"clientId":4178670772224,"text":"ID copied."}}
 {"client_id":4178704326657,"data":{"clientId":4178704326657,"text":"Unable to copy ID."}}
+{"client_id":4244683426502,"data":{"clientId":4244683426502,"text":"Received {0} items."}}
 {"client_id":4293842165760,"data":{"clientId":4293842165760,"text":"Full Combo"}}
 {"client_id":4348271648768,"data":{"clientId":4348271648768,"text":"Start From Scratch"}}
 {"client_id":4363970011136,"data":{"clientId":4363970011136,"text":"Update"}}
@@ -665,6 +666,7 @@
 {"client_id":45675175418262,"data":{"clientId":45675175418262,"text":"Go pick up holomems!"}}
 {"client_id":45736346509312,"data":{"clientId":45736346509312,"text":"Others"}}
 {"client_id":45740654059520,"data":{"clientId":45740654059520,"text":"Live Footage Available"}}
+{"client_id":45790967773259,"data":{"clientId":45790967773259,"text":"Account linking"}}
 {"client_id":45859914899456,"data":{"clientId":45859914899456,"text":"S"}}
 {"client_id":45925500689626,"data":{"clientId":45925500689626,"text":"Confirm"}}
 {"client_id":45958611066880,"data":{"clientId":45958611066880,"text":"M"}}
@@ -723,6 +725,7 @@
 {"client_id":54068314601485,"data":{"clientId":54068314601485,"text":"History"}}
 {"client_id":54213657564249,"data":{"clientId":54213657564249,"text":"Connection to the server was lost.\\nReturning to the Park."}}
 {"client_id":54279099306007,"data":{"clientId":54279099306007,"text":"Overall Power"}}
+{"client_id":54390697364715,"data":{"clientId":54390697364715,"text":"Because the connection was lost, other players' records have not been reflected. We recommend playing in a stable network environment."}}
 {"client_id":54544104877051,"data":{"clientId":54544104877051,"text":"Event ended."}}
 {"client_id":54555868913664,"data":{"clientId":54555868913664,"text":"No holomems to display."}}
 {"client_id":54666535387134,"data":{"clientId":54666535387134,"text":"ver. {0}"}}
@@ -813,6 +816,7 @@
 {"client_id":65466628726784,"data":{"clientId":65466628726784,"text":"Create"}}
 {"client_id":65518055088128,"data":{"clientId":65518055088128,"text":"Play a user-created Chart"}}
 {"client_id":65618403525255,"data":{"clientId":65618403525255,"text":"Waiting for the Host's response."}}
+{"client_id":65634157373528,"data":{"clientId":65634157373528,"text":"Link"}}
 {"client_id":65927871720978,"data":{"clientId":65927871720978,"text":"If left unselected, this Room will be set to public mode."}}
 {"client_id":65994746437729,"data":{"clientId":65994746437729,"text":"Go"}}
 {"client_id":66112283729920,"data":{"clientId":66112283729920,"text":"Join"}}
@@ -946,6 +950,7 @@
 {"client_id":83471831567377,"data":{"clientId":83471831567377,"text":"Mode"}}
 {"client_id":83575561902365,"data":{"clientId":83575561902365,"text":"Story is fully unlocked."}}
 {"client_id":83662515538845,"data":{"clientId":83662515538845,"text":"MV Only"}}
+{"client_id":83897986141864,"data":{"clientId":83897986141864,"text":"Don't link"}}
 {"client_id":83941326221819,"data":{"clientId":83941326221819,"text":"No unfinished payments could not be found."}}
 {"client_id":84116319797876,"data":{"clientId":84116319797876,"text":"Due to disruptive behavior to other players\\nyou have been restricted from Multiplayer Live."}}
 {"client_id":84124113648839,"data":{"clientId":84124113648839,"text":"Membership is a subscription service that allows you to enjoy various perks by paying a monthly fee.\nMemberships are available for each holomem, and the perks vary for each.\n\n▼Perks While Valid\n・Sign-Up Bonus Sticker\n・Sign-Up Bonus Title\n・Official Fan Badge\n*Perks vary for each holomem.\n*Cannot be used after validity period.\n\n▼Sign-Up/Renewal Perks\n▽First Membership Subscription\n・Corresponding holomem Menshi Medals x 6 (3 are first-time join bonuses)\n\n▽Second Subscription Onward\n・Corresponding holomem Menshi Medals x 3\n\n▽Renewal\n・Corresponding holomem Menshi Medals x 3\n\n*Gifted after logging in upon purchasing or renewing.\n*Menshi Medals can be exchanged for items while subscribed.\n*Bonuses that were exchanged with Menshi Medals can be used after canceling subscription.\n\n▼Subscription Period & Automatic Renewal\nMembership is valid for one month from the day of purchase/renewal.\nUnless automatic renewal is canceled, the subscription will renew automatically every month, and the validity period will be extended by one month each time.\nThe renewal date can be checked after in [Shop]→[Membership].\nThe renewal time is based on the in-game date reset time.\n*In-game date changes every day at 5:00 (JST).\n*Please note, depending on when the subscription began or renewed—such as around the start/end of the month—there may be a delay on the platform side, which could result in your subscription period being shifted by a number of days.\n・If you wish to cancel your membership, please complete the cancellation process at least 72 hours before the automatic renewal.\n*If more than 72 hours before the automatic renewal have already passed, there may be a delay in the platform’s processing time, and the next renewal may still occur.\n・Even if subscription is canceled during the valid period, you can continue to use the Membership services until the end of the valid period.\n\n▼Cancel Membership\nYou can cancel your subscription by following the steps below.\n\n[iOS Devices]\n1. Select your Player Name from [Settings].\n2. Select [Subscription].\n3. Select [hololive Dreams] subscription.\n4. Select [Cancel Subscription] to unsubscribe.\n\n[Android Devices]\n1. Select Player Icon in Google Play Store.\n2. Select [Payments & subscriptions].\n3. Select [Subscriptions].\n4. Select [hololive Dreams].\n5. Select [Cancel Subscription].\n\n*Please note that deleting the app or save data will not cancel your subscription. Please be careful.\n*If you have any concerns about the procedure, please contact your platform provider.\n\n▼Important Notes\n・Every holomem membership costs ¥290 per month. If you continue your subscription for one year, the total cost will be ¥3,480 for 12 months, including the first month.\n*The prices shown above are in Japanese yen (JPY). Please check the confirmation screen for the actual amount to be charged.\n・The subscription will be applied to game data you are using when signing up.\n*If you subscribe on a device that is not currently being used to play the game, please link your account before subscribing and then log in using the game data you wish to use with your subscription.\n・Subscriptions cannot be canceled or refunded after purchase. If you cancel your subscription during the subscription period, you may continue to use the service until the end of the subscription term. No refunds will be provided for any unused portion of the subscription period.\n・Account linking ensures that subscribing on multiple devices will not result in duplicate benefits.\n・You may experience issues when subscribing. Please do not interrupt the app while the subscription process is in progress.\n・If benefits are not reflected in game after subscribing/renewing, please follow the steps below.\nIn the “hololive Dreams” app, go to [Menu] → [Shop] → [Membership], please select [+] and the [Complete Purhcase] button.\n・Under 20 players with still be under a spending limit, even if subscribed.\n*This only affects the Japanese version.\n・You cannot subscribe via the Steam version. Membership perks earned on the iOS・Android versions can be used on the Steam version."}}
@@ -991,6 +996,7 @@
 {"client_id":92415951837689,"data":{"clientId":92415951837689,"text":"{0}th"}}
 {"client_id":92500159681823,"data":{"clientId":92500159681823,"text":"You can't change the frame rate while screen syncro is ON."}}
 {"client_id":92679335202344,"data":{"clientId":92679335202344,"text":"Confirm Pre-Live Settings"}}
+{"client_id":92826337835270,"data":{"clientId":92826337835270,"text":"Would you like to link your Google Play account?\\n\\nBy linking a Google Play account,\\nyou will be able to start the game smoothly\\non devices that are linked with that\\nGoogle Play account.\\n\\nOnly one set of game data can be linked to a Google Play account."}}
 {"client_id":92951903899141,"data":{"clientId":92951903899141,"text":"No Auto"}}
 {"client_id":93526182618577,"data":{"clientId":93526182618577,"text":"By turning ON [Settings] > [Allow Tracking],\\nwe can provide you relevant ads."}}
 {"client_id":93596834859659,"data":{"clientId":93596834859659,"text":"No available Holowork."}}
@@ -1189,12 +1195,13 @@
 {"client_id":121616340978376,"data":{"clientId":121616340978376,"text":"Off"}}
 {"client_id":121729213196721,"data":{"clientId":121729213196721,"text":"N"}}
 {"client_id":121810089525473,"data":{"clientId":121810089525473,"text":"Cancel"}}
+{"client_id":121874690335517,"data":{"clientId":121874690335517,"text":"Due to timeout, Random was selected."}}
 {"client_id":121982617709170,"data":{"clientId":121982617709170,"text":"Unrated"}}
 {"client_id":122216698929152,"data":{"clientId":122216698929152,"text":"Reload"}}
 {"client_id":122524622766160,"data":{"clientId":122524622766160,"text":"Couldn’t unlock in time..."}}
 {"client_id":122924797755122,"data":{"clientId":122924797755122,"text":"Account linking date"}}
 {"client_id":123006427951991,"data":{"clientId":123006427951991,"text":"Scoring Display Type"}}
-{"client_id":123078356594941,"data":{"clientId":123078356594941,"text":"Not unblocked"}}
+{"client_id":123078356594941,"data":{"clientId":123078356594941,"text":"Not unlocked."}}
 {"client_id":123133183713280,"data":{"clientId":123133183713280,"text":"Friends"}}
 {"client_id":123322095362048,"data":{"clientId":123322095362048,"text":"Player ID"}}
 {"client_id":123610980512518,"data":{"clientId":123610980512518,"text":"Event Bonus"}}
@@ -1612,7 +1619,6 @@
 {"client_id":181335271033389,"data":{"clientId":181335271033389,"text":"G"}}
 {"client_id":181419344967445,"data":{"clientId":181419344967445,"text":"Stage setup in progress."}}
 {"client_id":181466459582634,"data":{"clientId":181466459582634,"text":"Return to Park"}}
-{"client_id":181503009327818,"data":{"clientId":181503009327818,"text":"Patrol Squad: Catch"}}
 {"client_id":182419864608014,"data":{"clientId":182419864608014,"text":"Stealth"}}
 {"client_id":182589729548169,"data":{"clientId":182589729548169,"text":"Month"}}
 {"client_id":182725570274111,"data":{"clientId":182725570274111,"text":"Benefits are available only while subscribed.\nPerks that were bought with Menshi Medals can still be used after unsubscribing."}}
@@ -1620,7 +1626,7 @@
 {"client_id":183485597003467,"data":{"clientId":183485597003467,"text":"Current Red Diamonds"}}
 {"client_id":183556683804959,"data":{"clientId":183556683804959,"text":"Apply to all songs"}}
 {"client_id":183895736706472,"data":{"clientId":183895736706472,"text":"Event"}}
-{"client_id":183946173891138,"data":{"clientId":183946173891138,"text":"Slow"}}
+{"client_id":183946173891138,"data":{"clientId":183946173891138,"text":"SLOW"}}
 {"client_id":184222120324657,"data":{"clientId":184222120324657,"text":"Notification"}}
 {"client_id":184435078838577,"data":{"clientId":184435078838577,"text":"Used Keys"}}
 {"client_id":184504079236555,"data":{"clientId":184504079236555,"text":"*Bonus points are added depending on bonus members limit break status"}}
@@ -1634,7 +1640,7 @@
 {"client_id":185526097651597,"data":{"clientId":185526097651597,"text":"Unable to gather enough participants."}}
 {"client_id":185571266938927,"data":{"clientId":185571266938927,"text":"Details"}}
 {"client_id":185636324720295,"data":{"clientId":185636324720295,"text":"Rewards"}}
-{"client_id":186047766945005,"data":{"clientId":186047766945005,"text":"Fast"}}
+{"client_id":186047766945005,"data":{"clientId":186047766945005,"text":"FAST"}}
 {"client_id":186218333619240,"data":{"clientId":186218333619240,"text":"Event Pts Ranking Results"}}
 {"client_id":186257923072000,"data":{"clientId":186257923072000,"text":"No history."}}
 {"client_id":186416815792128,"data":{"clientId":186416815792128,"text":"Live Together"}}
@@ -1672,6 +1678,7 @@
 {"client_id":193895282418811,"data":{"clientId":193895282418811,"text":"Unit"}}
 {"client_id":194054733750272,"data":{"clientId":194054733750272,"text":"Level Up"}}
 {"client_id":194296183054336,"data":{"clientId":194296183054336,"text":"SP Training"}}
+{"client_id":194363935580640,"data":{"clientId":194363935580640,"text":"Claim All"}}
 {"client_id":194522025353216,"data":{"clientId":194522025353216,"text":"Bloom"}}
 {"client_id":194676608805285,"data":{"clientId":194676608805285}}
 {"client_id":194934081746662,"data":{"clientId":194934081746662,"text":"None"}}
@@ -1757,7 +1764,6 @@
 {"client_id":206941633601536,"data":{"clientId":206941633601536,"text":"Multiplier\\n"}}
 {"client_id":207051353446788,"data":{"clientId":207051353446788,"text":"{0} min ago"}}
 {"client_id":207082242465792,"data":{"clientId":207082242465792,"text":"Joined"}}
-{"client_id":207137485702099,"data":{"clientId":207137485702099,"text":"Patrol Squad: Use skill"}}
 {"client_id":207216570195968,"data":{"clientId":207216570195968,"text":"Cancel"}}
 {"client_id":207220454121472,"data":{"clientId":207220454121472,"text":"Challenge"}}
 {"client_id":207225178473962,"data":{"clientId":207225178473962,"text":"Selected Notes assigned."}}
@@ -1793,7 +1799,7 @@
 {"client_id":211033587703808,"data":{"clientId":211033587703808,"text":"Confirm"}}
 {"client_id":211126919860535,"data":{"clientId":211126919860535,"text":"Lv"}}
 {"client_id":211191508393984,"data":{"clientId":211191508393984,"text":"Claim"}}
-{"client_id":211197178260050,"data":{"clientId":211197178260050,"text":"Song"}}
+{"client_id":211197178260050,"data":{"clientId":211197178260050,"text":"Event"}}
 {"client_id":211202614910976,"data":{"clientId":211202614910976,"text":"Received"}}
 {"client_id":211222464782336,"data":{"clientId":211222464782336,"text":"Invite"}}
 {"client_id":211257412542464,"data":{"clientId":211257412542464,"text":"Cancel"}}
@@ -2129,6 +2135,7 @@
 {"client_id":261483697708764,"data":{"clientId":261483697708764,"text":"This is the holomem you're currently controlling. You can switch to another one to continue playing."}}
 {"client_id":261602149597782,"data":{"clientId":261602149597782,"text":"You have timed out and will leave the room."}}
 {"client_id":261606655713280,"data":{"clientId":261606655713280,"text":"Achievs"}}
+{"client_id":262333984965941,"data":{"clientId":262333984965941,"text":"* The above contents are subject to change in the future. The values shown are for when Level/Bloom Stage is at maximum."}}
 {"client_id":262530360242967,"data":{"clientId":262530360242967,"text":"Event ended."}}
 {"client_id":262537788406389,"data":{"clientId":262537788406389,"text":"Total High Score Ranking"}}
 {"client_id":262676337234996,"data":{"clientId":262676337234996,"text":"All\\nUnlocked"}}
@@ -2426,7 +2433,7 @@
 {"client_id":412274758901760,"data":{"clientId":412274758901760,"text":"(<color=#F9FF55>{0}</color>/{1})"}}
 {"client_id":413807126568960,"data":{"clientId":413807126568960,"text":"Total Combos"}}
 {"client_id":415651487178752,"data":{"clientId":415651487178752,"text":"No matching Chart found."}}
-{"client_id":415997836025856,"data":{"clientId":415997836025856,"text":"No matching Chart found."}}
+{"client_id":415997836025856,"data":{"clientId":415997836025856,"text":"No corresponding creator found."}}
 {"client_id":416291669696512,"data":{"clientId":416291669696512,"text":"Memory"}}
 {"client_id":416374620446720,"data":{"clientId":416374620446720,"text":"Members"}}
 {"client_id":417258431438848,"data":{"clientId":417258431438848,"text":"Room ID copied."}}
@@ -2445,7 +2452,7 @@
 {"client_id":425854840692736,"data":{"clientId":425854840692736,"text":"No claimed items."}}
 {"client_id":426237585809408,"data":{"clientId":426237585809408,"text":"/{0}"}}
 {"client_id":426415565561856,"data":{"clientId":426415565561856,"text":"Claim"}}
-{"client_id":426672222461952,"data":{"clientId":426672222461952,"text":"Only the latest 100 are shown."}}
+{"client_id":426672222461952,"data":{"clientId":426672222461952,"text":"Only the latest {0} are shown."}}
 {"client_id":426805761662976,"data":{"clientId":426805761662976,"text":"Collect All"}}
 {"client_id":426807178387456,"data":{"clientId":426807178387456,"text":"No messages."}}
 {"client_id":427054488084480,"data":{"clientId":427054488084480,"text":"Inbox"}}
@@ -2554,6 +2561,7 @@
 {"client_id":498028911419392,"data":{"clientId":498028911419392,"text":"Conditions"}}
 {"client_id":498121039306752,"data":{"clientId":498121039306752,"text":"Effects"}}
 {"client_id":498702638276608,"data":{"clientId":498702638276608,"text":"Cancel"}}
+{"client_id":498737727292322,"data":{"clientId":498737727292322,"text":"Your Google Play account's game data will be overwritten and cannot be restored. Are you sure you want to proceed?"}}
 {"client_id":498832191938560,"data":{"clientId":498832191938560,"text":"Save"}}
 {"client_id":499853025140736,"data":{"clientId":499853025140736,"text":"Owned"}}
 {"client_id":500105247383552,"data":{"clientId":500105247383552,"text":"Paste"}}
@@ -2733,8 +2741,8 @@
 {"client_id":612532842258431,"data":{"clientId":612532842258431,"text":"Goal"}}
 {"client_id":612532842258432,"data":{"clientId":612532842258432,"text":"Event Bonus"}}
 {"client_id":612532842258433,"data":{"clientId":612532842258433,"text":"Complete with a score of <color=#FFF966>{0}</color> or higher!"}}
-{"client_id":612532842258435,"data":{"clientId":612532842258435,"text":"Fast"}}
-{"client_id":612532842258436,"data":{"clientId":612532842258436,"text":"Slow"}}
+{"client_id":612532842258435,"data":{"clientId":612532842258435,"text":"FAST"}}
+{"client_id":612532842258436,"data":{"clientId":612532842258436,"text":"SLOW"}}
 {"client_id":612638523744256,"data":{"clientId":612638523744256,"text":"Head to Dream Park with your favorite holomem!"}}
 {"client_id":616249538043904,"data":{"clientId":616249538043904,"text":"Ready to send?"}}
 {"client_id":616823187988480,"data":{"clientId":616823187988480,"text":"Didn't make the Top 8!"}}
