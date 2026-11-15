@@ -87,17 +87,6 @@
      "external_url": ""
     },
     {
-     "id": "notice-news-login_bonus-event-261029",
-     "title": "Halloween Login Bonus now underway!",
-     "type": 6,
-     "type_name": "campaign",
-     "detail_url": "https://static.game-hololive-dreams.com/html/notice/01123eccddce0049465828dc5cdf82749044d2ddb70fa18f8b7dab6c7c12e45c/index.html",
-     "banner_asset_id": "img_banner_full_login-bonus-event-261029",
-     "start_time": 1793239200000,
-     "start_time_utc": "2026-10-29T02:00:00Z",
-     "external_url": ""
-    },
-    {
      "id": "notice-news-info-update-261028",
      "title": "Ver.1.2.100 Update",
      "type": 3,
