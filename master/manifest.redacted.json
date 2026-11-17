@@ -1,7 +1,7 @@
 {
   "region": "en",
   "appVersion": "1.2.101",
-  "version": "9171c5282eaf618dab68c4ca2459cfd386c79aad7fb56db59496f2058f78d875",
+  "version": "1e7e0e9790e0d2e27712c5eb3f71470230fa977f9b75d7c8fa7b2a7dad3c292d",
   "packCount": 379,
   "packs": [
     {
@@ -2526,10 +2526,10 @@
     },
     {
       "type": "ParkQuest",
-      "fileName": "81646a014f729fc41cf450b07d67410edabf80d03e2bc8ad64656796984f7082",
+      "fileName": "7fed511ef9da19a4085e484960e65b0997dea366aadeb518e8637d1587ac24e6",
       "fileSize": 81920,
-      "downloadUrl": "https://static.game-hololive-dreams.com/master/ParkQuest/81646a014f729fc41cf450b07d67410edabf80d03e2bc8ad64656796984f7082",
-      "cryptoKeySha256": "3c14e3e9ac17d61919e920e270b58d1519f3edd9ea66fcfa317c026af262a96b",
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/ParkQuest/7fed511ef9da19a4085e484960e65b0997dea366aadeb518e8637d1587ac24e6",
+      "cryptoKeySha256": "0c5e6ade50166803075fb9a64003f0092e8272be560a83b4379d0cfa2bc1a815",
       "cryptoKeyLength": 64
     },
     {
@@ -2614,10 +2614,10 @@
     },
     {
       "type": "ParkQuestStep",
-      "fileName": "f857ef44f299302a21e1c80b027a2a8da08211d45a8e4e1d870a79f52563f29a",
+      "fileName": "2dc190cbf59798a9476e5b99d159892a454a9f250bda8c973c78288247cc3620",
       "fileSize": 188416,
-      "downloadUrl": "https://static.game-hololive-dreams.com/master/ParkQuestStep/f857ef44f299302a21e1c80b027a2a8da08211d45a8e4e1d870a79f52563f29a",
-      "cryptoKeySha256": "3d46c24367d7c7ce74dcfa1590622954d5d3cf4b16d26bb700405bbde2065a89",
+      "downloadUrl": "https://static.game-hololive-dreams.com/master/ParkQuestStep/2dc190cbf59798a9476e5b99d159892a454a9f250bda8c973c78288247cc3620",
+      "cryptoKeySha256": "cf52e2c263026a47862bb805562f1505f7a55eb5972ddf07dd52a9d163f0c8d2",
       "cryptoKeyLength": 64
     },
     {

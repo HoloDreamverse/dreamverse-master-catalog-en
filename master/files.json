@@ -196,8 +196,8 @@
       "sha256": "1b2130a52317c328633cacd10e3591eee5c9105bb68ede4139bcf507f0f744d0"
     },
     "master/data/ChaseSetting.jsonl": {
-      "bytes": 1550,
-      "sha256": "c8ee468c78cc66b743b7970a42b190862656dc422676fcf8ca474d14aa367c3a"
+      "bytes": 1597,
+      "sha256": "6231ae78d97f88c662d72e9d9a2681b7d370387b34a3cde32e869dcf7abc21d0"
     },
     "master/data/Cheat.jsonl": {
       "bytes": 15021,
@@ -1216,8 +1216,8 @@
       "sha256": "3ca61a9670b0f178d03cd55a90679b1b1c5251eb1caf9c297c9e375c766d6e68"
     },
     "master/data/ParkFishingFish.jsonl": {
-      "bytes": 86562,
-      "sha256": "4ce452be452524e69f205efd43acc6a9a00e0656c115cade65e15c802e1070b8"
+      "bytes": 89689,
+      "sha256": "6466322f2b7518093d152798f98a40428115034ca392f3f70f35e36f5d659108"
     },
     "master/data/ParkFishingFishBook.jsonl": {
       "bytes": 312,
@@ -1236,12 +1236,12 @@
       "sha256": "e3abb6a8bf90ccef52116a3ad745501754f7210500b61185c81b5100bcd59e52"
     },
     "master/data/ParkFishingRod.jsonl": {
-      "bytes": 1160,
-      "sha256": "21f165b019f8105ce1e481b53ab86a882613829d144aeeb12363727caaa38179"
+      "bytes": 1401,
+      "sha256": "6b7172fc595b74d190032cbc0828ae7cc213010e8aca962c739c6c8ef83c88db"
     },
     "master/data/ParkFishingSetting.jsonl": {
-      "bytes": 443,
-      "sha256": "a33a511b9045d1b11c6599dcaba7730a4e212b14d3a29f6c0f1d478f51ddec0d"
+      "bytes": 622,
+      "sha256": "d9805db32fbbb7a749071a97d95633852ac9b7f27fdd4d78b1a886b93ef78998"
     },
     "master/data/ParkFishingSpot.jsonl": {
       "bytes": 1128,
@@ -1321,7 +1321,7 @@
     },
     "master/data/ParkQuest.jsonl": {
       "bytes": 98237,
-      "sha256": "d302bb607e06252de61e7aa4fc64ddd7b3124aa921d29e618ee0fe643946d5a5"
+      "sha256": "7d67d3d6c540b3f096bc2640048ebff2d5fd1cae97cfdd46ab0df2e293493ccf"
     },
     "master/data/ParkQuestChapter.jsonl": {
       "bytes": 11319,
@@ -1364,8 +1364,8 @@
       "sha256": "fe0ebced52faf60b4b794802fff39721230b0102ee83767a60d719f3d5b0ab8b"
     },
     "master/data/ParkQuestStep.jsonl": {
-      "bytes": 315748,
-      "sha256": "65e6ff2116cd606d35ff43ca6b8e414ba2b92d7809458a561e566b7593e01539"
+      "bytes": 316112,
+      "sha256": "3e06892fdd67d7eaee6c575cca2ed77cf1961994b523efe895b7f3124799ff96"
     },
     "master/data/ParkQuestStepAction.jsonl": {
       "bytes": 362279,
@@ -1516,8 +1516,8 @@
       "sha256": "6832c645d299fbfd7eb08b57bce7a96dd4f03ef90a152d1759b210ce5dda975f"
     },
     "master/data/SplashBallSetting.jsonl": {
-      "bytes": 891,
-      "sha256": "6ae7c395c3e4ff362154b68dd768b3431ea487282ae072656ef63a591387bc22"
+      "bytes": 1549,
+      "sha256": "e71920459e391812ec2e0443558bf57c56085e2e4501b9c4eef3e7c2ead0de28"
     },
     "master/data/SplashBallTeamRankReward.jsonl": {
       "bytes": 714,
@@ -1577,11 +1577,11 @@
     }
   },
   "generatedBy": "dreamverse-master-updater",
-  "masterVersion": "9171c5282eaf618dab68c4ca2459cfd386c79aad7fb56db59496f2058f78d875",
+  "masterVersion": "1e7e0e9790e0d2e27712c5eb3f71470230fa977f9b75d7c8fa7b2a7dad3c292d",
   "notices": {
     "notices/notices_en.json": {
       "bytes": 15162,
-      "sha256": "07832e4b5fd76908f2144aeaf280c4db8865c30fe6ab9bafc528b4d92e59b495"
+      "sha256": "86a15d79f39d4a2fc2bd196cff7cf3fc9f590c077c474d94315c657ce9e27567"
     }
   },
   "region": "en",
