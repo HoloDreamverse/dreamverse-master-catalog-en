@@ -1580,8 +1580,8 @@
   "masterVersion": "1e7e0e9790e0d2e27712c5eb3f71470230fa977f9b75d7c8fa7b2a7dad3c292d",
   "notices": {
     "notices/notices_en.json": {
-      "bytes": 15162,
-      "sha256": "86a15d79f39d4a2fc2bd196cff7cf3fc9f590c077c474d94315c657ce9e27567"
+      "bytes": 14638,
+      "sha256": "6919224d3b5232a96515bf4ca921a15fc8d86462834af7651498467b6ce6d78f"
     }
   },
   "region": "en",

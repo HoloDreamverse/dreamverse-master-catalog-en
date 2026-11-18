@@ -32,17 +32,6 @@
      "external_url": ""
     },
     {
-     "id": "notice-marathon_event-normal-009",
-     "title": "The Score Challenge Event \"Cozy Long Autumn Nights Together\" is now underway!",
-     "type": 2,
-     "type_name": "event",
-     "detail_url": "https://static.game-hololive-dreams.com/html/notice/b3e0d048f1e9817654ec86ce7747c92f07295e59aa0d9f7744718df12695320a/index.html",
-     "banner_asset_id": "img_banner_full_marathon_event-normal-009",
-     "start_time": 1793934000000,
-     "start_time_utc": "2026-11-06T03:00:00Z",
-     "external_url": ""
-    },
-    {
      "id": "notice-news-info-mv-release",
      "title": "MV additions for select songs",
      "type": 4,
