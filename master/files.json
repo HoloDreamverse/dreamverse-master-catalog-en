@@ -9,6 +9,10 @@
       "bytes": 13287202,
       "sha256": "16df51943eb6477d01bfa39c1274e545b25fd0dc8e26e643796d86b6c0e66427"
     },
+    "catalog/catalog_en_rev115.redacted.json": {
+      "bytes": 13295336,
+      "sha256": "1253fcefca0967c49f49feac0b46dea9b78c2ebcbf6a7899c836343c1c49ee09"
+    },
     "catalog/catalog_en_rev69.redacted.json": {
       "bytes": 11027436,
       "sha256": "d0bfa7a33993912f9555484b5391ccb9a7bdf93eec36b336078fa75726302c71"
@@ -1580,8 +1584,8 @@
   "masterVersion": "1e7e0e9790e0d2e27712c5eb3f71470230fa977f9b75d7c8fa7b2a7dad3c292d",
   "notices": {
     "notices/notices_en.json": {
-      "bytes": 14638,
-      "sha256": "6919224d3b5232a96515bf4ca921a15fc8d86462834af7651498467b6ce6d78f"
+      "bytes": 15749,
+      "sha256": "581e2179a4163893eb43c16882022bb7525c8742cf3fc80d3c6de2fbfd00e622"
     }
   },
   "region": "en",

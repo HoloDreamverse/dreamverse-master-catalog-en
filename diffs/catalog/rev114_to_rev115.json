@@ -1,0 +1,344 @@
+{
+  "currentVersion": "rev115",
+  "files": {
+    "added": [
+      {
+        "asset_bundles": {
+          "added": [
+            {
+              "addresses": [
+                "img_banner_full_birthday-chr-00030-261115_lang-chs"
+              ],
+              "crc": 1504385555,
+              "dependencies": [],
+              "id": 47072,
+              "md5": "5294ad0477a89bc7598911ccd6a04088",
+              "name": "img_banner_full_birthday-chr-00030-261115_lang-chs",
+              "object_name": "wvWl0x",
+              "size": 924802
+            },
+            {
+              "addresses": [
+                "img_banner_full_birthday-chr-00030-261115_lang-cht"
+              ],
+              "crc": 2930747345,
+              "dependencies": [],
+              "id": 47073,
+              "md5": "0c86685449c58e53d6a1186f248431be",
+              "name": "img_banner_full_birthday-chr-00030-261115_lang-cht",
+              "object_name": "bDEJbC",
+              "size": 924804
+            },
+            {
+              "addresses": [
+                "img_banner_full_birthday-chr-00030-261115_lang-eng"
+              ],
+              "crc": 1809539471,
+              "dependencies": [],
+              "id": 47074,
+              "md5": "aba2a8cc021b6458edee234c9040e528",
+              "name": "img_banner_full_birthday-chr-00030-261115_lang-eng",
+              "object_name": "k8jbW2",
+              "size": 924811
+            },
+            {
+              "addresses": [
+                "img_banner_full_birthday-chr-00030-261115_lang-ind"
+              ],
+              "crc": 2653237336,
+              "dependencies": [],
+              "id": 47075,
+              "md5": "1962af0e3e3fe774e56097a253ad727c",
+              "name": "img_banner_full_birthday-chr-00030-261115_lang-ind",
+              "object_name": "Gh1OfZ",
+              "size": 924810
+            },
+            {
+              "addresses": [
+                "img_banner_full_birthday-chr-00030-261115_lang-kor"
+              ],
+              "crc": 1238270721,
+              "dependencies": [],
+              "id": 47076,
+              "md5": "65df852fb6e2d6d7212a0fb22be9cc40",
+              "name": "img_banner_full_birthday-chr-00030-261115_lang-kor",
+              "object_name": "CE04BL",
+              "size": 924811
+            },
+            {
+              "addresses": [
+                "img_banner_full_birthday-chr-04015-261121_lang-chs"
+              ],
+              "crc": 2385959683,
+              "dependencies": [],
+              "id": 47077,
+              "md5": "3f0132c66660866d34eb96b55481c5aa",
+              "name": "img_banner_full_birthday-chr-04015-261121_lang-chs",
+              "object_name": "WUr0nG",
+              "size": 941300
+            },
+            {
+              "addresses": [
+                "img_banner_full_birthday-chr-04015-261121_lang-cht"
+              ],
+              "crc": 4184325461,
+              "dependencies": [],
+              "id": 47078,
+              "md5": "d3cac1d48375f027264b469675d87c25",
+              "name": "img_banner_full_birthday-chr-04015-261121_lang-cht",
+              "object_name": "KZK84V",
+              "size": 941295
+            },
+            {
+              "addresses": [
+                "img_banner_full_birthday-chr-04015-261121_lang-eng"
+              ],
+              "crc": 3861132021,
+              "dependencies": [],
+              "id": 47079,
+              "md5": "bcbd38deafc49f3eeddf2fe42ca020da",
+              "name": "img_banner_full_birthday-chr-04015-261121_lang-eng",
+              "object_name": "Gy8Kkq",
+              "size": 941295
+            },
+            {
+              "addresses": [
+                "img_banner_full_birthday-chr-04015-261121_lang-ind"
+              ],
+              "crc": 2418310765,
+              "dependencies": [],
+              "id": 47080,
+              "md5": "40edb095279815a80f17d9cb56cc5d2c",
+              "name": "img_banner_full_birthday-chr-04015-261121_lang-ind",
+              "object_name": "6bM1Bn",
+              "size": 941295
+            },
+            {
+              "addresses": [
+                "img_banner_full_birthday-chr-04015-261121_lang-kor"
+              ],
+              "crc": 1136041581,
+              "dependencies": [],
+              "id": 47081,
+              "md5": "f48f7c92b79843c302cb75474b121484",
+              "name": "img_banner_full_birthday-chr-04015-261121_lang-kor",
+              "object_name": "nt0VDy",
+              "size": 941300
+            },
+            {
+              "addresses": [
+                "img_banner_full_gift-gp-bestgame-261120"
+              ],
+              "crc": 227741762,
+              "dependencies": [],
+              "id": 47082,
+              "md5": "9c16fe779f5a05701a91cb4bfa6f4f5f",
+              "name": "img_banner_full_gift-gp-bestgame-261120",
+              "object_name": "8yUMX3",
+              "size": 1118059
+            },
+            {
+              "addresses": [
+                "img_banner_full_gift-gp-bestgame-261120_lang-chs"
+              ],
+              "crc": 3641546129,
+              "dependencies": [],
+              "id": 47083,
+              "md5": "259e8fa86a58930327d89f35db35da16",
+              "name": "img_banner_full_gift-gp-bestgame-261120_lang-chs",
+              "object_name": "6tteX8",
+              "size": 1128043
+            },
+            {
+              "addresses": [
+                "img_banner_full_gift-gp-bestgame-261120_lang-cht"
+              ],
+              "crc": 3212469093,
+              "dependencies": [],
+              "id": 47084,
+              "md5": "29dfb5635b77b267da40ffd1cef01587",
+              "name": "img_banner_full_gift-gp-bestgame-261120_lang-cht",
+              "object_name": "r6P71A",
+              "size": 1130090
+            },
+            {
+              "addresses": [
+                "img_banner_full_gift-gp-bestgame-261120_lang-eng"
+              ],
+              "crc": 3528397194,
+              "dependencies": [],
+              "id": 47085,
+              "md5": "b31f332cbf77b20d9ac362e56cdc65d2",
+              "name": "img_banner_full_gift-gp-bestgame-261120_lang-eng",
+              "object_name": "IJpVy7",
+              "size": 1123804
+            },
+            {
+              "addresses": [
+                "img_banner_full_gift-gp-bestgame-261120_lang-ind"
+              ],
+              "crc": 3381004687,
+              "dependencies": [],
+              "id": 47086,
+              "md5": "b1f161856de13089944e2b0a8518c501",
+              "name": "img_banner_full_gift-gp-bestgame-261120_lang-ind",
+              "object_name": "CvkkGo",
+              "size": 1126917
+            },
+            {
+              "addresses": [
+                "img_banner_full_gift-gp-bestgame-261120_lang-kor"
+              ],
+              "crc": 2977473252,
+              "dependencies": [],
+              "id": 47087,
+              "md5": "1806a4b7d3390b78416c66c1b5da9f21",
+              "name": "img_banner_full_gift-gp-bestgame-261120_lang-kor",
+              "object_name": "dMbqTU",
+              "size": 1122598
+            },
+            {
+              "addresses": [
+                "img_banner_full_sub-lui-geme-tournament"
+              ],
+              "crc": 202544863,
+              "dependencies": [],
+              "id": 47088,
+              "md5": "3ad35b357e152b2baaf1f22f70d2fd22",
+              "name": "img_banner_full_sub-lui-geme-tournament",
+              "object_name": "SUeMGx",
+              "size": 1008183
+            },
+            {
+              "addresses": [
+                "img_emb_m_birthday-chr-00030-261115_lang-chs"
+              ],
+              "crc": 655638463,
+              "dependencies": [],
+              "id": 47089,
+              "md5": "230ba1e628173ef1ec3880a867b44b3d",
+              "name": "img_emb_m_birthday-chr-00030-261115_lang-chs",
+              "object_name": "s5rBsw",
+              "size": 241750
+            },
+            {
+              "addresses": [
+                "img_emb_m_birthday-chr-00030-261115_lang-cht"
+              ],
+              "crc": 1557493263,
+              "dependencies": [],
+              "id": 47090,
+              "md5": "566f45dfd79c9a0e896ff0c2b0dc043c",
+              "name": "img_emb_m_birthday-chr-00030-261115_lang-cht",
+              "object_name": "N4DWh3",
+              "size": 241739
+            },
+            {
+              "addresses": [
+                "img_emb_m_birthday-chr-00030-261115_lang-eng"
+              ],
+              "crc": 722755156,
+              "dependencies": [],
+              "id": 47091,
+              "md5": "1d55a14e8e094d5d95e78dbd126bb37c",
+              "name": "img_emb_m_birthday-chr-00030-261115_lang-eng",
+              "object_name": "zQB83j",
+              "size": 241739
+            },
+            {
+              "addresses": [
+                "img_emb_m_birthday-chr-00030-261115_lang-ind"
+              ],
+              "crc": 3468633963,
+              "dependencies": [],
+              "id": 47092,
+              "md5": "91edbf4f0f30d6915183753c2f770e5b",
+              "name": "img_emb_m_birthday-chr-00030-261115_lang-ind",
+              "object_name": "t9z8Ou",
+              "size": 241737
+            },
+            {
+              "addresses": [
+                "img_emb_m_birthday-chr-00030-261115_lang-kor"
+              ],
+              "crc": 928473966,
+              "dependencies": [],
+              "id": 47093,
+              "md5": "f896e1a5d6dc4bda71485ece87d9409a",
+              "name": "img_emb_m_birthday-chr-00030-261115_lang-kor",
+              "object_name": "KoIt9G",
+              "size": 241739
+            },
+            {
+              "addresses": [
+                "img_emb_m_birthday-chr-04015-261121_lang-chs"
+              ],
+              "crc": 3511796135,
+              "dependencies": [],
+              "id": 47094,
+              "md5": "a0963ee5e405598d8e974fc467825055",
+              "name": "img_emb_m_birthday-chr-04015-261121_lang-chs",
+              "object_name": "YZIrFS",
+              "size": 242839
+            },
+            {
+              "addresses": [
+                "img_emb_m_birthday-chr-04015-261121_lang-cht"
+              ],
+              "crc": 1897980850,
+              "dependencies": [],
+              "id": 47095,
+              "md5": "24765d33213c4894155375d0055d4d05",
+              "name": "img_emb_m_birthday-chr-04015-261121_lang-cht",
+              "object_name": "ow0a29",
+              "size": 242839
+            },
+            {
+              "addresses": [
+                "img_emb_m_birthday-chr-04015-261121_lang-eng"
+              ],
+              "crc": 1446032536,
+              "dependencies": [],
+              "id": 47096,
+              "md5": "1571a360c70c6985bba0b13c17a32de0",
+              "name": "img_emb_m_birthday-chr-04015-261121_lang-eng",
+              "object_name": "5j6RIV",
+              "size": 242839
+            },
+            {
+              "addresses": [
+                "img_emb_m_birthday-chr-04015-261121_lang-ind"
+              ],
+              "crc": 1930081220,
+              "dependencies": [],
+              "id": 47097,
+              "md5": "ddaee0b78c23aa214701c029f650bc9c",
+              "name": "img_emb_m_birthday-chr-04015-261121_lang-ind",
+              "object_name": "YqTKsr",
+              "size": 242838
+            },
+            {
+              "addresses": [
+                "img_emb_m_birthday-chr-04015-261121_lang-kor"
+              ],
+              "crc": 2749043860,
+              "dependencies": [],
+              "id": 47098,
+              "md5": "4ab914c385fb36297bf722b2c8c9c35c",
+              "name": "img_emb_m_birthday-chr-04015-261121_lang-kor",
+              "object_name": "anydlr",
+              "size": 242839
+            }
+          ],
+          "removed": []
+        },
+        "path": "catalog/catalog_en_rev115.redacted.json",
+        "previousPath": "catalog/catalog_en_rev114.redacted.json"
+      }
+    ],
+    "changed": [],
+    "removed": []
+  },
+  "previousVersion": "rev114",
+  "schemaVersion": 2
+}
