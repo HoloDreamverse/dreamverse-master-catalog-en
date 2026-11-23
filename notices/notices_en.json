@@ -10,6 +10,17 @@
    "display_type_name": "normal",
    "notices": [
     {
+     "id": "notice-news-birthday-chr-00022-261124",
+     "title": "Happy Birthday! Shirogane Noel",
+     "type": 6,
+     "type_name": "campaign",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/742817e1cca0cc8cd20f45f10e86fc1dcebcdcb75aa1e3b1b83b6a48ae5938a7/index.html",
+     "banner_asset_id": "img_banner_full_birthday-chr-00022-261124",
+     "start_time": 1795446000000,
+     "start_time_utc": "2026-11-23T15:00:00Z",
+     "external_url": ""
+    },
+    {
      "id": "notice-news-info-stream-123",
      "title": "Official holodori SP Announcement!",
      "type": 4,
