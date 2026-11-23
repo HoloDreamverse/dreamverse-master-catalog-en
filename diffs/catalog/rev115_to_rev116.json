@@ -1,0 +1,104 @@
+{
+  "currentVersion": "rev116",
+  "files": {
+    "added": [
+      {
+        "asset_bundles": {
+          "added": [
+            {
+              "addresses": [
+                "img_banner_full_info-stream-123"
+              ],
+              "crc": 3001836443,
+              "dependencies": [],
+              "id": 47099,
+              "md5": "f44ca3a236be42981f143b637eb1c34c",
+              "name": "img_banner_full_info-stream-123",
+              "object_name": "BUsfow",
+              "size": 992612
+            },
+            {
+              "addresses": [
+                "img_banner_full_info-stream-123_lang-chs"
+              ],
+              "crc": 1162664325,
+              "dependencies": [],
+              "id": 47100,
+              "md5": "2e7ac17c6d6fbcb78af218e72bea5e1f",
+              "name": "img_banner_full_info-stream-123_lang-chs",
+              "object_name": "GHjEuX",
+              "size": 1027647
+            },
+            {
+              "addresses": [
+                "img_banner_full_info-stream-123_lang-cht"
+              ],
+              "crc": 3289818365,
+              "dependencies": [],
+              "id": 47101,
+              "md5": "e3e301c5e191808bc0825933484b788b",
+              "name": "img_banner_full_info-stream-123_lang-cht",
+              "object_name": "Mli96r",
+              "size": 1016944
+            },
+            {
+              "addresses": [
+                "img_banner_full_info-stream-123_lang-eng"
+              ],
+              "crc": 2857685443,
+              "dependencies": [],
+              "id": 47102,
+              "md5": "2dfa1cd1a127fbc0ded39671a2568029",
+              "name": "img_banner_full_info-stream-123_lang-eng",
+              "object_name": "eeLuGk",
+              "size": 1000097
+            },
+            {
+              "addresses": [
+                "img_banner_full_info-stream-123_lang-ind"
+              ],
+              "crc": 1796098748,
+              "dependencies": [],
+              "id": 47103,
+              "md5": "649bdd18d1df6903d2e20b2fde47178a",
+              "name": "img_banner_full_info-stream-123_lang-ind",
+              "object_name": "QLWQBz",
+              "size": 989400
+            },
+            {
+              "addresses": [
+                "img_banner_full_info-stream-123_lang-kor"
+              ],
+              "crc": 2524686152,
+              "dependencies": [],
+              "id": 47104,
+              "md5": "0b521423f80c523f0f4bba61e10994dd",
+              "name": "img_banner_full_info-stream-123_lang-kor",
+              "object_name": "M5yAnn",
+              "size": 1023460
+            },
+            {
+              "addresses": [
+                "img_banner_full_sub-live-ayafubumi-1st"
+              ],
+              "crc": 324010229,
+              "dependencies": [],
+              "id": 47105,
+              "md5": "729f398e1aac2c212527fd2c50dcd67e",
+              "name": "img_banner_full_sub-live-ayafubumi-1st",
+              "object_name": "hwJuAx",
+              "size": 1113316
+            }
+          ],
+          "removed": []
+        },
+        "path": "catalog/catalog_en_rev116.redacted.json",
+        "previousPath": "catalog/catalog_en_rev115.redacted.json"
+      }
+    ],
+    "changed": [],
+    "removed": []
+  },
+  "previousVersion": "rev115",
+  "schemaVersion": 2
+}
