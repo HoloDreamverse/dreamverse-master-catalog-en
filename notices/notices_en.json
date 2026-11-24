@@ -10,6 +10,61 @@
    "display_type_name": "normal",
    "notices": [
     {
+     "id": "notice-news-minigame-shogi-261124-pre",
+     "title": "[Notice] Announcing the new Minigame \"Puka Puka Fight\"!",
+     "type": 3,
+     "type_name": "update",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/734dd1ab046c65504b0957d6638672bc6fc021ce3ff8699c6f8962ed6e560c95/index.html",
+     "banner_asset_id": "img_banner_full_minigame-shogi-261125",
+     "start_time": 1795528800000,
+     "start_time_utc": "2026-11-24T14:00:00Z",
+     "external_url": ""
+    },
+    {
+     "id": "notice-news-content-live_tower-261124-pre",
+     "title": "[Notice] Announcing the New Live Mode \"Challenge Live\"!",
+     "type": 3,
+     "type_name": "update",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/2dcfe86fb323b098f84154450eb0a1f68773d36434a0f9756f44a5f1ed8f6b51/index.html",
+     "banner_asset_id": "img_banner_full_content-live-tower-261125",
+     "start_time": 1795528800000,
+     "start_time_utc": "2026-11-24T14:00:00Z",
+     "external_url": ""
+    },
+    {
+     "id": "notice-news-gacha-pickup-261126-pre",
+     "title": "[Notice] Announcing the \"First 10-Pull for free! Dancing Christmas Moments Gacha\"!",
+     "type": 1,
+     "type_name": "gacha",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/1f4bdd25168d8ad0199f5fc1117820d1622f5a7840122468d37632d953c085f2/index.html",
+     "banner_asset_id": "img_banner_full_gacha-pickup-261126-free",
+     "start_time": 1795528800000,
+     "start_time_utc": "2026-11-24T14:00:00Z",
+     "external_url": ""
+    },
+    {
+     "id": "notice-marathon_event-normal-010-pre",
+     "title": "[Notice] Point Rally Event \"Joyful Twinkle Night\" now underway!",
+     "type": 2,
+     "type_name": "event",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/eaf1be65751e8408d7ee17aa4287e79c47fe18d91806102b46bba3020dd45df4/index.html",
+     "banner_asset_id": "img_banner_full_marathon_event-normal-010",
+     "start_time": 1795528800000,
+     "start_time_utc": "2026-11-24T14:00:00Z",
+     "external_url": ""
+    },
+    {
+     "id": "notice-news-info-maintenance-261124",
+     "title": "Maintenance Notice",
+     "type": 4,
+     "type_name": "information",
+     "detail_url": "https://static.game-hololive-dreams.com/html/notice/ebea61389b2638ace4b72eb442eed0012794ec62a1f686fb8b83dbd4c0e12d59/index.html",
+     "banner_asset_id": "img_banner_full_maintenance-info",
+     "start_time": 1795528800000,
+     "start_time_utc": "2026-11-24T14:00:00Z",
+     "external_url": ""
+    },
+    {
      "id": "notice-news-birthday-chr-00022-261124",
      "title": "Happy Birthday! Shirogane Noel",
      "type": 6,
@@ -18,17 +73,6 @@
      "banner_asset_id": "img_banner_full_birthday-chr-00022-261124",
      "start_time": 1795446000000,
      "start_time_utc": "2026-11-23T15:00:00Z",
-     "external_url": ""
-    },
-    {
-     "id": "notice-news-info-stream-123",
-     "title": "Official holodori SP Announcement!",
-     "type": 4,
-     "type_name": "information",
-     "detail_url": "https://static.game-hololive-dreams.com/html/notice/a03aa5f2b2e1c9561ef2d40f5874d0c55421f9f06815aafb87c64d164d87be60/index.html",
-     "banner_asset_id": "img_banner_full_info-stream-123",
-     "start_time": 1795424400000,
-     "start_time_utc": "2026-11-23T09:00:00Z",
      "external_url": ""
     },
     {
@@ -293,17 +337,6 @@
      "banner_asset_id": "img_banner_full_hololive-pass-release",
      "start_time": 1784772000000,
      "start_time_utc": "2026-07-23T02:00:00Z",
-     "external_url": ""
-    },
-    {
-     "id": "notice-news-gacha-common-001",
-     "title": "holodori Gacha now live!",
-     "type": 1,
-     "type_name": "gacha",
-     "detail_url": "https://static.game-hololive-dreams.com/html/notice/7e52a969977800840c67cbb758bdac9b6cbc866afb1880bf2b08cf5e4b489a80/index.html",
-     "banner_asset_id": "img_banner_full_gacha-common-001",
-     "start_time": 1784685600000,
-     "start_time_utc": "2026-07-22T02:00:00Z",
      "external_url": ""
     }
    ]
