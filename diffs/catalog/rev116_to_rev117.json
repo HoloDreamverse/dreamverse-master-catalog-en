@@ -1,0 +1,308 @@
+{
+  "currentVersion": "rev117",
+  "files": {
+    "added": [
+      {
+        "asset_bundles": {
+          "added": [
+            {
+              "addresses": [
+                "img_banner_full_content-live-tower-261125"
+              ],
+              "crc": 3311345153,
+              "dependencies": [],
+              "id": 47106,
+              "md5": "0a2e3432426eb831686de971683a95a0",
+              "name": "img_banner_full_content-live-tower-261125",
+              "object_name": "uDKPhF",
+              "size": 839113
+            },
+            {
+              "addresses": [
+                "img_banner_full_content-live-tower-261125_lang-chs"
+              ],
+              "crc": 4082786591,
+              "dependencies": [],
+              "id": 47107,
+              "md5": "80f18593214905843a75ad39d9f4236b",
+              "name": "img_banner_full_content-live-tower-261125_lang-chs",
+              "object_name": "RXronc",
+              "size": 891184
+            },
+            {
+              "addresses": [
+                "img_banner_full_content-live-tower-261125_lang-cht"
+              ],
+              "crc": 2077132608,
+              "dependencies": [],
+              "id": 47108,
+              "md5": "c364637b5527081d41b480bd3837bd19",
+              "name": "img_banner_full_content-live-tower-261125_lang-cht",
+              "object_name": "eopDKo",
+              "size": 898637
+            },
+            {
+              "addresses": [
+                "img_banner_full_content-live-tower-261125_lang-eng"
+              ],
+              "crc": 3792560188,
+              "dependencies": [],
+              "id": 47109,
+              "md5": "dc1dfcbd73b841c82a0be2d240e5fee4",
+              "name": "img_banner_full_content-live-tower-261125_lang-eng",
+              "object_name": "69qip9",
+              "size": 899125
+            },
+            {
+              "addresses": [
+                "img_banner_full_content-live-tower-261125_lang-ind"
+              ],
+              "crc": 1529089831,
+              "dependencies": [],
+              "id": 47110,
+              "md5": "92116e5426e0ab836308c30975ba120a",
+              "name": "img_banner_full_content-live-tower-261125_lang-ind",
+              "object_name": "Z7zoaU",
+              "size": 892027
+            },
+            {
+              "addresses": [
+                "img_banner_full_content-live-tower-261125_lang-kor"
+              ],
+              "crc": 2333197581,
+              "dependencies": [],
+              "id": 47111,
+              "md5": "01f28b0cb2f5189c1307c5bc1ed364e6",
+              "name": "img_banner_full_content-live-tower-261125_lang-kor",
+              "object_name": "9wPV65",
+              "size": 875320
+            },
+            {
+              "addresses": [
+                "img_banner_full_gacha-pickup-261126-free"
+              ],
+              "crc": 2255275028,
+              "dependencies": [],
+              "id": 47112,
+              "md5": "932c48ba8496671d0b2b07685f0d4da2",
+              "name": "img_banner_full_gacha-pickup-261126-free",
+              "object_name": "uQFVoX",
+              "size": 1118824
+            },
+            {
+              "addresses": [
+                "img_banner_full_gacha-pickup-261126-free_lang-chs"
+              ],
+              "crc": 103112060,
+              "dependencies": [],
+              "id": 47113,
+              "md5": "ad1a948bda26e812f8bbcf27782c9c2b",
+              "name": "img_banner_full_gacha-pickup-261126-free_lang-chs",
+              "object_name": "lec1dh",
+              "size": 1116881
+            },
+            {
+              "addresses": [
+                "img_banner_full_gacha-pickup-261126-free_lang-cht"
+              ],
+              "crc": 4188535682,
+              "dependencies": [],
+              "id": 47114,
+              "md5": "ebd1eb66a58728026c8f5c4d5f55f9ca",
+              "name": "img_banner_full_gacha-pickup-261126-free_lang-cht",
+              "object_name": "S0uHnC",
+              "size": 1120910
+            },
+            {
+              "addresses": [
+                "img_banner_full_gacha-pickup-261126-free_lang-eng"
+              ],
+              "crc": 1113176574,
+              "dependencies": [],
+              "id": 47115,
+              "md5": "41977c2b13f0298c1ee7665110c3c24b",
+              "name": "img_banner_full_gacha-pickup-261126-free_lang-eng",
+              "object_name": "QjYiD7",
+              "size": 1114880
+            },
+            {
+              "addresses": [
+                "img_banner_full_gacha-pickup-261126-free_lang-ind"
+              ],
+              "crc": 3504613268,
+              "dependencies": [],
+              "id": 47116,
+              "md5": "96b9556ac2fbbd1356e371cd2b3e15ac",
+              "name": "img_banner_full_gacha-pickup-261126-free_lang-ind",
+              "object_name": "iG0tSE",
+              "size": 1098785
+            },
+            {
+              "addresses": [
+                "img_banner_full_gacha-pickup-261126-free_lang-kor"
+              ],
+              "crc": 4273020823,
+              "dependencies": [],
+              "id": 47117,
+              "md5": "e47d5240c6d5b6b79017be8e4319cef9",
+              "name": "img_banner_full_gacha-pickup-261126-free_lang-kor",
+              "object_name": "jhbxTk",
+              "size": 1109871
+            },
+            {
+              "addresses": [
+                "img_banner_full_marathon_event-normal-010"
+              ],
+              "crc": 1775211866,
+              "dependencies": [],
+              "id": 47118,
+              "md5": "a71b171aa74d60a9b4746dba4c7b972c",
+              "name": "img_banner_full_marathon_event-normal-010",
+              "object_name": "1VzDG3",
+              "size": 1183776
+            },
+            {
+              "addresses": [
+                "img_banner_full_marathon_event-normal-010_lang-chs"
+              ],
+              "crc": 3685697915,
+              "dependencies": [],
+              "id": 47119,
+              "md5": "cb646743ee433b432d13d9897a3b76a1",
+              "name": "img_banner_full_marathon_event-normal-010_lang-chs",
+              "object_name": "GUBGUh",
+              "size": 1183399
+            },
+            {
+              "addresses": [
+                "img_banner_full_marathon_event-normal-010_lang-cht"
+              ],
+              "crc": 255563121,
+              "dependencies": [],
+              "id": 47120,
+              "md5": "9e7f826ac73a379fe449668dd715d618",
+              "name": "img_banner_full_marathon_event-normal-010_lang-cht",
+              "object_name": "l5aefD",
+              "size": 1184132
+            },
+            {
+              "addresses": [
+                "img_banner_full_marathon_event-normal-010_lang-eng"
+              ],
+              "crc": 3916236273,
+              "dependencies": [],
+              "id": 47121,
+              "md5": "dd280e015c60a946798ea95ed34c6c8f",
+              "name": "img_banner_full_marathon_event-normal-010_lang-eng",
+              "object_name": "tHjTyW",
+              "size": 1183081
+            },
+            {
+              "addresses": [
+                "img_banner_full_marathon_event-normal-010_lang-ind"
+              ],
+              "crc": 3468949450,
+              "dependencies": [],
+              "id": 47122,
+              "md5": "ced93a63c8398edca0f28e1f358fc78b",
+              "name": "img_banner_full_marathon_event-normal-010_lang-ind",
+              "object_name": "6OIAwO",
+              "size": 1186668
+            },
+            {
+              "addresses": [
+                "img_banner_full_marathon_event-normal-010_lang-kor"
+              ],
+              "crc": 3915120907,
+              "dependencies": [],
+              "id": 47123,
+              "md5": "55133b3e5102462145534c30ae9a6689",
+              "name": "img_banner_full_marathon_event-normal-010_lang-kor",
+              "object_name": "3t449y",
+              "size": 1182091
+            },
+            {
+              "addresses": [
+                "img_banner_full_minigame-shogi-261125"
+              ],
+              "crc": 675196125,
+              "dependencies": [],
+              "id": 47124,
+              "md5": "796240d0c9dd40d6b84251c0c52ccbc6",
+              "name": "img_banner_full_minigame-shogi-261125",
+              "object_name": "GlTw15",
+              "size": 956965
+            },
+            {
+              "addresses": [
+                "img_banner_full_minigame-shogi-261125_lang-chs"
+              ],
+              "crc": 3005493425,
+              "dependencies": [],
+              "id": 47125,
+              "md5": "a2d7dcaef45334f2ef54f13fe0548e67",
+              "name": "img_banner_full_minigame-shogi-261125_lang-chs",
+              "object_name": "lgStMe",
+              "size": 941131
+            },
+            {
+              "addresses": [
+                "img_banner_full_minigame-shogi-261125_lang-cht"
+              ],
+              "crc": 1125374945,
+              "dependencies": [],
+              "id": 47126,
+              "md5": "29c53b91683d8fe0cc7628901fe600fd",
+              "name": "img_banner_full_minigame-shogi-261125_lang-cht",
+              "object_name": "7MH3IV",
+              "size": 945873
+            },
+            {
+              "addresses": [
+                "img_banner_full_minigame-shogi-261125_lang-eng"
+              ],
+              "crc": 4123602305,
+              "dependencies": [],
+              "id": 47127,
+              "md5": "dee19395e94d113ed4db61decda98544",
+              "name": "img_banner_full_minigame-shogi-261125_lang-eng",
+              "object_name": "hyGiac",
+              "size": 958500
+            },
+            {
+              "addresses": [
+                "img_banner_full_minigame-shogi-261125_lang-ind"
+              ],
+              "crc": 3471466124,
+              "dependencies": [],
+              "id": 47128,
+              "md5": "c8fcea8ee0734313fc4f46f7a97d399b",
+              "name": "img_banner_full_minigame-shogi-261125_lang-ind",
+              "object_name": "t8OdRR",
+              "size": 958445
+            },
+            {
+              "addresses": [
+                "img_banner_full_minigame-shogi-261125_lang-kor"
+              ],
+              "crc": 1235919187,
+              "dependencies": [],
+              "id": 47129,
+              "md5": "9f4eb2ae122b77b6fb2881f448d155aa",
+              "name": "img_banner_full_minigame-shogi-261125_lang-kor",
+              "object_name": "7Ys6LG",
+              "size": 944421
+            }
+          ],
+          "removed": []
+        },
+        "path": "catalog/catalog_en_rev117.redacted.json",
+        "previousPath": "catalog/catalog_en_rev116.redacted.json"
+      }
+    ],
+    "changed": [],
+    "removed": []
+  },
+  "previousVersion": "rev116",
+  "schemaVersion": 2
+}

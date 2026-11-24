@@ -17,6 +17,10 @@
       "bytes": 13297334,
       "sha256": "4d349664a61278b7b904719ffb9c362bd82c0d6454153b828a5352403a7129f2"
     },
+    "catalog/catalog_en_rev117.redacted.json": {
+      "bytes": 13304603,
+      "sha256": "753a654b19ea4dc52f18b3ff3688b715de0c438fbe05af24b7da99297bc889b3"
+    },
     "catalog/catalog_en_rev69.redacted.json": {
       "bytes": 11027436,
       "sha256": "d0bfa7a33993912f9555484b5391ccb9a7bdf93eec36b336078fa75726302c71"
